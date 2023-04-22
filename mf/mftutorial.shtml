@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Miss Fortune Tutorial</title>
+  <link rel="stylesheet" href="../mystyle.css">
+</head>
+
+
+
+<body>
+	<!--#include virtual="../header.html" -->
+
+	<a href="../index.html">Home</a></p>
+	<a href="../mf/mf.html">MF Home</a></p>
+
+	<h1>Introduction</h1>
+	<p>I am aCuria, a Miss Fortune Main. I first played Miss Fortune in Season 2, and mained her more seriously after her 2016 rework. Miss Fortune plays and itemizes differently from other ADCs, and I hope this guide will help you enjoy Miss Fortune as much as I do. This guide is intended for players who want learn how to play Miss Fortune better from a mechanics and decision making perspective. For item and rune builds, you can find my builds here: <a href="builds.html">MF Builds</a>.</p>
+
+	<h1>Why Play Miss Fortune?</h1>
+	<p>
+		<h2>Pros: </h2>
+		<ul>
+			<li>One of the easiest ADC to CS with, because the Love Tap Passive means 1.25x - 1.5x damage to minions!</li>
+			<li>Teamfighting Monster, Bullet Time can turn a loss into a win</li>
+			<li>Multiple playstyles due to huge build and rune diversity</li>
+			<li>Late game one shots any squishy in 0.5s with aa q aa</li>
+			<li>Destroys towers very quickly</li>
+			<li>High +95 movement speed due to strut</li>
+			<li>Can build more AD items then other ADCs, while still hitting the 2.5 attack speed cap due to the free attack speed on strut</li>
+			<li>Higher potential lifesteal than other ADCs because her Q+W synergizes with lifesteal</li>
+		</ul>
+		
+		<h2>Cons: </h2>
+		<ul>
+			<li>Short 550 auto attack range</li>
+			<li>Base kit very weak into tanks. She must rely on accurate runes and item builds to circumvent this weakness</li>
+			<li>Mana hungry. She cannot spam abilities without some mana regeneration in her build</li>
+			<li>No escapes (dash/stun/root)</li>
+			<li>Main power (Bullet Time) can be circumvented by certain abilities (wind wall)</li>
+			<li>Weak early game 1v1 because if she does not have the items to kill in under 4s, her W times out.</li>
+		</ul>
+	</p>
+	
+	
+	
+	<h1>How to play Miss Fortune</h1>
+	<h2>Combos and Mechanics</h2>
+	<h3>AA>Q>AA & Q2</h3>
+	
+	<iframe
+	src="https://www.youtube.com/embed/gqpkLmtHMo4">
+	</iframe>
+	
+	
+	
+	<p>a</p>
+	
+	<h2>2v2 Teamfighting</h2>
+	<p>a</p>
+	
+	<h1>Item Build Philosophy</h1>
+	<p>a</p>
+	
+	<h1>Summoner Spells</h1>
+	<p>a</p>
+	
+	<h1>Runes</h1>
+	<p>a</p>
+	
+	<h1>Getting S+</h1>
+	<p>a</p>
+	
+<p>My first paragraph.</p>
+
+	<iframe width="420" height="315"
+	src="https://www.youtube.com/embed/tgbNymZ7vqY">
+	</iframe>
+
+	<iframe width="420" height="315"
+	src="https://www.youtube.com/embed/tgbNymZ7vqY">
+	</iframe>
+
+  <p>Current as of Patch 13.7</a></p>
+  <p><a href="mfbloodline130701.html">MF Bloodline Builds p13.7</a></p>
+  <p><a href="mfgreviouswounds.html">Mortal Reminder vs Lord Domnik's Regards</a></p>
+  <p>------------------------------------------------------</a></p>
+  <p>Created using older simulation engine build, should still be current</a></p>
+  <p><a href="mfbootless130602.html">MF Bootless Builds p13.6 v2</a></p>
+  <p><a href="mfcheatsheet.html">MF Cheat Sheet 13.6</a></p>
+  
+  <!-- <p>------------------------------------------------------</a></p> -->
+  <!-- <p>Outdated</a></p> -->
+</body>
+</html>
+
