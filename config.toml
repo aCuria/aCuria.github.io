@@ -1,0 +1,4 @@
+baseURL = 'https://acuria.github.io/mf/'
+languageCode = 'en-us'
+title = 'aCurias Guides'
+theme = "hugo-book"
