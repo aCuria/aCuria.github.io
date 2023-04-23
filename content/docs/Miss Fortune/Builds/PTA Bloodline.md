@@ -1,7 +1,7 @@
 ---
 weight: 2
 bookToc: false
-title: "PTA + Bloodline Build"
+title: "PTA + Bloodline"
 ---
 # PTA Bloodline
 

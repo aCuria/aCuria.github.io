@@ -1,2 +1,3 @@
 /*.bak
 *.bak
+.hugo_build.lock
