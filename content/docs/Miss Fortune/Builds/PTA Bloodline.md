@@ -5,5 +5,5 @@ title: "PTA + Bloodline"
 ---
 # PTA Bloodline
 
-![PTA Bloodline](/mf/builds/mfbloodline130701.drawio.svg)
+![PTA Bloodline](/builds/mfbloodline130701.drawio.svg)
 
