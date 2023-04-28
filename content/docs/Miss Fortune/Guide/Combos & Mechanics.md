@@ -37,7 +37,7 @@ Miss Fortune's Extended trade combo, it is weak early game, but gets strong afte
 - E can be delayed until after any existing Crowd Control spells end.
 
 ## E > R
-{{< youtube wTB1Q3vC9Js >}}
+{{< youtube KW1TPRpXI4g >}}
 
 E slows enemies, so you can land more ticks of R
 - Make sure you have enough (180) Mana to cast E + R! Otherwise just cast R.
