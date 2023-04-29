@@ -10,6 +10,9 @@ This section contains the builds I currently think are the best.
 
 Unlike most other guides, I attempt to derive the "best" build entirely algorithmically using event based simulation. 
 
+{{< section >}}
+
+
 ## How it works
 The algorithm works by looping over every combination of items, with the time complexity being O(N6) for 6 items, O(N5) for 5 items, and so on. A rejection function is used to remove invalid combinations such as multiple mythics. Additional rules, such as requiring a grevious wounds item, can also be applied. To optimize the algorithm, AP items are removed for MF computation. Enemy build orders and runes are manually entered based on data from lolalytics or personal games.
 

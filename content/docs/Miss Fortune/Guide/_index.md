@@ -6,7 +6,7 @@ title: "MF Guide"
 ---
 
 # Guide Introduction
-I first played Miss Fortune in Season 2, and mained her more seriously after her 2016 rework. Miss Fortune plays and itemizes differently from other ADCs, and I hope this guide will help you enjoy Miss Fortune as much as I do. The guide is intended for new players who want learn how to play Miss Fortune better mechanicslly.
+I first played Miss Fortune in Season 2, and mained her more seriously after her 2016 rework. Miss Fortune plays and itemizes differently from other ADCs, and I hope this guide will help you enjoy Miss Fortune as much as I do. The guide is intended for new players who want learn how to play Miss Fortune better mechanically.
 
 # Why Play Miss Fortune?
 
@@ -32,3 +32,5 @@ I first played Miss Fortune in Season 2, and mained her more seriously after her
 - A large part of her power buidget (Bullet Time) can be circumvented by basic abilities (wind wall)
 - Weak early game dueling power because if she does not have the items to kill in under 4s, her W times out.
 {{< /columns >}}
+
+{{< section >}}

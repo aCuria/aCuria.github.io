@@ -4,22 +4,9 @@ bookToc: false
 title: "Multipliers"
 ---
 
-# Damage Multipliers
+# Multipliers
 
-## Lethality
-
-The armor value here is the remaining armor after % armor pen.
-
-| Armor | 18   | 36   | 40   | 54   | 79   |
-|-------|------|------|------|------|------|
-| 74    | 1.12 | 1.26 | 1.3  | 1.45 | 1.74 |
-| 125   | 1.09 | 1.19 | 1.22 | 1.32 | 1.54 |
-| 150   | 1.08 | 1.17 | 1.19 | 1.28 | 1.46 |
-| 200   | 1.06 | 1.14 | 1.15 | 1.22 | 1.36 |
-| 250   | 1.05 | 1.11 | 1.13 | 1.18 | 1.29 |
-| 300   | 1.05 | 1.1  | 1.11 | 1.16 | 1.25 |
-| 350   | 1.04 | 1.09 | 1.1  | 1.14 | 1.21 |
-| 400   | 1.04 | 1.08 | 1.09 | 1.12 | 1.19 |
+This is a collection of how much Miss Fortune values the different types of damage multiplier effects in the game.
 
 ## % Armor Pen 
 
@@ -32,6 +19,21 @@ The armor value here is the remaining armor after % armor pen.
 | 300         | 1.29 | 1.62       |
 | 350         | 1.3  | 1.66       |
 | 400         | 1.32 | 1.69       |
+
+## Lethality
+
+The armor value here is the enemy's remaining armor after any % armor pen is applied.
+
+| Armor | 18   | 36   | 40   | 54   | 79   |
+|-------|------|------|------|------|------|
+| 74    | 1.12 | 1.26 | 1.3  | 1.45 | 1.74 |
+| 125   | 1.09 | 1.19 | 1.22 | 1.32 | 1.54 |
+| 150   | 1.08 | 1.17 | 1.19 | 1.28 | 1.46 |
+| 200   | 1.06 | 1.14 | 1.15 | 1.22 | 1.36 |
+| 250   | 1.05 | 1.11 | 1.13 | 1.18 | 1.29 |
+| 300   | 1.05 | 1.1  | 1.11 | 1.16 | 1.25 |
+| 350   | 1.04 | 1.09 | 1.1  | 1.14 | 1.21 |
+| 400   | 1.04 | 1.08 | 1.09 | 1.12 | 1.19 |
 
 
 ## Navori + Bullet Time Multiplier
