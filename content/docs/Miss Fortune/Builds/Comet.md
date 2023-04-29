@@ -137,11 +137,11 @@ Riven is the kind of champion that needs to be deleted as quickly as possible wh
 6 Item | tk | ult | aqa | AdHp | ApHp | AdB | ApB 
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3142.png)![](/item/3036.png)![](/item/3031.png)![](/item/3153.png)![](/item/3091.png)|**1.66**|4544|2281|4934|5455|4328|4785|19200
-![](/item/6675.png)![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/6696.png)|1.94|**6562**|2125|4605|4031|4328|3788|18800
+![](/item/6672.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6675.png)![](/item/6696.png)|1.94|**6562**|2125|4605|4031|4328|3788|18800
 
 7 Item | tk | ult | aqa | AdHp | ApHp | AdB | ApB 
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6675.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)|1.91|**8440**|2234|4609|4034|4328|3788|18500
+![](/item/6672.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6675.png)![](/item/6696.png)![](/item/6693.png)|1.91|**8440**|2234|4609|4034|4328|3788|18500
 
 
 
@@ -186,8 +186,8 @@ I am trying to maximize (ApHp / tk), which is the Effective HP into AP damage pe
 
 Build (build order is situational) | tk | ult | aqa | AdHp | ApHp | AdB | ApB
 -|-|-|-|-|-|-|-
-![](/item/3091.png)![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3142.png)![](/item/3156.png)|2.86|5069|1760|7021|8036|5116|5976|18700
-![](/item/3072.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3156.png)![](/item/6693.png)|2.97|5864|1985|9091|10274|5938|6865|18600
+![](/item/6672.png)![](/item/3142.png)![](/item/3036.png)![](/item/3153.png)![](/item/3156.png)![](/item/3091.png)|2.86|5069|1760|7021|8036|5116|5976|18700
+![](/item/3036.png)![](/item/3153.png)![](/item/3156.png)![](/item/3091.png)![](/item/6693.png)![](/item/3072.png)|2.97|5864|1985|9091|**10274**|5938|6865|18600
 
 
 
