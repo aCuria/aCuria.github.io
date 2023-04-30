@@ -5,15 +5,35 @@ title: "PTA + Bloodline"
 ---
 # PTA Bloodline
 
-## Sample Gameplay
-- https://youtu.be/cNdXZ2Wsoi4 (Maw Path)
-- https://youtu.be/0SPfl7_N3Ls (Collector Path)
-- https://youtu.be/mT_FdifvPPk (Maw Path)
+## Main advantage 
+- Bloodline gives us what I call "Build acceleration". Into normal lanes, we can sustain well with bloodline + dorans, which allows us to quickly hit item powerspikes. With Alacrity, it is very common to have to sink 900g into Vamp Scepter.
+- Late game, Bloodline is better into burst damage because of that extra 100 health.
+- Bloodline tends to score well on the AdHp/Tk 1v1 metric 
 
-I am in the middle of re-writing the below in markdown
+## Sample Gameplay
+- https://youtu.be/cNdXZ2Wsoi4 (with Maw)
+- https://youtu.be/0SPfl7_N3Ls (with Collector)
+- https://youtu.be/mT_FdifvPPk (with Maw)
+
+## Supports
+The support makes or breaks botlane. This build **must** be played with a suitable supports.
+
+### Suitable Supports:
+- Hook Supports: Blitzcrank, Thresh, Nautilus, Pyke
+	- MF has trouble dashing into an engage far away. Hook supports solve this problem by bringing the fight to us. 
+- Poke + Engage Supports: Ashe, Lux
+	- long stuns / roots that go through minions
+- AOE Engage Supports: Ammumu, Neeko, Galio, Rell
+	- Survive lane and get 5 man ults
+
+### Unsuitable Supports: use comet or different adc.
+- No on demand engage:
+	- Soraka, Brand, Veigar,
+- Engages too far away
+	- Yuumi, Senna,  
+
 
 ## Runes
-
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
 ![](/Styles/Precision/Overheal.png)
 ![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
@@ -33,11 +53,16 @@ I computed everything in the build assuming these runes.
 	- adaptive force is better for poke (Q2) and ult damage.
 
 ## How to use the results below
-- If Yoummus or some other out of combat movement speed item is not bought as a second item, then buy boots1 at 2nd item. In playtesting I have been buying Yoummu's second when I am ahead (better chase), but when behind it may be a bad idea
+- If Yoummus or some other out of combat movement speed item is not bought as a second item, then buy at least boots1. In playtesting I have been buying Yoummu's second when I am ahead (better chase power and ult damage), but when behind it may be a bad idea
 - The Berzerker's Greaves upgrade is primarily for more movement speed. The damage can be good if we want the movement speed anyway, but if we dont want the movement speed then the damage is usually not good vs buying more AD.
 - You can experiment with changing the build order
 - You should choose the build based on your win condition (kill x champion, survive burst, ...) 
 - In general I figure out the strongest 6 item build, then work backwards to find the best build path
+
+## Hybrid Builds
+I find myself buying something like this very often, when there are hybrid threats. (BOTRK + LDR) is good into any tank matchup, Maw counters burst mages and BT is good into dps champions. 
+
+![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3156.png)![](/item/3142.png)![](/item/3072.png)
 
 
 ## Ult Damage
@@ -79,7 +104,7 @@ Build | tk | ult |ApHp | ApHp/Tk | ApB
 I use Vex's stats to represent all the Burst Mages. (Not Kayle, Cass who are sustained damage mages)
 
 - BOTRK build included, because into a tank threat we really want BOTRK 
-- Prowlers at 7th item seems like an upgrade in defence against burst, but we probably dont need it.
+- Prowlers at 7th item seems like an upgrade in defence against burst, but its more of a for fun thing. we probably dont need it.
 
 
 Build | tk | ult |ApHp | ApHp/Tk | ApB
