@@ -65,6 +65,15 @@ I use Draven's stats to represent all the ADCs who build shieldbow
 -|-|-|-|-|-
 ![](/item/6672.png)![](/item/3153.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)|0.91|5420|6496|7161|5844
 
+## Aurelion Sol 
+
+DPS Mage 
+
+Build | tk | ult |ApHp | ApHp/Tk | ApB
+-|-|-|-|-|-
+![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3156.png)![](/item/6676.png)![](/item/3142.png)|0.5|7148|6400|12837|5764
+
+
 
 ## Vex
 I use Vex's stats to represent all the Burst Mages. (Not Kayle, Cass who are sustained damage mages)
