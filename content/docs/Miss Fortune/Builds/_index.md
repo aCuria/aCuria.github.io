@@ -21,7 +21,10 @@ The computation of damage is the complicated part of the algorithm and is done u
 After computing the damage and other statistics for every item combination, the results for damage, time to kill, and effective HP are stored. The challenge at this point is to make sense of the data since there is so much of it. One approach is to use multiple 2-variable Pareto curves to cull the data down, but there may be more efficient methods available. 
 
 ## Engine Updates
-
+- 13.8: Generating item printout is now threaded on a per-sort type basis instead of per-result basis
+- 13.8: N item build now attempts references N-1 item build for item order search
+- 13.8: Updated HP shard to 15-140 HP from 15-90... cant believe I missed this one, seems OP
+- 13.8: Started tracking the (effective_HP / tk) metric, which I think could give a better indication as to what build to go for against dps champions. That is, the faster that we can kill, the less defence we need to block incomming damage. This seems to favor bloodthirster late game.
 - 13.7: For builds which costing less than the most expensive build, I previously added 1 ad per 35g under 6 items. Now, I instead add BFS / Pickaxe / LS item components, stopping when the build hits 6 components. This has the effect of giving value to slot efficency.
 - 13.7: I no longer consider Collector's execute damage when computing ult damage, as this somewhat skewed results favoring collector.
 - 13.7: If a build does not have more lifesteal than dorans blade, the Vamp Scepter component is forced. This means Bloodline allows for Vamp Scepter to be skipped, which frees one slot
