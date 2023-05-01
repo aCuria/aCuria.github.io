@@ -81,6 +81,12 @@ I use Jinx's stats to represent all the ADCs who are not building shieldbow
 -|-|-|-|-|-
 ![](/item/6672.png)![](/item/3031.png)![](/item/6676.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|0.52|6801|6325|12145|5648
 
+## Jax
+just kill as fast as possible
+Build | tk | ult | AdHp | AdHp/Tk | AdB
+-|-|-|-|-|-
+![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)|0.89|5825|5274|5944|5082
+
 ## Draven
 
 I use Draven's stats to represent all the ADCs who build shieldbow
