@@ -156,6 +156,17 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 ![](/item/6671.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/3095.png)![](/item/6696.png)|0.16|7092|0|5241|32636|4970
 ![](/item/6671.png)![](/item/3033.png)![](/item/6676.png)![](/item/3095.png)![](/item/3814.png)![](/item/6696.png)|0.16|6840|0|5579|34742|5521
 
+### Builds that enable aa > q = Kill breakpoint 
+
+Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
+-|-|-|-|-|-|-
+![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3072.png)![](/item/6696.png)|0.16|7092|0|5241|32636|4970
+![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/6695.png)![](/item/6696.png)|0.16|7040|0|5029|31320|4970
+![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3179.png)![](/item/6696.png)|0.16|6840|0|5028|31310|4970
+![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3814.png)![](/item/6696.png)|0.16|6840|0|5579|34742|5521
+![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3072.png)![](/item/6695.png)|0.16|6753|0|5229|32565|4970
+![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3004.png)![](/item/6696.png)|0.16|6709|0|5027|31304|4970
+
 
 ## Zac (Anti Tank) 
 
@@ -204,6 +215,21 @@ I forced the algo to use GA, no idea why nashors sometimes pops up, you have to 
 ## Riven 
 
 Fastest Kill Time Build 
+
+Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
+-|-|-|-|-|-|-
+![](/item/6676.png)![](/item/3031.png)![](/item/3036.png)![](/item/3046.png)![](/item/3095.png)![](/item/6695.png)|2.08|5319|2475|5154|2476|4970
+![](/item/6676.png)![](/item/3031.png)![](/item/3036.png)![](/item/3046.png)![](/item/3095.png)![](/item/6696.png)|2.08|5513|2375|5160|2479|4970
+![](/item/6676.png)![](/item/3046.png)![](/item/3036.png)![](/item/3095.png)![](/item/6695.png)![](/item/6675.png)|2.08|5596|2252|5145|2471|4970
+![](/item/6676.png)![](/item/3046.png)![](/item/3036.png)![](/item/3072.png)![](/item/3095.png)![](/item/6692.png)|2.08|5758|2366|6011|2887|5211
+![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3046.png)![](/item/3072.png)|2.08|6420|2399|5766|2770|4970
+![](/item/6676.png)![](/item/3095.png)![](/item/3036.png)![](/item/3179.png)![](/item/6696.png)![](/item/6692.png)|2.11|6467|2450|5397|2563|5220
+![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3004.png)![](/item/3508.png)|2.11|6482|2438|5135|2439|4970
+![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/6696.png)![](/item/3004.png)![](/item/3091.png)|2.17|6708|2301|5155|2372|4970
+![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3072.png)![](/item/3087.png)|2.17|6726|2369|5803|2671|4970
+![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/6696.png)![](/item/3087.png)|2.17|6888|2324|5150|2370|4970
+![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/6696.png)![](/item/3072.png)|2.24|7564|2637|5803|2592|4970
+![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/6695.png)|2.25|8071|2600|5812|2584|4970
 
 ## Sylas
 
