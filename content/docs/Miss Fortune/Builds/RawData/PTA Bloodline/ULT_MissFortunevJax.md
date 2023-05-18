@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Jax
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Jax
 
 **Target Health:1665.0 Armor:85.4 Mr:46.349999999999994**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Jax
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Jax
 
 **Target Health:2365.0 Armor:102.2 Mr:54.55**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Jax
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Jax
 
 **Target Health:2565.0 Armor:110.6 Mr:58.65**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Jax
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Jax
 
 **Target Health:3165.0 Armor:119.0 Mr:62.75**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Jax
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Jax
 
 **Target Health:3265.0 Armor:168.2 Mr:64.8**
 
@@ -321,7 +321,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|1.86|7512|2270|5866|3153|5174|16600
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6693.png)![](/item/6696.png)![](/item/1038.png)|1.86|7576|2284|5327|2864|5174|16400
 
 
 
@@ -382,7 +382,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Jax
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Jax
 
 **Target Health:3365.0 Armor:172.4 Mr:66.85**
 
@@ -397,7 +397,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/6695.png)|1.25|9117|2673|6143|4897|5494
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6693.png)![](/item/6696.png)![](/item/3072.png)|1.25|9254|2794|6176|4923|5494
 
 
 

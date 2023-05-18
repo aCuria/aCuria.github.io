@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Draven
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Draven
 
 **Target Health:1403.0 Armor:60.5 Mr:39.1**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Draven
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Draven
 
 **Target Health:1819.0 Armor:78.5 Mr:44.3**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Draven
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Draven
 
 **Target Health:2027.0 Armor:87.5 Mr:46.900000000000006**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Draven
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Draven
 
 **Target Health:2235.0 Armor:96.5 Mr:49.5**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Draven
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Draven
 
 **Target Health:2339.0 Armor:141.0 Mr:50.8**
 
@@ -321,6 +321,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6693.png)![](/item/1038.png)|1.19|7383|2694|5834|4918|5300|16600
 ![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|1.19|7383|2694|5834|4918|5300|16600
 
 
@@ -382,7 +383,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Draven
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Draven
 
 **Target Health:2443.0 Armor:145.5 Mr:52.1**
 
@@ -397,6 +398,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6693.png)![](/item/3074.png)|1.17|8533|3048|6619|5640|5645
 ![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/3074.png)|1.17|8533|3048|6619|5640|5645
 
 

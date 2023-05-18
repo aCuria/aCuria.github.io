@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Mordekaiser
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Mordekaiser
 
 **Target Health:1623.0 Armor:86.4 Mr:46.349999999999994**
 
@@ -17,9 +17,7 @@ bookToc: false
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|6.43|854|683|2429|377|2319|4050
-![](/item/3115.png)![](/item/1001.png)![](/item/1055.png)|7.3|770|494|2330|319|2319|3950
-![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)|7.76|1200|569|2336|301|2319|3900
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|6.27|954|584|2332|372|2319|4100
 ![](/item/3006.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)![](/item/1036.png)|8.41|1074|529|2337|277|2319|4075
 
 
@@ -81,7 +79,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Mordekaiser
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Mordekaiser
 
 **Target Health:2439.0 Armor:103.2 Mr:54.55**
 
@@ -96,12 +94,11 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|3.7|2062|1198|3270|882|3049|7550
-![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)|3.72|1423|1101|4162|1119|3924|7250
-![](/item/3153.png)![](/item/6671.png)![](/item/1001.png)![](/item/1055.png)|4.07|1592|1269|3249|799|3049|7450
-![](/item/3153.png)![](/item/3031.png)![](/item/1001.png)![](/item/1055.png)|4.35|1765|1103|3276|752|3049|7450
-![](/item/3115.png)![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|4.64|1950|859|3122|672|3049|7450
-![](/item/3074.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)|5.01|1746|868|4203|839|3924|7350
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.58|1514|1229|3081|1192|3049|7300
+![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)|3.19|1441|1411|3248|1017|3049|7250
+![](/item/6672.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.31|1555|1149|3236|977|3049|7400
+![](/item/6672.png)![](/item/3142.png)![](/item/1055.png)![](/item/1037.png)|3.63|2188|1023|3117|858|3049|7425
+![](/item/6672.png)![](/item/6630.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.28|1562|815|3721|705|3467|7300
 
 
 
@@ -162,7 +159,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Mordekaiser
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Mordekaiser
 
 **Target Health:2997.0 Armor:111.6 Mr:58.65**
 
@@ -177,12 +174,10 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/6694.png)![](/item/1055.png)![](/item/1037.png)|2.39|3105|1695|3751|1569|3490|10925
-![](/item/3142.png)![](/item/3004.png)![](/item/3036.png)![](/item/1055.png)![](/item/1038.png)|2.54|3965|1531|3586|1412|3490|10750
-![](/item/3153.png)![](/item/3142.png)![](/item/3091.png)![](/item/1055.png)![](/item/1037.png)|2.64|2551|1593|4819|1823|4510|10925
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/1055.png)![](/item/1037.png)|2.66|3352|1821|3774|1416|3490|10725
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/1055.png)![](/item/1037.png)|2.79|3352|1454|4634|1658|4510|10625
-![](/item/3004.png)![](/item/3036.png)![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.34|3285|1320|3597|1078|3490|10925
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|1.82|1851|2146|3662|2010|3490|10600
+![](/item/6672.png)![](/item/3124.png)![](/item/3115.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.11|1753|1614|3525|1674|3490|10500
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.15|1851|1747|4562|2120|4510|10500
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.42|2371|1778|3542|1465|3490|10825
 
 
 
@@ -243,7 +238,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Mordekaiser
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Mordekaiser
 
 **Target Health:3205.0 Armor:165.0 Mr:62.75**
 
@@ -258,13 +253,15 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/1038.png)![](/item/1036.png)|1.71|5000|2117|3880|2264|3631|14050
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/6675.png)![](/item/1001.png)![](/item/1037.png)|1.98|3307|1742|5021|2541|4712|14075
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/1038.png)![](/item/1036.png)|2.14|4433|2089|3894|1817|3631|14050
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/6696.png)![](/item/1038.png)![](/item/1036.png)|2.22|4815|1689|4841|2179|4712|13950
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/3074.png)![](/item/1037.png)![](/item/1036.png)|2.34|4429|1910|4155|1776|3631|14025
-![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/6696.png)![](/item/1038.png)![](/item/1036.png)|2.34|5188|1830|3744|1598|3631|13750
-![](/item/3142.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)![](/item/1036.png)|2.48|5563|1743|4165|1679|3631|13950
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3115.png)![](/item/1001.png)![](/item/1037.png)|1.26|2175|2417|3772|2996|3631|13875
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1037.png)|1.27|2269|2535|4899|3871|4712|13875
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1037.png)|1.38|2849|2705|3812|2771|3631|13675
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3006.png)![](/item/1038.png)![](/item/1038.png)|2.06|2306|1890|4768|2315|4712|13100
+![](/item/6672.png)![](/item/3124.png)![](/item/3115.png)![](/item/6693.png)![](/item/1001.png)![](/item/1038.png)|2.09|2606|1894|3677|1761|3631|14000
+![](/item/6672.png)![](/item/3124.png)![](/item/3115.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|2.09|2606|1894|3677|1761|3631|14000
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6035.png)![](/item/1001.png)![](/item/1038.png)|2.12|2339|1910|6506|3070|6435|14000
+![](/item/6672.png)![](/item/3124.png)![](/item/3508.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|2.21|2824|1867|3687|1670|3631|13700
+![](/item/6672.png)![](/item/3124.png)![](/item/3004.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|2.28|3031|1860|3691|1617|3631|13700
 
 
 
@@ -325,7 +322,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Mordekaiser
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Mordekaiser
 
 **Target Health:3959.0 Armor:169.2 Mr:64.8**
 
@@ -340,15 +337,17 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/1038.png)|2.31|7114|2136|4159|1797|3682|16700
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/6696.png)![](/item/3153.png)![](/item/1038.png)|2.43|5757|1953|5386|2217|4809|16900
-![](/item/3153.png)![](/item/3142.png)![](/item/3091.png)![](/item/3046.png)![](/item/3036.png)![](/item/1038.png)|2.62|4865|1785|5398|2057|4809|16700
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/6696.png)![](/item/1038.png)|2.63|6182|2096|4159|1579|3682|16700
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/6696.png)![](/item/3095.png)![](/item/1038.png)|2.99|6182|1740|5030|1679|4809|16600
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/3046.png)![](/item/3095.png)![](/item/1038.png)|3.03|5233|1585|5032|1661|4809|16400
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/3085.png)![](/item/3095.png)![](/item/1038.png)|3.09|4983|1579|5022|1627|4809|16400
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/6696.png)![](/item/3072.png)![](/item/1038.png)|3.14|6658|1633|5859|1863|4809|16800
-![](/item/3142.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/1038.png)|3.63|7116|1621|4587|1262|3682|16500
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6676.png)![](/item/1001.png)|1.36|3870|2677|3947|2894|3682|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/1001.png)|1.66|3323|2666|5147|3096|4809|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3115.png)![](/item/3036.png)![](/item/1001.png)|2.06|3190|2552|3956|1921|3682|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3087.png)![](/item/1001.png)|2.08|3372|2604|3968|1906|3682|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3004.png)![](/item/1001.png)|2.19|3745|2547|3988|1823|3682|15700
+![](/item/6672.png)![](/item/3142.png)![](/item/3072.png)![](/item/3036.png)![](/item/3115.png)![](/item/1038.png)|2.77|5752|1591|4387|1582|3682|16800
+![](/item/6672.png)![](/item/3142.png)![](/item/3046.png)![](/item/3036.png)![](/item/3072.png)![](/item/1038.png)|2.82|5872|1598|4470|1586|3682|16400
+![](/item/6672.png)![](/item/3142.png)![](/item/3091.png)![](/item/3036.png)![](/item/3508.png)![](/item/1038.png)|2.86|5482|1622|5016|1755|4809|16500
+![](/item/6672.png)![](/item/3142.png)![](/item/3094.png)![](/item/3036.png)![](/item/3095.png)![](/item/1038.png)|2.95|5549|1792|3851|1306|3682|16400
+![](/item/6672.png)![](/item/3142.png)![](/item/3095.png)![](/item/3036.png)![](/item/3139.png)![](/item/1038.png)|3.09|5678|1743|5328|1722|5090|16400
+![](/item/6672.png)![](/item/3142.png)![](/item/3004.png)![](/item/3036.png)![](/item/3074.png)![](/item/1038.png)|3.25|6155|1665|4170|1281|3682|16700
 
 
 
@@ -409,7 +408,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Mordekaiser
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Mordekaiser
 
 **Target Health:4063.0 Armor:173.4 Mr:66.85**
 
@@ -424,21 +423,14 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3087.png)![](/item/3091.png)|1.8|6667|2276|5573|3093|5044
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3087.png)![](/item/3095.png)|1.94|7123|2264|4316|2225|3871
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3085.png)|1.94|7212|2254|4313|2223|3871
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3046.png)|1.95|7537|2263|4327|2215|3871
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3094.png)![](/item/3095.png)|2.0|6905|2378|4300|2149|3871
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/6696.png)![](/item/3153.png)![](/item/3004.png)|2.01|6691|2181|5610|2786|5044
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/6696.png)![](/item/3153.png)![](/item/3115.png)|2.09|5951|2031|5625|2695|5044
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/6696.png)![](/item/3004.png)|2.1|7150|2356|4336|2064|3871
-![](/item/3142.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3004.png)![](/item/3153.png)|2.21|7693|2262|5041|2280|3871
-![](/item/3142.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3153.png)![](/item/6695.png)|2.29|8027|2293|5095|2225|3871
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/3046.png)![](/item/3072.png)![](/item/3508.png)|2.39|6475|2021|5132|2144|3871
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/6696.png)![](/item/3072.png)![](/item/3087.png)|2.41|7440|1922|6129|2546|5044
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/3072.png)![](/item/3095.png)![](/item/3508.png)|2.48|6924|1994|6104|2458|5044
-![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/6696.png)![](/item/3072.png)![](/item/3087.png)|2.61|7924|1918|4796|1839|3871
-![](/item/3142.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3087.png)|2.74|7924|1918|4798|1748|3871
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3094.png)|1.26|3896|3048|5369|4264|5044
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6676.png)![](/item/3094.png)|1.3|4532|3068|4152|3198|3871
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3115.png)![](/item/3036.png)![](/item/3085.png)|1.66|3460|2832|4134|2491|3871
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3085.png)![](/item/3508.png)|1.66|3745|2819|4152|2502|3871
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3004.png)![](/item/3046.png)|1.67|4234|2830|4169|2496|3871
+![](/item/6672.png)![](/item/3153.png)![](/item/3095.png)![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)|1.91|7051|2520|4304|2253|3871
+![](/item/6672.png)![](/item/3153.png)![](/item/3072.png)![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)|2.0|7633|2467|4966|2482|3871
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3072.png)![](/item/3036.png)![](/item/3085.png)|2.06|4147|2388|5481|2661|5044
 
 
 

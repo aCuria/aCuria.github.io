@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Aatrox
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Aatrox
 
 **Target Health:1848.0 Armor:89.15 Mr:46.349999999999994**
 
@@ -17,7 +17,8 @@ bookToc: false
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|6.14|1063|795|2743|446|2624|4925
+![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.99|1105|652|2704|451|2624|5000
+![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|8.28|1243|602|3895|470|3787|4975
 
 
 
@@ -78,7 +79,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Aatrox
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Aatrox
 
 **Target Health:2704.0 Armor:156.95 Mr:54.55**
 
@@ -93,7 +94,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|4.02|1847|1175|3999|994|3813|8350
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.14|1348|1194|3881|1235|3813|8200
 
 
 
@@ -154,7 +155,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Aatrox
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Aatrox
 
 **Target Health:2932.0 Armor:165.85 Mr:58.65**
 
@@ -169,9 +170,8 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.65|2895|1293|3991|1507|3865|11525
-![](/item/3153.png)![](/item/3036.png)![](/item/6692.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.76|2553|1458|4229|1529|4052|11450
-![](/item/3153.png)![](/item/3026.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.28|1661|1206|5821|1773|4551|11550
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.73|1717|1995|3970|2292|3865|11550
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.29|1777|1558|5461|2384|5402|11250
 
 
 
@@ -232,7 +232,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Aatrox
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Aatrox
 
 **Target Health:3160.0 Armor:219.75 Mr:62.75**
 
@@ -247,9 +247,12 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/3153.png)![](/item/1038.png)![](/item/1037.png)|2.77|3625|1790|4482|1616|4256|14775
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)![](/item/1038.png)|2.87|5126|1641|4816|1675|4256|14900
-![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/1038.png)![](/item/1037.png)|3.66|3670|1635|6540|1788|4984|14575
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3072.png)![](/item/1001.png)![](/item/1038.png)|2.25|2999|2149|4490|1995|4256|14000
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3071.png)![](/item/1001.png)![](/item/1038.png)|2.51|2055|2062|5060|2017|4911|14200
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|2.51|2099|2224|6223|2480|5978|14100
+![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3115.png)![](/item/1001.png)![](/item/1053.png)|2.86|1836|1669|7172|2505|7079|13600
+![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3161.png)![](/item/1001.png)![](/item/1053.png)|3.1|2035|1492|7765|2507|7654|13800
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|3.16|2129|1674|9210|2914|9095|13800
 
 
 
@@ -310,7 +313,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Aatrox
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Aatrox
 
 **Target Health:3274.0 Armor:224.2 Mr:114.8**
 
@@ -325,10 +328,12 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/3095.png)![](/item/3115.png)![](/item/3142.png)![](/item/1038.png)|2.56|4002|1909|4775|1864|4525|16900
-![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3142.png)![](/item/1038.png)|2.61|5093|2027|5443|2087|4525|16900
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6333.png)![](/item/1038.png)|2.84|5443|1713|6099|2145|5380|16900
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/3026.png)![](/item/1038.png)|2.84|5335|1686|7314|2572|5285|16600
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6676.png)![](/item/1001.png)|2.1|3122|2733|4697|2238|4525|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3091.png)![](/item/3036.png)![](/item/1001.png)|2.47|2798|2165|6443|2608|6343|15700
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/6673.png)![](/item/3036.png)![](/item/1001.png)|2.5|2798|2605|6671|2670|6343|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3026.png)![](/item/3036.png)![](/item/1001.png)|2.5|2758|2487|7718|3089|7512|15800
+![](/item/6672.png)![](/item/3026.png)![](/item/3036.png)![](/item/6673.png)![](/item/3142.png)![](/item/1038.png)|3.06|4280|1600|9886|3227|9635|16400
+![](/item/6673.png)![](/item/3026.png)![](/item/3036.png)![](/item/3153.png)![](/item/3142.png)![](/item/1038.png)|3.11|4127|1778|10227|3284|9635|16700
 
 
 
@@ -389,7 +394,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Aatrox
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Aatrox
 
 **Target Health:3388.0 Armor:228.65 Mr:116.85**
 
@@ -404,17 +409,15 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3074.png)![](/item/3036.png)![](/item/3095.png)![](/item/6676.png)![](/item/6696.png)![](/item/3142.png)|2.15|6588|2164|5149|2394|4800
-![](/item/3004.png)![](/item/3036.png)![](/item/3072.png)![](/item/3095.png)![](/item/6696.png)![](/item/3142.png)|2.15|6272|2178|5399|2510|4800
-![](/item/3072.png)![](/item/3036.png)![](/item/3095.png)![](/item/3508.png)![](/item/6696.png)![](/item/3142.png)|2.15|6181|2129|5418|2519|4800
-![](/item/3072.png)![](/item/3036.png)![](/item/3074.png)![](/item/3095.png)![](/item/6696.png)![](/item/3142.png)|2.15|6290|2123|5738|2668|4800
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/3071.png)![](/item/3095.png)|2.23|5788|2029|6068|2724|5479
-![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3095.png)![](/item/6333.png)![](/item/3142.png)|2.46|5229|2244|6851|2785|5692
-![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/3087.png)![](/item/3115.png)|2.47|4216|1937|7324|2961|5593
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/3026.png)![](/item/3153.png)|2.58|5698|2232|8112|3142|5593
-![](/item/3153.png)![](/item/3036.png)![](/item/6692.png)![](/item/3026.png)![](/item/3072.png)![](/item/6676.png)|2.58|5252|2172|8344|3232|5876
-![](/item/3153.png)![](/item/3036.png)![](/item/6692.png)![](/item/3004.png)![](/item/3026.png)![](/item/3072.png)|2.58|4831|2057|8351|3235|5885
-![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/3072.png)![](/item/3074.png)|2.58|5229|2059|8546|3310|5593
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3094.png)|2.06|3208|3164|4972|2414|4800
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3072.png)![](/item/3091.png)![](/item/3094.png)|2.06|3664|2730|5098|2476|4800
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3072.png)![](/item/3085.png)![](/item/3153.png)|2.06|3416|3051|5391|2618|4800
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3072.png)![](/item/3046.png)![](/item/3153.png)|2.06|3581|3051|5410|2627|4800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/6673.png)![](/item/3036.png)![](/item/3094.png)|2.07|3291|3012|7048|3410|6717
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3026.png)![](/item/3036.png)![](/item/3094.png)|2.07|3250|2890|8162|3949|7955
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3026.png)![](/item/3036.png)![](/item/3046.png)|2.48|3250|2180|10326|4165|10188
+![](/item/6673.png)![](/item/3026.png)![](/item/3036.png)![](/item/3046.png)![](/item/3153.png)![](/item/3124.png)|2.49|3250|2400|10637|4271|10188
+![](/item/6673.png)![](/item/3026.png)![](/item/3036.png)![](/item/3153.png)![](/item/3142.png)![](/item/3072.png)|2.66|5083|2062|11622|4376|10188
 
 
 

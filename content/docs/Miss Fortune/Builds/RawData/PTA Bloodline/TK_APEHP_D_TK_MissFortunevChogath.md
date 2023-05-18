@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Chogath
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Chogath
 
 **Target Health:2102.0 Armor:93.0 Mr:46.349999999999994**
 
@@ -17,6 +17,7 @@ bookToc: false
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|8.16|1002|616|2334|286|2319|4100
 ![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|8.39|897|790|2454|292|2319|4050
 ![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|12.49|1129|554|4418|353|4139|3900
 
@@ -79,7 +80,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Chogath
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Chogath
 
 **Target Health:2978.0 Armor:163.0 Mr:54.55**
 
@@ -94,9 +95,8 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)|5.74|1168|1030|4308|751|4034|7250
-![](/item/3153.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|7.07|1433|980|6171|872|5474|7550
-![](/item/3156.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|8.01|1433|770|7035|878|6601|7450
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.55|1250|1160|3199|900|3158|7300
+![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|6.22|1521|820|5822|936|5490|7425
 
 
 
@@ -157,7 +157,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Chogath
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Chogath
 
 **Target Health:3516.0 Armor:173.0 Mr:58.65**
 
@@ -172,9 +172,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.14|2011|1557|5109|1625|4765|10600
-![](/item/3153.png)![](/item/3156.png)![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.98|2333|1468|7233|1818|6397|10725
-![](/item/3153.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|4.47|1684|1283|8545|1909|7716|10925
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.24|1531|2067|3936|1754|3745|10600
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.56|1531|1665|4816|1883|4765|10500
+![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.32|1773|1439|6651|2000|6380|10625
 
 
 
@@ -235,7 +235,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Chogath
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Chogath
 
 **Target Health:4054.0 Armor:253.0 Mr:62.75**
 
@@ -250,9 +250,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3142.png)![](/item/1038.png)|2.64|3434|1900|5526|2092|5117|13900
-![](/item/3153.png)![](/item/3156.png)![](/item/3036.png)![](/item/3142.png)![](/item/1038.png)![](/item/1036.png)|3.35|3755|1788|8144|2433|7166|13850
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|3.41|2799|1695|9417|2765|8397|13900
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1037.png)|1.38|2598|2901|4247|3088|4036|13675
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|2.12|1991|2018|7227|3411|7110|14000
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|2.52|2078|1919|8629|3426|8377|13800
 
 
 
@@ -313,7 +313,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Chogath
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Chogath
 
 **Target Health:4948.0 Armor:258.0 Mr:64.8**
 
@@ -328,13 +328,10 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)|2.31|5386|2483|4690|2027|4245|16600
-![](/item/3153.png)![](/item/3074.png)![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)|2.31|5537|2476|5017|2168|4245|17100
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3142.png)![](/item/3115.png)![](/item/1038.png)|2.34|4123|2352|5850|2496|5372|17100
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3142.png)![](/item/3074.png)![](/item/1038.png)|2.43|4708|2407|6304|2594|5372|17300
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3142.png)![](/item/3072.png)![](/item/1038.png)|2.43|4941|2497|6563|2701|5372|17100
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3142.png)![](/item/3139.png)![](/item/1038.png)|2.64|4420|2381|7449|2822|6780|16900
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3142.png)![](/item/3156.png)![](/item/1038.png)|2.64|4507|2364|10333|3914|9082|16700
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3115.png)![](/item/1001.png)|1.26|2959|3799|4494|3569|4245|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/1001.png)|1.26|3082|3952|5691|4508|5372|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6673.png)![](/item/1001.png)|1.36|3174|3727|6293|4614|5891|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3156.png)![](/item/1001.png)|1.36|3312|3618|7931|5816|7241|15600
 
 
 
@@ -395,7 +392,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Chogath
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Chogath
 
 **Target Health:5042.0 Armor:263.0 Mr:66.85**
 
@@ -410,11 +407,11 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3085.png)![](/item/6676.png)![](/item/6675.png)|1.73|4601|2441|6105|3534|5630
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3087.png)![](/item/6676.png)![](/item/6692.png)|1.8|5203|2804|6390|3547|5900
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6671.png)|1.85|4872|2805|6702|3614|5630
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|1.94|5515|2731|7727|3983|7095
-![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3142.png)![](/item/3156.png)![](/item/6676.png)|1.94|5601|2708|10752|5543|9583
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3094.png)|0.86|3629|4455|5930|6902|5630
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3046.png)|0.86|3535|4357|5933|6906|5630
+![](/item/3153.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/6676.png)![](/item/3124.png)|0.86|3827|3960|5965|6942|5630
+![](/item/3153.png)![](/item/3046.png)![](/item/3036.png)![](/item/3091.png)![](/item/6676.png)![](/item/3124.png)|0.86|4033|3921|5973|6951|5630
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/3036.png)![](/item/3094.png)|1.27|3863|3297|9496|7476|9215
 
 
 

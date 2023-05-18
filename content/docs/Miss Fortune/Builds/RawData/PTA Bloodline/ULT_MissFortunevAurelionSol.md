@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 AurelionSol
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 AurelionSol
 
 **Target Health:1650.0 Armor:50.0 Mr:39.1**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 AurelionSol
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 AurelionSol
 
 **Target Health:2210.0 Armor:66.0 Mr:44.3**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 AurelionSol
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 AurelionSol
 
 **Target Health:2790.0 Armor:74.0 Mr:46.900000000000006**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 AurelionSol
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 AurelionSol
 
 **Target Health:3170.0 Armor:82.0 Mr:49.5**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 AurelionSol
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 AurelionSol
 
 **Target Health:3260.0 Armor:86.0 Mr:50.8**
 
@@ -382,7 +382,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 AurelionSol
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 AurelionSol
 
 **Target Health:3350.0 Armor:90.0 Mr:52.1**
 

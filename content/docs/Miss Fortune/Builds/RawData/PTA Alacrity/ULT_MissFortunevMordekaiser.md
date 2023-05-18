@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Mordekaiser
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Mordekaiser
 
 **Target Health:1623.0 Armor:86.4 Mr:46.349999999999994**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Mordekaiser
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Mordekaiser
 
 **Target Health:2439.0 Armor:103.2 Mr:54.55**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Mordekaiser
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Mordekaiser
 
 **Target Health:2997.0 Armor:111.6 Mr:58.65**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Mordekaiser
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Mordekaiser
 
 **Target Health:3205.0 Armor:165.0 Mr:62.75**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Mordekaiser
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Mordekaiser
 
 **Target Health:3959.0 Armor:169.2 Mr:64.8**
 
@@ -321,6 +321,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6693.png)![](/item/1038.png)|2.39|8315|1824|4149|1739|3552|16600
 ![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|2.37|8315|1824|4149|1748|3552|16600
 
 
@@ -382,7 +383,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Mordekaiser
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Mordekaiser
 
 **Target Health:4063.0 Armor:173.4 Mr:66.85**
 
@@ -397,7 +398,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/6695.png)|2.27|10112|2148|4359|1923|3739
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6693.png)![](/item/6696.png)|2.04|10265|2246|4370|2145|3739
 
 
 

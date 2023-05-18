@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 MissFortune
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 MissFortune
 
 **Target Health:1361.0 Armor:57.400000000000006 Mr:39.1**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 MissFortune
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 MissFortune
 
 **Target Health:1773.0 Armor:74.2 Mr:44.3**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 MissFortune
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 MissFortune
 
 **Target Health:1979.0 Armor:82.6 Mr:46.900000000000006**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 MissFortune
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 MissFortune
 
 **Target Health:2185.0 Armor:91.0 Mr:49.5**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 MissFortune
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 MissFortune
 
 **Target Health:2288.0 Armor:95.2 Mr:50.8**
 
@@ -382,7 +382,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 MissFortune
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 MissFortune
 
 **Target Health:2391.0 Armor:99.4 Mr:52.1**
 

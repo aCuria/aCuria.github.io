@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 AurelionSol
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 AurelionSol
 
 **Target Health:1650.0 Armor:50.0 Mr:39.1**
 
@@ -79,7 +79,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 AurelionSol
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 AurelionSol
 
 **Target Health:2210.0 Armor:66.0 Mr:44.3**
 
@@ -94,9 +94,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6696.png)![](/item/3142.png)![](/item/1055.png)![](/item/1037.png)|2.27|3092|1255|2827|1247|2764|7425
-![](/item/3091.png)![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|2.67|2499|1197|3719|1393|3640|7450
-![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|2.68|1670|1264|3831|1430|3640|7250
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.1|1767|1411|2798|1332|2764|7300
+![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)|2.14|1681|1566|2917|1365|2764|7250
+![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.5|1767|1224|3691|1475|3640|7500
 ![](/item/3156.png)![](/item/3142.png)![](/item/1055.png)![](/item/1037.png)|2.87|2804|1166|5384|1874|5062|7225
 ![](/item/3156.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|3.17|2049|1053|6429|2029|6094|7450
 
@@ -159,7 +159,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 AurelionSol
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 AurelionSol
 
 **Target Health:2790.0 Armor:74.0 Mr:46.900000000000006**
 
@@ -174,10 +174,8 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6671.png)![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|1.66|2812|2031|3465|2086|3286|10800
-![](/item/3091.png)![](/item/3142.png)![](/item/6676.png)![](/item/1055.png)![](/item/1037.png)|1.66|3896|1751|4397|2648|4306|10625
-![](/item/6696.png)![](/item/3142.png)![](/item/3156.png)![](/item/1055.png)![](/item/1038.png)|2.25|4215|1634|6428|2856|6020|10650
-![](/item/3091.png)![](/item/3153.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.5|2411|1639|7781|3113|7130|10925
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|1.34|2145|1985|4354|3247|4306|10500
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|1.36|2145|2218|4528|3330|4306|10800
 
 
 
@@ -238,7 +236,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 AurelionSol
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 AurelionSol
 
 **Target Health:3170.0 Armor:82.0 Mr:49.5**
 
@@ -253,9 +251,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)![](/item/1036.png)|0.63|6695|3120|3786|6058|3550|14050
-![](/item/3156.png)![](/item/3142.png)![](/item/3036.png)![](/item/3153.png)![](/item/1038.png)![](/item/1036.png)|1.17|6099|2695|7189|6147|6520|13850
-![](/item/3156.png)![](/item/3142.png)![](/item/3153.png)![](/item/6676.png)![](/item/1038.png)![](/item/1036.png)|1.17|5880|2537|7204|6160|6581|13850
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)![](/item/1037.png)|0.52|3602|3108|3714|7151|3550|13675
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/1001.png)![](/item/1037.png)|0.52|3605|3230|3723|7169|3550|13675
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1037.png)|0.93|3147|2678|6790|7338|6434|13875
 
 
 
@@ -316,7 +314,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 AurelionSol
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 AurelionSol
 
 **Target Health:3260.0 Armor:86.0 Mr:50.8**
 
@@ -331,8 +329,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3091.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3153.png)![](/item/1038.png)|0.52|6755|3271|5144|9936|4865|16900
-![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/3156.png)![](/item/1038.png)|0.62|7753|3437|7627|12334|6941|16500
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3115.png)![](/item/1001.png)|0.46|3660|3548|3911|8516|3739|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)|0.46|3812|3708|5093|11013|4865|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3156.png)![](/item/1001.png)|0.51|4096|3455|7078|13751|6592|15600
 
 
 
@@ -393,7 +392,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 AurelionSol
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 AurelionSol
 
 **Target Health:3350.0 Armor:90.0 Mr:52.1**
 
@@ -408,13 +407,16 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/6671.png)![](/item/3153.png)![](/item/6676.png)![](/item/3091.png)![](/item/3036.png)![](/item/3115.png)|0.46|5564|3265|5337|11623|5102
-![](/item/3091.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3153.png)![](/item/3115.png)|0.46|6959|3388|5382|11722|5102
-![](/item/3091.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3153.png)![](/item/3085.png)|0.46|6794|3426|5395|11747|5102
-![](/item/3091.png)![](/item/3142.png)![](/item/3072.png)![](/item/3036.png)![](/item/3115.png)![](/item/3153.png)|0.47|7569|3369|5817|12499|5102
-![](/item/3091.png)![](/item/3142.png)![](/item/3087.png)![](/item/3036.png)![](/item/3139.png)![](/item/3153.png)|0.5|7269|3421|6966|13972|6568
-![](/item/3156.png)![](/item/3142.png)![](/item/3036.png)![](/item/3153.png)![](/item/3087.png)![](/item/3091.png)|0.5|7391|3390|9575|19205|8832
-![](/item/3091.png)![](/item/3142.png)![](/item/6676.png)![](/item/3036.png)![](/item/3139.png)![](/item/3156.png)|0.58|8512|3362|11475|19738|10849
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)|0.46|4415|4182|5341|11632|5102
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3046.png)|0.46|4301|4081|5344|11638|5102
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3085.png)![](/item/3036.png)![](/item/6676.png)|0.46|4894|3840|5372|11698|5102
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3085.png)![](/item/3036.png)![](/item/6693.png)|0.46|4894|3708|5375|11705|5102
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3085.png)![](/item/3036.png)![](/item/6696.png)|0.46|4894|3708|5375|11705|5102
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3072.png)![](/item/3036.png)![](/item/3085.png)|0.46|4700|3700|5699|12411|5102
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/3085.png)![](/item/3036.png)|0.46|4187|3584|7440|16202|7070
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3085.png)![](/item/3036.png)![](/item/3156.png)|0.46|4358|3488|9026|19657|8416
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3046.png)![](/item/3036.png)![](/item/3156.png)|0.46|4586|3472|9117|19851|8492
+![](/item/3156.png)![](/item/3142.png)![](/item/3026.png)![](/item/3036.png)![](/item/3091.png)![](/item/6676.png)|0.58|8291|3211|12047|20720|11568
 
 
 

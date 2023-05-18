@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Jax
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Jax
 
 **Target Health:1665.0 Armor:85.4 Mr:46.349999999999994**
 
@@ -17,7 +17,7 @@ bookToc: false
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|6.43|901|722|2748|427|2624|4050
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.32|1006|613|2638|495|2624|4100
 ![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|8.92|1134|554|2805|314|2624|3900
 
 
@@ -79,7 +79,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Jax
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Jax
 
 **Target Health:2365.0 Armor:102.2 Mr:54.55**
 
@@ -94,10 +94,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|3.1|2064|1186|4012|1293|3764|7550
-![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)|3.28|1424|1090|3975|1213|3764|7250
-![](/item/3153.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|4.35|1747|1060|4266|980|3764|7550
-![](/item/3156.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|4.67|1747|867|4033|862|3764|7450
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.58|1514|1226|3803|1471|3764|7300
+![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.15|1514|1050|3819|1213|3764|7500
+![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.63|1854|927|4013|1104|3764|7425
 
 
 
@@ -158,7 +157,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Jax
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Jax
 
 **Target Health:2565.0 Armor:110.6 Mr:58.65**
 
@@ -173,12 +172,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6696.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|2.25|3999|1467|4638|2061|4529|10850
-![](/item/3091.png)![](/item/6694.png)![](/item/3142.png)![](/item/1055.png)![](/item/1037.png)|2.3|3056|1327|4624|2011|4529|10825
-![](/item/3153.png)![](/item/3091.png)![](/item/6609.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.57|1859|1250|5221|2030|4973|10925
-![](/item/3153.png)![](/item/3142.png)![](/item/3156.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|2.66|2802|1428|5077|1905|4529|10875
-![](/item/3156.png)![](/item/3091.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|2.79|2844|1239|4857|1738|4529|10850
-![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.24|2108|1058|4826|1488|4529|10625
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|1.34|1821|1718|4566|3405|4529|10500
 
 
 
@@ -239,7 +233,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Jax
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Jax
 
 **Target Health:3165.0 Armor:119.0 Mr:62.75**
 
@@ -254,10 +248,8 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/1038.png)![](/item/1036.png)|1.17|6053|2484|5262|4499|4936|14050
-![](/item/3156.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)![](/item/1037.png)|1.88|6263|1974|5353|2844|4936|14075
-![](/item/3156.png)![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)![](/item/1037.png)|1.88|6660|2063|5379|2858|4936|14075
-![](/item/3156.png)![](/item/3091.png)![](/item/3142.png)![](/item/3036.png)![](/item/1038.png)![](/item/1036.png)|2.14|5171|1821|5338|2490|4936|13750
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1037.png)|0.87|2642|2718|5134|5930|4936|13875
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|1.32|2971|2129|5112|3876|4936|13800
 
 
 
@@ -318,7 +310,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Jax
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Jax
 
 **Target Health:3265.0 Armor:168.2 Mr:64.8**
 
@@ -333,11 +325,8 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3095.png)![](/item/1038.png)|1.1|5878|2533|5485|4992|5174|16700
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|1.16|6330|2483|5959|5150|5174|16900
-![](/item/3153.png)![](/item/3142.png)![](/item/3156.png)![](/item/3095.png)![](/item/3036.png)![](/item/1038.png)|1.61|5120|2286|5811|3608|5174|16500
-![](/item/3153.png)![](/item/3142.png)![](/item/3156.png)![](/item/3072.png)![](/item/3036.png)![](/item/1038.png)|1.7|5505|2212|6342|3740|5174|16700
-![](/item/3156.png)![](/item/3091.png)![](/item/3142.png)![](/item/3036.png)![](/item/3139.png)![](/item/1038.png)|2.12|4954|1783|5583|2631|5174|16400
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6676.png)![](/item/1001.png)|0.51|3544|3133|5383|10459|5174|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3156.png)![](/item/1001.png)|0.94|3269|2892|5619|5953|5174|15600
 
 
 
@@ -398,7 +387,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Jax
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Jax
 
 **Target Health:3365.0 Armor:172.4 Mr:66.85**
 
@@ -413,11 +402,10 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3085.png)![](/item/3091.png)|0.89|5535|2543|5805|6489|5494
-![](/item/3153.png)![](/item/3142.png)![](/item/3072.png)![](/item/3036.png)![](/item/3091.png)![](/item/3095.png)|0.96|5960|2727|6238|6496|5494
-![](/item/3153.png)![](/item/3091.png)![](/item/3072.png)![](/item/3036.png)![](/item/6676.png)![](/item/6692.png)|1.0|5954|2612|6544|6515|5761
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3091.png)![](/item/3139.png)|1.0|6051|2604|5824|5798|5494
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3091.png)![](/item/3156.png)|1.0|6146|2581|6106|6079|5494
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/3036.png)![](/item/3094.png)|0.46|3568|3601|5695|12403|5494
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/3046.png)![](/item/3036.png)|0.46|3476|3504|5697|12408|5494
+![](/item/3091.png)![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)|0.46|3842|3206|5717|12449|5494
+![](/item/6672.png)![](/item/3124.png)![](/item/3094.png)![](/item/3036.png)![](/item/3153.png)![](/item/6673.png)|0.49|3660|3416|7928|16218|7613
 
 
 

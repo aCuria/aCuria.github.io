@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Vex
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Vex
 
 **Target Health:1318.0 Armor:54.150000000000006 Mr:37.1**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Vex
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Vex
 
 **Target Health:1734.0 Armor:116.95 Mr:42.3**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Vex
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Vex
 
 **Target Health:1942.0 Armor:125.85 Mr:44.900000000000006**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Vex
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Vex
 
 **Target Health:2150.0 Armor:134.75 Mr:47.5**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Vex
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Vex
 
 **Target Health:2454.0 Armor:139.2 Mr:48.8**
 
@@ -321,6 +321,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
+![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/6693.png)![](/item/1038.png)|0.63|7404|2563|2911|4592|2715|16600
 ![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|0.63|7404|2563|2911|4592|2715|16600
 
 
@@ -382,7 +383,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Vex
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Vex
 
 **Target Health:2558.0 Armor:143.65 Mr:50.1**
 
@@ -397,6 +398,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
+![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/6693.png)![](/item/3074.png)|0.63|8559|2914|3180|5070|2831
 ![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/3074.png)|0.63|8559|2914|3180|5070|2831
 
 

@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Rengar
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Rengar
 
 **Target Health:1348.0 Armor:63.400000000000006 Mr:46.349999999999994**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Rengar
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Rengar
 
 **Target Health:1764.0 Armor:80.2 Mr:54.55**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Rengar
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Rengar
 
 **Target Health:1972.0 Armor:88.6 Mr:58.65**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Rengar
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Rengar
 
 **Target Health:2180.0 Armor:97.0 Mr:62.75**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Rengar
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Rengar
 
 **Target Health:2284.0 Armor:101.2 Mr:64.8**
 
@@ -382,7 +382,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Rengar
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Rengar
 
 **Target Health:2388.0 Armor:105.4 Mr:66.85**
 

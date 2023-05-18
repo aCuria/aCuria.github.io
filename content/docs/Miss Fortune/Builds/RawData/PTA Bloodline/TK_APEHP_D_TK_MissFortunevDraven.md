@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Draven
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Draven
 
 **Target Health:1403.0 Armor:60.5 Mr:39.1**
 
@@ -18,6 +18,7 @@ bookToc: false
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
 ![](/item/6671.png)![](/item/1001.png)![](/item/1055.png)|3.9|1120|900|2636|675|2624|4150
+![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.43|1157|632|3887|715|3787|4100
 ![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.43|1220|636|2781|511|2624|3900
 
 
@@ -79,7 +80,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Draven
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Draven
 
 **Target Health:1819.0 Armor:78.5 Mr:44.3**
 
@@ -94,11 +95,8 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6671.png)![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|1.97|2144|1363|3869|1959|3813|7500
-![](/item/6671.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)|2.23|1667|1226|3863|1729|3813|7350
-![](/item/3156.png)![](/item/6696.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.77|2194|957|4075|1469|3813|7425
-![](/item/3156.png)![](/item/6692.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.87|2192|959|4273|1487|4010|7525
-![](/item/3156.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|3.17|1829|961|4065|1283|3813|7450
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|1.62|1580|1306|3849|2381|3813|7300
+![](/item/3156.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.45|1941|1030|4014|1637|3813|7425
 
 
 
@@ -159,7 +157,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Draven
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Draven
 
 **Target Health:2027.0 Armor:87.5 Mr:46.900000000000006**
 
@@ -174,13 +172,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/1055.png)![](/item/1037.png)|1.75|3346|1758|4947|2825|4655|10725
-![](/item/3033.png)![](/item/3153.png)![](/item/3142.png)![](/item/1055.png)![](/item/1037.png)|1.75|3283|1823|4949|2826|4655|10725
-![](/item/3091.png)![](/item/3153.png)![](/item/3142.png)![](/item/1055.png)![](/item/1037.png)|2.01|2693|1648|4929|2447|4655|10925
-![](/item/6671.png)![](/item/6676.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.4|2807|1621|4980|2079|4655|10825
-![](/item/3156.png)![](/item/6609.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|2.54|3269|1363|5515|2171|5112|10800
-![](/item/6671.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.58|2211|1481|4942|1914|4655|10500
-![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|2.68|3170|1330|5071|1891|4655|10650
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|1.34|1899|1828|4703|3508|4655|10500
+![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|1.96|2199|1638|4875|2483|4655|10625
+![](/item/3156.png)![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.34|2199|1450|4914|2095|4655|10825
 
 
 
@@ -241,7 +235,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Draven
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Draven
 
 **Target Health:2235.0 Armor:96.5 Mr:49.5**
 
@@ -256,8 +250,10 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3091.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)![](/item/1036.png)|1.11|5759|2413|5278|4755|5157|13950
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3033.png)![](/item/1001.png)![](/item/1038.png)|0.91|3167|2556|5217|5718|5157|14000
+![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1037.png)|0.93|3025|2588|5407|5844|5157|13875
 ![](/item/3156.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)![](/item/1037.png)|1.28|6329|2423|5592|4354|5157|14075
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|1.32|3013|2237|5387|4084|5157|13800
 
 
 
@@ -318,7 +314,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Draven
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Draven
 
 **Target Health:2339.0 Armor:141.0 Mr:50.8**
 
@@ -333,8 +329,12 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3091.png)![](/item/6676.png)![](/item/3142.png)![](/item/3153.png)![](/item/1038.png)|1.01|5384|2600|5836|5757|5496|16900
-![](/item/3156.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3153.png)![](/item/1038.png)|1.16|5687|2528|6174|5336|5496|16500
+![](/item/6672.png)![](/item/3124.png)![](/item/3115.png)![](/item/3033.png)![](/item/3153.png)![](/item/1001.png)|0.86|2761|2947|5718|6655|5496|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3033.png)![](/item/3115.png)![](/item/1001.png)|0.86|2761|2694|5545|6454|5496|15900
+![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3115.png)![](/item/1001.png)|0.86|2761|2675|5723|6661|5496|16200
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3033.png)![](/item/6673.png)![](/item/1001.png)|0.9|2958|2672|7756|8572|7625|15700
+![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6673.png)![](/item/1001.png)|0.92|2958|2679|7996|8715|7625|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/3153.png)![](/item/3033.png)![](/item/1001.png)|0.94|3085|2849|5966|6321|5496|15600
 
 
 
@@ -395,7 +395,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Draven
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Draven
 
 **Target Health:2443.0 Armor:145.5 Mr:52.1**
 
@@ -410,11 +410,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/3033.png)![](/item/6695.png)|0.58|7029|3327|6164|10603|5844
-![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/3033.png)![](/item/6696.png)|0.58|7302|3300|6184|10636|5844
-![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/3033.png)![](/item/3095.png)|0.58|7070|3252|6633|11410|5844
-![](/item/3033.png)![](/item/3153.png)![](/item/3142.png)![](/item/3091.png)![](/item/3095.png)![](/item/3156.png)|0.96|5250|2769|6480|6749|5844
-![](/item/3033.png)![](/item/3091.png)![](/item/6676.png)![](/item/3142.png)![](/item/3139.png)![](/item/3156.png)|1.09|6262|2536|6289|5781|5844
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3033.png)![](/item/3094.png)![](/item/3153.png)|0.46|3359|3566|6056|13188|5844
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3033.png)![](/item/3046.png)![](/item/3153.png)|0.46|3273|3450|6056|13189|5844
+![](/item/6672.png)![](/item/3124.png)![](/item/3094.png)![](/item/3033.png)![](/item/3153.png)![](/item/6673.png)|0.49|3445|3391|8429|17244|8097
 
 
 

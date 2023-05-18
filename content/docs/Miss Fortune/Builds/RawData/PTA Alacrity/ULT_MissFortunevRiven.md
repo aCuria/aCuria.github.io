@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Riven
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Riven
 
 **Target Health:1630.0 Armor:63.800000000000004 Mr:46.349999999999994**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Riven
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Riven
 
 **Target Health:2430.0 Armor:81.4 Mr:54.55**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Riven
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Riven
 
 **Target Health:2630.0 Armor:135.2 Mr:58.65**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Riven
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Riven
 
 **Target Health:2830.0 Armor:184.0 Mr:62.75**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Riven
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Riven
 
 **Target Health:2930.0 Armor:188.4 Mr:64.8**
 
@@ -321,6 +321,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
+![](/item/3142.png)![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6693.png)![](/item/1038.png)|2.39|6679|2246|5249|2200|4525|16600
 ![](/item/3142.png)![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|2.37|6679|2246|5249|2212|4525|16600
 
 
@@ -382,7 +383,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Riven
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Riven
 
 **Target Health:3030.0 Armor:192.8 Mr:66.85**
 
@@ -397,7 +398,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3142.png)![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/6695.png)|2.27|8108|2784|5549|2448|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6693.png)![](/item/6696.png)|2.04|8559|2732|5560|2730|4800
 
 
 

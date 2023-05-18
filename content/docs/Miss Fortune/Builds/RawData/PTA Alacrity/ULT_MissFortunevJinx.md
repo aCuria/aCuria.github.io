@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Jinx
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Jinx
 
 **Target Health:1330.0 Armor:58.9 Mr:39.1**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Jinx
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Jinx
 
 **Target Health:1730.0 Armor:77.7 Mr:44.3**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Jinx
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Jinx
 
 **Target Health:1930.0 Armor:87.1 Mr:46.900000000000006**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Jinx
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Jinx
 
 **Target Health:2130.0 Armor:96.5 Mr:49.5**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Jinx
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Jinx
 
 **Target Health:2230.0 Armor:101.2 Mr:50.8**
 
@@ -382,7 +382,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Jinx
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Jinx
 
 **Target Health:2330.0 Armor:105.9 Mr:52.1**
 

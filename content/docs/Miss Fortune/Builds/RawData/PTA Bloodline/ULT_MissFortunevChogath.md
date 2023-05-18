@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-#1 Item Level 8 MissFortune vs 1 Item Level 8 Chogath
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Chogath
 
 **Target Health:2102.0 Armor:93.0 Mr:46.349999999999994**
 
@@ -78,7 +78,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#2 Item Level 12 MissFortune vs 2 Item Level 12 Chogath
+# 2 Item Level 12 MissFortune vs 2 Item Level 12 Chogath
 
 **Target Health:2978.0 Armor:163.0 Mr:54.55**
 
@@ -154,7 +154,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#3 Item Level 14 MissFortune vs 3 Item Level 14 Chogath
+# 3 Item Level 14 MissFortune vs 3 Item Level 14 Chogath
 
 **Target Health:3516.0 Armor:173.0 Mr:58.65**
 
@@ -230,7 +230,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#4 Item Level 16 MissFortune vs 4 Item Level 16 Chogath
+# 4 Item Level 16 MissFortune vs 4 Item Level 16 Chogath
 
 **Target Health:4054.0 Armor:253.0 Mr:62.75**
 
@@ -306,7 +306,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#5 Item Level 17 MissFortune vs 5 Item Level 17 Chogath
+# 5 Item Level 17 MissFortune vs 5 Item Level 17 Chogath
 
 **Target Health:4948.0 Armor:258.0 Mr:64.8**
 
@@ -321,7 +321,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|3.04|6626|1987|5049|1660|4245|16600
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6693.png)![](/item/6696.png)![](/item/1038.png)|3.04|6668|1925|4419|1452|4245|16400
 
 
 
@@ -382,7 +382,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-#6 Item Level 18 MissFortune vs 6 Item Level 18 Chogath
+# 6 Item Level 18 MissFortune vs 6 Item Level 18 Chogath
 
 **Target Health:5042.0 Armor:263.0 Mr:66.85**
 
@@ -397,7 +397,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/6695.png)|2.42|7812|2262|5263|2172|4458
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6693.png)![](/item/6696.png)![](/item/3072.png)|2.42|8137|2329|5293|2185|4458
 
 
 
