@@ -55,32 +55,69 @@ I computed everything in the build assuming these runes.
 - Builds with a movement speed item have an extra 300g to spend on ad components 
 - Note that I currently assume that Yoummu's extra lethality is only active for the entirety of ult and then first 0.1s of combat.
 
+## Glossary 
+
+- Build: Items purchased
+- g: Build cost in gold 
+- tk: Time taken to kill in seconds
+- ult: Bullet Time damage
+- aaqaa: Damage dealt by aa q aa into a full HP enemy
+- AdHp: Effective HP against AD damage, considers self healing and enemy armor pen
+- ApHp: Effective HP against AP damage, considers self healing and enemy magic pen
+- adB: Effective HP against AD burst damage, considers enemy armor pen
+- apB: Effective HP against AP burst damage, considers enemy magic pen
+
+
 
 # Item 1
 - The Item 1 builds were computed against Jinx's (the adc's) stats 
-- I am lacking the statikk shiv icon (13.10 api not out), shiv is slightly above rfc 
-- It is clear to me that IE / Navori need buffs? IE lost power when mythics were released (crit from 2.0 base to 1.75 base). At item 1, IE is a straight nerf compared to the pre-mythic era.
-- As for Navori, we only wanted to maybe build it late game in patch 13.9, there is still no reason to build it early now.
-- Yoummus 2nd was an ult damage play in 13.9, in 13.10 we can still build it as first item for ult damage.
-- Galeforce looks good at item 1, but it also assumes use of the active for maximum execute damage, and this active has a long cooldown.
-- On paper Rageblade appears to be the best first item choice, and it scales reasonably well as MF loves the armor pen mythic passive
+- Galeforce is mainly good when the active is off cooldown, and you hit someone under 25% HP for bonus damage
+
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)|2.89|1042|844|2633|911|2624|3950
-![](/item/6671.png)![](/item/1055.png)|3.31|1170|921|2635|796|2624|3850
+![](/item/6671.png)![](/item/1001.png)![](/item/1055.png)|3.31|1170|921|2635|796|2624|4150
 ![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)|3.72|1451|695|2639|709|2624|3900
-![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.81|1133|711|2636|692|2624|4100
 ![](/item/3095.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.11|1245|759|2637|642|2624|4100
 ![](/item/3115.png)![](/item/1001.png)![](/item/1055.png)|4.18|920|588|2635|630|2624|3950
 ![](/item/3006.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)![](/item/1036.png)|4.25|1270|654|2639|620|2624|4075
 ![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|4.27|1017|764|2734|640|2624|4050
-![](/item/3094.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|4.28|1133|691|2639|616|2624|4150
+![](/item/3087.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.27|1170|713|2639|618|2624|4100
+![](/item/3094.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.28|1057|664|2638|615|2624|4100
 ![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.31|1378|714|2639|611|2624|4100
 ![](/item/3031.png)![](/item/1001.png)![](/item/1055.png)|4.31|1300|694|2639|611|2624|4150
+![](/item/6695.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|4.31|1357|686|2638|611|2624|4050
+![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)|4.51|1017|601|2638|584|2624|3950
+![](/item/3085.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.51|832|584|2637|584|2624|3900
+![](/item/3179.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|4.52|1341|681|2640|584|2624|3925
+![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)|4.52|1342|679|2754|609|2624|4150
+![](/item/6696.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1325|677|2640|584|2624|4100
 ![](/item/3508.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1245|664|2640|584|2624|4000
 ![](/item/3004.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1313|669|2640|584|2624|4000
 ![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)|4.52|1208|650|2640|584|2624|4150
+![](/item/6692.png)![](/item/1001.png)![](/item/1055.png)|4.52|1241|647|2790|617|2775|3850
+![](/item/6609.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1197|630|3032|671|3018|3900
+![](/item/3161.png)![](/item/1001.png)![](/item/1055.png)|4.52|1197|630|3111|688|3096|4150
+![](/item/3033.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1249|678|2640|584|2624|4100
+![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)|4.52|1245|664|2844|629|2624|3950
+![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1208|663|2640|584|2624|4100
+![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1270|654|2770|613|2624|3900
+![](/item/3814.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1227|642|3150|697|3136|4000
+![](/item/3181.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1233|642|3269|723|3254|4100
+![](/item/3139.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1133|624|2639|584|2624|4100
+![](/item/6631.png)![](/item/1001.png)![](/item/1055.png)|4.83|1161|617|3112|644|3096|4050
+![](/item/3046.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.12|982|570|2640|515|2624|3900
+![](/item/3078.png)![](/item/1001.png)![](/item/1055.png)|5.46|1017|568|3112|570|3096|4083
+![](/item/6694.png)![](/item/1001.png)![](/item/1055.png)|5.78|1161|630|2640|457|2624|3950
+![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)|5.78|1125|605|3394|587|3374|4050
+![](/item/6630.png)![](/item/1001.png)![](/item/1055.png)|5.78|1125|605|3212|556|3096|3950
+![](/item/3071.png)![](/item/1001.png)![](/item/1055.png)|5.78|1089|593|3269|565|3254|3850
+![](/item/3748.png)![](/item/1001.png)![](/item/1055.png)|5.78|1038|605|3425|593|3411|4050
+![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.78|1125|605|4116|712|3291|4100
+![](/item/6035.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.78|1089|593|3111|538|3096|4100
+![](/item/6632.png)![](/item/1001.png)![](/item/1055.png)|7.04|1017|568|3112|442|3096|4050
+![](/item/6691.png)![](/item/1001.png)![](/item/1055.png)|99999|1285|82|2675|0|2624|3850
+
 
 # Full Builds
 
@@ -94,17 +131,30 @@ I use Jinx's stats to represent all the ADCs who are not building shieldbow
 
 This specific build hits some breakpoint and kills Jinx with just aa > q 
 
+
+### Sorted by increasing ult damage 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3033.png)![](/item/3094.png)![](/item/6676.png)|0.13|5392|0|5143|39892|4970
+![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3072.png)![](/item/6696.png)|0.16|7092|0|5241|32636|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3091.png)![](/item/3153.png)|0.51|7134|3032|5238|10206|4970
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/3091.png)|0.51|7674|2820|5393|10509|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3115.png)![](/item/3072.png)|0.54|8024|2953|5427|10111|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3091.png)![](/item/3072.png)|0.55|8227|3146|5454|9849|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3091.png)![](/item/3072.png)|0.57|8380|3330|5463|9552|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3153.png)|0.6|8380|3374|5699|9477|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/3095.png)|0.6|8748|3195|5500|9147|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)|0.63|8894|3250|5489|8657|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.63|8913|3181|5717|9017|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)|0.66|9047|3451|5498|8356|4970
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.66|9066|3384|5729|8709|4970
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3074.png)|0.7|9178|3152|5707|8186|4970
 
-Yoummus Build
+### Sorted by increasing AdHp/Tk
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3085.png)![](/item/3142.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)|0.46|5449|2719|5187|11296|4970
-![](/item/3115.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/3814.png)![](/item/6672.png)|0.49|6239|2719|5749|11695|5521
-![](/item/3091.png)![](/item/3142.png)![](/item/3033.png)![](/item/6333.png)![](/item/6672.png)![](/item/6673.png)|0.55|6283|2642|8389|15389|8165
+![](/item/6671.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/3095.png)![](/item/6696.png)|0.16|7092|0|5241|32636|4970
+![](/item/6671.png)![](/item/3033.png)![](/item/6676.png)![](/item/3095.png)![](/item/3814.png)![](/item/6696.png)|0.16|6840|0|5579|34742|5521
 
 
 ## Zac (Anti Tank) 
@@ -112,24 +162,13 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 The delta between a yoummus build and rageblade build appears to be too big 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
--|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3085.png)|1.27|4540|4545|4866|3831|4458
-![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3046.png)|1.29|4780|4564|4876|3792|4458
-![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3072.png)![](/item/3046.png)|1.29|4812|4510|5421|4216|4458
-![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3094.png)|1.33|4900|4654|4878|3658|4458
-![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3072.png)![](/item/3094.png)|1.33|4922|4599|5424|4068|4458
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6672.png)![](/item/6676.png)![](/item/6696.png)|2.56|6102|2840|5018|1956|4458
-![](/item/3072.png)![](/item/3142.png)![](/item/3036.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)|2.65|6192|2873|5803|2191|4458
+
 
 
 ### Ult Damage Build?
 The below build has the highest ult damage into zac. 
 In practice, intuitively I think Prowlers should be replaced with Edge of Night.
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
--|-|-|-|-|-|-
-![](/item/3072.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3142.png)![](/item/6693.png)|3.93|5915|1561|5171|1315|4458
 
 
 
@@ -138,20 +177,6 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 I use Draven's stats to represent all the ADCs who build shieldbow
 
 note: **dorans shield = statikk shiv** until riot updates their api and i pull the new images
-
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3033.png)![](/item/3091.png)![](/item/3094.png)|0.46|3950|3976|6096|13277|5844
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3033.png)![](/item/3095.png)![](/item/3085.png)|0.46|3932|3922|6101|13286|5844
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3033.png)![](/item/1054.png)![](/item/3046.png)|0.46|4035|3843|6107|13301|5844
-![](/item/3124.png)![](/item/6672.png)![](/item/3091.png)![](/item/3033.png)![](/item/3072.png)![](/item/3085.png)|0.46|4343|3730|6180|13459|5844
-![](/item/3124.png)![](/item/6672.png)![](/item/3091.png)![](/item/3033.png)![](/item/3085.png)![](/item/6673.png)|0.46|3881|3526|8256|17980|8097
-![](/item/3124.png)![](/item/3153.png)![](/item/3033.png)![](/item/3091.png)![](/item/3085.png)![](/item/6673.png)|0.46|3751|3394|8480|18464|8097
-![](/item/3094.png)![](/item/3033.png)![](/item/6333.png)![](/item/6672.png)![](/item/6673.png)![](/item/3124.png)|0.54|4343|3398|10142|18718|9925
-![](/item/3115.png)![](/item/3033.png)![](/item/6672.png)![](/item/6676.png)![](/item/6695.png)![](/item/3142.png)|0.99|6709|2759|5970|6035|5844
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/3074.png)|1.3|8611|2853|6913|5299|5844
-
-
 
 
 
@@ -166,11 +191,6 @@ DPS Mage
 ## Vex
 I use Vex's stats to represent all the Burst Mages. (Not Kayle, Cass who are sustained damage mages)
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
--|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/3094.png)|0.46|3968|3714|3391|7385|3261
-![](/item/3124.png)![](/item/6672.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3085.png)|0.46|3899|3390|4607|10033|4518
-![](/item/3124.png)![](/item/6672.png)![](/item/3091.png)![](/item/3156.png)![](/item/3033.png)![](/item/3085.png)|0.46|3919|3247|5485|11945|5330
 
 
 ## Rengar
@@ -178,12 +198,6 @@ I use Rengar's stats to represent all the AD Burst assasins. (Not Nocturne / Yi 
 
 I forced the algo to use GA, no idea why nashors sometimes pops up, you have to figure out the order to build the items yourself.
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/3124.png)![](/item/3085.png)![](/item/3033.png)![](/item/3026.png)![](/item/3091.png)![](/item/6672.png)|0.46|4115|3174|4793|10439|4735
-![](/item/3124.png)![](/item/3085.png)![](/item/3033.png)![](/item/3026.png)![](/item/3115.png)![](/item/6673.png)|0.48|4078|2504|6937|14583|6805
-![](/item/3124.png)![](/item/3085.png)![](/item/3033.png)![](/item/3026.png)![](/item/6672.png)![](/item/8001.png)|0.5|3673|2647|8340|16584|8265
-![](/item/3124.png)![](/item/3094.png)![](/item/3033.png)![](/item/3026.png)![](/item/6673.png)![](/item/8001.png)|0.6|4115|2405|11478|19215|11278
 
 
 
