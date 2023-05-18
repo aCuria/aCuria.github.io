@@ -17,7 +17,10 @@ bookToc: false
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|7.62|1180|655|2114|277|2096|4100
 ![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|7.84|1059|814|2242|286|2096|4050
+![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|10.82|1258|605|3256|301|3124|4100
+![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|12.42|1172|559|3066|246|3043|4100
 
 
 
@@ -93,7 +96,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|3.86|2346|1327|3084|799|2812|7550
+![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)|3.3|1619|1509|3058|926|2812|7250
 
 
 
@@ -169,8 +172,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|2.74|3706|1509|3441|1255|3334|10850
-![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|4.18|2144|1339|4502|1077|3334|10925
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|2.31|1694|1888|3530|1528|3334|10600
+![](/item/6672.png)![](/item/6673.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.15|1858|1471|4910|1560|4764|10825
+![](/item/6672.png)![](/item/3026.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.43|1825|1333|4856|1416|4787|10825
 
 
 
@@ -246,15 +250,8 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3091.png)![](/item/1038.png)![](/item/1036.png)|2.22|5025|1939|4703|2120|4567|13950
-![](/item/3153.png)![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/1038.png)![](/item/1036.png)|2.22|4425|2194|3902|1759|3603|14050
-![](/item/3036.png)![](/item/6609.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)![](/item/1037.png)|2.25|5502|1929|4095|1817|3977|14075
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6609.png)![](/item/1038.png)![](/item/1036.png)|2.34|4343|2005|4318|1843|3977|13850
-![](/item/3153.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)|2.34|4641|2109|4344|1855|3603|13900
-![](/item/3153.png)![](/item/3142.png)![](/item/3033.png)![](/item/3071.png)![](/item/1038.png)|2.34|4027|1901|4526|1932|4201|13800
-![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6333.png)![](/item/1038.png)|2.43|4392|1925|3957|1631|3603|14000
-![](/item/3153.png)![](/item/3142.png)![](/item/3026.png)![](/item/3036.png)![](/item/1038.png)![](/item/1036.png)|2.67|4392|1925|4937|1851|3603|14050
-![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/1038.png)![](/item/1036.png)|2.68|4803|1750|5127|1910|3603|13950
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/1001.png)![](/item/1037.png)|1.42|2975|2645|3826|2702|3603|13675
+![](/item/6672.png)![](/item/3026.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|2.18|2558|1875|6709|3084|6637|14000
 
 
 
@@ -330,10 +327,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3085.png)![](/item/3153.png)![](/item/1038.png)|1.53|5191|2406|3553|2318|3288|16500
-![](/item/3153.png)![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/3072.png)![](/item/1038.png)|1.67|5561|2607|3926|2356|3288|16900
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3153.png)![](/item/6333.png)![](/item/1038.png)|1.76|5677|2447|3559|2025|3288|17000
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3026.png)![](/item/3153.png)![](/item/1038.png)|1.76|5555|2414|4451|2532|3288|16700
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3033.png)![](/item/6676.png)![](/item/1001.png)|0.97|3518|3055|3467|3567|3288|15800
+![](/item/6672.png)![](/item/6673.png)![](/item/3124.png)![](/item/3091.png)![](/item/3033.png)![](/item/1001.png)|1.34|3100|2486|5697|4237|5579|15700
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3026.png)![](/item/3033.png)![](/item/1001.png)|1.4|3056|2757|4969|3540|4781|15800
 
 
 
@@ -409,8 +405,12 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3091.png)![](/item/3095.png)![](/item/3153.png)|0.99|6235|2958|4368|4416|4084
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3091.png)![](/item/3072.png)![](/item/3153.png)|1.04|6739|2931|4802|4634|4084
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3091.png)![](/item/3033.png)![](/item/3094.png)|0.86|3513|3475|4284|4986|4084
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3046.png)![](/item/3033.png)![](/item/3091.png)|0.86|3424|3374|4285|4988|4084
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3046.png)![](/item/3033.png)![](/item/3087.png)|0.86|3468|3290|3623|4217|3453
+![](/item/3153.png)![](/item/3124.png)![](/item/3085.png)![](/item/3033.png)![](/item/3091.png)![](/item/6676.png)|0.86|3799|3147|4308|5013|4084
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3072.png)![](/item/3033.png)![](/item/3085.png)|0.87|3734|3356|3873|4452|3453
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3094.png)![](/item/3033.png)![](/item/6673.png)|0.92|3601|3317|5202|5638|4936
 
 
 

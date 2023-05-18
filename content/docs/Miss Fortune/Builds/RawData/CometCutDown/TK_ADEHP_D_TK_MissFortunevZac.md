@@ -17,7 +17,8 @@ bookToc: false
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|10.97|775|596|2228|203|2096|4050
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|9.64|863|489|2111|219|2096|4100
+![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|16.78|857|398|3063|182|3043|4100
 
 
 
@@ -93,8 +94,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|9.61|1633|1068|3193|332|2812|7400
-![](/item/3153.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|13.46|1211|805|3951|293|2812|7400
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|6.97|1208|937|2870|411|2812|7300
 
 
 
@@ -170,7 +170,8 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.55|2464|1424|3796|684|3334|10800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.05|1491|1887|3629|896|3334|10600
+![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|6.42|1606|1145|4870|758|4787|10825
 
 
 
@@ -246,9 +247,11 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/1038.png)|4.53|3541|1871|5170|1140|4567|13900
-![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/1038.png)|5.22|4113|1873|4888|937|3603|13900
-![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/3091.png)![](/item/1001.png)![](/item/1037.png)|6.18|2630|1590|6411|1037|4567|13675
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1037.png)|3.12|2715|2901|3944|1262|3603|13675
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1037.png)|3.13|2715|2685|5056|1616|4567|13875
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|3.82|2926|1956|5381|1407|5175|13800
+![](/item/3036.png)![](/item/3153.png)![](/item/6673.png)![](/item/3124.png)![](/item/1001.png)![](/item/1037.png)|3.88|2799|2497|5828|1500|5175|13675
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3026.png)![](/item/1001.png)![](/item/1037.png)|3.98|1858|2048|5556|1396|5236|13675
 
 
 
@@ -324,12 +327,11 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/6676.png)![](/item/1038.png)|3.48|4850|2307|5518|1585|4809|16900
-![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/3072.png)![](/item/1038.png)|3.97|4790|2252|6566|1654|4809|17100
-![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6676.png)![](/item/1038.png)|3.99|5595|2382|5292|1326|3801|16900
-![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)|4.6|4904|2187|5451|1185|3801|16700
-![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/6609.png)![](/item/3142.png)![](/item/1038.png)|4.73|4291|2204|5771|1220|4178|16500
-![](/item/3153.png)![](/item/3036.png)![](/item/6675.png)![](/item/3026.png)![](/item/3072.png)![](/item/1001.png)|5.19|4120|1845|6343|1222|3801|16200
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/1001.png)|2.47|3038|3430|5282|2135|4809|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6609.png)![](/item/1001.png)|2.53|3147|3340|4551|1798|4178|15600
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6673.png)![](/item/1001.png)|3.1|3127|3276|6073|1960|5446|15800
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6673.png)![](/item/1001.png)|3.13|3127|3065|7780|2487|6890|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/1001.png)|3.16|3082|3148|5974|1890|5526|15800
 
 
 
@@ -405,11 +407,14 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)|2.75|5414|2550|5769|2099|5054
-![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3095.png)![](/item/6676.png)![](/item/6692.png)|2.83|5226|2626|6038|2132|5329
-![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6676.png)![](/item/6609.png)|2.84|6082|2744|5638|1983|4382
-![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/6676.png)![](/item/3142.png)![](/item/3046.png)|3.38|5188|2303|5712|1691|4001
-![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6676.png)![](/item/3026.png)|3.4|6035|2504|6536|1924|4001
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3094.png)|2.06|3598|3903|5521|2681|5054
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3046.png)|2.06|3506|3820|5522|2681|5054
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3085.png)![](/item/6676.png)|2.07|3783|3839|4400|2125|4001
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3085.png)|2.07|3827|3791|4912|2372|4001
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6673.png)![](/item/3094.png)|2.14|3689|3739|6305|2946|5720
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3026.png)![](/item/3085.png)|2.47|3368|3522|6225|2520|5820
+![](/item/3036.png)![](/item/3153.png)![](/item/6673.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)|3.13|3460|3116|8303|2655|7538
+![](/item/3036.png)![](/item/3153.png)![](/item/6673.png)![](/item/3124.png)![](/item/3026.png)![](/item/3046.png)|3.13|3643|3098|8326|2662|7538
 
 
 
