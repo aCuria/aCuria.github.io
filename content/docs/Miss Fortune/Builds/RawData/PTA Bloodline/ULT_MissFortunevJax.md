@@ -17,7 +17,7 @@ bookToc: false
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)|8.3|1309|592|2643|318|2624|3900
+![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)|6.96|1268|597|2642|379|2624|3900
 
 
 
@@ -93,7 +93,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/1055.png)![](/item/1037.png)|4.37|2698|1013|3862|884|3764|7425
+![](/item/3142.png)![](/item/3036.png)![](/item/1055.png)![](/item/1037.png)|4.17|2640|1045|3866|927|3764|7425
 
 
 
@@ -169,7 +169,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/1055.png)![](/item/1038.png)|2.65|4221|1488|4639|1753|4529|10850
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/1055.png)![](/item/1038.png)|2.54|4152|1549|4646|1829|4529|10850
 
 
 
@@ -245,7 +245,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3179.png)![](/item/1038.png)![](/item/1038.png)|1.96|7233|2087|5071|2589|4936|14000
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3179.png)![](/item/1038.png)![](/item/1038.png)|1.88|7145|2212|5082|2700|4936|14000
 
 
 
@@ -321,7 +321,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|1.93|7593|2150|5814|3004|5174|16600
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|1.86|7512|2270|5866|3153|5174|16600
 
 
 
@@ -397,7 +397,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/6695.png)|1.3|9206|2502|6095|4672|5494
+![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/6695.png)|1.25|9117|2673|6143|4897|5494
 
 
 

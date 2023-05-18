@@ -17,7 +17,7 @@ bookToc: false
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|6.79|888|692|2430|357|2319|4050
+![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|6.43|854|683|2429|377|2319|4050
 
 
 
@@ -93,7 +93,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.32|1871|1148|3247|977|3049|7400
+![](/item/3153.png)![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|3.7|2062|1198|3270|882|3049|7550
+![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.7|1833|1197|3270|882|3049|7400
+![](/item/3153.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.26|1531|1016|4004|761|3049|7400
 
 
 
@@ -169,10 +171,8 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/6696.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.57|2872|1650|3748|1458|3490|10925
-![](/item/3153.png)![](/item/3091.png)![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.08|1922|1370|4790|1554|4510|10900
-![](/item/3153.png)![](/item/3026.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|3.16|1852|1352|5836|1848|4510|10600
-![](/item/3153.png)![](/item/3026.png)![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.17|2486|1502|4563|1439|3490|10925
+![](/item/3153.png)![](/item/3142.png)![](/item/6694.png)![](/item/1055.png)![](/item/1037.png)|2.39|3105|1695|3751|1569|3490|10925
+![](/item/3026.png)![](/item/3036.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|3.15|3576|1348|4405|1397|3490|10850
 
 
 
@@ -248,8 +248,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/6676.png)![](/item/3036.png)![](/item/6675.png)![](/item/1001.png)![](/item/1037.png)|1.88|4155|1814|3882|2063|3631|13875
-![](/item/3153.png)![](/item/3026.png)![](/item/3036.png)![](/item/3142.png)![](/item/1038.png)![](/item/1036.png)|2.67|4220|1778|4788|1795|3631|14050
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/1038.png)![](/item/1036.png)|1.71|5000|2117|3880|2264|3631|14050
 
 
 
@@ -325,10 +324,12 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/6696.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)|2.4|7199|2019|4126|1720|3682|16700
-![](/item/3153.png)![](/item/3072.png)![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/1038.png)|2.64|5772|1856|6103|2308|4809|17100
-![](/item/3153.png)![](/item/6676.png)![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/1038.png)|2.67|6981|1987|4726|1773|3682|16900
-![](/item/3153.png)![](/item/3026.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/1038.png)|2.87|6119|1816|5029|1749|3682|16700
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/1038.png)|2.31|7114|2136|4159|1797|3682|16700
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3074.png)![](/item/1038.png)|2.31|6590|2001|4467|1930|3682|17100
+![](/item/3153.png)![](/item/3142.png)![](/item/3072.png)![](/item/3036.png)![](/item/6696.png)![](/item/1038.png)|2.31|6658|2012|4743|2049|3682|16900
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6333.png)![](/item/1038.png)|2.38|6182|1931|4114|1727|3682|17000
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3026.png)![](/item/1038.png)|2.77|6046|1908|5061|1825|3682|16700
+![](/item/3026.png)![](/item/3036.png)![](/item/3142.png)![](/item/3072.png)![](/item/3153.png)![](/item/1038.png)|2.77|5767|1818|5662|2041|3682|16900
 
 
 
@@ -404,12 +405,12 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/3153.png)![](/item/6676.png)![](/item/3072.png)![](/item/3036.png)![](/item/3091.png)![](/item/6692.png)|2.0|6568|2197|6549|3273|5290
-![](/item/3153.png)![](/item/6676.png)![](/item/3074.png)![](/item/3036.png)![](/item/6333.png)![](/item/6692.png)|2.29|6398|2009|4862|2122|4071
-![](/item/3153.png)![](/item/3026.png)![](/item/3091.png)![](/item/3036.png)![](/item/6676.png)![](/item/6671.png)|2.37|4819|2121|6747|2846|5044
-![](/item/3153.png)![](/item/3036.png)![](/item/6696.png)![](/item/6676.png)![](/item/3142.png)![](/item/3026.png)|2.37|7744|2114|5288|2228|3871
-![](/item/3153.png)![](/item/3036.png)![](/item/6696.png)![](/item/3026.png)![](/item/6676.png)![](/item/6692.png)|2.37|6736|2120|5484|2311|4062
-![](/item/3153.png)![](/item/3026.png)![](/item/3036.png)![](/item/3074.png)![](/item/6676.png)![](/item/6692.png)|2.37|6270|1987|5797|2443|4069
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3087.png)![](/item/3091.png)|1.8|6667|2276|5573|3093|5044
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/3115.png)|1.88|7182|2174|4861|2583|3871
+![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3091.png)![](/item/6676.png)![](/item/6692.png)|1.94|6497|2184|6539|3371|5289
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/6333.png)|2.03|7816|2273|4315|2123|3871
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3026.png)![](/item/3095.png)|2.1|6878|2276|5234|2491|3871
+![](/item/3153.png)![](/item/3142.png)![](/item/3036.png)![](/item/6676.png)![](/item/3026.png)![](/item/3072.png)|2.21|7440|2201|5867|2653|3871
 
 
 
