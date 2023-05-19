@@ -2,7 +2,32 @@
 weight: 2
 bookToc: false
 title: "PTA + Bloodline (13.10)"
+draft: true
 ---
+
+
+# This entire page is work in progress due to the massive changes in 13.10.
+
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PTA Bloodline
 
 ## Main advantage 
@@ -74,50 +99,6 @@ I computed everything in the build assuming these runes.
 - Galeforce is mainly good when the active is off cooldown, and you hit someone under 25% HP for bonus damage
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
--|-|-|-|-|-|-|-
-![](/item/6671.png)![](/item/1001.png)![](/item/1055.png)|3.31|1170|921|2635|796|2624|4150
-![](/item/3142.png)![](/item/1055.png)![](/item/1036.png)|3.72|1451|695|2639|709|2624|3900
-![](/item/3095.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.11|1245|759|2637|642|2624|4100
-![](/item/3115.png)![](/item/1001.png)![](/item/1055.png)|4.18|920|588|2635|630|2624|3950
-![](/item/3006.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)![](/item/1036.png)|4.25|1270|654|2639|620|2624|4075
-![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)|4.27|1017|764|2734|640|2624|4050
-![](/item/3087.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.27|1170|713|2639|618|2624|4100
-![](/item/3094.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.28|1057|664|2638|615|2624|4100
-![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.31|1378|714|2639|611|2624|4100
-![](/item/3031.png)![](/item/1001.png)![](/item/1055.png)|4.31|1300|694|2639|611|2624|4150
-![](/item/6695.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|4.31|1357|686|2638|611|2624|4050
-![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)|4.51|1017|601|2638|584|2624|3950
-![](/item/3085.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.51|832|584|2637|584|2624|3900
-![](/item/3179.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|4.52|1341|681|2640|584|2624|3925
-![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)|4.52|1342|679|2754|609|2624|4150
-![](/item/6696.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1325|677|2640|584|2624|4100
-![](/item/3508.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1245|664|2640|584|2624|4000
-![](/item/3004.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1313|669|2640|584|2624|4000
-![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)|4.52|1208|650|2640|584|2624|4150
-![](/item/6692.png)![](/item/1001.png)![](/item/1055.png)|4.52|1241|647|2790|617|2775|3850
-![](/item/6609.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1197|630|3032|671|3018|3900
-![](/item/3161.png)![](/item/1001.png)![](/item/1055.png)|4.52|1197|630|3111|688|3096|4150
-![](/item/3033.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1249|678|2640|584|2624|4100
-![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)|4.52|1245|664|2844|629|2624|3950
-![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1208|663|2640|584|2624|4100
-![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1270|654|2770|613|2624|3900
-![](/item/3814.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1227|642|3150|697|3136|4000
-![](/item/3181.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1233|642|3269|723|3254|4100
-![](/item/3139.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|4.52|1133|624|2639|584|2624|4100
-![](/item/6631.png)![](/item/1001.png)![](/item/1055.png)|4.83|1161|617|3112|644|3096|4050
-![](/item/3046.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.12|982|570|2640|515|2624|3900
-![](/item/3078.png)![](/item/1001.png)![](/item/1055.png)|5.46|1017|568|3112|570|3096|4083
-![](/item/6694.png)![](/item/1001.png)![](/item/1055.png)|5.78|1161|630|2640|457|2624|3950
-![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)|5.78|1125|605|3394|587|3374|4050
-![](/item/6630.png)![](/item/1001.png)![](/item/1055.png)|5.78|1125|605|3212|556|3096|3950
-![](/item/3071.png)![](/item/1001.png)![](/item/1055.png)|5.78|1089|593|3269|565|3254|3850
-![](/item/3748.png)![](/item/1001.png)![](/item/1055.png)|5.78|1038|605|3425|593|3411|4050
-![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.78|1125|605|4116|712|3291|4100
-![](/item/6035.png)![](/item/1001.png)![](/item/1055.png)![](/item/1036.png)|5.78|1089|593|3111|538|3096|4100
-![](/item/6632.png)![](/item/1001.png)![](/item/1055.png)|7.04|1017|568|3112|442|3096|4050
-![](/item/6691.png)![](/item/1001.png)![](/item/1055.png)|99999|1285|82|2675|0|2624|3850
-
 
 # Full Builds
 
@@ -133,53 +114,19 @@ This specific build hits some breakpoint and kills Jinx with just aa > q
 
 
 ### Sorted by increasing ult damage 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3072.png)![](/item/6696.png)|0.16|7092|0|5241|32636|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3091.png)![](/item/3153.png)|0.51|7134|3032|5238|10206|4970
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/3091.png)|0.51|7674|2820|5393|10509|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3115.png)![](/item/3072.png)|0.54|8024|2953|5427|10111|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3091.png)![](/item/3072.png)|0.55|8227|3146|5454|9849|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3091.png)![](/item/3072.png)|0.57|8380|3330|5463|9552|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3153.png)|0.6|8380|3374|5699|9477|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/3095.png)|0.6|8748|3195|5500|9147|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)|0.63|8894|3250|5489|8657|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.63|8913|3181|5717|9017|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)|0.66|9047|3451|5498|8356|4970
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.66|9066|3384|5729|8709|4970
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3074.png)|0.7|9178|3152|5707|8186|4970
+
 
 ### Sorted by increasing AdHp/Tk
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/6671.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/3095.png)![](/item/6696.png)|0.16|7092|0|5241|32636|4970
-![](/item/6671.png)![](/item/3033.png)![](/item/6676.png)![](/item/3095.png)![](/item/3814.png)![](/item/6696.png)|0.16|6840|0|5579|34742|5521
 
 ### Builds that enable aa > q = Kill breakpoint 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3072.png)![](/item/6696.png)|0.16|7092|0|5241|32636|4970
-![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/6695.png)![](/item/6696.png)|0.16|7040|0|5029|31320|4970
-![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3179.png)![](/item/6696.png)|0.16|6840|0|5028|31310|4970
-![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3814.png)![](/item/6696.png)|0.16|6840|0|5579|34742|5521
-![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3072.png)![](/item/6695.png)|0.16|6753|0|5229|32565|4970
-![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3095.png)![](/item/3004.png)![](/item/6696.png)|0.16|6709|0|5027|31304|4970
 
 
 ## Zac (Anti Tank) 
 
-The delta between a yoummus build and rageblade build appears to be too big 
-
-
-
-
 
 ### Ult Damage Build?
-The below build has the highest ult damage into zac. 
-In practice, intuitively I think Prowlers should be replaced with Edge of Night.
-
 
 
 
@@ -216,20 +163,6 @@ I forced the algo to use GA, no idea why nashors sometimes pops up, you have to 
 
 Fastest Kill Time Build 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3031.png)![](/item/3036.png)![](/item/3046.png)![](/item/3095.png)![](/item/6695.png)|2.08|5319|2475|5154|2476|4970
-![](/item/6676.png)![](/item/3031.png)![](/item/3036.png)![](/item/3046.png)![](/item/3095.png)![](/item/6696.png)|2.08|5513|2375|5160|2479|4970
-![](/item/6676.png)![](/item/3046.png)![](/item/3036.png)![](/item/3095.png)![](/item/6695.png)![](/item/6675.png)|2.08|5596|2252|5145|2471|4970
-![](/item/6676.png)![](/item/3046.png)![](/item/3036.png)![](/item/3072.png)![](/item/3095.png)![](/item/6692.png)|2.08|5758|2366|6011|2887|5211
-![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3046.png)![](/item/3072.png)|2.08|6420|2399|5766|2770|4970
-![](/item/6676.png)![](/item/3095.png)![](/item/3036.png)![](/item/3179.png)![](/item/6696.png)![](/item/6692.png)|2.11|6467|2450|5397|2563|5220
-![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3004.png)![](/item/3508.png)|2.11|6482|2438|5135|2439|4970
-![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/6696.png)![](/item/3004.png)![](/item/3091.png)|2.17|6708|2301|5155|2372|4970
-![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/3072.png)![](/item/3087.png)|2.17|6726|2369|5803|2671|4970
-![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/6696.png)![](/item/3087.png)|2.17|6888|2324|5150|2370|4970
-![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3095.png)![](/item/6696.png)![](/item/3072.png)|2.24|7564|2637|5803|2592|4970
-![](/item/6676.png)![](/item/3142.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/6695.png)|2.25|8071|2600|5812|2584|4970
 
 ## Sylas
 
