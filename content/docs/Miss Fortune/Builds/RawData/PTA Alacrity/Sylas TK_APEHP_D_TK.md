@@ -7,18 +7,24 @@ bookToc: false
 **Target Health:1878.0 Armor:63.4 Mr:49.8**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages']**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Rod of Ages']
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.09|1255|761|2402|471|2319|5000
-![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.28|1394|699|4654|562|4233|4800
+![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.35|1297|778|2404|449|2319|5000
+![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.47|1435|713|4651|549|4250|4800
 
 
 
@@ -84,21 +90,28 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:2594.0 Armor:84.2 Mr:60.0**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame']**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame']
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|2.9|2483|1472|3326|1148|3158|8150
-![](/item/6672.png)![](/item/3091.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.14|1828|1095|4157|1322|4034|8200
-![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.15|1758|1314|4219|1341|4034|8125
-![](/item/6672.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.4|2196|1137|4571|1346|4450|8400
-![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|3.4|2155|1102|5998|1766|5587|8325
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.99|1820|1391|3232|1080|3158|8200
+![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.04|1820|1686|3307|1088|3158|8125
+![](/item/6672.png)![](/item/3091.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.15|1872|1112|4160|1321|4034|8200
+![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.19|1800|1326|4221|1323|4034|8125
+![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|3.52|2200|1118|6024|1709|5604|8325
+![](/item/3156.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.59|2115|1306|6154|1713|5604|8150
 
 
 
@@ -164,22 +177,27 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:2852.0 Armor:139.6 Mr:65.2**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass"]**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass"]
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.73|1867|2120|3713|2144|3598|11550
-![](/item/6672.png)![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|2.08|1702|1719|4655|2234|4578|11050
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.09|1867|1947|4744|2264|4578|11750
-![](/item/6672.png)![](/item/3156.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|2.72|1867|1478|6474|2379|6198|10650
-![](/item/3156.png)![](/item/3036.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|2.94|3540|1432|7050|2398|6460|11550
-![](/item/3156.png)![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|3.13|1867|1307|7898|2523|7457|10850
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.78|1902|2136|3714|2085|3598|11550
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|2.11|1737|1735|4656|2204|4578|11050
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.13|1902|1956|4746|2224|4578|11750
+![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|2.8|1902|1494|6498|2319|6216|10650
+![](/item/3156.png)![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|3.21|1902|1318|7928|2466|7478|10850
 
 
 
@@ -245,18 +263,25 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:3110.0 Armor:150.0 Mr:70.2**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap"]**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap"]
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|1.26|2495|2679|5073|4029|4927|14300
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|1.71|2681|2446|7289|4266|6827|13900
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|1.26|2535|2695|5074|4030|4927|14300
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|1.75|2721|2461|7310|4174|6845|13900
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|2.11|2721|2208|8859|4201|8218|14100
 
 
 
@@ -322,18 +347,24 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:3239.0 Armor:155.2 Mr:72.8**
 
 
-**Forced Items ['Mortal Reminder']**
+**Forced Items** ['Mortal Reminder']
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap", 'Void Staff']**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap", 'Void Staff']
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3033.png)![](/item/1001.png)|0.86|2982|3230|4311|5018|4195|16000
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3033.png)![](/item/3156.png)![](/item/1001.png)|1.28|3201|2751|6962|5457|6529|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3033.png)![](/item/1001.png)|0.86|3029|3247|4312|5019|4195|16000
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/3033.png)![](/item/1001.png)|1.3|3248|2763|6981|5377|6545|15800
 
 
 
@@ -399,18 +430,25 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:3368.0 Armor:160.4 Mr:75.3**
 
 
-**Forced Items ['Mortal Reminder']**
+**Forced Items** ['Mortal Reminder']
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap", 'Void Staff']**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap", 'Void Staff']
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/3046.png)![](/item/3033.png)![](/item/6676.png)|0.46|3965|3607|3816|8310|3715
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3033.png)![](/item/3156.png)![](/item/3094.png)|0.86|3705|3136|7329|8530|6927
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3085.png)![](/item/3033.png)![](/item/6676.png)|0.46|3819|3675|3813|8305|3715
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/3033.png)![](/item/3085.png)|0.86|3487|3136|7243|8430|6850
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/3033.png)![](/item/3094.png)|0.87|3753|3147|7348|8477|6944
 
 
 

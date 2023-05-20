@@ -13,14 +13,21 @@ bookToc: false
 **Enemy Items ["Sorcerer's Shoes", 'Rod of Ages']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.ARMOR2: 69>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|4.23|1162|740|2031|480|2019|4825
-![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|4.25|1176|875|2120|498|2019|4925
-![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|5.07|1176|658|2704|533|2686|4825
-![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|5.43|1470|725|4034|742|3832|4850
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.26|1341|799|2032|477|2019|4975
+![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|4.27|1216|888|2121|497|2019|4925
+![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|5.32|1216|671|2704|508|2686|4825
+![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|5.78|1417|727|3006|520|2914|4975
+![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|5.78|1509|738|4055|701|3847|4850
 
 
 
@@ -92,13 +99,19 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ["Sorcerer's Shoes", 'Rod of Ages', "Archangel's Staff"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.ARMOR2: 69>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.62|1966|1503|2795|1729|2764|8250
-![](/item/3156.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)![](/item/1036.png)|2.87|3049|1233|5511|1918|5166|8350
-![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.17|2233|1105|6563|2071|6203|8400
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.67|2011|1524|2796|1671|2764|8250
+![](/item/3156.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)![](/item/1036.png)|2.71|3102|1249|5481|2025|5182|8350
+![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.17|2277|1119|6590|2075|6223|8400
 
 
 
@@ -170,12 +183,18 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ["Sorcerer's Shoes", 'Rod of Ages', "Archangel's Staff", "Rylai's Crystal Scepter"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.ARMOR2: 69>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|0.97|2336|2439|3437|3547|3286|11550
-![](/item/3156.png)![](/item/3142.png)![](/item/3091.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)|2.19|3632|1620|7811|3570|7403|11725
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.0|2380|2457|3438|3443|3286|11550
+![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.56|2587|1840|6056|3885|5858|11050
 
 
 
@@ -247,13 +266,19 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ["Sorcerer's Shoes", 'Rod of Ages', "Archangel's Staff", "Rylai's Crystal Scepter", 'Shadowflame']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.ARMOR2: 69>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|0.52|3659|3112|3712|7148|3550|14100
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1038.png)|0.52|3703|3250|3722|7167|3550|14100
-![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|0.93|3209|2669|6788|7337|6434|14300
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|0.54|3715|3131|3713|6937|3550|14100
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1038.png)|0.54|3764|3270|3723|6956|3550|14100
+![](/item/3153.png)![](/item/3091.png)![](/item/6673.png)![](/item/3124.png)![](/item/1001.png)![](/item/1038.png)|0.95|3259|2681|6790|7131|6434|14300
 
 
 
@@ -325,13 +350,19 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ["Sorcerer's Shoes", 'Rod of Ages', "Archangel's Staff", "Rylai's Crystal Scepter", 'Shadowflame', "Rabadon's Deathcap"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.ARMOR2: 69>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3115.png)![](/item/1001.png)|0.46|3593|3515|3908|8510|3739|16000
-![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/1038.png)|0.46|3742|3262|5091|11088|4865|16800
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3156.png)![](/item/1001.png)|0.51|4022|3418|7070|13735|6592|15600
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3115.png)![](/item/1001.png)|0.46|3653|3535|3909|8452|3739|16000
+![](/item/3153.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3124.png)![](/item/1038.png)|0.46|3803|3342|5091|11009|4865|16800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3156.png)![](/item/1001.png)|0.53|4082|3439|7089|13367|6609|15600
 
 
 
@@ -403,19 +434,22 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ["Sorcerer's Shoes", 'Rod of Ages', "Archangel's Staff", "Rylai's Crystal Scepter", 'Shadowflame', "Rabadon's Deathcap"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.ARMOR2: 69>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3094.png)|0.46|4339|4149|5337|11624|5102
-![](/item/3124.png)![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3046.png)![](/item/3091.png)|0.46|4227|4047|5340|11629|5102
-![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6676.png)|0.46|4797|3798|5367|11688|5102
-![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6693.png)|0.46|4797|3666|5370|11695|5102
-![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6696.png)|0.46|4797|3666|5370|11695|5102
-![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3072.png)|0.46|4619|3664|5689|12390|5102
-![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6673.png)|0.46|4115|3550|7434|16189|7070
-![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3156.png)|0.46|4283|3453|9017|19636|8416
-![](/item/3091.png)![](/item/3156.png)![](/item/3046.png)![](/item/3036.png)![](/item/3153.png)![](/item/3124.png)|0.46|4507|3436|9107|19829|8492
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3094.png)|0.46|4400|4169|5339|11626|5102
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3046.png)![](/item/3091.png)|0.46|4287|4068|5341|11632|5102
+![](/item/6672.png)![](/item/3124.png)![](/item/3072.png)![](/item/3036.png)![](/item/3085.png)![](/item/3091.png)|0.46|4680|3687|5351|11652|5102
+![](/item/6672.png)![](/item/3124.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/6673.png)|0.46|4175|3485|7187|15652|7070
+![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)|0.46|4344|3395|8658|18855|8437
+![](/item/3153.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3124.png)![](/item/3156.png)|0.46|4344|3534|9037|19675|8437
 
 
 

@@ -13,12 +13,18 @@ bookToc: false
 **Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.51|1333|793|2335|517|2319|4975
-![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|8.44|1507|737|4576|542|4281|4850
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.59|1375|810|2335|508|2319|4975
+![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|8.3|1548|751|4566|550|4298|4850
 
 
 
@@ -90,15 +96,21 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.04|2679|1274|3244|1066|3158|8200
-![](/item/3153.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|3.1|2483|1472|3429|1105|3158|8150
-![](/item/6672.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.22|1951|1141|4125|1281|4034|8250
-![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.28|1758|1314|4332|1322|4034|8125
-![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.63|2237|1132|5998|1651|5619|8200
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.67|1940|1444|3206|1199|3158|8250
+![](/item/6672.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.25|1995|1157|4127|1268|4034|8250
+![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.31|1800|1326|4335|1309|4034|8125
+![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.78|2281|1148|6023|1593|5637|8200
+![](/item/3156.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.86|2115|1306|6288|1630|5604|8150
 
 
 
@@ -170,15 +182,21 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.82|1855|2109|3936|2160|3745|11550
-![](/item/6672.png)![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.15|1855|1786|4828|2243|4765|11450
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.18|1855|1937|5041|2311|4765|11750
-![](/item/6672.png)![](/item/3156.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.87|2019|1547|6751|2351|6478|11050
-![](/item/6672.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.14|2005|1226|8254|2627|7834|11050
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.88|1891|2124|3937|2099|3745|11550
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.21|1891|1803|4829|2182|4765|11450
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.24|1891|1946|5044|2247|4765|11750
+![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.96|2055|1563|6773|2287|6496|11050
+![](/item/6672.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.15|2040|1239|8282|2632|7855|11050
 
 
 
@@ -250,13 +268,18 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|1.27|2481|2666|5359|4234|5117|14300
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|1.79|2665|2433|7610|4249|7026|13900
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|2.15|2665|2187|9241|4306|8435|14100
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|1.28|2521|2681|5361|4198|5117|14300
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|2.21|2705|2197|9268|4201|8457|14100
 
 
 
@@ -328,13 +351,18 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap", 'Void Staff']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3033.png)![](/item/1001.png)|0.86|2965|3215|4543|5267|4349|16000
-![](/item/6672.png)![](/item/3091.png)![](/item/3124.png)![](/item/3033.png)![](/item/3156.png)![](/item/1001.png)|1.31|3184|2559|6932|5297|6713|15500
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3156.png)![](/item/3033.png)![](/item/1001.png)|1.33|3184|2739|7261|5476|6713|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3033.png)![](/item/1001.png)|0.87|3012|3232|4544|5203|4349|16000
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3156.png)![](/item/3033.png)![](/item/1001.png)|1.36|3231|2751|7281|5339|6730|15800
 
 
 
@@ -406,11 +434,18 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap", 'Void Staff']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.COSMIC: 61>, <RUNE.SECOND_WIND: 47>, <RUNE.UNFLINCHING: 51>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.MR1: 70>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3124.png)![](/item/3094.png)![](/item/3033.png)![](/item/6676.png)|0.49|4044|3690|4012|8207|3847
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3085.png)![](/item/3033.png)![](/item/6676.png)|0.47|3799|3659|4009|8529|3847
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3156.png)![](/item/3033.png)![](/item/3085.png)|0.86|3468|3123|7532|8765|7035
 
 
 

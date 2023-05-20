@@ -7,21 +7,27 @@ bookToc: false
 **Target Health:1348.0 Armor:69.4 Mr:46.3**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Duskblade of Draktharr']**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr']
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.43|1405|691|2391|696|2300|5025
-![](/item/6692.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|4.02|1242|638|2500|621|2435|4750
-![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.28|1284|668|3390|792|3319|4975
-![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|4.85|1132|599|4264|878|4178|5000
-![](/item/8001.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|7.03|926|529|4663|663|4567|5025
+![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.54|1442|704|2393|676|2300|5025
+![](/item/6692.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|4.29|1281|651|2503|583|2436|4750
+![](/item/3161.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|4.29|1237|634|2778|647|2714|5050
+![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.47|1322|682|3392|759|3319|4975
+![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.47|1169|611|4267|780|4178|5000
 
 
 
@@ -87,25 +93,27 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Target Health:1764.0 Armor:86.2 Mr:54.5**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang"]**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang"]
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|1.52|1637|1296|3039|1994|2997|8200
-![](/item/6609.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.25|2412|1014|3419|1518|3339|8125
-![](/item/6673.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|2.29|2023|1064|4458|1946|4383|8400
-![](/item/8001.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|2.57|2068|909|5669|2205|5553|8250
-![](/item/6673.png)![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.79|1985|905|5883|2107|5771|8350
-![](/item/3026.png)![](/item/6609.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|3.19|1873|847|5991|1878|5883|8325
-![](/item/3026.png)![](/item/6630.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.19|1873|847|6115|1916|5972|8250
-![](/item/6673.png)![](/item/8001.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)|3.19|1759|833|7706|2415|7582|8425
-![](/item/3026.png)![](/item/8001.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|4.48|1474|724|9571|2137|9416|8025
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|1.57|1677|1314|3040|1931|2997|8200
+![](/item/6673.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|2.38|2065|1081|4460|1876|4383|8400
+![](/item/3026.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|2.61|1687|920|5528|2120|5441|8450
+![](/item/6673.png)![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.8|2026|918|5885|2101|5771|8350
+![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.19|2026|918|7342|2300|7231|8400
 
 
 
@@ -171,26 +179,30 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Target Health:1972.0 Armor:94.6 Mr:58.6**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver']**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver']
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/6671.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|0.62|3161|1897|3570|5754|3513|11625
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|0.99|2135|1687|5143|5197|5096|11250
-![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|1.43|1916|1463|6373|4460|6308|10850
-![](/item/8001.png)![](/item/3095.png)![](/item/6671.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.62|2187|1492|6445|3989|6350|11550
-![](/item/6673.png)![](/item/6333.png)![](/item/6671.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|1.7|2526|1472|6740|3960|6637|11800
-![](/item/6673.png)![](/item/3026.png)![](/item/6671.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|1.7|2451|1446|8432|4955|8334|11500
-![](/item/6673.png)![](/item/8001.png)![](/item/6671.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)|2.24|2224|1370|8786|3918|8663|11525
-![](/item/8001.png)![](/item/3142.png)![](/item/3026.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|2.45|2548|1090|10901|4444|10714|11250
-![](/item/6673.png)![](/item/6333.png)![](/item/8001.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.94|1961|929|11469|3902|11281|10850
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.51|1888|905|13859|3948|13661|10550
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|0.91|1919|1773|3554|3917|3513|11050
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.02|2174|1705|5144|5040|5096|11250
+![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|1.47|1956|1482|6374|4328|6308|10850
+![](/item/6673.png)![](/item/6333.png)![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.96|2731|1175|6768|3461|6637|11750
+![](/item/6673.png)![](/item/3026.png)![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.96|2650|1149|8459|4314|8334|11450
+![](/item/6673.png)![](/item/3026.png)![](/item/3078.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.54|2261|1027|9028|3560|8901|11383
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.55|2290|1037|9218|3617|9090|11150
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.78|2326|1048|10481|3764|10320|11350
 
 
 
@@ -256,31 +268,35 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Target Health:2180.0 Armor:103.0 Mr:62.8**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge']**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge']
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|0.46|2735|2470|3973|8652|3898|14300
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|0.47|2816|2202|5726|12095|5684|14000
-![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|0.49|2775|2199|7111|14426|7013|14100
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/6333.png)![](/item/1001.png)![](/item/1038.png)|0.97|2938|1933|7403|7616|7327|14100
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|0.97|2857|1900|9354|9623|9282|13800
-![](/item/6673.png)![](/item/8001.png)![](/item/6671.png)![](/item/6676.png)![](/item/1038.png)![](/item/1038.png)|1.14|3567|1808|9685|8518|9565|14500
-![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/8001.png)![](/item/1001.png)![](/item/1053.png)|1.4|2247|1526|11881|8465|11782|12900
-![](/item/6673.png)![](/item/6333.png)![](/item/6671.png)![](/item/8001.png)![](/item/1038.png)![](/item/1038.png)|1.67|3105|1569|12496|7499|12331|14800
-![](/item/8001.png)![](/item/3142.png)![](/item/3026.png)![](/item/3071.png)![](/item/1053.png)![](/item/1038.png)|1.93|3484|1270|13061|6767|12867|13900
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/6672.png)![](/item/1001.png)![](/item/1038.png)|2.09|2572|1217|15242|7303|15077|13100
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/6692.png)![](/item/1001.png)![](/item/1038.png)|2.4|2983|1178|15638|6519|15420|13200
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/3078.png)![](/item/1001.png)![](/item/1038.png)|2.55|2547|1043|16130|6330|15915|13433
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/3071.png)![](/item/1001.png)![](/item/1038.png)|2.87|2555|1046|16410|5708|16195|13200
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/3748.png)![](/item/1001.png)![](/item/1038.png)|2.87|2599|1097|16693|5807|16474|13400
-![](/item/6673.png)![](/item/6333.png)![](/item/8001.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|2.87|2595|1057|18813|6544|18545|13400
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|0.46|2778|2486|3973|8653|3898|14300
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|0.49|2860|2220|5727|11780|5684|14000
+![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|0.51|2819|2215|7112|14020|7013|14100
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/6333.png)![](/item/1001.png)![](/item/1038.png)|1.0|2982|1952|7404|7391|7327|14100
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|1.0|2900|1918|9355|9339|9282|13800
+![](/item/6673.png)![](/item/6672.png)![](/item/3026.png)![](/item/6692.png)![](/item/1001.png)![](/item/1038.png)|1.64|3520|1535|9666|5901|9538|13700
+![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/1001.png)![](/item/1038.png)|1.73|3660|1579|9676|5605|9543|13700
+![](/item/6673.png)![](/item/3026.png)![](/item/3094.png)![](/item/6692.png)![](/item/1038.png)![](/item/1038.png)|1.73|3799|1529|9686|5611|9548|14700
+![](/item/6673.png)![](/item/3026.png)![](/item/6675.png)![](/item/3161.png)![](/item/1001.png)![](/item/1038.png)|1.82|3579|1333|10020|5491|9869|14400
+![](/item/6673.png)![](/item/3026.png)![](/item/6675.png)![](/item/3071.png)![](/item/1001.png)![](/item/1038.png)|1.82|3446|1295|10210|5596|10065|14100
+![](/item/6673.png)![](/item/6333.png)![](/item/6675.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|1.91|3490|1308|11598|6071|11417|14300
+![](/item/6673.png)![](/item/3026.png)![](/item/3078.png)![](/item/6333.png)![](/item/1001.png)![](/item/1038.png)|2.23|3025|1181|12327|5516|12139|14233
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/1001.png)![](/item/1038.png)|2.4|3033|1183|12568|5227|12380|14000
 
 
 
@@ -346,30 +362,35 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Target Health:2284.0 Armor:107.2 Mr:64.8**
 
 
-**Forced Items ['Mortal Reminder']**
+**Forced Items** ['Mortal Reminder']
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge', "Lord Dominik's Regards"]**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge', "Lord Dominik's Regards"]
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/1001.png)|0.46|3155|2827|3455|7525|3383|16000
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3115.png)![](/item/3033.png)![](/item/1001.png)|0.46|3124|2351|5004|10896|4966|15700
-![](/item/3026.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)|0.48|3201|2332|5981|12573|5889|16000
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3033.png)![](/item/8001.png)![](/item/1001.png)|0.49|2783|2408|6092|12461|5990|15300
-![](/item/6673.png)![](/item/6333.png)![](/item/6671.png)![](/item/3033.png)![](/item/6672.png)![](/item/1038.png)|0.55|4216|2354|6243|11452|6165|17000
-![](/item/6673.png)![](/item/3026.png)![](/item/6671.png)![](/item/3033.png)![](/item/6672.png)![](/item/1038.png)|0.55|4116|2318|7919|14526|7844|16700
-![](/item/6673.png)![](/item/8001.png)![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/1038.png)|0.6|4301|2247|8397|13963|8305|16200
-![](/item/3026.png)![](/item/8001.png)![](/item/3033.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)|0.98|2830|1953|9986|10213|9830|15300
-![](/item/6673.png)![](/item/6333.png)![](/item/6671.png)![](/item/8001.png)![](/item/3033.png)![](/item/1038.png)|1.13|3685|1923|10443|9280|10311|16500
-![](/item/6673.png)![](/item/3026.png)![](/item/6671.png)![](/item/3033.png)![](/item/8001.png)![](/item/1038.png)|1.65|3588|1893|12839|7785|12678|16200
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/3078.png)![](/item/3033.png)![](/item/1001.png)|2.12|3059|1255|13548|6394|13357|15133
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/3071.png)![](/item/3033.png)![](/item/1001.png)|2.29|3041|1250|13774|6012|13583|14900
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/3748.png)![](/item/3033.png)![](/item/1001.png)|2.29|3093|1311|13972|6098|13810|15100
-![](/item/6673.png)![](/item/6333.png)![](/item/8001.png)![](/item/3026.png)![](/item/3033.png)![](/item/1001.png)|2.39|3087|1264|15430|6467|15198|15100
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/1001.png)|0.46|3205|2845|3456|7526|3383|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3115.png)![](/item/3033.png)![](/item/1001.png)|0.47|3174|2331|5005|10647|4966|15700
+![](/item/3026.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)|0.49|3252|2344|5981|12236|5889|16000
+![](/item/6673.png)![](/item/6333.png)![](/item/3091.png)![](/item/3033.png)![](/item/3124.png)![](/item/1001.png)|0.96|3437|2015|6237|6474|6165|16000
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)|0.96|3345|1989|7914|8214|7844|15700
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6692.png)![](/item/1001.png)|1.13|4101|1885|8303|7379|8052|15700
+![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/3033.png)![](/item/1001.png)|1.17|4420|1892|8164|7006|8056|15400
+![](/item/6673.png)![](/item/3026.png)![](/item/3094.png)![](/item/6692.png)![](/item/3033.png)![](/item/1038.png)|1.17|4587|1854|8172|7013|8060|16400
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/1038.png)|1.23|5193|1890|8477|6887|8359|16300
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3091.png)![](/item/1001.png)|1.57|3510|1541|9529|6076|9404|15800
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/6692.png)![](/item/1001.png)|1.8|4262|1633|9810|5438|9658|15700
+![](/item/6673.png)![](/item/3026.png)![](/item/3078.png)![](/item/6333.png)![](/item/3033.png)![](/item/1001.png)|2.1|3622|1425|10132|4823|9974|15933
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3033.png)![](/item/1001.png)|2.24|3603|1420|10321|4610|10163|15700
 
 
 
@@ -435,35 +456,42 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Target Health:2388.0 Armor:111.4 Mr:66.8**
 
 
-**Forced Items ['Mortal Reminder']**
+**Forced Items** ['Mortal Reminder']
 
 
-**Enemy Items ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge', "Lord Dominik's Regards"]**
+**Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge', "Lord Dominik's Regards"]
+
+
+**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3095.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)![](/item/6693.png)![](/item/3142.png)|0.14|7606|0|3677|25996|3583
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3046.png)![](/item/3033.png)![](/item/3153.png)|0.46|3673|3007|5411|11784|5251
-![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3153.png)![](/item/3033.png)![](/item/3046.png)|0.46|3626|2878|6324|13771|6224
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3033.png)![](/item/8001.png)![](/item/3046.png)|0.46|3204|2731|6405|13949|6294
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/6333.png)![](/item/3085.png)![](/item/3033.png)|0.47|3626|2558|6557|14047|6499
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3085.png)|0.47|3532|2521|8335|17857|8280
-![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3094.png)![](/item/3033.png)![](/item/8001.png)|0.5|3392|2496|8796|17642|8733
-![](/item/6673.png)![](/item/3026.png)![](/item/6671.png)![](/item/3033.png)![](/item/6672.png)![](/item/3814.png)|0.54|4675|2546|8887|16454|8802
-![](/item/6673.png)![](/item/3026.png)![](/item/6671.png)![](/item/3033.png)![](/item/6672.png)![](/item/3181.png)|0.54|4478|2461|9004|16671|8922
-![](/item/6673.png)![](/item/6333.png)![](/item/6671.png)![](/item/3033.png)![](/item/6672.png)![](/item/3026.png)|0.54|4429|2443|10001|18517|9904
-![](/item/3026.png)![](/item/8001.png)![](/item/3033.png)![](/item/3072.png)![](/item/6672.png)![](/item/6671.png)|0.54|4331|2407|10608|19640|10327
-![](/item/6673.png)![](/item/8001.png)![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/6333.png)|0.6|4663|2373|10932|18365|10808
-![](/item/6673.png)![](/item/8001.png)![](/item/6671.png)![](/item/6676.png)![](/item/3033.png)![](/item/3026.png)|0.6|4552|2338|13438|22576|13320
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/6672.png)![](/item/3033.png)![](/item/6692.png)|1.06|4469|1923|13785|13008|13626
-![](/item/6673.png)![](/item/3026.png)![](/item/6671.png)![](/item/3033.png)![](/item/8001.png)![](/item/3814.png)|1.11|4107|2092|14210|12758|14065
-![](/item/6673.png)![](/item/3026.png)![](/item/6671.png)![](/item/3033.png)![](/item/8001.png)![](/item/3748.png)|1.11|3903|2048|14604|13113|14467
-![](/item/6673.png)![](/item/6333.png)![](/item/6671.png)![](/item/8001.png)![](/item/3033.png)![](/item/3026.png)|1.11|3896|2001|16097|14453|15933
-![](/item/6673.png)![](/item/6333.png)![](/item/8001.png)![](/item/3026.png)![](/item/3033.png)![](/item/6692.png)|1.72|4471|1710|16537|9615|16306
-![](/item/6673.png)![](/item/8001.png)![](/item/3026.png)![](/item/3078.png)![](/item/3033.png)![](/item/6333.png)|1.91|3756|1475|16992|8904|16756
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/3094.png)|0.46|3723|3276|3661|7974|3583
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3085.png)![](/item/3033.png)![](/item/3153.png)|0.46|3536|3071|5406|11774|5251
+![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3153.png)![](/item/3033.png)![](/item/3085.png)|0.46|3489|2943|6321|13765|6224
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/6333.png)![](/item/3085.png)![](/item/3033.png)|0.48|3676|2642|6558|13715|6499
+![](/item/6672.png)![](/item/3124.png)![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3085.png)|0.48|3583|2605|8336|17434|8280
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6692.png)![](/item/6672.png)|0.54|4977|2397|8739|16180|8507
+![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/3033.png)![](/item/6672.png)|0.56|5329|2454|8609|15448|8511
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/6692.png)|0.6|6217|2438|8626|14491|8513
+![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/3033.png)![](/item/6676.png)|0.62|6351|2579|8631|14007|8516
+![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/3033.png)![](/item/3004.png)|0.62|5637|2388|8622|13992|8523
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3074.png)![](/item/6676.png)![](/item/6692.png)|0.65|6519|2379|8800|13527|8524
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)![](/item/6676.png)![](/item/3142.png)|0.65|6402|2306|8871|13636|8762
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)![](/item/6676.png)![](/item/6692.png)|0.65|6261|2299|9110|14003|9000
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)![](/item/6676.png)![](/item/6692.png)|0.65|6636|2407|9151|14067|9036
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|0.65|6278|2269|10033|15422|9904
+![](/item/6673.png)![](/item/3026.png)![](/item/3078.png)![](/item/6333.png)![](/item/3033.png)![](/item/3095.png)|1.03|4471|1928|10612|10338|10480
+![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/6333.png)|1.22|5627|2026|10683|8776|10528
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/6692.png)![](/item/3814.png)|1.22|5475|2011|10962|9005|10809
+![](/item/6673.png)![](/item/3026.png)![](/item/3078.png)![](/item/6333.png)![](/item/3033.png)![](/item/3814.png)|1.58|4552|1713|11267|7137|11105
+![](/item/6673.png)![](/item/3026.png)![](/item/3078.png)![](/item/6333.png)![](/item/3033.png)![](/item/3071.png)|1.58|4265|1629|11402|7223|11249
 
 
 

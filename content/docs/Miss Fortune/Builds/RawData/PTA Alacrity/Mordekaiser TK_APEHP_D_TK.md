@@ -7,18 +7,23 @@ bookToc: false
 **Target Health:1623.0 Armor:92.4 Mr:46.3**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Plated Steelcaps', 'Hextech Rocketbelt']**
+**Enemy Items** ['Plated Steelcaps', 'Hextech Rocketbelt']
+
+
+**Enemy Runes** [<RUNE.CONQUEROR: 4>, <RUNE.TRIUMPH: 6>, <RUNE.TENACITY: 9>, <RUNE.LAST_STAND: 13>, <RUNE.CONDITIONING: 46>, <RUNE.REVITALIZE: 50>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.09|1024|610|2382|467|2319|5000
-![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.28|1138|545|4555|550|4233|4800
+![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|4.4|1058|624|2378|541|2319|5000
 
 
 
@@ -84,20 +89,26 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:2439.0 Armor:109.2 Mr:54.5**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter"]**
+**Enemy Items** ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter"]
+
+
+**Enemy Runes** [<RUNE.CONQUEROR: 4>, <RUNE.TRIUMPH: 6>, <RUNE.TENACITY: 9>, <RUNE.LAST_STAND: 13>, <RUNE.CONDITIONING: 46>, <RUNE.REVITALIZE: 50>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.44|1585|1262|3096|1269|3049|8200
-![](/item/6672.png)![](/item/3091.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.14|1625|966|4019|1278|3924|8200
-![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.15|1563|1125|4067|1293|3924|8125
-![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|3.4|1916|949|5758|1695|5443|8325
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.52|1623|1279|3097|1230|3049|8200
+![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.14|1623|1079|4011|1276|3924|8400
+![](/item/6672.png)![](/item/3091.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.15|1665|980|4021|1277|3924|8200
+![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|3.52|1956|962|5781|1640|5460|8325
 
 
 
@@ -163,19 +174,25 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:2997.0 Armor:117.6 Mr:58.6**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace']**
+**Enemy Items** ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace']
+
+
+**Enemy Runes** [<RUNE.CONQUEROR: 4>, <RUNE.TRIUMPH: 6>, <RUNE.TENACITY: 9>, <RUNE.LAST_STAND: 13>, <RUNE.CONDITIONING: 46>, <RUNE.REVITALIZE: 50>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.33|2036|2213|3449|2594|3353|11550
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.69|2036|2031|4473|2639|4333|11750
-![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|2.29|2036|1505|6101|2664|5883|10650
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.37|2074|2228|3450|2522|3353|11550
+![](/item/3091.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.73|2074|2040|4474|2583|4333|11750
+![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|2.36|2074|1522|6122|2595|5900|10650
 
 
 
@@ -241,19 +258,24 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:3205.0 Armor:171.0 Mr:62.8**
 
 
-**Forced Items []**
+**Forced Items** []
 
 
-**Enemy Items ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace', "Zhonya's Hourglass"]**
+**Enemy Items** ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace', "Zhonya's Hourglass"]
+
+
+**Enemy Runes** [<RUNE.CONQUEROR: 4>, <RUNE.TRIUMPH: 6>, <RUNE.TENACITY: 9>, <RUNE.LAST_STAND: 13>, <RUNE.CONDITIONING: 46>, <RUNE.REVITALIZE: 50>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|1.26|2345|2565|4650|3693|4537|14300
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|1.27|2415|2097|6427|5047|6372|14000
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|1.31|2520|2315|6637|5072|6314|13900
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|1.26|2383|2579|4651|3693|4537|14300
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|1.29|2453|2113|6427|4972|6372|14000
 
 
 
@@ -319,21 +341,27 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:3959.0 Armor:175.2 Mr:64.8**
 
 
-**Forced Items ["Lord Dominik's Regards"]**
+**Forced Items** ["Lord Dominik's Regards"]
 
 
-**Enemy Items ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace', "Zhonya's Hourglass", "Anathema's Chains"]**
+**Enemy Items** ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace', "Zhonya's Hourglass", "Anathema's Chains"]
+
+
+**Enemy Runes** [<RUNE.CONQUEROR: 4>, <RUNE.TRIUMPH: 6>, <RUNE.TENACITY: 9>, <RUNE.LAST_STAND: 13>, <RUNE.CONDITIONING: 46>, <RUNE.REVITALIZE: 50>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6676.png)![](/item/1001.png)|1.3|3866|2685|3710|2857|3552|15800
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/1001.png)|1.66|3325|2678|4841|2917|4638|16000
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/3036.png)![](/item/1001.png)|2.07|3424|2003|6608|3192|6501|15700
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6673.png)![](/item/1001.png)|2.08|3424|2339|6948|3347|6501|16000
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/3156.png)![](/item/1001.png)|2.48|3573|2260|8659|3497|7796|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6676.png)![](/item/1001.png)|1.33|3926|2699|3711|2783|3552|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/1001.png)|1.66|3378|2692|4842|2918|4638|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/3036.png)![](/item/1001.png)|2.09|3478|2018|6610|3169|6501|15700
+![](/item/3091.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6673.png)![](/item/1001.png)|2.1|3478|2347|6950|3312|6501|16000
+![](/item/3091.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3156.png)![](/item/1001.png)|2.5|3627|2269|8684|3476|7816|15800
 
 
 
@@ -399,24 +427,26 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Target Health:4063.0 Armor:179.4 Mr:66.8**
 
 
-**Forced Items ["Lord Dominik's Regards"]**
+**Forced Items** ["Lord Dominik's Regards"]
 
 
-**Enemy Items ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace', "Zhonya's Hourglass", "Anathema's Chains"]**
+**Enemy Items** ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace', "Zhonya's Hourglass", "Anathema's Chains"]
+
+
+**Enemy Runes** [<RUNE.CONQUEROR: 4>, <RUNE.TRIUMPH: 6>, <RUNE.TENACITY: 9>, <RUNE.LAST_STAND: 13>, <RUNE.CONDITIONING: 46>, <RUNE.REVITALIZE: 50>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
+
+
+**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
 
 
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3094.png)|1.26|3899|3063|5066|4023|4872
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3046.png)|1.26|3799|2965|5068|4025|4872
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/3094.png)![](/item/6676.png)|1.26|4528|2827|5094|4046|4872
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3094.png)![](/item/3036.png)![](/item/6673.png)|1.27|4000|2915|5522|4359|5232
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3156.png)![](/item/3085.png)![](/item/3036.png)|1.66|3849|2753|7296|4397|6701
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3156.png)![](/item/3046.png)![](/item/3036.png)|1.66|4050|2752|7374|4444|6763
-![](/item/6672.png)![](/item/3091.png)![](/item/3036.png)![](/item/3153.png)![](/item/3156.png)![](/item/3142.png)|2.1|5698|2129|9572|4562|8567
-![](/item/3091.png)![](/item/3153.png)![](/item/3072.png)![](/item/3036.png)![](/item/3156.png)![](/item/3142.png)|2.28|6352|2058|10702|4691|8623
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3094.png)|1.26|3954|3076|5067|4024|4872
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3036.png)![](/item/3046.png)|1.26|3853|2979|5069|4026|4872
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3085.png)![](/item/3036.png)![](/item/6673.png)|1.26|3752|2885|5517|4381|5232
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3094.png)![](/item/3036.png)![](/item/3156.png)|1.28|4206|2863|7359|5753|6810
 
 
 

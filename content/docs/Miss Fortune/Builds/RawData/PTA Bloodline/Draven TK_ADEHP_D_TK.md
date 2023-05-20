@@ -13,12 +13,18 @@ bookToc: false
 **Enemy Items ["Berserker's Greaves", 'Essence Reaver']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.LAST_STAND: 13>, <RUNE.EYEBALL: 21>, <RUNE.TREASURE: 24>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|3.58|1585|761|2640|738|2624|4850
-![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.44|1303|679|3886|874|3787|4975
+![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|3.72|1629|776|2641|709|2624|4850
+![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.52|1342|693|3888|860|3787|4975
 
 
 
@@ -90,12 +96,19 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ["Berserker's Greaves", 'Essence Reaver', 'Infinity Edge']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.LAST_STAND: 13>, <RUNE.EYEBALL: 21>, <RUNE.TREASURE: 24>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.62|1761|1393|3853|2383|3813|8250
-![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.44|2001|915|8756|2544|8505|8400
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.67|1801|1411|3853|2303|3813|8250
+![](/item/3142.png)![](/item/3026.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|2.9|2481|1041|6691|2307|6587|8200
+![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.6|2042|928|8761|2433|8505|8400
 
 
 
@@ -167,11 +180,17 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ["Berserker's Greaves", 'Essence Reaver', 'Infinity Edge', 'Immortal Shieldbow']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.LAST_STAND: 13>, <RUNE.EYEBALL: 21>, <RUNE.TREASURE: 24>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.34|2071|1913|4707|3511|4655|11450
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.38|2111|1931|4708|3413|4655|11450
 
 
 
@@ -243,13 +262,19 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ["Berserker's Greaves", 'Essence Reaver', 'Infinity Edge', 'Immortal Shieldbow', 'Bloodthirster']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.LAST_STAND: 13>, <RUNE.EYEBALL: 21>, <RUNE.TREASURE: 24>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|0.95|3109|2889|5411|5683|5157|14100
-![](/item/3142.png)![](/item/3033.png)![](/item/6673.png)![](/item/6676.png)![](/item/1038.png)![](/item/1038.png)|1.28|6498|2512|7491|5833|7166|14700
-![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|1.38|2781|2467|9105|6620|8761|14100
+![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|0.98|3158|2908|5413|5519|5157|14100
+![](/item/3142.png)![](/item/3033.png)![](/item/6673.png)![](/item/6676.png)![](/item/1038.png)![](/item/1038.png)|1.34|6577|2536|7494|5607|7166|14700
+![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|1.42|2825|2484|9108|6431|8761|14100
 
 
 
@@ -321,12 +346,20 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ["Berserker's Greaves", 'Essence Reaver', 'Infinity Edge', 'Immortal Shieldbow', 'Bloodthirster', 'Guardian Angel']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.LAST_STAND: 13>, <RUNE.EYEBALL: 21>, <RUNE.TREASURE: 24>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/3115.png)![](/item/1001.png)|0.86|2718|2988|5722|6660|5496|16000
-![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)|0.94|2912|2962|7995|8470|7625|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3085.png)![](/item/3033.png)![](/item/1038.png)|0.86|2874|2807|5550|6460|5496|16500
+![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/3115.png)![](/item/1001.png)|0.86|2763|3005|5723|6636|5496|16000
+![](/item/3085.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1038.png)|0.86|2874|2832|5736|6651|5496|16800
+![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)|0.97|2957|2980|7997|8228|7625|15800
 
 
 
@@ -398,12 +431,18 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ["Berserker's Greaves", 'Essence Reaver', 'Infinity Edge', 'Immortal Shieldbow', 'Bloodthirster', 'Guardian Angel']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.LAST_STAND: 13>, <RUNE.EYEBALL: 21>, <RUNE.TREASURE: 24>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)|0.46|3309|3609|6057|13192|5844
-![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/3085.png)![](/item/6676.png)|0.46|3587|3494|6080|13238|5844
+![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)|0.46|3355|3627|6059|13195|5844
+![](/item/6672.png)![](/item/3124.png)![](/item/3033.png)![](/item/3153.png)![](/item/3072.png)![](/item/3085.png)|0.47|3566|3540|6374|13560|5844
 
 
 

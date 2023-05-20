@@ -13,12 +13,19 @@ bookToc: false
 **Enemy Items ['Plated Steelcaps', 'Heartsteel']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.SECOND_WIND: 47>, <RUNE.OVERGROWTH: 49>, <RUNE.FOOTWEAR: 55>, <RUNE.APPROACH_VELOCITY: 62>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|7.22|1149|672|2335|323|2319|4975
-![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|11.25|1299|603|4506|400|4235|4850
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|7.62|1185|686|2335|306|2319|4975
+![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|7.84|1075|841|2458|313|2319|4925
+![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|12.08|1334|613|4530|375|4252|4850
 
 
 
@@ -90,12 +97,18 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Plated Steelcaps', 'Heartsteel', 'Sunfire Aegis']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.SECOND_WIND: 47>, <RUNE.OVERGROWTH: 49>, <RUNE.FOOTWEAR: 55>, <RUNE.APPROACH_VELOCITY: 62>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.55|1410|1239|3203|901|3158|8250
-![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|6.03|1649|867|5892|977|5572|8200
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.67|1443|1254|3204|872|3158|8250
+![](/item/6672.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|6.31|1681|878|5916|937|5590|8200
 
 
 
@@ -167,13 +180,17 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Plated Steelcaps', 'Heartsteel', 'Sunfire Aegis', 'Demonic Embrace']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.SECOND_WIND: 47>, <RUNE.OVERGROWTH: 49>, <RUNE.FOOTWEAR: 55>, <RUNE.APPROACH_VELOCITY: 62>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.24|1689|2157|3944|1757|3745|11550
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.56|1689|1747|4821|1885|4765|11450
-![](/item/6672.png)![](/item/3124.png)![](/item/3156.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.32|1839|1477|6708|2018|6430|11050
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.21|1722|1762|4814|2176|4765|11450
 
 
 
@@ -245,13 +262,19 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Plated Steelcaps', 'Heartsteel', 'Sunfire Aegis', 'Demonic Embrace', 'Thornmail']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.SECOND_WIND: 47>, <RUNE.OVERGROWTH: 49>, <RUNE.FOOTWEAR: 55>, <RUNE.APPROACH_VELOCITY: 62>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/1001.png)![](/item/1038.png)|1.38|2731|2999|4254|3093|4036|14100
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|2.12|1973|2021|7225|3410|7110|14000
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|2.52|2058|1920|8625|3424|8377|13800
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|1.42|2775|3015|4255|3005|4036|14100
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|2.18|2004|2034|7227|3322|7110|14000
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)![](/item/1038.png)|2.59|2089|1934|8651|3346|8399|13800
 
 
 
@@ -323,14 +346,20 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Plated Steelcaps', 'Heartsteel', 'Sunfire Aegis', 'Demonic Embrace', 'Thornmail', "Warmog's Armor"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.SECOND_WIND: 47>, <RUNE.OVERGROWTH: 49>, <RUNE.FOOTWEAR: 55>, <RUNE.APPROACH_VELOCITY: 62>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3115.png)![](/item/1001.png)|1.26|2951|3847|4498|3572|4245|16000
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/1001.png)|1.26|3074|4001|5696|4511|5372|16000
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6673.png)![](/item/1001.png)|1.36|3166|3774|6299|4619|5891|15800
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3156.png)![](/item/1001.png)|1.36|3304|3663|7941|5823|7241|15600
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3115.png)![](/item/1001.png)|1.26|3001|3865|4499|3563|4245|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)|1.27|3123|4019|5697|4474|5372|16000
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)|1.4|3215|3792|6300|4489|5891|15800
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3156.png)![](/item/1001.png)|1.4|3353|3681|7962|5672|7260|15600
 
 
 
@@ -402,13 +431,21 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 **Enemy Items ['Plated Steelcaps', 'Heartsteel', 'Sunfire Aegis', 'Demonic Embrace', 'Thornmail', "Warmog's Armor"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.SECOND_WIND: 47>, <RUNE.OVERGROWTH: 49>, <RUNE.FOOTWEAR: 55>, <RUNE.APPROACH_VELOCITY: 62>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 -|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3094.png)|0.86|3631|4521|5935|6908|5630
-![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3091.png)![](/item/3046.png)|0.86|3538|4423|5938|6912|5630
-![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6676.png)![](/item/3124.png)|0.86|3826|4020|5970|6948|5630
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3085.png)|0.86|3401|4536|5930|6902|5630
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)|0.86|3682|4539|5936|6909|5630
+![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3046.png)|0.86|3588|4441|5939|6913|5630
+![](/item/3153.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/6676.png)![](/item/3124.png)|0.86|3882|4111|5968|6946|5630
+![](/item/3153.png)![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3156.png)![](/item/3124.png)|1.26|3635|3807|9989|7932|9115
 
 
 

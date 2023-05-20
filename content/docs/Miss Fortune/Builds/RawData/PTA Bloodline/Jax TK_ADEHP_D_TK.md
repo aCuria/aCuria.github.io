@@ -13,11 +13,17 @@ bookToc: false
 **Enemy Items ['Plated Steelcaps', 'Divine Sunderer']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.BONE_PLATING: 48>, <RUNE.UNFLINCHING: 51>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.51|1153|669|2638|584|2624|4975
+![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.59|1189|683|2638|574|2624|4975
 
 
 
@@ -89,13 +95,19 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ['Plated Steelcaps', 'Divine Sunderer', 'Spear Of Shojin']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.BONE_PLATING: 48>, <RUNE.UNFLINCHING: 51>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.58|1701|1312|3808|1473|3764|8250
-![](/item/6672.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.63|1963|979|5497|1513|5303|8400
-![](/item/6672.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|4.27|1853|927|6579|1542|6482|8400
+![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.67|1740|1329|3809|1425|3764|8250
+![](/item/6672.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.78|2004|993|5501|1455|5303|8400
+![](/item/6672.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.78|1893|941|6571|1738|6482|8400
 
 
 
@@ -167,11 +179,17 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ['Plated Steelcaps', 'Divine Sunderer', 'Spear Of Shojin', 'Blade of The Ruined King']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.BONE_PLATING: 48>, <RUNE.UNFLINCHING: 51>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.34|2001|1805|4569|3408|4529|11450
+![](/item/6672.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.38|2039|1821|4570|3313|4529|11450
 
 
 
@@ -243,12 +261,18 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ['Plated Steelcaps', 'Divine Sunderer', 'Spear Of Shojin', 'Blade of The Ruined King', 'Black Cleaver']**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.BONE_PLATING: 48>, <RUNE.UNFLINCHING: 51>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|0.95|3365|2977|5184|5445|4936|14100
-![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|1.38|2762|2483|8604|6255|8314|14100
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1038.png)|0.95|3419|2742|5190|5451|4936|14300
+![](/item/6672.png)![](/item/3124.png)![](/item/3026.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|1.42|2806|2498|8605|6077|8314|14100
 
 
 
@@ -320,13 +344,18 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ['Plated Steelcaps', 'Divine Sunderer', 'Spear Of Shojin', 'Blade of The Ruined King', 'Black Cleaver', "Zhonya's Hourglass"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.BONE_PLATING: 48>, <RUNE.UNFLINCHING: 51>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3115.png)![](/item/1001.png)|0.86|2930|3078|5392|6276|5174|16000
-![](/item/3085.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1038.png)|0.86|3051|2822|5405|6291|5174|16800
-![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)|0.94|3142|3036|7533|7981|7179|15800
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3115.png)![](/item/1001.png)|0.86|2979|2798|5398|6283|5174|16200
+![](/item/6672.png)![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6673.png)![](/item/1001.png)|0.97|3192|3052|7535|7752|7179|15800
 
 
 
@@ -398,14 +427,20 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Enemy Items ['Plated Steelcaps', 'Divine Sunderer', 'Spear Of Shojin', 'Blade of The Ruined King', 'Black Cleaver', "Zhonya's Hourglass"]**
 
 
+**Enemy Runes [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]**
+
+
+**Runes [<RUNE.GRASP: 40>, <RUNE.DEMOLISH: 43>, <RUNE.BONE_PLATING: 48>, <RUNE.UNFLINCHING: 51>, <RUNE.FOOTWEAR: 55>, <RUNE.BISCUIT: 60>, <RUNE.AS: 64>, <RUNE.ARMOR1: 68>, <RUNE.HP: 72>]**
+
+
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)|0.46|3584|3675|5700|12414|5494
-![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/3091.png)|0.46|3492|3579|5702|12419|5494
-![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3085.png)![](/item/6676.png)|0.46|3853|3566|5722|12459|5494
-![](/item/6672.png)![](/item/3124.png)![](/item/3036.png)![](/item/3153.png)![](/item/3072.png)![](/item/3085.png)|0.46|3816|3534|6006|13078|5494
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3094.png)![](/item/6672.png)|0.46|3634|3692|5701|12416|5494
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3046.png)![](/item/6672.png)|0.46|3542|3595|5703|12421|5494
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3085.png)![](/item/6676.png)|0.46|3909|3350|5722|12458|5494
+![](/item/6672.png)![](/item/3124.png)![](/item/3072.png)![](/item/3036.png)![](/item/3085.png)![](/item/3153.png)|0.47|3866|3617|6006|12777|5494
 
 
 
