@@ -10,21 +10,62 @@ bookToc: false
 **Forced Items** []
 
 
+
+
+
+
+
+
 **Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr']
 
 
-**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3158.png)
+![](/item/6691.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/FuturesMarket/FuturesMarket.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Domination/SuddenImpact/SuddenImpact.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.54|1442|704|2393|676|2300|5025
-![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.58|1482|721|2367|661|2300|4800
+![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.43|1405|691|2391|696|2300|5025
+![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.56|1439|707|2366|663|2300|4800
 
 
 
@@ -93,24 +134,63 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** []
 
 
+
+
+
+
+
+
 **Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang"]
 
 
-**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3158.png)
+![](/item/6691.png)
+![](/item/6695.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/FuturesMarket/FuturesMarket.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Domination/SuddenImpact/SuddenImpact.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.84|2154|1190|3083|1677|2997|8350
-![](/item/3095.png)![](/item/6675.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.03|2230|1108|3074|1514|2997|8400
-![](/item/6676.png)![](/item/3031.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.03|2473|1118|3073|1511|2997|8400
-![](/item/3142.png)![](/item/3033.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.03|2819|1200|3075|1512|2997|8325
-![](/item/3142.png)![](/item/6676.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.03|2880|1189|3074|1512|2997|8325
+![](/item/3095.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|1.94|1788|1086|3061|1578|2997|8450
+![](/item/3142.png)![](/item/6676.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|1.95|2826|1172|3073|1575|2997|8325
 
 
 
@@ -179,29 +259,71 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** []
 
 
+
+
+
+
+
+
 **Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver']
 
 
-**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3158.png)
+![](/item/6691.png)
+![](/item/6695.png)
+![](/item/3508.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/FuturesMarket/FuturesMarket.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Domination/SuddenImpact/SuddenImpact.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3153.png)![](/item/6672.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|1.05|2964|1660|3606|3436|3513|11500
-![](/item/3142.png)![](/item/3095.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.08|3262|1706|3588|3310|3513|11750
-![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|1.1|3406|1536|3587|3253|3513|11525
-![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.14|3686|1715|3600|3155|3513|11750
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.14|3694|1681|3597|3153|3513|11750
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.16|3740|1668|3601|3101|3513|11750
-![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.16|3746|1626|3598|3099|3513|11750
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.2|3849|1775|3604|2993|3513|11750
-![](/item/3142.png)![](/item/6676.png)![](/item/3095.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.2|3850|1736|3601|2991|3513|11750
-![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.27|4434|1815|3617|2839|3513|11750
+![](/item/3095.png)![](/item/6672.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.05|3212|1685|3587|3418|3513|11750
+![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|1.07|3352|1519|3586|3362|3513|11525
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.1|3627|1693|3599|3264|3513|11750
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.1|3637|1661|3596|3262|3513|11750
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.12|3682|1648|3600|3210|3513|11750
+![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.12|3689|1608|3597|3208|3513|11750
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.16|3790|1753|3602|3102|3513|11750
+![](/item/3142.png)![](/item/6676.png)![](/item/3095.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.16|3794|1716|3599|3100|3513|11750
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.23|4367|1792|3615|2948|3513|11750
 
 
 
@@ -270,29 +392,72 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** []
 
 
+
+
+
+
+
+
 **Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge']
 
 
-**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3158.png)
+![](/item/6691.png)
+![](/item/6695.png)
+![](/item/3508.png)
+![](/item/3031.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/FuturesMarket/FuturesMarket.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Domination/SuddenImpact/SuddenImpact.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3153.png)![](/item/6672.png)![](/item/3095.png)![](/item/1038.png)![](/item/1037.png)|0.53|4327|2185|3989|7591|3898|14575
-![](/item/3142.png)![](/item/3153.png)![](/item/6672.png)![](/item/3033.png)![](/item/1038.png)![](/item/1037.png)|0.55|4981|2286|4007|7281|3898|14575
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3087.png)![](/item/1053.png)![](/item/1038.png)|0.55|5043|2105|3976|7226|3898|14300
-![](/item/3142.png)![](/item/3095.png)![](/item/6672.png)![](/item/3033.png)![](/item/1053.png)![](/item/1038.png)|0.57|5229|2300|3983|7010|3898|14300
-![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/6694.png)![](/item/1053.png)![](/item/1038.png)|0.58|5695|2124|3982|6895|3898|14700
-![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/1053.png)![](/item/1038.png)|0.58|5844|2221|3988|6905|3898|14500
-![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|0.6|6060|2374|3995|6689|3898|14300
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|0.61|6133|2308|3996|6577|3898|14300
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|0.63|6279|2443|3998|6352|3898|14300
-![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)![](/item/1038.png)|0.67|7083|2499|4188|6294|3898|14900
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/3153.png)![](/item/1038.png)![](/item/1037.png)|0.53|4916|2267|4006|7508|3898|14575
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3087.png)![](/item/1053.png)![](/item/1038.png)|0.53|4979|2084|3976|7452|3898|14300
+![](/item/3095.png)![](/item/6672.png)![](/item/3142.png)![](/item/3033.png)![](/item/1053.png)![](/item/1038.png)|0.55|5161|2275|3982|7235|3898|14300
+![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3036.png)![](/item/1053.png)![](/item/1038.png)|0.56|5697|2178|3986|7129|3898|14500
+![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/1053.png)![](/item/1038.png)|0.56|5768|2199|3987|7131|3898|14500
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|0.58|5981|2347|3994|6916|3898|14300
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|0.59|6054|2284|3995|6803|3898|14300
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|0.61|6200|2417|3997|6579|3898|14300
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)![](/item/1038.png)|0.64|7004|2475|4185|6528|3898|14900
 
 
 
@@ -361,38 +526,83 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** ['Mortal Reminder']
 
 
+
+
+
+![](/item/3033.png)
+
+
+
 **Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge', "Lord Dominik's Regards"]
 
 
-**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3158.png)
+![](/item/6691.png)
+![](/item/6695.png)
+![](/item/3508.png)
+![](/item/3031.png)
+![](/item/3036.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/FuturesMarket/FuturesMarket.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Domination/SuddenImpact/SuddenImpact.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3153.png)![](/item/6672.png)![](/item/3033.png)![](/item/3115.png)![](/item/1038.png)|0.47|5109|2369|3473|7364|3383|16900
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/3115.png)![](/item/3153.png)![](/item/1038.png)|0.48|5170|2285|3473|7263|3383|16900
-![](/item/3142.png)![](/item/3153.png)![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/1038.png)|0.48|5271|2537|3478|7174|3383|16900
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/3091.png)![](/item/3153.png)![](/item/1038.png)|0.49|5331|2442|3477|7074|3383|16900
-![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/3115.png)![](/item/1053.png)|0.49|5796|2201|3454|7028|3383|16400
-![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/3072.png)![](/item/3115.png)![](/item/1038.png)|0.51|5927|2370|3579|7077|3383|16800
-![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/6676.png)![](/item/3115.png)![](/item/1053.png)|0.51|6010|2360|3460|6841|3383|16200
-![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3115.png)![](/item/3153.png)![](/item/1038.png)|0.51|6148|2473|3488|6797|3383|16900
-![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/6672.png)![](/item/1053.png)|0.52|6205|2575|3466|6654|3383|16200
-![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/3153.png)![](/item/1038.png)|0.53|6335|2668|3492|6606|3383|16900
-![](/item/3142.png)![](/item/3153.png)![](/item/6672.png)![](/item/3033.png)![](/item/6676.png)![](/item/1038.png)|0.55|6570|2845|3500|6420|3383|16700
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3153.png)![](/item/1038.png)|0.55|6643|2744|3499|6319|3383|16700
-![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/3115.png)![](/item/1038.png)|0.55|7105|2490|3616|6529|3383|16800
-![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)|0.57|7300|2719|3630|6348|3383|16800
-![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|0.59|7561|2927|3649|6172|3383|16600
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|0.6|7636|2833|3651|6072|3383|16600
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|0.62|7788|2999|3656|5871|3383|16600
-![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)![](/item/1038.png)|0.66|7924|2839|3649|5547|3383|16500
-![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)![](/item/1038.png)|0.66|7957|2768|3800|5777|3383|17000
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/3153.png)![](/item/3115.png)![](/item/1038.png)|0.46|5044|2350|3473|7561|3383|16900
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/3153.png)![](/item/3091.png)![](/item/1038.png)|0.47|5205|2518|3477|7371|3383|16900
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/3091.png)![](/item/3153.png)![](/item/1038.png)|0.48|5266|2425|3476|7271|3383|16900
+![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/3115.png)![](/item/1053.png)|0.48|5720|2178|3454|7223|3383|16400
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/3072.png)![](/item/3115.png)![](/item/1038.png)|0.49|5859|2347|3577|7277|3383|16800
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/6676.png)![](/item/3115.png)![](/item/1053.png)|0.49|5932|2334|3459|7037|3383|16200
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/1038.png)|0.5|6072|2453|3487|6994|3383|16900
+![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/6672.png)![](/item/1053.png)|0.51|6126|2549|3465|6851|3383|16200
+![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/3153.png)![](/item/1038.png)|0.51|6259|2648|3492|6804|3383|16900
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/3153.png)![](/item/6676.png)![](/item/1038.png)|0.53|6491|2821|3499|6618|3383|16700
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3153.png)![](/item/1038.png)|0.54|6564|2723|3499|6518|3383|16700
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/1038.png)|0.54|7026|2467|3613|6731|3383|16800
+![](/item/3142.png)![](/item/6676.png)![](/item/3091.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)|0.55|7221|2695|3628|6551|3383|16800
+![](/item/3142.png)![](/item/3033.png)![](/item/6672.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|0.57|7479|2899|3646|6375|3383|16600
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|0.58|7555|2807|3648|6276|3383|16600
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|0.6|7706|2971|3653|6075|3383|16600
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/1038.png)|0.63|7845|2816|3647|5751|3383|16500
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3074.png)![](/item/1038.png)|0.63|7878|2745|3797|5988|3383|17000
 
 
 
@@ -461,27 +671,71 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** ['Mortal Reminder']
 
 
+
+
+
+![](/item/3033.png)
+
+
+
 **Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge', "Lord Dominik's Regards"]
 
 
-**Enemy Runes** [<RUNE.FIRST_STRIKE: 54>, <RUNE.FOOTWEAR: 55>, <RUNE.FUTURES_MARKET: 58>, <RUNE.COSMIC: 61>, <RUNE.SUDDEN_IMPACT: 20>, <RUNE.TREASURE: 24>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.ARMOR2: 69>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3158.png)
+![](/item/6691.png)
+![](/item/6695.png)
+![](/item/3508.png)
+![](/item/3031.png)
+![](/item/3036.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/FuturesMarket/FuturesMarket.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Domination/SuddenImpact/SuddenImpact.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3153.png)![](/item/6693.png)|0.15|7688|0|3678|25186|3583
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3153.png)![](/item/6696.png)|0.15|7688|0|3678|25186|3583
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/6693.png)|0.16|8822|0|3795|23889|3583
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)|0.16|8822|0|3795|23889|3583
-![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.6|8831|3211|4068|6835|3583
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)|0.62|8963|3477|3898|6326|3583
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.62|8982|3402|4076|6615|3583
-![](/item/3142.png)![](/item/3033.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)![](/item/3074.png)|0.65|9093|3198|4061|6242|3583
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3153.png)![](/item/6696.png)|0.14|7606|0|3677|25996|3583
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)|0.15|8738|0|3793|24718|3583
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.58|8750|3185|4064|7060|3583
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)|0.6|8881|3449|3895|6544|3583
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.6|8901|3375|4072|6841|3583
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3074.png)|0.63|9014|3175|4057|6468|3583
 
 
 

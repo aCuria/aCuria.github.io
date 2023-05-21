@@ -10,21 +10,62 @@ bookToc: false
 **Forced Items** []
 
 
+
+
+
+
+
+
 **Enemy Items** ["Berserker's Greaves", 'Kraken Slayer']
 
 
-**Enemy Runes** [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3006.png)
+![](/item/6672.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.54|1475|721|2733|772|2624|5025
-![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.58|1522|741|2703|755|2624|4800
+![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.43|1438|708|2730|795|2624|5025
+![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.56|1478|726|2701|757|2624|4800
 
 
 
@@ -93,23 +134,63 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** []
 
 
+
+
+
+
+
+
 **Enemy Items** ["Berserker's Greaves", 'Kraken Slayer', "Lord Dominik's Regards"]
 
 
-**Enemy Runes** [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3006.png)
+![](/item/6672.png)
+![](/item/3036.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3087.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|1.94|1772|1071|3396|1751|3325|8450
-![](/item/6672.png)![](/item/6675.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.0|2128|1084|3408|1707|3325|8400
-![](/item/3095.png)![](/item/6675.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.03|2256|1131|3412|1681|3325|8400
-![](/item/3142.png)![](/item/6676.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.03|2925|1209|3413|1678|3325|8325
+![](/item/3095.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|1.94|1809|1115|3398|1751|3325|8450
+![](/item/3142.png)![](/item/6676.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|1.95|2870|1192|3411|1748|3325|8325
 
 
 
@@ -178,24 +259,67 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** []
 
 
+
+
+
+
+
+
 **Enemy Items** ["Berserker's Greaves", 'Kraken Slayer', "Lord Dominik's Regards", 'Infinity Edge']
 
 
-**Enemy Runes** [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3006.png)
+![](/item/6672.png)
+![](/item/3036.png)
+![](/item/3031.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.14|3728|1712|3959|3470|3865|11750
-![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.16|3780|1651|3961|3411|3865|11750
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.2|3875|1831|3966|3294|3865|11750
-![](/item/3142.png)![](/item/6676.png)![](/item/3095.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.2|3885|1768|3963|3292|3865|11750
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.27|4447|1862|3981|3124|3865|11750
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.1|3671|1691|3958|3590|3865|11750
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.12|3706|1699|3962|3533|3865|11750
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.16|3816|1809|3965|3414|3865|11750
+![](/item/3142.png)![](/item/6676.png)![](/item/3095.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.16|3829|1747|3962|3412|3865|11750
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.23|4380|1839|3979|3245|3865|11750
 
 
 
@@ -264,23 +388,66 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** []
 
 
+
+
+
+
+
+
 **Enemy Items** ["Berserker's Greaves", 'Kraken Slayer', "Lord Dominik's Regards", 'Infinity Edge', 'Bloodthirster']
 
 
-**Enemy Runes** [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3006.png)
+![](/item/6672.png)
+![](/item/3036.png)
+![](/item/3031.png)
+![](/item/3072.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/1053.png)![](/item/1038.png)|0.6|6065|2539|4363|7305|4256|14300
-![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/3033.png)![](/item/1053.png)![](/item/1038.png)|0.61|6138|2466|4364|7182|4256|14300
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|0.63|6285|2609|4367|6937|4256|14300
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)![](/item/1038.png)|0.67|7089|2649|4574|6874|4256|14900
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/1053.png)![](/item/1038.png)|0.58|5986|2513|4362|7552|4256|14300
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|0.61|6206|2582|4365|7184|4256|14300
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)![](/item/1038.png)|0.64|7010|2625|4571|7130|4256|14900
 
 
 
@@ -349,34 +516,79 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** ['Mortal Reminder']
 
 
+
+
+
+![](/item/3033.png)
+
+
+
 **Enemy Items** ["Berserker's Greaves", 'Kraken Slayer', "Lord Dominik's Regards", 'Infinity Edge', 'Bloodthirster', 'Phantom Dancer']
 
 
-**Enemy Runes** [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3006.png)
+![](/item/6672.png)
+![](/item/3036.png)
+![](/item/3031.png)
+![](/item/3072.png)
+![](/item/3046.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 -|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3091.png)![](/item/3033.png)![](/item/3153.png)![](/item/6672.png)![](/item/1038.png)|0.48|5271|2733|4652|9598|4525|16900
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/3091.png)![](/item/6672.png)![](/item/1053.png)|0.5|5340|2693|4621|9269|4525|16200
-![](/item/3087.png)![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/3142.png)![](/item/1038.png)|0.51|5529|2789|4660|9215|4525|16700
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/1038.png)|0.51|6148|2648|4666|9093|4525|16900
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/1053.png)|0.52|6205|2756|4635|8900|4525|16200
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/1038.png)|0.53|6335|2854|4673|8839|4525|16900
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/1038.png)|0.55|6570|3035|4683|8590|4525|16700
-![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/3033.png)![](/item/3153.png)![](/item/1038.png)|0.55|6643|2928|4682|8455|4525|16700
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/1038.png)|0.55|7105|2647|4836|8733|4525|16800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/1038.png)|0.57|7300|2883|4856|8491|4525|16800
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)|0.59|7561|3098|4880|8254|4525|16600
-![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)|0.6|7636|2992|4883|8121|4525|16600
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|0.62|7788|3169|4890|7852|4525|16600
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/1038.png)|0.66|7924|2990|4881|7419|4525|16500
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3074.png)![](/item/1038.png)|0.66|7957|2919|5083|7727|4525|17000
+![](/item/3142.png)![](/item/3091.png)![](/item/3033.png)![](/item/3153.png)![](/item/6672.png)![](/item/1038.png)|0.47|5205|2713|4651|9861|4525|16900
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/3153.png)![](/item/6672.png)![](/item/1038.png)|0.49|5461|2768|4659|9479|4525|16700
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/1038.png)|0.5|6072|2628|4665|9357|4525|16900
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/1053.png)|0.51|6126|2730|4634|9162|4525|16200
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/1038.png)|0.51|6259|2833|4672|9103|4525|16900
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/1038.png)|0.53|6491|3011|4681|8855|4525|16700
+![](/item/3142.png)![](/item/3033.png)![](/item/3087.png)![](/item/3153.png)![](/item/6676.png)![](/item/1038.png)|0.54|6564|2906|4681|8721|4525|16700
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/1038.png)|0.54|7026|2623|4833|9003|4525|16800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/1038.png)|0.55|7221|2859|4852|8762|4525|16800
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/1038.png)|0.57|7479|3070|4876|8527|4525|16600
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3087.png)![](/item/1038.png)|0.58|7555|2967|4880|8393|4525|16600
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|0.6|7706|3142|4886|8126|4525|16600
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/1038.png)|0.63|7845|2966|4877|7692|4525|16500
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3074.png)![](/item/1038.png)|0.63|7878|2895|5078|8009|4525|17000
 
 
 
@@ -445,40 +657,85 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 **Forced Items** ['Mortal Reminder']
 
 
+
+
+
+![](/item/3033.png)
+
+
+
 **Enemy Items** ["Berserker's Greaves", 'Kraken Slayer', "Lord Dominik's Regards", 'Infinity Edge', 'Bloodthirster', 'Phantom Dancer']
 
 
-**Enemy Runes** [<RUNE.LT: 2>, <RUNE.TRIUMPH: 6>, <RUNE.BLOODLINE: 10>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.AS: 64>, <RUNE.ADAPTIVE1: 66>, <RUNE.ARMOR1: 68>]
 
 
-**Runes** [[<RUNE.PTA: 1>, <RUNE.OVERHEAL: 5>, <RUNE.ALACRITY: 8>, <RUNE.CUT_DOWN: 12>, <RUNE.FOCUS: 36>, <RUNE.STORM: 39>, <RUNE.ADAPTIVE1: 66>, <RUNE.ADAPTIVE2: 67>, <RUNE.HP: 72>]]
+
+![](/item/3006.png)
+![](/item/6672.png)
+![](/item/3036.png)
+![](/item/3031.png)
+![](/item/3072.png)
+![](/item/3046.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
 
 
 
 
 Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 -|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3091.png)![](/item/3033.png)![](/item/3153.png)![](/item/6672.png)![](/item/3087.png)|0.46|5869|3083|4944|10768|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/3091.png)|0.46|6552|2938|4951|10782|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/6672.png)|0.47|6795|3142|4961|10603|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/3087.png)|0.47|6868|3037|4960|10459|4800
-![](/item/3142.png)![](/item/3091.png)![](/item/3033.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)|0.48|6989|3344|4968|10334|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/3087.png)|0.49|7062|3227|4968|10192|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/3091.png)|0.49|7597|2967|5137|10538|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/6672.png)|0.5|7868|3207|5161|10293|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/3087.png)|0.51|7943|3108|5164|10152|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/3072.png)|0.52|8069|3440|5183|10040|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/3087.png)|0.52|8145|3324|5186|9899|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3087.png)|0.54|8426|3563|5213|9652|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3095.png)|0.56|8582|3756|5220|9367|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/3033.png)![](/item/3072.png)![](/item/3095.png)|0.57|8660|3384|5224|9224|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)|0.59|8729|3579|5211|8903|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3074.png)|0.59|8748|3505|5443|9300|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)|0.6|8804|3445|5214|8760|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3087.png)![](/item/3033.png)![](/item/3072.png)![](/item/3074.png)|0.6|8824|3369|5448|9153|4800
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)|0.62|8955|3649|5221|8473|4800
-![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.62|8975|3575|5459|8859|4800
-![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3074.png)|0.65|9085|3347|5439|8360|4800
+![](/item/3142.png)![](/item/3091.png)![](/item/3033.png)![](/item/3153.png)![](/item/6672.png)![](/item/3095.png)|0.46|5927|3190|4944|10767|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/6672.png)|0.46|6716|3118|4960|10801|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/3087.png)|0.46|6789|3015|4959|10740|4800
+![](/item/3142.png)![](/item/3091.png)![](/item/3033.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)|0.47|6911|3320|4967|10616|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/3087.png)|0.47|6984|3206|4966|10473|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/3091.png)|0.47|7518|2943|5133|10824|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/6672.png)|0.49|7786|3179|5157|10580|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3115.png)![](/item/3087.png)|0.49|7862|3083|5161|10440|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/3072.png)|0.5|7988|3412|5179|10329|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/3087.png)|0.51|8063|3299|5183|10188|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3087.png)|0.52|8341|3534|5209|9942|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3095.png)|0.54|8497|3725|5216|9658|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3087.png)![](/item/3095.png)|0.55|8575|3357|5220|9515|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)|0.57|8647|3552|5207|9195|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3074.png)|0.57|8667|3478|5437|9601|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3087.png)![](/item/3004.png)|0.58|8723|3420|5210|9052|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3087.png)![](/item/3074.png)|0.58|8742|3344|5443|9455|4800
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3004.png)|0.6|8874|3622|5217|8765|4800
+![](/item/3142.png)![](/item/3033.png)![](/item/3095.png)![](/item/6676.png)![](/item/3072.png)![](/item/3074.png)|0.6|8893|3547|5453|9162|4800
+![](/item/3142.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3074.png)|0.63|9006|3324|5434|8663|4800
 
 
 
