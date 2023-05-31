@@ -2,7 +2,11 @@
 bookToc: false
 ---
 
-# 1 Item Level 8 MissFortune vs 1 Item Level 8 Sylas
+# MissFortune vs Sylas
+Tabs beyond 6 items force specific utility items.
+{{< tabs "Items" >}}
+{{< tab "1 Item" >}}
+## 1 Item Level 8 MissFortune vs 1 Item Level 8 Sylas
 
 **Target Health:1878.0 Armor:63.4 Mr:49.8**
 
@@ -62,72 +66,14 @@ bookToc: false
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|4.33|1262|796|2301|531|2226|5000
 ![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.94|1524|769|2326|391|2226|5000
 ![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|6.68|1554|754|2379|356|2226|5025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 2 Item Level 12 MissFortune vs 2 Item Level 12 Sylas
+{{< /tab >}}
+{{< tab "2 Item" >}}
+## 2 Item Level 12 MissFortune vs 2 Item Level 12 Sylas
 
 **Target Health:2594.0 Armor:84.2 Mr:60.0**
 
@@ -188,7 +134,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|2.94|1789|1685|3167|1076|3020|8125
 ![](/item/6672.png)![](/item/6696.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|3.01|2081|1115|3129|1038|3020|8450
@@ -198,67 +144,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 ![](/item/3036.png)![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.81|2690|1194|3401|892|3020|8250
 ![](/item/6676.png)![](/item/3179.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|3.81|2694|1141|3158|829|3020|8250
 ![](/item/3036.png)![](/item/3179.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|3.81|2755|1186|3163|830|3020|8250
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3 Item Level 14 MissFortune vs 3 Item Level 14 Sylas
+{{< /tab >}}
+{{< tab "3 Item" >}}
+## 3 Item Level 14 MissFortune vs 3 Item Level 14 Sylas
 
 **Target Health:2852.0 Armor:139.6 Mr:65.2**
 
@@ -320,7 +208,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.09|1880|1959|4537|2166|4371|11750
 ![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.13|1880|1907|3566|1671|3435|11550
@@ -333,67 +221,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 ![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/1001.png)![](/item/1053.png)![](/item/1037.png)|2.94|3276|1386|3476|1182|3318|11075
 ![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.17|3281|1423|3863|1219|3435|11250
 ![](/item/6676.png)![](/item/3036.png)![](/item/6695.png)![](/item/1001.png)![](/item/1053.png)![](/item/1038.png)|3.17|3310|1398|3477|1097|3318|11100
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 4 Item Level 16 MissFortune vs 4 Item Level 16 Sylas
+{{< /tab >}}
+{{< tab "4 Item" >}}
+## 4 Item Level 16 MissFortune vs 4 Item Level 16 Sylas
 
 **Target Health:3110.0 Armor:150.0 Mr:70.2**
 
@@ -456,7 +286,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3036.png)![](/item/1001.png)![](/item/1038.png)|1.28|3172|2698|4875|3804|4690|14300
 ![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/1001.png)![](/item/1038.png)|1.31|3172|2677|3846|2939|3700|14100
@@ -470,67 +300,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 ![](/item/6672.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/1001.png)![](/item/1038.png)|2.09|4514|1975|4101|1965|3700|13800
 ![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3074.png)![](/item/1001.png)![](/item/1038.png)|2.32|4884|1737|3956|1708|3700|14000
 ![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/1001.png)![](/item/1038.png)|2.57|5065|1833|4198|1636|3700|13800
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 5 Item Level 17 MissFortune vs 5 Item Level 17 Sylas
+{{< /tab >}}
+{{< tab "5 Item" >}}
+## 5 Item Level 17 MissFortune vs 5 Item Level 17 Sylas
 
 **Target Health:3239.0 Armor:155.2 Mr:72.8**
 
@@ -594,7 +366,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3036.png)![](/item/6676.png)![](/item/1001.png)|0.88|3793|3147|4140|4728|3990|16000
 ![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/6676.png)![](/item/1001.png)|0.9|3793|3149|3497|3897|3370|15800
@@ -616,67 +388,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 ![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3094.png)![](/item/1038.png)|2.17|5672|2143|3805|1751|3370|16500
 ![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/6695.png)![](/item/1001.png)|2.29|5756|2033|3787|1653|3370|15100
 ![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/6693.png)![](/item/1001.png)|2.29|5885|2068|3796|1656|3370|15500
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 6 Item Level 18 MissFortune vs 6 Item Level 18 Sylas
+{{< /tab >}}
+{{< tab "6 Item" >}}
+## 6 Item Level 18 MissFortune vs 6 Item Level 18 Sylas
 
 **Target Health:3368.0 Armor:160.4 Mr:75.3**
 
@@ -740,83 +454,25 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
--|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3036.png)![](/item/6676.png)![](/item/3094.png)|0.86|4443|3588|4338|5049|4178
-![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3036.png)![](/item/3094.png)![](/item/6696.png)|0.86|4443|3458|4341|5052|4178
-![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/6676.png)![](/item/3094.png)|0.87|4443|3609|3667|4231|3532
-![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/3046.png)![](/item/3095.png)|0.87|4498|3443|3670|4234|3532
-![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/3085.png)|0.87|4719|3436|3999|4585|3532
-![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3085.png)|0.87|4883|3448|3685|4224|3532
-![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/3046.png)|0.89|4940|3421|4011|4506|3532
-![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3046.png)|0.89|5136|3440|3689|4144|3532
-![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3094.png)|0.93|5262|3528|3688|3975|3532
-![](/item/6672.png)![](/item/3036.png)![](/item/6676.png)![](/item/3094.png)![](/item/3072.png)![](/item/3091.png)|1.32|5317|2557|4590|3482|4178
-![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3085.png)![](/item/3124.png)|1.34|5577|2670|3806|2838|3532
-![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3085.png)![](/item/6672.png)|1.38|5770|2492|3907|2841|3532
-![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3046.png)![](/item/3124.png)|1.38|5829|2664|3818|2773|3532
-![](/item/6672.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/3046.png)![](/item/6696.png)|1.41|6029|2550|3923|2782|3532
-![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/3046.png)![](/item/3095.png)![](/item/6696.png)|1.48|6224|2459|3936|2668|3532
-![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3094.png)![](/item/3087.png)|1.5|6224|2475|3936|2616|3532
-![](/item/6676.png)![](/item/3036.png)![](/item/6693.png)![](/item/3046.png)![](/item/3072.png)![](/item/6696.png)|1.55|6697|2363|3943|2550|3532
-![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3094.png)![](/item/6693.png)|1.63|6837|2484|3952|2421|3532
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3036.png)![](/item/6676.png)![](/item/3094.png)|0.86|4443|3588|4338|5049|4178|18700
+![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/3036.png)![](/item/3094.png)![](/item/6696.png)|0.86|4443|3458|4341|5052|4178|18700
+![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3036.png)![](/item/6676.png)![](/item/3094.png)|0.87|4443|3609|3667|4231|3532|18500
+![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/3046.png)![](/item/3095.png)|0.87|4498|3443|3670|4234|3532|18300
+![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/3085.png)|0.87|4719|3436|3999|4585|3532|18500
+![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3085.png)|0.87|4883|3448|3685|4224|3532|18300
+![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/3046.png)|0.89|4940|3421|4011|4506|3532|18500
+![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3046.png)|0.89|5136|3440|3689|4144|3532|18300
+![](/item/3153.png)![](/item/3124.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/3094.png)|0.93|5262|3528|3688|3975|3532|18500
+![](/item/6672.png)![](/item/3036.png)![](/item/6676.png)![](/item/3094.png)![](/item/3072.png)![](/item/3091.png)|1.32|5317|2557|4590|3482|4178|18400
+![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3085.png)![](/item/3124.png)|1.34|5577|2670|3806|2838|3532|18200
+![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3085.png)![](/item/6672.png)|1.38|5770|2492|3907|2841|3532|18000
+![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3046.png)![](/item/3124.png)|1.38|5829|2664|3818|2773|3532|18200
+![](/item/6672.png)![](/item/3036.png)![](/item/6676.png)![](/item/3072.png)![](/item/3046.png)![](/item/6696.png)|1.41|6029|2550|3923|2782|3532|18000
+![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/3046.png)![](/item/3095.png)![](/item/6696.png)|1.48|6224|2459|3936|2668|3532|18000
+![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3094.png)![](/item/3087.png)|1.5|6224|2475|3936|2616|3532|18200
+![](/item/6676.png)![](/item/3036.png)![](/item/6693.png)![](/item/3046.png)![](/item/3072.png)![](/item/6696.png)|1.55|6697|2363|3943|2550|3532|18000
+![](/item/6676.png)![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3094.png)![](/item/6693.png)|1.63|6837|2484|3952|2421|3532|18200
+{{< /tab >}}
+{{< /tabs >}}

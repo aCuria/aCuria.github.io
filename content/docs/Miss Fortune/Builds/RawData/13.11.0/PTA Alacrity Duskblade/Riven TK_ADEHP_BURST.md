@@ -2,7 +2,11 @@
 bookToc: false
 ---
 
-# 1 Item Level 8 MissFortune vs 1 Item Level 8 Riven
+# MissFortune vs Riven
+Tabs beyond 6 items force specific utility items.
+{{< tabs "Items" >}}
+{{< tab "1 Item" >}}
+## 1 Item Level 8 MissFortune vs 1 Item Level 8 Riven
 
 **Target Health:1630.0 Armor:69.8 Mr:46.3**
 
@@ -62,72 +66,14 @@ bookToc: false
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|4.33|1200|762|2700|623|2616|5000
 ![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|7.03|1350|699|3938|560|3823|4975
 ![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.28|1190|626|4786|578|4640|5000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 2 Item Level 12 MissFortune vs 2 Item Level 12 Riven
+{{< /tab >}}
+{{< tab "2 Item" >}}
+## 2 Item Level 12 MissFortune vs 2 Item Level 12 Riven
 
 **Target Health:2430.0 Armor:87.4 Mr:54.5**
 
@@ -188,74 +134,16 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3153.png)![](/item/6691.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|2.57|2359|1391|3941|1535|3771|8375
 ![](/item/6672.png)![](/item/6333.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.4|1919|1046|4871|1434|4713|8300
 ![](/item/6672.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.4|2159|1154|5534|1629|5384|8400
 ![](/item/6672.png)![](/item/3026.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|3.5|1758|986|6719|1917|6560|8450
 ![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|5.42|2120|958|8739|1611|8532|8400
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3 Item Level 14 MissFortune vs 3 Item Level 14 Riven
+{{< /tab >}}
+{{< tab "3 Item" >}}
+## 3 Item Level 14 MissFortune vs 3 Item Level 14 Riven
 
 **Target Health:2630.0 Armor:141.2 Mr:58.6**
 
@@ -317,7 +205,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3153.png)![](/item/6691.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.91|2299|1512|4621|1587|4411|11450
 ![](/item/6672.png)![](/item/6673.png)![](/item/3036.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.67|2517|1347|6461|1761|6247|11050
@@ -328,67 +216,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 ![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|6.53|2059|944|10795|1653|10520|11450
 ![](/item/6673.png)![](/item/3026.png)![](/item/3814.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|6.53|2052|941|10852|1662|10577|10950
 ![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|6.53|2030|937|12090|1851|11770|11350
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 4 Item Level 16 MissFortune vs 4 Item Level 16 Riven
+{{< /tab >}}
+{{< tab "4 Item" >}}
+## 4 Item Level 16 MissFortune vs 4 Item Level 16 Riven
 
 **Target Health:2830.0 Armor:190.0 Mr:62.8**
 
@@ -451,7 +281,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3153.png)![](/item/6691.png)![](/item/6672.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|2.55|2578|1628|5086|1997|4875|14200
 ![](/item/6672.png)![](/item/6333.png)![](/item/3036.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|2.86|2894|1730|6319|2211|5989|14200
@@ -466,67 +296,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 ![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/1001.png)![](/item/1038.png)|6.95|2397|970|14246|2049|13872|14300
 ![](/item/6673.png)![](/item/3026.png)![](/item/3814.png)![](/item/6333.png)![](/item/1001.png)![](/item/1038.png)|7.24|2397|968|14315|1976|13942|13800
 ![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/3071.png)![](/item/1001.png)![](/item/1038.png)|7.24|2187|902|14540|2008|14154|14000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 5 Item Level 17 MissFortune vs 5 Item Level 17 Riven
+{{< /tab >}}
+{{< tab "5 Item" >}}
+## 5 Item Level 17 MissFortune vs 5 Item Level 17 Riven
 
 **Target Health:2930.0 Armor:194.4 Mr:64.8**
 
@@ -590,7 +362,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3153.png)![](/item/6691.png)![](/item/6672.png)![](/item/3091.png)![](/item/3036.png)![](/item/1001.png)|2.26|3534|2108|4637|2047|4412|15900
 ![](/item/6672.png)![](/item/6673.png)![](/item/3046.png)![](/item/3091.png)![](/item/6691.png)![](/item/1038.png)|2.48|3019|1469|6440|2601|6276|16400
@@ -603,67 +375,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 ![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6672.png)![](/item/3071.png)![](/item/1001.png)|4.59|2260|1093|12294|2676|12018|15700
 ![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/3814.png)![](/item/1001.png)|6.9|2415|975|12861|1864|12537|15900
 ![](/item/6673.png)![](/item/3026.png)![](/item/3814.png)![](/item/6333.png)![](/item/3071.png)![](/item/1001.png)|7.15|2326|950|13102|1833|12767|15600
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 6 Item Level 18 MissFortune vs 6 Item Level 18 Riven
+{{< /tab >}}
+{{< tab "6 Item" >}}
+## 6 Item Level 18 MissFortune vs 6 Item Level 18 Riven
 
 **Target Health:3030.0 Armor:198.8 Mr:66.8**
 
@@ -727,77 +441,19 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/3153.png)![](/item/6691.png)![](/item/6672.png)![](/item/3036.png)![](/item/3095.png)![](/item/6676.png)|1.81|5361|2764|4929|2720|4676
-![](/item/6672.png)![](/item/6673.png)![](/item/3095.png)![](/item/6676.png)![](/item/6694.png)![](/item/6691.png)|2.02|5259|2261|6856|3392|6640
-![](/item/6672.png)![](/item/6673.png)![](/item/3036.png)![](/item/6333.png)![](/item/6676.png)![](/item/6691.png)|2.12|5487|2129|8110|3826|7843
-![](/item/6673.png)![](/item/3026.png)![](/item/6691.png)![](/item/3036.png)![](/item/3095.png)![](/item/6676.png)|2.23|5550|2061|10386|4662|10122
-![](/item/6673.png)![](/item/3026.png)![](/item/3814.png)![](/item/6672.png)![](/item/3091.png)![](/item/6691.png)|2.69|3413|1569|10987|4091|10778
-![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6672.png)![](/item/3091.png)![](/item/6691.png)|2.69|3349|1558|11936|4445|11702
-![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6672.png)![](/item/6609.png)![](/item/6691.png)|3.39|3422|1408|12556|3704|12285
-![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/3036.png)![](/item/6691.png)|3.5|4511|1523|12754|3649|12402
-![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6672.png)![](/item/3071.png)![](/item/6691.png)|3.53|3190|1331|12933|3667|12635
-![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6609.png)![](/item/3161.png)![](/item/6691.png)|4.62|3278|1150|13333|2884|12985
-![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/3071.png)![](/item/6691.png)|4.62|3242|1142|13679|2959|13335
-![](/item/6673.png)![](/item/3026.png)![](/item/3814.png)![](/item/6333.png)![](/item/3071.png)![](/item/6691.png)|5.06|3289|1150|13743|2713|13393
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/3153.png)![](/item/6691.png)![](/item/6672.png)![](/item/3036.png)![](/item/3095.png)![](/item/6676.png)|1.81|5361|2764|4929|2720|4676|18400
+![](/item/6672.png)![](/item/6673.png)![](/item/3095.png)![](/item/6676.png)![](/item/6694.png)![](/item/6691.png)|2.02|5259|2261|6856|3392|6640|18300
+![](/item/6672.png)![](/item/6673.png)![](/item/3036.png)![](/item/6333.png)![](/item/6676.png)![](/item/6691.png)|2.12|5487|2129|8110|3826|7843|18400
+![](/item/6673.png)![](/item/3026.png)![](/item/6691.png)![](/item/3036.png)![](/item/3095.png)![](/item/6676.png)|2.23|5550|2061|10386|4662|10122|18100
+![](/item/6673.png)![](/item/3026.png)![](/item/3814.png)![](/item/6672.png)![](/item/3091.png)![](/item/6691.png)|2.69|3413|1569|10987|4091|10778|18200
+![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6672.png)![](/item/3091.png)![](/item/6691.png)|2.69|3349|1558|11936|4445|11702|18600
+![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6672.png)![](/item/6609.png)![](/item/6691.png)|3.39|3422|1408|12556|3704|12285|18200
+![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/3036.png)![](/item/6691.png)|3.5|4511|1523|12754|3649|12402|18800
+![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6672.png)![](/item/3071.png)![](/item/6691.png)|3.53|3190|1331|12933|3667|12635|18500
+![](/item/6673.png)![](/item/3026.png)![](/item/6333.png)![](/item/6609.png)![](/item/3161.png)![](/item/6691.png)|4.62|3278|1150|13333|2884|12985|18600
+![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/3071.png)![](/item/6691.png)|4.62|3242|1142|13679|2959|13335|18900
+![](/item/6673.png)![](/item/3026.png)![](/item/3814.png)![](/item/6333.png)![](/item/3071.png)![](/item/6691.png)|5.06|3289|1150|13743|2713|13393|18400
+{{< /tab >}}
+{{< /tabs >}}

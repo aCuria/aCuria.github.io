@@ -2,7 +2,11 @@
 bookToc: false
 ---
 
-# 1 Item Level 8 MissFortune vs 1 Item Level 8 Aatrox
+# MissFortune vs Aatrox
+Tabs beyond 6 items force specific utility items.
+{{< tabs "Items" >}}
+{{< tab "1 Item" >}}
+## 1 Item Level 8 MissFortune vs 1 Item Level 8 Aatrox
 
 **Target Health:1848.0 Armor:95.2 Mr:46.3**
 
@@ -54,71 +58,13 @@ bookToc: false
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.09|1082|655|2689|527|2616|5000
 ![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|7.03|1333|612|2763|393|2616|5025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 2 Item Level 12 MissFortune vs 2 Item Level 12 Aatrox
+{{< /tab >}}
+{{< tab "2 Item" >}}
+## 2 Item Level 12 MissFortune vs 2 Item Level 12 Aatrox
 
 **Target Health:2704.0 Armor:162.9 Mr:54.5**
 
@@ -171,73 +117,15 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.62|1450|1075|3923|1083|3771|8350
 ![](/item/6672.png)![](/item/3036.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|3.99|1711|910|3899|976|3771|8450
 ![](/item/3036.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|4.02|1845|1173|3962|985|3771|8350
 ![](/item/3036.png)![](/item/6675.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.05|2203|893|3942|780|3771|8400
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3 Item Level 14 MissFortune vs 3 Item Level 14 Aatrox
+{{< /tab >}}
+{{< tab "3 Item" >}}
+## 3 Item Level 14 MissFortune vs 3 Item Level 14 Aatrox
 
 **Target Health:2932.0 Armor:171.8 Mr:58.6**
 
@@ -291,72 +179,14 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3036.png)![](/item/3153.png)![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.69|2721|1455|3971|1477|3789|11750
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.17|2995|1204|4165|1314|3789|11250
 ![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.51|3251|1227|4214|1200|3789|11650
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 4 Item Level 16 MissFortune vs 4 Item Level 16 Aatrox
+{{< /tab >}}
+{{< tab "4 Item" >}}
+## 4 Item Level 16 MissFortune vs 4 Item Level 16 Aatrox
 
 **Target Health:3160.0 Armor:225.8 Mr:62.8**
 
@@ -411,74 +241,16 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3036.png)![](/item/3153.png)![](/item/6675.png)![](/item/6672.png)![](/item/1001.png)![](/item/1038.png)|2.86|3450|1722|4377|1531|4155|14300
 ![](/item/6672.png)![](/item/3036.png)![](/item/3074.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|3.09|3523|1450|4409|1425|4155|14000
 ![](/item/6672.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|3.09|3523|1450|4611|1491|4155|13800
 ![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/1001.png)![](/item/1038.png)|3.09|4147|1551|4654|1504|4155|14200
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6675.png)![](/item/1001.png)![](/item/1038.png)|3.43|4663|1472|4713|1373|4155|14200
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 5 Item Level 17 MissFortune vs 5 Item Level 17 Aatrox
+{{< /tab >}}
+{{< tab "5 Item" >}}
+## 5 Item Level 17 MissFortune vs 5 Item Level 17 Aatrox
 
 **Target Health:3274.0 Armor:230.2 Mr:114.8**
 
@@ -534,7 +306,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3115.png)![](/item/6696.png)![](/item/1001.png)|2.46|2893|1691|4613|1875|4412|15800
 ![](/item/3036.png)![](/item/3153.png)![](/item/6675.png)![](/item/6672.png)![](/item/3115.png)![](/item/1001.png)|2.46|3366|1747|4627|1881|4412|16200
@@ -547,67 +319,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 ![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/6676.png)![](/item/1001.png)|3.06|5093|1798|5041|1645|4412|15900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6675.png)![](/item/3087.png)![](/item/1001.png)|3.11|5150|1670|5047|1621|4412|15900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6675.png)![](/item/3094.png)![](/item/1038.png)|3.22|5435|1717|5081|1577|4412|16900
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 6 Item Level 18 MissFortune vs 6 Item Level 18 Aatrox
+{{< /tab >}}
+{{< tab "6 Item" >}}
+## 6 Item Level 18 MissFortune vs 6 Item Level 18 Aatrox
 
 **Target Health:3388.0 Armor:234.7 Mr:116.8**
 
@@ -663,73 +377,15 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/3094.png)![](/item/3091.png)|2.16|5128|2026|5238|2430|4676
-![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/6676.png)![](/item/3046.png)|2.24|5636|1961|5291|2366|4676
-![](/item/6672.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3046.png)![](/item/6675.png)|2.24|5636|1961|5292|2366|4676
-![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/3094.png)![](/item/6693.png)|2.42|5666|2034|5295|2186|4676
-![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/3094.png)![](/item/6676.png)|2.42|5749|2056|5303|2189|4676
-![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/3094.png)![](/item/6696.png)|2.42|5749|2056|5304|2189|4676
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6675.png)![](/item/3153.png)![](/item/3094.png)|2.46|5749|2176|5698|2316|4676
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6675.png)![](/item/3094.png)![](/item/6696.png)|2.67|6490|1973|5380|2015|4676
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/3094.png)![](/item/3091.png)|2.16|5128|2026|5238|2430|4676|18800
+![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/6676.png)![](/item/3046.png)|2.24|5636|1961|5291|2366|4676|18400
+![](/item/6672.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3046.png)![](/item/6675.png)|2.24|5636|1961|5292|2366|4676|18400
+![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/3094.png)![](/item/6693.png)|2.42|5666|2034|5295|2186|4676|18600
+![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/3094.png)![](/item/6676.png)|2.42|5749|2056|5303|2189|4676|18600
+![](/item/3036.png)![](/item/6675.png)![](/item/3072.png)![](/item/6672.png)![](/item/3094.png)![](/item/6696.png)|2.42|5749|2056|5304|2189|4676|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6675.png)![](/item/3153.png)![](/item/3094.png)|2.46|5749|2176|5698|2316|4676|18900
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6675.png)![](/item/3094.png)![](/item/6696.png)|2.67|6490|1973|5380|2015|4676|18600
+{{< /tab >}}
+{{< /tabs >}}

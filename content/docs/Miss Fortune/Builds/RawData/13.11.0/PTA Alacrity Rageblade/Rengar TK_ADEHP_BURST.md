@@ -2,7 +2,11 @@
 bookToc: false
 ---
 
-# 1 Item Level 8 MissFortune vs 1 Item Level 8 Rengar
+# MissFortune vs Rengar
+Tabs beyond 6 items force specific utility items.
+{{< tabs "Items" >}}
+{{< tab "1 Item" >}}
+## 1 Item Level 8 MissFortune vs 1 Item Level 8 Rengar
 
 **Target Health:1348.0 Armor:69.4 Mr:46.3**
 
@@ -62,72 +66,14 @@ bookToc: false
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.43|1405|691|2399|699|2304|5025
 ![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|4.28|1284|668|3442|804|3368|4975
 ![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|4.85|1132|599|4286|883|4196|5000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 2 Item Level 12 MissFortune vs 2 Item Level 12 Rengar
+{{< /tab >}}
+{{< tab "2 Item" >}}
+## 2 Item Level 12 MissFortune vs 2 Item Level 12 Rengar
 
 **Target Health:1764.0 Armor:86.2 Mr:54.5**
 
@@ -188,7 +134,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|1.52|1637|1141|3035|1991|2991|8200
 ![](/item/6673.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|2.29|2023|1089|4504|1966|4426|8400
@@ -197,67 +143,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 ![](/item/3026.png)![](/item/6609.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|3.19|1873|847|6019|1886|5907|8325
 ![](/item/3026.png)![](/item/3161.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.19|1837|836|6109|1915|5999|8400
 ![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.28|1985|905|7418|2260|7289|8400
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3 Item Level 14 MissFortune vs 3 Item Level 14 Rengar
+{{< /tab >}}
+{{< tab "3 Item" >}}
+## 3 Item Level 14 MissFortune vs 3 Item Level 14 Rengar
 
 **Target Health:1972.0 Armor:94.6 Mr:58.6**
 
@@ -319,7 +207,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|0.89|2062|1783|3577|3997|3494|11750
 ![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.39|2135|1512|5191|3742|5130|11450
@@ -328,67 +216,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 ![](/item/6673.png)![](/item/3026.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.04|2171|1216|8478|4156|8384|11250
 ![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.48|2251|1024|9293|3752|9163|11150
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.78|2287|1036|10482|3773|10320|11350
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 4 Item Level 16 MissFortune vs 4 Item Level 16 Rengar
+{{< /tab >}}
+{{< tab "4 Item" >}}
+## 4 Item Level 16 MissFortune vs 4 Item Level 16 Rengar
 
 **Target Health:2180.0 Armor:103.0 Mr:62.8**
 
@@ -451,7 +281,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/1001.png)![](/item/1038.png)|0.46|2735|2234|3936|8573|3858|14300
 ![](/item/3094.png)![](/item/3153.png)![](/item/6676.png)![](/item/3124.png)![](/item/1055.png)![](/item/1038.png)|0.51|3170|2108|4070|7908|3983|14250
@@ -465,67 +295,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3094.png)![](/item/1055.png)![](/item/1038.png)|2.2|3007|1284|11759|5355|11590|14050
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/1001.png)![](/item/1038.png)|2.4|3109|1205|12330|5140|12133|14300
 ![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/1001.png)![](/item/1038.png)|2.4|2990|1171|12570|5240|12379|14000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 5 Item Level 17 MissFortune vs 5 Item Level 17 Rengar
+{{< /tab >}}
+{{< tab "5 Item" >}}
+## 5 Item Level 17 MissFortune vs 5 Item Level 17 Rengar
 
 **Target Health:2284.0 Armor:107.2 Mr:64.8**
 
@@ -589,7 +361,7 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3033.png)![](/item/1001.png)|0.46|3155|2609|3401|7406|3326|16000
 ![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/6673.png)![](/item/1001.png)|0.46|2866|2447|5078|11059|4947|16000
@@ -603,67 +375,9 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/6609.png)![](/item/1001.png)|2.29|3197|1239|10581|4618|10422|15800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3071.png)![](/item/1001.png)|2.29|3158|1228|10871|4745|10713|16100
 ![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3814.png)![](/item/1001.png)|2.37|3216|1243|10922|4603|10762|15600
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 6 Item Level 18 MissFortune vs 6 Item Level 18 Rengar
+{{< /tab >}}
+{{< tab "6 Item" >}}
+## 6 Item Level 18 MissFortune vs 6 Item Level 18 Rengar
 
 **Target Health:2388.0 Armor:111.4 Mr:66.8**
 
@@ -727,81 +441,23 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/3094.png)![](/item/3153.png)![](/item/6676.png)![](/item/3124.png)![](/item/3033.png)![](/item/3091.png)|0.46|4358|3008|3611|7864|3519
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/6673.png)![](/item/3094.png)|0.46|3331|2827|5368|11690|5226
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3026.png)![](/item/3094.png)|0.46|3289|2701|6259|13630|6170
-![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)|0.46|3455|2561|6613|14402|6429
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/3094.png)![](/item/6673.png)|0.46|3372|2541|8443|18387|8266
-![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|0.86|3417|2081|8873|10327|8801
-![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/6333.png)|0.86|3248|2035|9928|11555|9846
-![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|1.34|3549|1778|10596|7902|10484
-![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3071.png)![](/item/3085.png)|1.34|3331|1718|10737|8007|10631
-![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3046.png)![](/item/6609.png)|1.9|3482|1363|11276|5921|11122
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3071.png)![](/item/3094.png)|1.97|3640|1494|11380|5772|11220
-![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3814.png)![](/item/3085.png)|1.98|3473|1386|11423|5763|11269
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 7 Item Level 18 MissFortune vs 7 Item Level 18 Rengar
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/3094.png)![](/item/3153.png)![](/item/6676.png)![](/item/3124.png)![](/item/3033.png)![](/item/3091.png)|0.46|4358|3008|3611|7864|3519|18700
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/6673.png)![](/item/3094.png)|0.46|3331|2827|5368|11690|5226|18700
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3026.png)![](/item/3094.png)|0.46|3289|2701|6259|13630|6170|18700
+![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)|0.46|3455|2561|6613|14402|6429|19000
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/3094.png)![](/item/6673.png)|0.46|3372|2541|8443|18387|8266|18700
+![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|0.86|3417|2081|8873|10327|8801|18100
+![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/6333.png)|0.86|3248|2035|9928|11555|9846|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|1.34|3549|1778|10596|7902|10484|18200
+![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3071.png)![](/item/3085.png)|1.34|3331|1718|10737|8007|10631|18400
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3046.png)![](/item/6609.png)|1.9|3482|1363|11276|5921|11122|18000
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3071.png)![](/item/3094.png)|1.97|3640|1494|11380|5772|11220|18800
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3814.png)![](/item/3085.png)|1.98|3473|1386|11423|5763|11269|18100
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Rengar
 
 **Target Health:2388.0 Armor:111.4 Mr:66.8**
 
@@ -866,74 +522,16 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3026.png)![](/item/3094.png)|0.46|3289|2701|6259|13630|6170
-![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/3094.png)![](/item/6673.png)|0.46|3372|2541|8443|18387|8266
-![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|0.86|3417|2081|8873|10327|8801
-![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/6333.png)|0.86|3248|2035|9928|11555|9846
-![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|1.34|3549|1778|10596|7902|10484
-![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3071.png)![](/item/3085.png)|1.34|3331|1718|10737|8007|10631
-![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3046.png)![](/item/6609.png)|1.9|3482|1363|11276|5921|11122
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3071.png)![](/item/3094.png)|1.97|3640|1494|11380|5772|11220
-![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3814.png)![](/item/3085.png)|1.98|3473|1386|11423|5763|11269
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3026.png)![](/item/3094.png)|0.46|3289|2701|6259|13630|6170|18700
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/3094.png)![](/item/6673.png)|0.46|3372|2541|8443|18387|8266|18700
+![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|0.86|3417|2081|8873|10327|8801|18100
+![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/6333.png)|0.86|3248|2035|9928|11555|9846|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|1.34|3549|1778|10596|7902|10484|18200
+![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3071.png)![](/item/3085.png)|1.34|3331|1718|10737|8007|10631|18400
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3046.png)![](/item/6609.png)|1.9|3482|1363|11276|5921|11122|18000
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3071.png)![](/item/3094.png)|1.97|3640|1494|11380|5772|11220|18800
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3814.png)![](/item/3085.png)|1.98|3473|1386|11423|5763|11269|18100
+{{< /tab >}}
+{{< /tabs >}}

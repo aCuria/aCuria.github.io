@@ -2,7 +2,11 @@
 bookToc: false
 ---
 
-# 1 Item Level 8 MissFortune vs 1 Item Level 8 KSante
+# MissFortune vs KSante
+Tabs beyond 6 items force specific utility items.
+{{< tabs "Items" >}}
+{{< tab "1 Item" >}}
+## 1 Item Level 8 MissFortune vs 1 Item Level 8 KSante
 
 **Target Health:1866.0 Armor:135.9 Mr:44.7**
 
@@ -62,70 +66,12 @@ bookToc: false
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|6.89|918|575|2690|390|2616|5000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 2 Item Level 12 MissFortune vs 2 Item Level 12 KSante
+{{< /tab >}}
+{{< tab "2 Item" >}}
+## 2 Item Level 12 MissFortune vs 2 Item Level 12 KSante
 
 **Target Health:2698.0 Armor:204.7 Mr:53.1**
 
@@ -186,72 +132,14 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3091.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|4.44|1190|801|3862|870|3771|8200
 ![](/item/6672.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|5.33|1429|767|5500|1030|5384|8400
 ![](/item/6672.png)![](/item/3026.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|6.17|1163|670|6700|1085|6560|8450
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3 Item Level 14 MissFortune vs 3 Item Level 14 KSante
+{{< /tab >}}
+{{< tab "3 Item" >}}
+## 3 Item Level 14 MissFortune vs 3 Item Level 14 KSante
 
 **Target Health:3264.0 Armor:284.1 Mr:57.3**
 
@@ -313,72 +201,14 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.14|1790|1298|4593|1462|4411|11350
 ![](/item/6672.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|4.17|1339|920|6358|1526|6247|11250
 ![](/item/6672.png)![](/item/6673.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|6.54|1362|764|10008|1529|9834|11050
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 4 Item Level 16 MissFortune vs 4 Item Level 16 KSante
+{{< /tab >}}
+{{< tab "4 Item" >}}
+## 4 Item Level 16 MissFortune vs 4 Item Level 16 KSante
 
 **Target Health:3880.0 Armor:353.5 Mr:61.5**
 
@@ -441,73 +271,15 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|3.12|2236|1498|5063|1621|4875|14100
 ![](/item/6672.png)![](/item/3091.png)![](/item/6673.png)![](/item/3036.png)![](/item/1001.png)![](/item/1038.png)|4.07|2388|1141|7089|1743|6947|13800
 ![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|4.15|2303|1372|7375|1775|6947|14100
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|4.28|2270|1317|8729|2038|8454|13900
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 5 Item Level 17 MissFortune vs 5 Item Level 17 KSante
+{{< /tab >}}
+{{< tab "5 Item" >}}
+## 5 Item Level 17 MissFortune vs 5 Item Level 17 KSante
 
 **Target Health:3988.0 Armor:495.7 Mr:138.6**
 
@@ -571,72 +343,14 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3031.png)![](/item/1001.png)|3.35|2208|1330|5407|1615|5196|16200
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)|3.76|1908|1235|7760|2064|7391|15800
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3026.png)![](/item/1001.png)|3.76|1813|1212|9215|2451|8989|15800
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 6 Item Level 18 MissFortune vs 6 Item Level 18 KSante
+{{< /tab >}}
+{{< tab "6 Item" >}}
+## 6 Item Level 18 MissFortune vs 6 Item Level 18 KSante
 
 **Target Health:4096.0 Armor:500.4 Mr:140.7**
 
@@ -700,73 +414,15 @@ Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
 
 
 
-Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB
--|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3085.png)![](/item/6676.png)![](/item/3031.png)|2.91|2793|1418|5762|1977|5527
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3004.png)![](/item/3046.png)![](/item/3031.png)|2.92|2824|1416|5773|1980|5527
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3072.png)![](/item/3085.png)![](/item/3031.png)|3.12|2901|1435|6362|2038|5527
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/3072.png)![](/item/3031.png)|3.12|3025|1444|6390|2047|5527
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/6673.png)![](/item/3031.png)|3.32|2746|1368|8356|2520|7848
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/3094.png)![](/item/3031.png)|3.56|2659|1395|9845|2766|9537
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/3046.png)![](/item/3072.png)|3.72|2480|1269|10511|2829|9537
-![](/item/6672.png)![](/item/6673.png)![](/item/3026.png)![](/item/3036.png)![](/item/3046.png)![](/item/3031.png)|3.89|2777|1047|12553|3228|12310
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3085.png)![](/item/6676.png)![](/item/3031.png)|2.91|2793|1418|5762|1977|5527|18500
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3004.png)![](/item/3046.png)![](/item/3031.png)|2.92|2824|1416|5773|1980|5527|18400
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3072.png)![](/item/3085.png)![](/item/3031.png)|3.12|2901|1435|6362|2038|5527|18700
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/3072.png)![](/item/3031.png)|3.12|3025|1444|6390|2047|5527|18700
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/6673.png)![](/item/3031.png)|3.32|2746|1368|8356|2520|7848|18500
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/3094.png)![](/item/3031.png)|3.56|2659|1395|9845|2766|9537|18700
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/3046.png)![](/item/3072.png)|3.72|2480|1269|10511|2829|9537|18300
+![](/item/6672.png)![](/item/6673.png)![](/item/3026.png)![](/item/3036.png)![](/item/3046.png)![](/item/3031.png)|3.89|2777|1047|12553|3228|12310|18200
+{{< /tab >}}
+{{< /tabs >}}

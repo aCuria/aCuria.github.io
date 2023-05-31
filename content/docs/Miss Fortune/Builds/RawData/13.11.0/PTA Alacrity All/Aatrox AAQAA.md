@@ -2,6 +2,123 @@
 bookToc: false
 ---
 
+
+{{< tabs "Items" >}}
+{{< tab "1 Item" >}} 
+# 1 Item Level 8 MissFortune vs 1 Item Level 8 Aatrox
+
+**Target Health:1848.0 Armor:95.2 Mr:46.3**
+
+
+**Forced Items** []
+
+
+
+
+
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Black Cleaver']
+
+
+
+
+
+![](/item/3047.png)
+![](/item/3071.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+{{ $image := .Resources.GetMatch "Styles/Precision/PressTheAttack/PressTheAttack.png" }}
+{{ $image := $image.Resize "64x" }}
+{{ with $image }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+{{ end }}
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+Build | tk | ult | aaqaa | AdHp | AdHp/Tk | AdB | g
+-|-|-|-|-|-|-|-
+![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|6.14|1041|782|2736|445|2616|4925
+![](/item/6671.png)![](/item/1053.png)![](/item/1055.png)|8.25|1116|701|2716|329|2616|4750
+![](/item/3095.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.25|1183|664|2722|329|2616|5000
+![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.09|1082|655|2689|527|2616|5000
+![](/item/3087.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|7.99|1116|647|2714|339|2616|5000
+![](/item/3124.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|6.82|963|628|2692|394|2616|4850
+![](/item/3036.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.28|1249|618|2729|329|2616|5000
+![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.12|1288|616|2720|335|2616|5000
+![](/item/3094.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|8.43|1082|614|2721|322|2616|5050
+![](/item/3033.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.28|1239|613|2728|329|2616|5000
+![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|7.03|1333|612|2763|393|2616|5025
+![](/item/3031.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|8.12|1234|606|2718|334|2616|5050
+![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|8.28|1251|603|2903|350|2616|4825
+![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.12|1293|602|2724|335|2616|4800
+![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|8.28|1217|593|3932|474|3823|4975
+![](/item/6691.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|7.19|1313|592|2710|377|2616|4750
+![](/item/3179.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|8.12|1260|591|2722|335|2616|4825
+![](/item/6675.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|7.15|1231|590|2723|380|2616|5050
+![](/item/6696.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.12|1238|585|2720|335|2616|5000
+![](/item/3004.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.12|1242|585|2720|335|2616|4900
+![](/item/3508.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.12|1183|582|2722|335|2616|4900
+![](/item/6693.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|8.12|1220|580|2719|334|2616|5000
+![](/item/3006.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)![](/item/1036.png)|8.25|1203|573|2720|329|2616|4975
+![](/item/3156.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|9.21|1203|573|2911|316|2616|4800
+![](/item/6694.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|9.21|1154|572|2722|295|2616|4850
+![](/item/6692.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|9.21|1169|564|2882|313|2775|4750
+![](/item/6695.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|8.38|1134|554|2726|325|2616|5050
+![](/item/3139.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|9.21|1082|551|2721|295|2616|5000
+![](/item/3046.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|8.21|1048|540|2725|331|2616|5025
+![](/item/3091.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|8.22|976|540|2712|329|2616|4850
+![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|10.3|1073|535|4770|463|4640|5000
+![](/item/6333.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|10.3|1073|535|3470|337|3336|4950
+![](/item/3085.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|8.22|914|532|2712|329|2616|5025
+![](/item/3814.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|10.3|1082|528|3259|316|3147|4900
+![](/item/3115.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|8.49|889|526|2697|317|2616|4850
+![](/item/3161.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|10.48|1063|522|3227|308|3106|5050
+![](/item/6609.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|9.83|1063|522|3138|319|3024|4800
+![](/item/3071.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|10.13|972|494|3381|333|3269|4750
+![](/item/6035.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|12.23|972|494|3224|263|3106|5000
+![](/item/3078.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|10.2|912|476|3224|316|3106|4983
+
+
+
+
+
+{{< /tab >}}
+{{< tab "2 Item" >}} 
+# Linux Content 
+{{< /tab >}}
+{{< tab "3 Item" >}} 
+# Windows Content 
+{{< /tab >}}
+{{< /tabs >}}
+
 # 1 Item Level 8 MissFortune vs 1 Item Level 8 Aatrox
 
 **Target Health:1848.0 Armor:95.2 Mr:46.3**
