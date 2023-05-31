@@ -2,7 +2,11 @@
 bookToc: false
 ---
 
-# 1 Item Level 8 MissFortune vs 1 Item Level 8 Vex
+# MissFortune vs Vex
+Tabs beyond 6 items force specific utility items.
+{{< tabs "Items" >}}
+{{< tab "1 Item" >}}
+## 1 Item Level 8 MissFortune vs 1 Item Level 8 Vex
 
 **Target Health:1318.0 Armor:60.2 Mr:37.1**
 
@@ -54,70 +58,12 @@ bookToc: false
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|3.56|1525|722|1895|531|1842|4750
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 2 Item Level 12 MissFortune vs 2 Item Level 12 Vex
+![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.43|1474|724|1922|560|1842|5025
+{{< /tab >}}
+{{< tab "2 Item" >}}
+## 2 Item Level 12 MissFortune vs 2 Item Level 12 Vex
 
 **Target Health:1734.0 Armor:123.0 Mr:42.3**
 
@@ -170,70 +116,12 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3033.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.66|2305|975|2483|933|2413|8100
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3 Item Level 14 MissFortune vs 3 Item Level 14 Vex
+![](/item/3074.png)![](/item/3033.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|2.66|2100|947|2516|945|2413|8375
+{{< /tab >}}
+{{< tab "3 Item" >}}
+## 3 Item Level 14 MissFortune vs 3 Item Level 14 Vex
 
 **Target Health:1942.0 Armor:131.8 Mr:44.9**
 
@@ -287,70 +175,12 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.8|3481|1460|2410|1341|2339|11750
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 4 Item Level 16 MissFortune vs 4 Item Level 16 Vex
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.8|2929|1311|2505|1394|2339|11250
+{{< /tab >}}
+{{< tab "4 Item" >}}
+## 4 Item Level 16 MissFortune vs 4 Item Level 16 Vex
 
 **Target Health:2150.0 Armor:140.8 Mr:47.5**
 
@@ -405,70 +235,12 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/6696.png)![](/item/1053.png)![](/item/1038.png)|1.2|5481|1908|2550|2126|2475|14300
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 5 Item Level 17 MissFortune vs 5 Item Level 17 Vex
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|1.2|4472|1676|2645|2205|2475|13800
+{{< /tab >}}
+{{< tab "5 Item" >}}
+## 5 Item Level 17 MissFortune vs 5 Item Level 17 Vex
 
 **Target Health:2454.0 Armor:145.2 Mr:48.8**
 
@@ -524,70 +296,12 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/6696.png)![](/item/3072.png)![](/item/1038.png)|0.63|6833|2355|2761|4355|2583|16600
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 6 Item Level 18 MissFortune vs 6 Item Level 18 Vex
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6671.png)![](/item/1038.png)|1.13|5283|2270|2792|2481|2583|16900
+{{< /tab >}}
+{{< tab "6 Item" >}}
+## 6 Item Level 18 MissFortune vs 6 Item Level 18 Vex
 
 **Target Health:2558.0 Armor:149.7 Mr:50.1**
 
@@ -643,70 +357,12 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
--|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6693.png)![](/item/6696.png)|0.63|8467|2725|2878|4588|2691
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 7 Item Level 18 MissFortune vs 7 Item Level 18 Vex
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6671.png)![](/item/6693.png)|0.6|6365|2627|2865|4814|2691|18600
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Vex
 
 **Target Health:2558.0 Armor:149.7 Mr:50.1**
 
@@ -763,66 +419,8 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
--|-|-|-|-|-|-
-![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/6696.png)![](/item/3072.png)![](/item/3156.png)|0.63|7640|2595|4816|7678|4429
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6671.png)![](/item/3156.png)|0.6|5803|2441|4666|7839|4350|18400
+{{< /tab >}}
+{{< /tabs >}}

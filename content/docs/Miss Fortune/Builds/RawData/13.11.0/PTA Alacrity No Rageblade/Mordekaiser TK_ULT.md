@@ -2,7 +2,11 @@
 bookToc: false
 ---
 
-# 1 Item Level 8 MissFortune vs 1 Item Level 8 Mordekaiser
+# MissFortune vs Mordekaiser
+Tabs beyond 6 items force specific utility items.
+{{< tabs "Items" >}}
+{{< tab "1 Item" >}}
+## 1 Item Level 8 MissFortune vs 1 Item Level 8 Mordekaiser
 
 **Target Health:1623.0 Armor:92.4 Mr:46.3**
 
@@ -62,73 +66,15 @@ bookToc: false
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|4.33|1078|651|2283|527|2226|5000
 ![](/item/6675.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|5.59|1226|587|2305|412|2226|5050
 ![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|5.94|1284|613|2301|387|2226|5000
 ![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|6.68|1327|609|2343|351|2226|5025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 2 Item Level 12 MissFortune vs 2 Item Level 12 Mordekaiser
+{{< /tab >}}
+{{< tab "2 Item" >}}
+## 2 Item Level 12 MissFortune vs 2 Item Level 12 Mordekaiser
 
 **Target Health:2439.0 Armor:109.2 Mr:54.5**
 
@@ -189,7 +135,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3115.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.87|1539|897|2979|1036|2915|8200
 ![](/item/3153.png)![](/item/6691.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|2.9|2168|1194|3032|1047|2915|8375
@@ -197,67 +143,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 ![](/item/6675.png)![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.81|2411|950|3021|793|2915|8400
 ![](/item/3036.png)![](/item/6691.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.81|2672|1005|3021|793|2915|8100
 ![](/item/3036.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|3.81|2674|1051|3034|796|2915|8325
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3 Item Level 14 MissFortune vs 3 Item Level 14 Mordekaiser
+{{< /tab >}}
+{{< tab "3 Item" >}}
+## 3 Item Level 14 MissFortune vs 3 Item Level 14 Mordekaiser
 
 **Target Health:2997.0 Armor:117.6 Mr:58.6**
 
@@ -319,73 +207,15 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.96|2660|1776|3328|1695|3202|11350
 ![](/item/3153.png)![](/item/6691.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.96|2666|1649|3309|1685|3202|11450
 ![](/item/3036.png)![](/item/3142.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|2.13|3660|1663|3306|1552|3202|11750
 ![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|2.37|4341|1597|3324|1403|3202|11750
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 4 Item Level 16 MissFortune vs 4 Item Level 16 Mordekaiser
+{{< /tab >}}
+{{< tab "4 Item" >}}
+## 4 Item Level 16 MissFortune vs 4 Item Level 16 Mordekaiser
 
 **Target Health:3205.0 Armor:171.0 Mr:62.8**
 
@@ -448,7 +278,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|1.72|3072|1925|4475|2604|4318|14100
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/1038.png)![](/item/1037.png)|1.74|3233|1822|3460|1992|3328|14275
@@ -461,67 +291,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 ![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6675.png)![](/item/1001.png)![](/item/1038.png)|1.99|5472|1698|3658|1839|3328|14200
 ![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6691.png)![](/item/1001.png)![](/item/1038.png)|2.32|5553|1683|3645|1574|3328|13900
 ![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/1053.png)![](/item/1038.png)|2.32|5709|1766|3464|1495|3328|14300
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 5 Item Level 17 MissFortune vs 5 Item Level 17 Mordekaiser
+{{< /tab >}}
+{{< tab "5 Item" >}}
+## 5 Item Level 17 MissFortune vs 5 Item Level 17 Mordekaiser
 
 **Target Health:3959.0 Armor:175.2 Mr:64.8**
 
@@ -585,7 +357,7 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/1038.png)|1.91|5943|2139|3599|1884|3378|16700
 ![](/item/3153.png)![](/item/6691.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)|2.1|6056|1859|3611|1719|3378|15700
@@ -594,67 +366,9 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 ![](/item/3036.png)![](/item/3142.png)![](/item/6672.png)![](/item/3072.png)![](/item/6676.png)![](/item/1038.png)|2.56|6856|1861|3913|1526|3378|16600
 ![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/3072.png)![](/item/3095.png)![](/item/1038.png)|2.7|7066|1836|3929|1457|3378|16600
 ![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/3072.png)![](/item/1038.png)|2.84|7762|1725|4030|1417|3378|16600
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 6 Item Level 18 MissFortune vs 6 Item Level 18 Mordekaiser
+{{< /tab >}}
+{{< tab "6 Item" >}}
+## 6 Item Level 18 MissFortune vs 6 Item Level 18 Mordekaiser
 
 **Target Health:4063.0 Armor:179.4 Mr:66.8**
 
@@ -718,74 +432,16 @@ Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB | g
 
 
 
-Build | tk | ult | aaqaa |ApHp | ApHp/Tk | ApB
--|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3115.png)![](/item/6676.png)![](/item/6692.png)|1.66|5696|2190|3945|2377|3730
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/3115.png)|1.66|6138|2237|3776|2275|3554
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3074.png)![](/item/6696.png)![](/item/6691.png)|1.67|6596|2172|4019|2401|3554
-![](/item/6676.png)![](/item/3036.png)![](/item/3074.png)![](/item/6672.png)![](/item/6696.png)![](/item/6691.png)|1.68|8021|1943|3787|2248|3554
-![](/item/3153.png)![](/item/6691.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)|1.77|8145|2245|3799|2146|3554
-![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6691.png)![](/item/6672.png)![](/item/6696.png)|1.91|8492|2065|4012|2099|3554
-![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/6672.png)![](/item/3072.png)|2.05|8581|2237|4109|2008|3554
-![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/3072.png)![](/item/3087.png)|2.08|8661|2050|4114|1978|3554
-![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/3072.png)![](/item/6693.png)|2.1|9654|2055|4120|1964|3554
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3115.png)![](/item/6676.png)![](/item/6692.png)|1.66|5696|2190|3945|2377|3730|18600
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3142.png)![](/item/3115.png)|1.66|6138|2237|3776|2275|3554|18600
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3074.png)![](/item/6696.png)![](/item/6691.png)|1.67|6596|2172|4019|2401|3554|18800
+![](/item/6676.png)![](/item/3036.png)![](/item/3074.png)![](/item/6672.png)![](/item/6696.png)![](/item/6691.png)|1.68|8021|1943|3787|2248|3554|18500
+![](/item/3153.png)![](/item/6691.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)|1.77|8145|2245|3799|2146|3554|18400
+![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6691.png)![](/item/6672.png)![](/item/6696.png)|1.91|8492|2065|4012|2099|3554|18300
+![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/6672.png)![](/item/3072.png)|2.05|8581|2237|4109|2008|3554|18300
+![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/3072.png)![](/item/3087.png)|2.08|8661|2050|4114|1978|3554|18300
+![](/item/6676.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/3072.png)![](/item/6693.png)|2.1|9654|2055|4120|1964|3554|18300
+{{< /tab >}}
+{{< /tabs >}}
