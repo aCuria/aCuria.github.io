@@ -269,7 +269,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6692.png)![](/item/1001.png)![](/item/1038.png)|1.2|5434|2137|4736|3949|4378|13900
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|1.2|5352|2093|4505|3756|4155|13800
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 MissFortune
@@ -338,7 +338,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6692.png)![](/item/6696.png)![](/item/1001.png)|1.19|6565|2620|5094|4294|4644|15600
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)![](/item/1001.png)|1.19|6369|2456|4829|4071|4412|15500
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 MissFortune
@@ -407,6 +407,6 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6692.png)![](/item/6696.png)![](/item/3074.png)|0.63|8265|3210|5587|8907|4943|18700
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)![](/item/6671.png)|0.6|7779|3367|5055|8493|4676|18600
 {{< /tab >}}
 {{< /tabs >}}

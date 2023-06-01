@@ -134,7 +134,8 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3115.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.87|1633|992|3878|1349|3771|8200
+![](/item/6672.png)![](/item/6691.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.84|2202|1115|3902|1372|3771|8100
+![](/item/6672.png)![](/item/3078.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.01|1760|983|4437|1472|4312|8333
 ![](/item/3033.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|3.28|2351|1152|5540|1688|5384|8400
 ![](/item/6672.png)![](/item/3026.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|3.5|1698|959|6725|1919|6560|8450
 {{< /tab >}}
@@ -203,9 +204,9 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/6671.png)![](/item/1055.png)![](/item/1038.png)![](/item/1036.png)|1.88|2399|1768|4583|2442|4411|11800
-![](/item/3033.png)![](/item/6673.png)![](/item/6672.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.13|2692|1532|6388|3000|6247|11050
-![](/item/3026.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.15|2235|1187|10031|3187|9834|11250
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.69|2113|1995|4576|2700|4411|11750
+![](/item/6672.png)![](/item/6673.png)![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.13|2966|1450|6413|3012|6247|11450
+![](/item/3026.png)![](/item/6673.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)|2.94|3117|1313|10073|3427|9834|11725
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 Vayne
@@ -273,13 +274,11 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|2.13|2837|1864|5064|2375|4875|14100
-![](/item/6672.png)![](/item/3115.png)![](/item/3153.png)![](/item/6333.png)![](/item/1001.png)![](/item/1038.png)|2.54|2300|1413|6230|2453|5989|14400
-![](/item/3033.png)![](/item/6673.png)![](/item/3153.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|2.63|3364|1688|7430|2821|6947|13900
-![](/item/6672.png)![](/item/3115.png)![](/item/3026.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|2.73|2232|1391|8686|3184|8454|14100
-![](/item/6672.png)![](/item/3026.png)![](/item/3074.png)![](/item/3091.png)![](/item/1001.png)![](/item/1038.png)|2.73|2627|1316|8704|3185|8454|14200
-![](/item/6672.png)![](/item/3026.png)![](/item/3153.png)![](/item/6609.png)![](/item/1001.png)![](/item/1038.png)|2.86|2298|1411|9301|3255|9047|13700
-![](/item/6672.png)![](/item/3026.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|3.14|2482|1402|11441|3646|10947|13900
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/1001.png)![](/item/1038.png)|1.66|2381|2359|5035|3034|4875|14300
+![](/item/6672.png)![](/item/3072.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1038.png)|1.71|2699|2246|5445|3187|4875|14300
+![](/item/6672.png)![](/item/3091.png)![](/item/6673.png)![](/item/3124.png)![](/item/1001.png)![](/item/1038.png)|2.07|2451|1893|7043|3397|6947|14000
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|2.08|2451|2206|7292|3503|6947|14300
+![](/item/6672.png)![](/item/3026.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1038.png)|2.11|2416|2028|8682|4117|8454|14100
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Vayne
@@ -348,11 +347,13 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/6671.png)![](/item/1038.png)|1.66|3403|2376|5390|3248|5196|17200
-![](/item/3033.png)![](/item/6673.png)![](/item/6672.png)![](/item/6676.png)![](/item/6671.png)![](/item/1038.png)|1.97|4283|2183|7560|3838|7391|16700
-![](/item/6672.png)![](/item/3153.png)![](/item/6671.png)![](/item/3026.png)![](/item/3033.png)![](/item/1038.png)|2.27|3446|2225|9263|4084|8989|17000
-![](/item/3033.png)![](/item/6673.png)![](/item/6672.png)![](/item/3026.png)![](/item/3115.png)![](/item/1001.png)|2.74|2945|1548|11819|4320|11620|15500
-![](/item/3033.png)![](/item/6673.png)![](/item/6672.png)![](/item/3026.png)![](/item/6333.png)![](/item/1001.png)|3.06|3188|1569|14059|4590|13788|15600
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/3033.png)![](/item/1001.png)|1.26|2865|3041|5367|4262|5196|16000
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3033.png)![](/item/3087.png)![](/item/1001.png)|1.26|2908|2959|5367|4262|5196|16000
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3033.png)![](/item/3085.png)![](/item/1038.png)|1.26|2865|2896|5368|4263|5196|16800
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3033.png)![](/item/3046.png)![](/item/1038.png)|1.26|3034|2873|5374|4268|5196|16800
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3033.png)![](/item/3072.png)![](/item/1001.png)|1.28|3287|2935|5796|4544|5196|16200
+![](/item/3033.png)![](/item/6673.png)![](/item/3153.png)![](/item/6676.png)![](/item/3124.png)![](/item/1001.png)|1.41|3436|2829|7766|5501|7391|15800
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/3033.png)![](/item/1001.png)|1.68|2908|2712|9227|5506|8989|16000
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Vayne
@@ -421,10 +422,9 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/6671.png)![](/item/3033.png)![](/item/6676.png)![](/item/6695.png)|1.38|4688|2988|5741|4175|5527|18300
-![](/item/3033.png)![](/item/3072.png)![](/item/3153.png)![](/item/6676.png)![](/item/6695.png)![](/item/6671.png)|1.5|5262|2871|6290|4181|5527|18500
-![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/6671.png)![](/item/6673.png)|1.66|3762|2534|8254|4975|7848|18900
-![](/item/6672.png)![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/6671.png)![](/item/3026.png)|1.66|3590|2468|9784|5897|9537|18900
-![](/item/3033.png)![](/item/6673.png)![](/item/6672.png)![](/item/6676.png)![](/item/6671.png)![](/item/3026.png)|1.95|4506|2275|12526|6418|12310|18400
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3033.png)![](/item/3094.png)![](/item/6676.png)|0.86|3909|3457|5710|6646|5527|18700
+![](/item/6672.png)![](/item/3033.png)![](/item/3046.png)![](/item/3153.png)![](/item/6676.png)![](/item/3124.png)|0.86|3813|3404|5713|6649|5527|18300
+![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3033.png)![](/item/3072.png)![](/item/3094.png)|0.86|3826|3370|6098|7097|5527|18900
+![](/item/3033.png)![](/item/6673.png)![](/item/3153.png)![](/item/6676.png)![](/item/3124.png)![](/item/3094.png)|0.93|4005|3264|8204|8842|7848|18500
 {{< /tab >}}
 {{< /tabs >}}

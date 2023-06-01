@@ -237,7 +237,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6692.png)![](/item/1001.png)![](/item/1038.png)|1.2|4629|1740|2786|2322|2607|13900
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|1.2|4472|1676|2645|2205|2475|13800
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Vex
@@ -298,7 +298,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6692.png)![](/item/6696.png)![](/item/1001.png)|1.19|5693|2064|2934|2473|2718|15600
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6671.png)![](/item/1038.png)|1.13|5283|2270|2792|2481|2583|16900
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Vex
@@ -359,7 +359,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6692.png)![](/item/6696.png)![](/item/6693.png)|0.63|7688|2723|3048|4860|2839|18300
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6671.png)![](/item/6693.png)|0.6|6365|2627|2865|4814|2691|18600
 {{< /tab >}}
 {{< tab "7 Item" >}}
 ## 7 Item Level 18 MissFortune vs 7 Item Level 18 Vex
@@ -421,6 +421,6 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6692.png)![](/item/6696.png)![](/item/3156.png)|0.63|7021|2477|4905|7820|4536|18100
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6671.png)![](/item/3156.png)|0.6|5803|2441|4666|7839|4350|18400
 {{< /tab >}}
 {{< /tabs >}}

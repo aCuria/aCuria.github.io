@@ -354,7 +354,9 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/6676.png)![](/item/6692.png)![](/item/1001.png)|1.41|4275|2387|4359|3098|4191|15900
+![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/6676.png)![](/item/6671.png)![](/item/1038.png)|1.35|4113|2503|4151|3079|3990|17200
+![](/item/6672.png)![](/item/6673.png)![](/item/3033.png)![](/item/6676.png)![](/item/6671.png)![](/item/1038.png)|1.49|4514|2455|4908|3283|4793|16700
+![](/item/3033.png)![](/item/3153.png)![](/item/6673.png)![](/item/6676.png)![](/item/6671.png)![](/item/1038.png)|1.52|4364|2480|5072|3339|4793|17000
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)|1.7|3425|2206|6010|3526|5675|15800
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3156.png)![](/item/1001.png)|1.7|3445|2188|6814|3998|6300|15600
 {{< /tab >}}
@@ -425,9 +427,9 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/6676.png)![](/item/6692.png)![](/item/6672.png)|0.88|5232|3039|4560|5208|4396|18600
-![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/6676.png)![](/item/6692.png)![](/item/3072.png)|0.95|5887|2912|4980|5232|4400|18800
-![](/item/6672.png)![](/item/6673.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)![](/item/6692.png)|0.98|5542|3029|5483|5593|5202|18400
-![](/item/6672.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)![](/item/6692.png)|0.98|5529|2990|6631|6764|6187|18200
+![](/item/6672.png)![](/item/3033.png)![](/item/3095.png)![](/item/3153.png)![](/item/6676.png)![](/item/6671.png)|0.9|4686|3044|3659|4068|3532|18700
+![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3153.png)![](/item/6676.png)![](/item/6671.png)|0.94|5160|3066|3981|4243|3532|18900
+![](/item/6672.png)![](/item/6673.png)![](/item/3033.png)![](/item/3153.png)![](/item/3091.png)![](/item/6671.png)|1.26|3948|2711|6235|4951|5932|18900
+![](/item/3156.png)![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6676.png)![](/item/6671.png)|1.34|4909|2675|7386|5525|6808|18700
 {{< /tab >}}
 {{< /tabs >}}

@@ -344,10 +344,12 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6676.png)![](/item/6692.png)![](/item/1001.png)|4.24|3881|2556|6004|1415|5456|15700
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3091.png)![](/item/6676.png)![](/item/1001.png)|4.75|3106|2355|5698|1198|5196|15800
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3091.png)![](/item/3071.png)![](/item/1001.png)|4.84|2755|2202|6489|1341|6001|15900
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3072.png)![](/item/3046.png)![](/item/1038.png)|5.19|3471|2177|7039|1355|5196|16600
 ![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3091.png)![](/item/6673.png)![](/item/1001.png)|5.32|2857|2227|8321|1565|7391|15800
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/1001.png)|5.56|3529|2378|8756|1574|7650|15700
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3026.png)![](/item/6692.png)![](/item/1001.png)|5.56|3356|2334|9987|1795|9296|15700
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3091.png)![](/item/3026.png)![](/item/1001.png)|5.88|2715|2191|9585|1630|8989|15800
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3072.png)![](/item/3026.png)![](/item/1001.png)|6.32|3228|2114|11199|1772|8989|15800
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Sion
@@ -416,13 +418,12 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6676.png)![](/item/6692.png)![](/item/6695.png)|3.26|5122|3760|6366|1951|5819|18000
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6676.png)![](/item/6692.png)![](/item/6696.png)|3.26|5290|3135|6405|1963|5819|18400
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3072.png)![](/item/3115.png)![](/item/6692.png)|3.66|4537|2818|7646|2089|5799|18800
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3072.png)![](/item/3046.png)![](/item/6692.png)|3.72|4631|2758|7771|2091|5807|18400
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6676.png)![](/item/6692.png)![](/item/3072.png)|3.72|5433|3065|7835|2107|5819|18600
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6676.png)![](/item/6692.png)![](/item/6673.png)|3.72|4933|2930|9259|2489|8138|18400
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3026.png)![](/item/6692.png)![](/item/3091.png)|3.73|4027|2816|10521|2821|9876|18600
-![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3026.png)![](/item/6692.png)![](/item/3072.png)|4.2|4717|2786|12221|2906|9882|18600
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3091.png)![](/item/6676.png)![](/item/6671.png)|3.66|3898|2772|6045|1652|5527|18900
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3072.png)![](/item/6676.png)![](/item/6671.png)|4.0|4550|2741|7405|1853|5527|18900
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6673.png)![](/item/6676.png)![](/item/6671.png)|4.46|4127|2628|8945|2006|7848|18700
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3026.png)![](/item/6676.png)![](/item/6671.png)|4.46|3944|2569|10217|2291|9537|18700
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3072.png)![](/item/3046.png)![](/item/3026.png)|5.17|3718|2279|11886|2299|9537|18300
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6673.png)![](/item/3026.png)![](/item/6671.png)|5.68|3633|2415|13638|2399|12310|18700
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6673.png)![](/item/3026.png)![](/item/3046.png)|5.69|3337|2176|13661|2401|12310|18100
 {{< /tab >}}
 {{< /tabs >}}

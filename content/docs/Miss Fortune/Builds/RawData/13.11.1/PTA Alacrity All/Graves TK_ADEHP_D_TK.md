@@ -202,12 +202,10 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3115.png)![](/item/3153.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.73|1826|1304|4596|1683|4411|11550
-![](/item/6672.png)![](/item/3091.png)![](/item/6609.png)![](/item/1001.png)![](/item/1053.png)![](/item/1037.png)|2.78|1963|1284|4857|1746|4731|11075
-![](/item/6672.png)![](/item/3153.png)![](/item/3161.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.91|2084|1338|5187|1782|4977|11750
-![](/item/6672.png)![](/item/3153.png)![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.91|2017|1314|5719|1965|5463|11650
+![](/item/3033.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.32|2205|1971|4603|1980|4411|11550
+![](/item/3091.png)![](/item/6673.png)![](/item/3124.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.13|1985|1391|6377|2037|6247|11450
 ![](/item/6672.png)![](/item/3153.png)![](/item/6673.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|3.14|2059|1343|6653|2118|6247|11350
-![](/item/6672.png)![](/item/3033.png)![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)![](/item/1037.png)|3.23|2284|1294|7614|2356|7426|11075
+![](/item/6672.png)![](/item/3026.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|3.16|2613|1229|7808|2474|7608|11750
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 Graves
@@ -275,14 +273,10 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/1055.png)![](/item/1038.png)|1.84|3323|2171|4465|2422|4289|14450
-![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|1.93|3525|2010|4761|2469|4155|14100
-![](/item/6672.png)![](/item/3153.png)![](/item/6673.png)![](/item/3033.png)![](/item/1001.png)![](/item/1038.png)|2.39|3203|1908|6298|2632|5921|13900
-![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6696.png)![](/item/1001.png)![](/item/1038.png)|2.63|3418|1751|7255|2755|6988|13900
-![](/item/6672.png)![](/item/3091.png)![](/item/6609.png)![](/item/3026.png)![](/item/1001.png)![](/item/1053.png)|2.73|2439|1387|7621|2789|7478|13200
-![](/item/6672.png)![](/item/3153.png)![](/item/6333.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|2.86|2621|1460|8389|2936|8112|14200
-![](/item/6672.png)![](/item/3026.png)![](/item/3004.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|3.09|3002|1325|9231|2984|9049|13500
-![](/item/6672.png)![](/item/3026.png)![](/item/6609.png)![](/item/6673.png)![](/item/1001.png)![](/item/1038.png)|3.09|2798|1367|9711|3139|9538|13400
+![](/item/6672.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/1001.png)![](/item/1038.png)|1.66|2548|2338|4306|2595|4155|14300
+![](/item/3091.png)![](/item/6673.png)![](/item/3124.png)![](/item/3153.png)![](/item/1001.png)![](/item/1038.png)|2.08|2624|2171|6248|3002|5921|14300
+![](/item/3033.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|2.28|2977|2196|7216|3160|6988|14100
+![](/item/3026.png)![](/item/3033.png)![](/item/6673.png)![](/item/3142.png)![](/item/1038.png)![](/item/1037.png)|2.87|4444|1654|9287|3231|9049|14275
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Graves
@@ -351,10 +345,10 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/3091.png)![](/item/1038.png)|1.66|3193|2209|4581|2761|4412|17200
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/3072.png)![](/item/1038.png)|1.83|3724|2265|5051|2764|4412|17200
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/6673.png)![](/item/1038.png)|1.83|3390|2161|6622|3623|6276|17000
-![](/item/6672.png)![](/item/3026.png)![](/item/6609.png)![](/item/6673.png)![](/item/3153.png)![](/item/1001.png)|2.83|2405|1513|10500|3708|10076|15400
+![](/item/3033.png)![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/6676.png)![](/item/1001.png)|1.28|3136|2687|4567|3580|4412|16000
+![](/item/3091.png)![](/item/6673.png)![](/item/3124.png)![](/item/3033.png)![](/item/6672.png)![](/item/1001.png)|1.67|2771|2201|6357|3806|6276|15700
+![](/item/3091.png)![](/item/6673.png)![](/item/3124.png)![](/item/3153.png)![](/item/3033.png)![](/item/1001.png)|1.68|2771|2545|6574|3923|6276|16000
+![](/item/3033.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/6672.png)![](/item/1001.png)|1.7|2731|2431|7600|4475|7410|15800
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Graves
@@ -423,10 +417,8 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/3095.png)![](/item/6676.png)|1.32|4179|2677|4864|3689|4676|18700
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/3072.png)![](/item/6676.png)|1.38|4602|2655|5337|3882|4676|18900
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/3091.png)![](/item/6673.png)|1.66|3533|2382|7001|4219|6640|18900
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/3091.png)![](/item/3026.png)|1.66|3371|2297|8050|4852|7842|18900
-![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6671.png)![](/item/6673.png)![](/item/3026.png)|1.81|3574|2251|10550|5823|10122|18700
+![](/item/3033.png)![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/6676.png)![](/item/3094.png)|0.86|3672|3088|4823|5613|4676|18700
+![](/item/3033.png)![](/item/3153.png)![](/item/3124.png)![](/item/3091.png)![](/item/6676.png)![](/item/3046.png)|0.86|3581|2992|4824|5614|4676|18500
+![](/item/3033.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/3091.png)![](/item/3094.png)|1.26|3196|2804|8023|6371|7842|18700
 {{< /tab >}}
 {{< /tabs >}}

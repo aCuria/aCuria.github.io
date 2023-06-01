@@ -201,7 +201,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3072.png)![](/item/6692.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|5.62|2358|971|5185|923|4638|11350
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|5.62|2342|981|4936|879|4411|11250
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 KSante
@@ -269,7 +269,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3072.png)![](/item/6692.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|5.61|3501|1058|5745|1024|5135|13900
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3074.png)![](/item/1001.png)![](/item/1038.png)|7.24|3246|994|5891|813|4875|14200
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 KSante
@@ -338,7 +338,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3072.png)![](/item/6692.png)![](/item/6676.png)![](/item/3094.png)![](/item/1038.png)|6.7|3207|1014|6142|916|5472|16600
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3074.png)![](/item/6671.png)![](/item/1038.png)|7.5|3007|1022|6233|830|5196|17300
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 KSante
@@ -407,6 +407,6 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3072.png)![](/item/6692.png)![](/item/6676.png)![](/item/6693.png)![](/item/6696.png)|4.5|4160|1169|6528|1451|5830|18300
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3074.png)![](/item/6671.png)![](/item/6696.png)|5.84|3414|1126|6578|1127|5527|19000
 {{< /tab >}}
 {{< /tabs >}}
