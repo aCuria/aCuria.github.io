@@ -400,7 +400,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3085.png)![](/item/6676.png)![](/item/3031.png)|2.1|4274|2221|4952|2360|4676|18500
+![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3085.png)![](/item/6676.png)![](/item/3031.png)|2.1|4443|2221|4952|2360|4676|18500
 ![](/item/6672.png)![](/item/6609.png)![](/item/3036.png)![](/item/3046.png)![](/item/3074.png)![](/item/3091.png)|2.47|3416|1556|5369|2177|5110|18200
 ![](/item/6672.png)![](/item/6673.png)![](/item/3091.png)![](/item/3036.png)![](/item/3046.png)![](/item/3031.png)|2.47|4065|1875|6874|2788|6640|18400
 ![](/item/6672.png)![](/item/3153.png)![](/item/3026.png)![](/item/3036.png)![](/item/3085.png)![](/item/3031.png)|2.51|3673|1980|8152|3253|7842|18500
@@ -412,6 +412,77 @@ Tabs beyond 6 items force specific utility items.
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3046.png)![](/item/6609.png)|5.84|2530|951|13307|2278|12985|18300
 ![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/6609.png)![](/item/3046.png)|6.19|2437|926|13551|2190|13218|18000
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3071.png)![](/item/3046.png)|6.19|2370|901|13675|2210|13335|18600
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3814.png)![](/item/3046.png)|6.44|2377|901|13735|2134|13393|18100
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Aatrox
+
+**Target Health:3388.0 Armor:234.7 Mr:116.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Black Cleaver', 'Iceborn Gauntlet', "Serylda's Grudge", "Death's Dance", 'Maw of Malmortius']
+
+
+
+
+
+![](/item/3047.png)
+![](/item/3071.png)
+![](/item/6662.png)
+![](/item/6694.png)
+![](/item/6333.png)
+![](/item/3156.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/3085.png)![](/item/3814.png)![](/item/3031.png)|2.51|3711|1983|5514|2200|5241|18400
+![](/item/6672.png)![](/item/3153.png)![](/item/3161.png)![](/item/3036.png)![](/item/3046.png)![](/item/3814.png)|2.62|3202|1721|6004|2290|5762|18400
+![](/item/6672.png)![](/item/6673.png)![](/item/3036.png)![](/item/3046.png)![](/item/3814.png)![](/item/3031.png)|2.65|4150|1761|7448|2811|7204|18100
+![](/item/6672.png)![](/item/3153.png)![](/item/3026.png)![](/item/3036.png)![](/item/3814.png)![](/item/3085.png)|2.91|3015|1709|8768|3009|8497|18000
+![](/item/6672.png)![](/item/6333.png)![](/item/6673.png)![](/item/3036.png)![](/item/3046.png)![](/item/3814.png)|3.06|3457|1453|8767|2862|8510|18000
+![](/item/6672.png)![](/item/6673.png)![](/item/3026.png)![](/item/3036.png)![](/item/3814.png)![](/item/3046.png)|3.13|3373|1427|11024|3524|10778|17700
+![](/item/6672.png)![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/3046.png)![](/item/3814.png)|3.89|2595|1133|11607|2984|11383|18100
+![](/item/6672.png)![](/item/6333.png)![](/item/6673.png)![](/item/3026.png)![](/item/3046.png)![](/item/3814.png)|4.0|2568|1128|12713|3178|12460|18000
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3046.png)![](/item/3814.png)|6.19|2589|963|13492|2181|13160|18400
 ![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3814.png)![](/item/3046.png)|6.44|2377|901|13735|2134|13393|18100
 {{< /tab >}}
 {{< /tabs >}}

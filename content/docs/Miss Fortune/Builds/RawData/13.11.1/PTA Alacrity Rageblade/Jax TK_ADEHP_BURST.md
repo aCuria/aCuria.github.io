@@ -443,7 +443,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3085.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/6676.png)|0.46|3992|3427|5332|11613|5186|18300
+![](/item/3036.png)![](/item/3085.png)![](/item/3153.png)![](/item/3124.png)![](/item/6672.png)![](/item/6676.png)|0.46|4168|3427|5332|11613|5186|18300
 ![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/6673.png)![](/item/3094.png)|0.86|3810|3251|7661|8916|7365|18700
 ![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/3094.png)|0.86|3762|3105|9049|10531|8859|18700
 ![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3094.png)![](/item/3153.png)![](/item/6333.png)|1.26|3060|2669|9220|7322|8878|19000
@@ -454,6 +454,84 @@ Tabs beyond 6 items force specific utility items.
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3071.png)![](/item/3124.png)![](/item/3085.png)|2.56|2887|1524|14689|5744|14491|18400
 ![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/3046.png)![](/item/6609.png)|3.94|2998|1105|15214|3863|14893|18300
 ![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/3071.png)![](/item/3094.png)|4.26|3013|1192|15618|3662|15294|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3071.png)![](/item/3814.png)![](/item/3046.png)|4.27|2973|1095|15683|3670|15361|18100
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Jax
+
+**Target Health:3505.0 Armor:178.4 Mr:66.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Divine Sunderer', 'Spear Of Shojin', 'Blade of The Ruined King', 'Black Cleaver', "Zhonya's Hourglass"]
+
+
+
+
+
+![](/item/3047.png)
+![](/item/6632.png)
+![](/item/3161.png)
+![](/item/3153.png)
+![](/item/3071.png)
+![](/item/3157.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png)
+![](/Styles/Resolve/Demolish/Demolish.png)
+![](/Styles/Resolve/BonePlating/BonePlating.png)
+![](/Styles/Sorcery/Unflinching/Unflinching.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/3124.png)![](/item/3814.png)![](/item/3094.png)|0.86|3859|3089|5978|6958|5813|18600
+![](/item/6673.png)![](/item/3091.png)![](/item/3124.png)![](/item/3094.png)![](/item/3814.png)![](/item/3153.png)|1.26|3126|2683|8285|6580|7991|18600
+![](/item/3036.png)![](/item/3085.png)![](/item/3153.png)![](/item/3124.png)![](/item/3026.png)![](/item/3814.png)|1.27|3616|2695|9830|7726|9600|18200
+![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3094.png)![](/item/3153.png)![](/item/3814.png)|1.75|3239|2377|10060|5761|9633|18700
+![](/item/3026.png)![](/item/3153.png)![](/item/3124.png)![](/item/6673.png)![](/item/3094.png)![](/item/3814.png)|1.75|3164|2361|12590|7210|12176|18400
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/3814.png)![](/item/3085.png)![](/item/3124.png)|2.56|2960|1531|13262|5186|13087|18000
+![](/item/6673.png)![](/item/6333.png)![](/item/3124.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|2.73|3050|1564|14499|5302|14291|18200
+![](/item/6673.png)![](/item/3026.png)![](/item/3161.png)![](/item/6333.png)![](/item/3046.png)![](/item/3814.png)|4.27|3088|1125|15426|3610|15093|18400
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3071.png)![](/item/3814.png)![](/item/3046.png)|4.27|2973|1095|15683|3670|15361|18100
 {{< /tab >}}
 {{< /tabs >}}

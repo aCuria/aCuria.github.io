@@ -361,7 +361,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3031.png)![](/item/1001.png)|2.37|4063|2275|4695|1980|4412|16000
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6676.png)![](/item/3031.png)![](/item/1001.png)|2.37|4210|2275|4695|1980|4412|16000
 ![](/item/6672.png)![](/item/3036.png)![](/item/3072.png)![](/item/3094.png)![](/item/3031.png)![](/item/1038.png)|2.44|4500|2154|5060|2069|4412|16900
 ![](/item/6672.png)![](/item/3072.png)![](/item/3153.png)![](/item/6694.png)![](/item/3115.png)![](/item/1001.png)|2.46|2954|1800|5145|2091|4412|16200
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/6333.png)![](/item/3115.png)![](/item/1001.png)|2.52|2774|1772|5484|2177|5226|16100
@@ -454,5 +454,82 @@ Tabs beyond 6 items force specific utility items.
 ![](/item/6672.png)![](/item/6673.png)![](/item/3046.png)![](/item/3153.png)![](/item/6694.png)![](/item/3026.png)|2.62|3189|1869|10701|4082|10122|18300
 ![](/item/3026.png)![](/item/3036.png)![](/item/3072.png)![](/item/3094.png)![](/item/6673.png)![](/item/3031.png)|2.67|4895|2071|11279|4225|10122|18600
 ![](/item/6672.png)![](/item/6673.png)![](/item/3036.png)![](/item/3026.png)![](/item/3046.png)![](/item/6333.png)|2.74|3558|1639|12006|4387|11702|18100
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Riven
+
+**Target Health:3030.0 Armor:198.8 Mr:66.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Ionian Boots of Lucidity', 'Goredrinker', 'Black Cleaver', "Death's Dance", 'Guardian Angel', "Serylda's Grudge"]
+
+
+
+
+
+![](/item/3158.png)
+![](/item/6630.png)
+![](/item/3071.png)
+![](/item/6333.png)
+![](/item/3026.png)
+![](/item/6694.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/Conqueror/Conqueror.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Sorcery/LastStand/LastStand.png)
+![](/Styles/Sorcery/Transcendence/Transcendence.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsCDRScalingIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/3036.png)![](/item/3072.png)![](/item/3046.png)![](/item/3814.png)![](/item/3031.png)|2.24|4768|2179|5949|2660|5241|18300
+![](/item/3036.png)![](/item/3046.png)![](/item/3814.png)![](/item/3091.png)![](/item/6673.png)![](/item/3031.png)|2.58|4154|1851|7470|2899|7204|18300
+![](/item/6672.png)![](/item/6673.png)![](/item/3085.png)![](/item/3153.png)![](/item/6694.png)![](/item/3814.png)|2.62|3178|1901|7710|2942|7204|18200
+![](/item/6672.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)![](/item/3153.png)![](/item/6694.png)|2.62|3026|1830|8789|3353|8497|18200
+![](/item/6672.png)![](/item/3026.png)![](/item/3046.png)![](/item/3814.png)![](/item/3153.png)![](/item/6694.png)|2.62|3183|1852|8800|3357|8497|18200
+![](/item/6672.png)![](/item/3026.png)![](/item/3046.png)![](/item/3814.png)![](/item/3072.png)![](/item/6694.png)|2.71|3750|1676|9184|3388|8497|18100
+![](/item/6672.png)![](/item/6673.png)![](/item/3031.png)![](/item/3026.png)![](/item/3046.png)![](/item/3814.png)|3.06|3347|1575|11060|3611|10778|18100
+![](/item/6672.png)![](/item/6673.png)![](/item/3026.png)![](/item/3046.png)![](/item/3814.png)![](/item/3072.png)|3.13|3193|1467|11732|3751|10778|17900
 {{< /tab >}}
 {{< /tabs >}}

@@ -428,10 +428,83 @@ Tabs beyond 6 items force specific utility items.
 ![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/6675.png)![](/item/3046.png)![](/item/6696.png)|1.72|5190|2564|4338|2529|4093|18500
 ![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/6675.png)![](/item/3091.png)![](/item/3094.png)|1.8|4747|2684|5452|3033|5169|18900
 ![](/item/3036.png)![](/item/3085.png)![](/item/3091.png)![](/item/3153.png)![](/item/6676.png)![](/item/6675.png)|1.8|4956|2506|5470|3044|5169|18700
-![](/item/3036.png)![](/item/3094.png)![](/item/3153.png)![](/item/6673.png)![](/item/6676.png)![](/item/6675.png)|1.98|5804|2525|6313|3185|5811|18700
+![](/item/3036.png)![](/item/3094.png)![](/item/3153.png)![](/item/6673.png)![](/item/6676.png)![](/item/6675.png)|1.98|6063|2525|6313|3185|5811|18700
 ![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6673.png)![](/item/6675.png)![](/item/3085.png)|2.06|4531|2374|7935|3853|7340|18700
 ![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/6675.png)![](/item/3085.png)![](/item/3156.png)|2.1|4693|2433|8161|3889|7310|18300
 ![](/item/6672.png)![](/item/3153.png)![](/item/3036.png)![](/item/6675.png)![](/item/3046.png)![](/item/3156.png)|2.12|4909|2450|8255|3902|7378|18300
 ![](/item/3156.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/6675.png)![](/item/3094.png)|2.19|4677|2432|9883|4521|8879|18700
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Chogath
+
+**Target Health:5182.0 Armor:269.0 Mr:66.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Heartsteel', 'Sunfire Aegis', 'Demonic Embrace', 'Thornmail', "Warmog's Armor"]
+
+
+
+
+
+![](/item/3047.png)
+![](/item/3084.png)
+![](/item/3068.png)
+![](/item/4637.png)
+![](/item/3075.png)
+![](/item/3083.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png)
+![](/Styles/Resolve/Demolish/Demolish.png)
+![](/Styles/Resolve/SecondWind/SecondWind.png)
+![](/Styles/Resolve/Overgrowth/Overgrowth.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Resolve/ApproachVelocity/ApproachVelocity.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/3036.png)![](/item/3046.png)![](/item/3814.png)![](/item/3091.png)![](/item/3153.png)![](/item/6675.png)|2.08|4564|2345|6115|2937|5793|18600
+![](/item/3156.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/3814.png)![](/item/6675.png)|2.69|4824|2200|9059|3370|8069|18200
+![](/item/3156.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3085.png)![](/item/3814.png)|2.86|3527|2180|10367|3626|9380|18000
+![](/item/3156.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3046.png)![](/item/3814.png)|2.88|3706|2183|10481|3636|9462|18000
 {{< /tab >}}
 {{< /tabs >}}

@@ -356,8 +356,8 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3153.png)![](/item/6675.png)![](/item/3033.png)![](/item/6676.png)![](/item/1001.png)|1.45|4822|2511|3517|2426|3370|16000
-![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)|1.45|4208|2452|3847|2653|3370|15800
+![](/item/6672.png)![](/item/3153.png)![](/item/6675.png)![](/item/3033.png)![](/item/6676.png)![](/item/1001.png)|1.45|4984|2511|3517|2426|3370|16000
+![](/item/6672.png)![](/item/3033.png)![](/item/3072.png)![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)|1.45|4370|2452|3847|2653|3370|15800
 ![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/3074.png)![](/item/6675.png)![](/item/1001.png)|1.62|4056|2171|4389|2708|3990|16600
 ![](/item/6672.png)![](/item/6696.png)![](/item/3036.png)![](/item/6673.png)![](/item/6675.png)![](/item/1001.png)|1.68|5346|2108|4933|2940|4793|15700
 ![](/item/6672.png)![](/item/6673.png)![](/item/3036.png)![](/item/3074.png)![](/item/6675.png)![](/item/1001.png)|1.68|5183|2058|5124|3053|4793|16100
@@ -432,11 +432,84 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)![](/item/6676.png)|1.26|4524|2729|4368|3469|4178|18500
-![](/item/3091.png)![](/item/3153.png)![](/item/3036.png)![](/item/3085.png)![](/item/6676.png)![](/item/6675.png)|1.26|5508|2576|4380|3478|4178|18700
-![](/item/3091.png)![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3085.png)![](/item/6676.png)|1.26|4804|2508|4832|3837|4178|18500
-![](/item/6672.png)![](/item/6673.png)![](/item/3033.png)![](/item/3153.png)![](/item/3085.png)![](/item/6676.png)|1.28|4105|2495|5298|4129|5015|18100
-![](/item/6672.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/3046.png)![](/item/6676.png)|1.32|4325|2515|6311|4797|5844|17900
-![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3085.png)![](/item/3153.png)![](/item/6676.png)|1.39|4682|2398|6773|4855|5831|18100
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3091.png)![](/item/3094.png)![](/item/6676.png)|1.26|4693|2729|4368|3469|4178|18500
+![](/item/3091.png)![](/item/3153.png)![](/item/3036.png)![](/item/3085.png)![](/item/6676.png)![](/item/6675.png)|1.26|5676|2576|4380|3478|4178|18700
+![](/item/3091.png)![](/item/3153.png)![](/item/3036.png)![](/item/3072.png)![](/item/3085.png)![](/item/6676.png)|1.26|4972|2508|4832|3837|4178|18500
+![](/item/6672.png)![](/item/6673.png)![](/item/3033.png)![](/item/3153.png)![](/item/3085.png)![](/item/6676.png)|1.28|4274|2495|5298|4129|5015|18100
+![](/item/6672.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/3046.png)![](/item/6676.png)|1.32|4494|2515|6311|4797|5844|17900
+![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3085.png)![](/item/3153.png)![](/item/6676.png)|1.39|4851|2398|6773|4855|5831|18100
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Sylas
+
+**Target Health:3368.0 Armor:160.4 Mr:75.3**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap", 'Void Staff']
+
+
+
+
+
+![](/item/3158.png)
+![](/item/6657.png)
+![](/item/4645.png)
+![](/item/3157.png)
+![](/item/3089.png)
+![](/item/3135.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Resolve/SecondWind/SecondWind.png)
+![](/Styles/Sorcery/Unflinching/Unflinching.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsMagicResIcon.MagicResist_Fix.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/3033.png)![](/item/3046.png)![](/item/3814.png)![](/item/3153.png)![](/item/6676.png)|1.32|4532|2538|4114|3127|3958|18000
+![](/item/3091.png)![](/item/3153.png)![](/item/3033.png)![](/item/3814.png)![](/item/3094.png)![](/item/6676.png)|1.34|4484|2452|4857|3634|4682|18400
+![](/item/6672.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3085.png)![](/item/3814.png)|1.66|3673|2038|6572|3960|6437|17900
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3085.png)![](/item/3814.png)![](/item/3156.png)|1.69|3876|2242|6810|4028|6287|17800
 {{< /tab >}}
 {{< /tabs >}}

@@ -276,8 +276,8 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|1.42|4152|2140|4847|3414|4659|14100
-![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/1001.png)![](/item/1038.png)|1.76|5414|1927|6823|3881|6639|14000
+![](/item/3036.png)![](/item/3091.png)![](/item/3153.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|1.42|4317|2140|4847|3414|4659|14100
+![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/1001.png)![](/item/1038.png)|1.76|5578|1927|6823|3881|6639|14000
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/1001.png)![](/item/1038.png)|1.93|3614|2030|8253|4281|8015|13900
 {{< /tab >}}
 {{< tab "5 Item" >}}
@@ -349,8 +349,8 @@ Tabs beyond 6 items force specific utility items.
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3094.png)![](/item/3031.png)![](/item/1038.png)|1.39|4329|2339|5093|3672|4883|17000
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3072.png)![](/item/3031.png)![](/item/1001.png)|1.45|4536|2335|5593|3857|4883|16200
-![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/6672.png)![](/item/1001.png)|1.57|4920|2064|7120|4540|6945|15700
-![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/3153.png)![](/item/1001.png)|1.59|4710|2168|7375|4625|6945|16000
+![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/6672.png)![](/item/1001.png)|1.57|5089|2064|7120|4540|6945|15700
+![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/3153.png)![](/item/1001.png)|1.59|4880|2168|7375|4625|6945|16000
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/3091.png)![](/item/1001.png)|1.7|3152|1996|8567|5026|8358|15800
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/3085.png)![](/item/1038.png)|1.7|3269|1910|8583|5036|8358|16400
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/6673.png)![](/item/1001.png)|1.91|3365|1905|11236|5882|10804|15600
@@ -422,11 +422,85 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/6676.png)![](/item/3031.png)|0.9|5305|2670|5396|5999|5186|18500
-![](/item/3036.png)![](/item/3046.png)![](/item/3072.png)![](/item/3153.png)![](/item/6676.png)![](/item/3031.png)|0.98|5955|2576|5930|6049|5186|18700
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3046.png)![](/item/6676.png)![](/item/3031.png)|0.9|5480|2670|5396|5999|5186|18500
+![](/item/3036.png)![](/item/3046.png)![](/item/3072.png)![](/item/3153.png)![](/item/6676.png)![](/item/3031.png)|0.98|6130|2576|5930|6049|5186|18700
 ![](/item/3036.png)![](/item/3046.png)![](/item/3091.png)![](/item/3153.png)![](/item/6673.png)![](/item/3031.png)|1.28|4555|2290|7786|6074|7365|18700
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3085.png)![](/item/6673.png)![](/item/3031.png)|1.28|4543|2427|7803|6081|7365|18500
 ![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3094.png)![](/item/3031.png)![](/item/3026.png)|1.38|4607|2451|9125|6636|8859|18700
-![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3094.png)|1.63|5600|2104|11674|7152|11435|18400
+![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3094.png)|1.63|5776|2104|11674|7152|11435|18400
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Jax
+
+**Target Health:3505.0 Armor:178.4 Mr:66.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Divine Sunderer', 'Spear Of Shojin', 'Blade of The Ruined King', 'Black Cleaver', "Zhonya's Hourglass"]
+
+
+
+
+
+![](/item/3047.png)
+![](/item/6632.png)
+![](/item/3161.png)
+![](/item/3153.png)
+![](/item/3071.png)
+![](/item/3157.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png)
+![](/Styles/Resolve/Demolish/Demolish.png)
+![](/Styles/Resolve/BonePlating/BonePlating.png)
+![](/Styles/Sorcery/Unflinching/Unflinching.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3094.png)![](/item/3031.png)![](/item/3814.png)|1.38|4683|2469|6044|4395|5813|18600
+![](/item/6672.png)![](/item/3036.png)![](/item/3046.png)![](/item/3814.png)![](/item/3072.png)![](/item/3031.png)|1.41|5376|2229|6323|4484|5813|18300
+![](/item/3036.png)![](/item/3046.png)![](/item/3814.png)![](/item/3072.png)![](/item/3153.png)![](/item/3031.png)|1.43|5147|2272|6630|4632|5813|18600
+![](/item/3036.png)![](/item/6673.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3814.png)|1.55|5778|2014|8196|5299|7991|18100
+![](/item/6672.png)![](/item/3036.png)![](/item/3153.png)![](/item/3026.png)![](/item/3085.png)![](/item/3814.png)|1.69|3553|2008|9847|5824|9600|18000
 {{< /tab >}}
 {{< /tabs >}}
