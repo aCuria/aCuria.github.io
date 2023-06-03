@@ -118,7 +118,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.57|3158|1247|2723|1059|2643|8100
+![](/item/6691.png)![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.57|3268|1247|2723|1059|2643|8100
 {{< /tab >}}
 {{< tab "3 Item" >}}
 ## 3 Item Level 14 MissFortune vs 3 Item Level 14 AurelionSol
@@ -177,7 +177,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3036.png)![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.8|4567|1787|3276|1823|3014|11350
+![](/item/6691.png)![](/item/6676.png)![](/item/3036.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|1.8|4684|1782|3116|1733|3014|10750
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 AurelionSol
@@ -237,7 +237,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|1.2|7760|2581|3569|2976|3254|13900
+![](/item/6691.png)![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/1001.png)![](/item/1038.png)|1.2|7919|2581|3569|2976|3254|13900
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 AurelionSol
@@ -298,7 +298,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)|0.63|9049|3104|3706|5845|3430|15600
+![](/item/6691.png)![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/1001.png)|0.63|9212|3104|3706|5845|3430|15600
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 AurelionSol
@@ -359,6 +359,68 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/3074.png)|0.63|11357|3803|4139|6599|3608|18700
+![](/item/6691.png)![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3074.png)|0.63|11524|3803|4139|6599|3608|18700
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 AurelionSol
+
+**Target Health:3350.0 Armor:96.0 Mr:52.1**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ["Sorcerer's Shoes", 'Rod of Ages', "Archangel's Staff", "Rylai's Crystal Scepter", 'Shadowflame', "Rabadon's Deathcap"]
+
+
+
+
+
+![](/item/3020.png)
+![](/item/6657.png)
+![](/item/3003.png)
+![](/item/3116.png)
+![](/item/4645.png)
+![](/item/3089.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/6691.png)![](/item/6676.png)![](/item/3036.png)![](/item/3072.png)![](/item/3814.png)![](/item/3074.png)|0.63|10585|3364|4520|7206|4044|18600
 {{< /tab >}}
 {{< /tabs >}}

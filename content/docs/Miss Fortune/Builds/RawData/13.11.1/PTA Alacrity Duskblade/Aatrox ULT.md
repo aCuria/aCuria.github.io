@@ -237,7 +237,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|3.99|4627|1434|4743|1188|4155|13900
+![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|3.99|4785|1434|4743|1188|4155|13900
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Aatrox
@@ -298,7 +298,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)|3.4|5382|1591|5025|1479|4412|15600
+![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)|3.4|5546|1591|5025|1479|4412|15600
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Aatrox
@@ -359,6 +359,68 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)|2.27|7035|1970|5267|2324|4676|18300
+![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)|2.27|7205|1970|5267|2324|4676|18300
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Aatrox
+
+**Target Health:3388.0 Armor:234.7 Mr:116.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Black Cleaver', 'Iceborn Gauntlet', "Serylda's Grudge", "Death's Dance", 'Maw of Malmortius']
+
+
+
+
+
+![](/item/3047.png)
+![](/item/3071.png)
+![](/item/6662.png)
+![](/item/6694.png)
+![](/item/6333.png)
+![](/item/3156.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/3814.png)|2.81|6583|1834|5890|2094|5241|18200
 {{< /tab >}}
 {{< /tabs >}}

@@ -137,7 +137,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/6671.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|1.84|2277|1234|3060|1664|2991|8450
+![](/item/6676.png)![](/item/6671.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)![](/item/1036.png)|1.84|2365|1234|3060|1664|2991|8450
 ![](/item/6673.png)![](/item/6675.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)![](/item/1036.png)|2.06|2311|1006|4513|2193|4426|8375
 ![](/item/3026.png)![](/item/6672.png)![](/item/1053.png)![](/item/1055.png)![](/item/3006.png)|2.52|1646|930|5538|2194|5450|8450
 ![](/item/6673.png)![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.79|1985|905|5886|2108|5771|8350
@@ -210,8 +210,8 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/6671.png)![](/item/3091.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|1.02|2626|1535|3559|3500|3494|11825
-![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)|1.23|3632|1501|5220|4257|5130|11725
+![](/item/6676.png)![](/item/6671.png)![](/item/3091.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|1.02|2725|1535|3559|3500|3494|11825
+![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)![](/item/1037.png)|1.23|3731|1501|5220|4257|5130|11725
 ![](/item/3026.png)![](/item/6672.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.62|2856|1427|6411|3967|6304|11750
 ![](/item/6673.png)![](/item/6675.png)![](/item/6333.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.88|2809|1200|6759|3592|6621|11750
 ![](/item/6673.png)![](/item/6675.png)![](/item/3026.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.0|2728|1174|8515|4251|8384|11450
@@ -284,13 +284,13 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/6671.png)![](/item/3095.png)![](/item/6672.png)![](/item/1053.png)![](/item/1037.png)|0.53|3694|2090|3923|7465|3858|14175
-![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|0.53|4393|2136|4082|7652|3983|14150
-![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/1038.png)![](/item/1037.png)|0.64|5883|2128|5802|9052|5700|14275
+![](/item/6676.png)![](/item/6671.png)![](/item/3095.png)![](/item/6672.png)![](/item/1053.png)![](/item/1037.png)|0.53|3803|2090|3923|7465|3858|14175
+![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3142.png)![](/item/1055.png)![](/item/1038.png)|0.53|4502|2136|4082|7652|3983|14150
+![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/1038.png)![](/item/1037.png)|0.64|5992|2128|5802|9052|5700|14275
 ![](/item/6673.png)![](/item/3091.png)![](/item/6672.png)![](/item/6671.png)![](/item/1055.png)![](/item/1038.png)|0.91|3161|1836|5907|6459|5830|14350
 ![](/item/3026.png)![](/item/6672.png)![](/item/3142.png)![](/item/3153.png)![](/item/1055.png)![](/item/1038.png)|1.0|3653|1851|7282|7294|7145|14150
-![](/item/6676.png)![](/item/6671.png)![](/item/6333.png)![](/item/6673.png)![](/item/1055.png)![](/item/1038.png)|1.14|3784|1704|7570|6658|7453|14450
-![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/3026.png)![](/item/1038.png)![](/item/1037.png)|1.2|4743|1698|9448|7877|9314|14275
+![](/item/6676.png)![](/item/6671.png)![](/item/6333.png)![](/item/6673.png)![](/item/1055.png)![](/item/1038.png)|1.14|3893|1704|7570|6658|7453|14450
+![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/3026.png)![](/item/1038.png)![](/item/1037.png)|1.2|4852|1698|9448|7877|9314|14275
 ![](/item/6673.png)![](/item/3026.png)![](/item/3091.png)![](/item/6671.png)![](/item/1055.png)![](/item/1038.png)|1.46|3089|1577|9591|6555|9475|14350
 ![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/1001.png)![](/item/1038.png)|1.58|3470|1567|9706|6128|9576|13700
 ![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/1001.png)![](/item/1038.png)|1.67|3563|1529|9713|5829|9580|13700
@@ -369,12 +369,12 @@ Tabs beyond 6 items force specific utility items.
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3033.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6671.png)![](/item/1038.png)|0.46|3829|2385|3402|7410|3326|17200
-![](/item/6692.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/1001.png)|0.47|3966|2189|3572|7573|3494|15900
-![](/item/6692.png)![](/item/3046.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/1038.png)|0.48|4331|2195|3584|7394|3498|16500
-![](/item/6673.png)![](/item/3091.png)![](/item/6672.png)![](/item/6671.png)![](/item/6676.png)![](/item/1038.png)|0.48|4048|2226|5007|10330|4947|16900
-![](/item/6676.png)![](/item/6671.png)![](/item/3026.png)![](/item/3153.png)![](/item/6672.png)![](/item/1038.png)|0.51|3862|2184|5934|11732|5843|17000
-![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/6333.png)![](/item/6672.png)![](/item/1038.png)|0.57|5274|2201|6195|10833|6104|16700
-![](/item/6676.png)![](/item/6671.png)![](/item/3026.png)![](/item/3033.png)![](/item/6673.png)![](/item/1038.png)|0.6|4808|2177|7925|13178|7836|16700
+![](/item/6692.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/1001.png)|0.47|4080|2189|3572|7573|3494|15900
+![](/item/6692.png)![](/item/3046.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/1038.png)|0.48|4445|2195|3584|7394|3498|16500
+![](/item/6673.png)![](/item/3091.png)![](/item/6672.png)![](/item/6671.png)![](/item/6676.png)![](/item/1038.png)|0.48|4162|2226|5007|10330|4947|16900
+![](/item/6676.png)![](/item/6671.png)![](/item/3026.png)![](/item/3153.png)![](/item/6672.png)![](/item/1038.png)|0.51|3976|2184|5934|11732|5843|17000
+![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/6333.png)![](/item/6672.png)![](/item/1038.png)|0.57|5388|2201|6195|10833|6104|16700
+![](/item/6676.png)![](/item/6671.png)![](/item/3026.png)![](/item/3033.png)![](/item/6673.png)![](/item/1038.png)|0.6|4922|2177|7925|13178|7836|16700
 ![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/1038.png)|1.02|3729|1909|8456|8290|8365|16600
 ![](/item/3026.png)![](/item/6672.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)![](/item/1038.png)|1.07|4400|1877|9474|8854|9354|16700
 ![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/6333.png)![](/item/1001.png)|1.57|3657|1647|9743|6213|9612|15700
@@ -451,33 +451,33 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3115.png)|0.46|6296|2967|3634|7914|3519|18600
-![](/item/6692.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)|0.46|5502|2744|3800|8276|3694|18600
+![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3115.png)|0.46|6415|2967|3634|7914|3519|18600
+![](/item/6692.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)|0.46|5621|2744|3800|8276|3694|18600
 ![](/item/6692.png)![](/item/3033.png)![](/item/3091.png)![](/item/3095.png)![](/item/3153.png)![](/item/6672.png)|0.46|4860|2738|3798|8272|3702|18600
-![](/item/6692.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3095.png)|0.46|4954|2715|3800|8275|3705|18600
+![](/item/6692.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3095.png)|0.46|5073|2715|3800|8275|3705|18600
 ![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/3814.png)![](/item/6672.png)![](/item/3142.png)|0.46|5599|2700|4046|8812|3944|18500
 ![](/item/6673.png)![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/6672.png)![](/item/3142.png)|0.46|5354|2635|5425|11814|5226|18600
 ![](/item/3026.png)![](/item/6672.png)![](/item/3142.png)![](/item/3153.png)![](/item/3033.png)![](/item/3115.png)|0.46|5106|2525|6286|13689|6170|18600
-![](/item/3026.png)![](/item/6672.png)![](/item/3115.png)![](/item/3153.png)![](/item/6676.png)![](/item/6692.png)|0.46|4582|2322|6489|14132|6384|18600
+![](/item/3026.png)![](/item/6672.png)![](/item/3115.png)![](/item/3153.png)![](/item/6676.png)![](/item/6692.png)|0.46|4701|2322|6489|14132|6384|18600
 ![](/item/3026.png)![](/item/6672.png)![](/item/3091.png)![](/item/3095.png)![](/item/3153.png)![](/item/6692.png)|0.46|4127|2388|6490|14134|6394|18600
-![](/item/6692.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3026.png)|0.47|4724|2468|6505|13902|6395|18600
-![](/item/3026.png)![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)![](/item/3078.png)|0.47|4717|2373|6762|14258|6647|18633
-![](/item/6673.png)![](/item/3091.png)![](/item/6672.png)![](/item/6671.png)![](/item/6676.png)![](/item/3026.png)|0.48|4241|2305|8343|17354|8266|18600
-![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3091.png)![](/item/6676.png)|0.5|5009|2312|8590|17131|8502|18300
-![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3087.png)![](/item/6676.png)|0.52|5245|2393|8599|16412|8503|18100
-![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3095.png)![](/item/6676.png)|0.54|5302|2475|8601|15925|8505|18100
-![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/6676.png)|0.54|4615|2299|8885|16449|8801|18300
-![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3814.png)![](/item/6676.png)|0.57|5524|2338|9137|16133|9040|18000
-![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/6333.png)![](/item/6672.png)![](/item/3026.png)|0.57|5617|2325|9960|17586|9846|18400
+![](/item/6692.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3026.png)|0.47|4843|2468|6505|13902|6395|18600
+![](/item/3026.png)![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)![](/item/3078.png)|0.47|4837|2373|6762|14258|6647|18633
+![](/item/6673.png)![](/item/3091.png)![](/item/6672.png)![](/item/6671.png)![](/item/6676.png)![](/item/3026.png)|0.48|4360|2305|8343|17354|8266|18600
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3091.png)![](/item/6676.png)|0.5|5128|2312|8590|17131|8502|18300
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3087.png)![](/item/6676.png)|0.52|5364|2393|8599|16412|8503|18100
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3095.png)![](/item/6676.png)|0.54|5421|2475|8601|15925|8505|18100
+![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/6676.png)|0.54|4734|2299|8885|16449|8801|18300
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3814.png)![](/item/6676.png)|0.57|5643|2338|9137|16133|9040|18000
+![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/6333.png)![](/item/6672.png)![](/item/3026.png)|0.57|5736|2325|9960|17586|9846|18400
 ![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/6333.png)![](/item/3091.png)|0.94|4268|2024|10248|10922|10127|18600
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/6672.png)![](/item/6676.png)|0.95|4232|1861|10558|11092|10435|18633
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/6672.png)![](/item/6676.png)|0.95|4351|1861|10558|11092|10435|18633
 ![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/6333.png)|1.01|3993|2012|10601|10490|10484|18600
 ![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/6333.png)![](/item/3814.png)|1.06|4663|2010|10899|10285|10768|18300
 ![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/3814.png)![](/item/6333.png)|1.11|4764|1937|10905|9792|10772|18300
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3814.png)![](/item/6676.png)![](/item/6692.png)|1.17|5498|1964|10926|9309|10774|18300
-![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/6676.png)![](/item/6692.png)|1.17|5096|1852|11063|9426|10921|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3814.png)![](/item/6676.png)![](/item/6692.png)|1.17|5618|1964|10926|9309|10774|18300
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/6676.png)![](/item/6692.png)|1.17|5215|1852|11063|9426|10921|18500
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3814.png)![](/item/6672.png)|1.39|3850|1702|11211|8036|11073|18533
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/6676.png)|1.53|4168|1560|11369|7439|11220|18733
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/6676.png)|1.53|4288|1560|11369|7439|11220|18733
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/6609.png)|1.61|3620|1370|11863|7381|11711|18533
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3161.png)![](/item/3071.png)|1.64|3696|1392|11964|7279|11809|19133
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/3814.png)|1.81|3788|1416|12017|6638|11858|18633
@@ -551,28 +551,119 @@ Tabs beyond 6 items force specific utility items.
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/3026.png)![](/item/6672.png)![](/item/3142.png)![](/item/3153.png)![](/item/3033.png)![](/item/3115.png)|0.46|5106|2525|6286|13689|6170|18600
-![](/item/3026.png)![](/item/6672.png)![](/item/3115.png)![](/item/3153.png)![](/item/6676.png)![](/item/6692.png)|0.46|4582|2322|6489|14132|6384|18600
+![](/item/3026.png)![](/item/6672.png)![](/item/3115.png)![](/item/3153.png)![](/item/6676.png)![](/item/6692.png)|0.46|4701|2322|6489|14132|6384|18600
 ![](/item/3026.png)![](/item/6672.png)![](/item/3091.png)![](/item/3095.png)![](/item/3153.png)![](/item/6692.png)|0.46|4127|2388|6490|14134|6394|18600
-![](/item/6692.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3026.png)|0.47|4724|2468|6505|13902|6395|18600
-![](/item/3026.png)![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)![](/item/3078.png)|0.47|4717|2373|6762|14258|6647|18633
-![](/item/6673.png)![](/item/3091.png)![](/item/6672.png)![](/item/6671.png)![](/item/6676.png)![](/item/3026.png)|0.48|4241|2305|8343|17354|8266|18600
-![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3091.png)![](/item/6676.png)|0.5|5009|2312|8590|17131|8502|18300
-![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3087.png)![](/item/6676.png)|0.52|5245|2393|8599|16412|8503|18100
-![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3095.png)![](/item/6676.png)|0.54|5302|2475|8601|15925|8505|18100
-![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/6676.png)|0.54|4615|2299|8885|16449|8801|18300
-![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3814.png)![](/item/6676.png)|0.57|5524|2338|9137|16133|9040|18000
-![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/6333.png)![](/item/6672.png)![](/item/3026.png)|0.57|5617|2325|9960|17586|9846|18400
+![](/item/6692.png)![](/item/3091.png)![](/item/3153.png)![](/item/6672.png)![](/item/6676.png)![](/item/3026.png)|0.47|4843|2468|6505|13902|6395|18600
+![](/item/3026.png)![](/item/6672.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)![](/item/3078.png)|0.47|4837|2373|6762|14258|6647|18633
+![](/item/6673.png)![](/item/3091.png)![](/item/6672.png)![](/item/6671.png)![](/item/6676.png)![](/item/3026.png)|0.48|4360|2305|8343|17354|8266|18600
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3091.png)![](/item/6676.png)|0.5|5128|2312|8590|17131|8502|18300
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3087.png)![](/item/6676.png)|0.52|5364|2393|8599|16412|8503|18100
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3095.png)![](/item/6676.png)|0.54|5421|2475|8601|15925|8505|18100
+![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/6676.png)|0.54|4734|2299|8885|16449|8801|18300
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3814.png)![](/item/6676.png)|0.57|5643|2338|9137|16133|9040|18000
+![](/item/6673.png)![](/item/6676.png)![](/item/3142.png)![](/item/6333.png)![](/item/6672.png)![](/item/3026.png)|0.57|5736|2325|9960|17586|9846|18400
 ![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/6333.png)![](/item/3091.png)|0.94|4268|2024|10248|10922|10127|18600
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/6672.png)![](/item/6676.png)|0.95|4232|1861|10558|11092|10435|18633
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/6672.png)![](/item/6676.png)|0.95|4351|1861|10558|11092|10435|18633
 ![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/6333.png)|1.01|3993|2012|10601|10490|10484|18600
 ![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/6333.png)![](/item/3814.png)|1.06|4663|2010|10899|10285|10768|18300
 ![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/3814.png)![](/item/6333.png)|1.11|4764|1937|10905|9792|10772|18300
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3814.png)![](/item/6676.png)![](/item/6692.png)|1.17|5498|1964|10926|9309|10774|18300
-![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/6676.png)![](/item/6692.png)|1.17|5096|1852|11063|9426|10921|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3814.png)![](/item/6676.png)![](/item/6692.png)|1.17|5618|1964|10926|9309|10774|18300
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/6676.png)![](/item/6692.png)|1.17|5215|1852|11063|9426|10921|18500
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3814.png)![](/item/6672.png)|1.39|3850|1702|11211|8036|11073|18533
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/6676.png)|1.53|4168|1560|11369|7439|11220|18733
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/6676.png)|1.53|4288|1560|11369|7439|11220|18733
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/6609.png)|1.61|3620|1370|11863|7381|11711|18533
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3161.png)![](/item/3071.png)|1.64|3696|1392|11964|7279|11809|19133
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/3814.png)|1.81|3788|1416|12017|6638|11858|18633
+{{< /tab >}}
+{{< tab "8 Item" >}}
+## 8 Item Level 18 MissFortune vs 8 Item Level 18 Rengar
+
+**Target Health:2388.0 Armor:111.4 Mr:66.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Ionian Boots of Lucidity', 'Duskblade of Draktharr', "Serpent's Fang", 'Essence Reaver', 'Infinity Edge', "Lord Dominik's Regards"]
+
+
+
+
+
+![](/item/3158.png)
+![](/item/6691.png)
+![](/item/6695.png)
+![](/item/3508.png)
+![](/item/3031.png)
+![](/item/3036.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/FuturesMarket/FuturesMarket.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Domination/SuddenImpact/SuddenImpact.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/3033.png)![](/item/3115.png)![](/item/3153.png)![](/item/3814.png)![](/item/6672.png)![](/item/3142.png)|0.46|5599|2700|4046|8812|3944|18500
+![](/item/6692.png)![](/item/3091.png)![](/item/3095.png)![](/item/3814.png)![](/item/3153.png)![](/item/6672.png)|0.46|4462|2512|4213|9176|4129|18500
+![](/item/3095.png)![](/item/3153.png)![](/item/3814.png)![](/item/6672.png)![](/item/6676.png)![](/item/3078.png)|0.46|4527|2335|4421|9627|4336|18533
+![](/item/6673.png)![](/item/3091.png)![](/item/6672.png)![](/item/6671.png)![](/item/3095.png)![](/item/3814.png)|0.46|4045|2397|5732|12414|5670|18500
+![](/item/6692.png)![](/item/3091.png)![](/item/3095.png)![](/item/3814.png)![](/item/6672.png)![](/item/6673.png)|0.48|4732|2388|5936|12347|5866|18200
+![](/item/3026.png)![](/item/6672.png)![](/item/3142.png)![](/item/3153.png)![](/item/3087.png)![](/item/3814.png)|0.49|4860|2413|6794|13938|6687|18300
+![](/item/3026.png)![](/item/6672.png)![](/item/3095.png)![](/item/3814.png)![](/item/3153.png)![](/item/6692.png)|0.5|4513|2388|7017|13994|6913|18300
+![](/item/3026.png)![](/item/6672.png)![](/item/3153.png)![](/item/3814.png)![](/item/6676.png)![](/item/6692.png)|0.52|5331|2499|7033|13423|6914|18300
+![](/item/6692.png)![](/item/3026.png)![](/item/3087.png)![](/item/3814.png)![](/item/3153.png)![](/item/6676.png)|0.53|5388|2293|7034|13224|6915|18300
+![](/item/6676.png)![](/item/6671.png)![](/item/6333.png)![](/item/6673.png)![](/item/6672.png)![](/item/3814.png)|0.54|4835|2335|7063|13077|6976|18600
+![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/6676.png)|0.54|4734|2299|8885|16449|8801|18300
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/3814.png)![](/item/6676.png)|0.57|5643|2338|9137|16133|9040|18000
+![](/item/3026.png)![](/item/6672.png)![](/item/3033.png)![](/item/3814.png)![](/item/6673.png)![](/item/3078.png)|0.95|4514|2009|9409|9885|9296|18233
+![](/item/3026.png)![](/item/6672.png)![](/item/3814.png)![](/item/6673.png)![](/item/6671.png)![](/item/6333.png)|1.01|3993|2012|10601|10490|10484|18600
+![](/item/3026.png)![](/item/6672.png)![](/item/6673.png)![](/item/6692.png)![](/item/6333.png)![](/item/3814.png)|1.06|4663|2010|10899|10285|10768|18300
+![](/item/6673.png)![](/item/3026.png)![](/item/3095.png)![](/item/6692.png)![](/item/3814.png)![](/item/6333.png)|1.11|4764|1937|10905|9792|10772|18300
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3814.png)![](/item/6676.png)![](/item/6692.png)|1.17|5618|1964|10926|9309|10774|18300
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3814.png)![](/item/6672.png)|1.39|3850|1702|11211|8036|11073|18533
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/6671.png)![](/item/3814.png)![](/item/3071.png)|1.63|3934|1708|11410|6990|11269|18700
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3161.png)![](/item/3814.png)![](/item/6692.png)|1.72|4733|1704|11526|6701|11366|18700
+![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/6333.png)![](/item/3814.png)![](/item/6692.png)|1.72|4587|1662|11712|6809|11557|18400
 ![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3078.png)![](/item/3071.png)![](/item/3814.png)|1.81|3788|1416|12017|6638|11858|18633
 {{< /tab >}}
 {{< /tabs >}}

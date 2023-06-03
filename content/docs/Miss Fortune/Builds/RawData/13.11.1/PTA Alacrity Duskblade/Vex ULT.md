@@ -118,7 +118,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3033.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.66|2305|975|2483|933|2413|8100
+![](/item/6691.png)![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|2.57|2347|935|2468|960|2413|8100
 {{< /tab >}}
 {{< tab "3 Item" >}}
 ## 3 Item Level 14 MissFortune vs 3 Item Level 14 Vex
@@ -177,7 +177,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3033.png)![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|1.8|3293|1346|2493|1387|2339|11350
+![](/item/6691.png)![](/item/6676.png)![](/item/3033.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|1.8|3294|1313|2397|1333|2339|10750
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 Vex
@@ -237,7 +237,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|1.2|5264|1832|2647|2207|2475|13900
+![](/item/6691.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/1001.png)![](/item/1038.png)|1.2|5372|1832|2647|2207|2475|13900
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Vex
@@ -298,7 +298,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)|1.19|6292|2112|2785|2347|2583|15600
+![](/item/6691.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/1001.png)|1.19|6414|2112|2785|2347|2583|15600
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Vex
@@ -359,7 +359,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)|0.63|8467|2725|2878|4588|2691|18300
+![](/item/6691.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/6693.png)|0.63|8595|2725|2878|4588|2691|18300
 {{< /tab >}}
 {{< tab "7 Item" >}}
 ## 7 Item Level 18 MissFortune vs 7 Item Level 18 Vex
@@ -421,6 +421,68 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/6691.png)![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/3156.png)|0.63|7567|2488|4694|7483|4360|18100
+![](/item/6691.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/3156.png)|0.63|7695|2488|4694|7483|4360|18100
+{{< /tab >}}
+{{< tab "8 Item" >}}
+## 8 Item Level 18 MissFortune vs 8 Item Level 18 Vex
+
+**Target Health:2558.0 Armor:149.7 Mr:50.1**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ["Sorcerer's Shoes", "Luden's Tempest", "Zhonya's Hourglass", 'Void Staff', "Rabadon's Deathcap", 'Shadowflame']
+
+
+
+
+
+![](/item/3020.png)
+![](/item/6655.png)
+![](/item/3157.png)
+![](/item/3135.png)
+![](/item/3089.png)
+![](/item/4645.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/6691.png)![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/3814.png)|0.63|8139|2601|3194|5093|3016|18200
 {{< /tab >}}
 {{< /tabs >}}

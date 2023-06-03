@@ -201,7 +201,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.94|3566|1393|3834|1304|3435|11350
+![](/item/3036.png)![](/item/6691.png)![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|2.94|3581|1354|3586|1220|3435|10750
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 Sylas
@@ -269,7 +269,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|2.32|5799|1889|4129|1782|3700|13900
+![](/item/3036.png)![](/item/6691.png)![](/item/6676.png)![](/item/3072.png)![](/item/1001.png)![](/item/1038.png)|2.32|5954|1889|4129|1782|3700|13900
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Sylas
@@ -338,7 +338,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)|1.98|6925|2174|3799|1917|3370|15600
+![](/item/3036.png)![](/item/6691.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/1001.png)|1.98|7087|2174|3799|1917|3370|15600
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Sylas
@@ -407,6 +407,76 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)|1.72|9328|2785|3997|2324|3532|18300
+![](/item/3036.png)![](/item/6691.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/6693.png)|1.72|9496|2785|3997|2324|3532|18300
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Sylas
+
+**Target Health:3368.0 Armor:160.4 Mr:75.3**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Ionian Boots of Lucidity', 'Rod of Ages', 'Shadowflame', "Zhonya's Hourglass", "Rabadon's Deathcap", 'Void Staff']
+
+
+
+
+
+![](/item/3158.png)
+![](/item/6657.png)
+![](/item/4645.png)
+![](/item/3157.png)
+![](/item/3089.png)
+![](/item/3135.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/Styles/Resolve/SecondWind/SecondWind.png)
+![](/Styles/Sorcery/Unflinching/Unflinching.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsMagicResIcon.MagicResist_Fix.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/3036.png)![](/item/6691.png)![](/item/6676.png)![](/item/3072.png)![](/item/6696.png)![](/item/3814.png)|1.72|8573|2558|4390|2552|3958|18200
 {{< /tab >}}
 {{< /tabs >}}

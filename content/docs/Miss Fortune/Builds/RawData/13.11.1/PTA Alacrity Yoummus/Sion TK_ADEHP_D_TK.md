@@ -426,4 +426,76 @@ Tabs beyond 6 items force specific utility items.
 ![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3091.png)![](/item/3142.png)![](/item/3026.png)|3.73|4082|2705|10170|2727|9537|18600
 ![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)|4.2|4740|2662|11820|2811|9537|18600
 {{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Sion
+
+**Target Health:7284.0 Armor:315.4 Mr:66.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Heartsteel', 'Sunfire Aegis', 'Titanic Hydra', 'Thornmail', "Randuin's Omen"]
+
+
+
+
+
+![](/item/3047.png)
+![](/item/3084.png)
+![](/item/3068.png)
+![](/item/3748.png)
+![](/item/3075.png)
+![](/item/3143.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png)
+![](/Styles/Resolve/Demolish/Demolish.png)
+![](/Styles/Resolve/SecondWind/SecondWind.png)
+![](/Styles/Sorcery/Unflinching/Unflinching.png)
+![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
+![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3814.png)![](/item/6676.png)![](/item/3142.png)|3.72|5018|2853|6782|1823|6194|18300
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)|4.2|5000|2770|8169|1943|6194|18500
+![](/item/3153.png)![](/item/3036.png)![](/item/6672.png)![](/item/6673.png)![](/item/3142.png)![](/item/3814.png)|4.2|4567|2655|9615|2287|8515|18300
+{{< /tab >}}
 {{< /tabs >}}

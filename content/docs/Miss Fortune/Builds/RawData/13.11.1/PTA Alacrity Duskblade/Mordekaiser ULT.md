@@ -134,7 +134,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.81|2672|1005|3021|793|2915|8100
+![](/item/6676.png)![](/item/6691.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|3.81|2686|951|3016|791|2915|8100
 {{< /tab >}}
 {{< tab "3 Item" >}}
 ## 3 Item Level 14 MissFortune vs 3 Item Level 14 Mordekaiser
@@ -201,7 +201,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/1001.png)![](/item/1055.png)![](/item/1038.png)|2.48|4028|1433|3512|1418|3202|11350
+![](/item/6676.png)![](/item/6691.png)![](/item/3036.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)|2.48|4074|1404|3320|1340|3202|10750
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 Mordekaiser
@@ -269,7 +269,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/1001.png)![](/item/1038.png)|2.32|5553|1683|3645|1574|3328|13900
+![](/item/6676.png)![](/item/6691.png)![](/item/3036.png)![](/item/3072.png)![](/item/1001.png)![](/item/1038.png)|2.32|5713|1683|3645|1574|3328|13900
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Mordekaiser
@@ -338,7 +338,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/1001.png)|2.84|7137|1495|3904|1373|3378|15600
+![](/item/6676.png)![](/item/6691.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/1001.png)|2.84|7335|1495|3904|1373|3378|15600
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Mordekaiser
@@ -407,6 +407,76 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-
-![](/item/3036.png)![](/item/6691.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png)|2.27|9490|1886|4144|1828|3554|18300
+![](/item/6676.png)![](/item/6691.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/6693.png)|2.27|9694|1886|4144|1828|3554|18300
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Mordekaiser
+
+**Target Health:4063.0 Armor:179.4 Mr:66.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Hextech Rocketbelt', "Rylai's Crystal Scepter", 'Demonic Embrace', "Zhonya's Hourglass", "Anathema's Chains"]
+
+
+
+
+
+![](/item/3047.png)
+![](/item/3152.png)
+![](/item/3116.png)
+![](/item/4637.png)
+![](/item/3157.png)
+![](/item/8001.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/Conqueror/Conqueror.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendTenacity/LegendTenacity.png)
+![](/Styles/Sorcery/LastStand/LastStand.png)
+![](/Styles/Resolve/Conditioning/Conditioning.png)
+![](/Styles/Resolve/Revitalize/Revitalize.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|ApHp|ApHp/Tk|ApB|g
+-|-|-|-|-|-|-|-
+![](/item/6676.png)![](/item/6691.png)![](/item/3036.png)![](/item/3072.png)![](/item/6696.png)![](/item/3814.png)|2.27|8786|1744|4532|1999|3984|18200
 {{< /tab >}}
 {{< /tabs >}}

@@ -134,7 +134,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.57|2720|1145|3889|1513|3771|8325
+![](/item/6676.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.57|2811|1145|3889|1513|3771|8325
 {{< /tab >}}
 {{< tab "3 Item" >}}
 ## 3 Item Level 14 MissFortune vs 3 Item Level 14 Draven
@@ -201,7 +201,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.8|4126|1777|4574|2545|4411|11750
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.8|4233|1777|4574|2545|4411|11750
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 Draven
@@ -269,7 +269,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/1055.png)![](/item/1038.png)|1.76|6144|2393|5633|3204|5033|14050
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/1055.png)![](/item/1038.png)|1.76|6261|2393|5633|3204|5033|14050
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Draven
@@ -338,7 +338,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|1.74|6776|2523|5849|3364|5196|16600
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|1.74|6898|2523|5849|3364|5196|16600
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Draven
@@ -407,6 +407,76 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/6693.png)|1.17|8167|3022|6157|5246|5527|18300
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/6693.png)|1.17|8294|3022|6157|5246|5527|18300
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Draven
+
+**Target Health:2543.0 Armor:151.5 Mr:52.1**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ["Berserker's Greaves", 'Essence Reaver', 'Infinity Edge', 'Immortal Shieldbow', 'Bloodthirster', 'Guardian Angel']
+
+
+
+
+
+![](/item/3006.png)
+![](/item/3508.png)
+![](/item/3031.png)
+![](/item/6673.png)
+![](/item/3072.png)
+![](/item/3026.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
+![](/Styles/Sorcery/LastStand/LastStand.png)
+![](/Styles/Domination/EyeballCollection/EyeballCollection.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/3814.png)|1.17|8119|2896|6793|5788|6194|18200
 {{< /tab >}}
 {{< /tabs >}}

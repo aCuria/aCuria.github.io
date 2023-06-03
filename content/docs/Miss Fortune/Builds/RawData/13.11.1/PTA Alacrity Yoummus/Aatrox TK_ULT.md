@@ -185,7 +185,7 @@ Tabs beyond 6 items force specific utility items.
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
 ![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|2.64|3005|1391|3909|1479|3789|11750
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|2.94|3484|1313|3950|1344|3789|11750
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|2.94|3631|1313|3950|1344|3789|11750
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 Aatrox
@@ -248,11 +248,11 @@ Tabs beyond 6 items force specific utility items.
 ![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/3046.png)![](/item/1053.png)![](/item/1038.png)|2.76|3474|1434|4330|1570|4155|14100
 ![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/3087.png)![](/item/1053.png)![](/item/1038.png)|2.86|3709|1614|4342|1519|4155|14300
 ![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/3095.png)![](/item/1053.png)![](/item/1038.png)|2.95|3756|1676|4344|1474|4155|14300
-![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|3.09|4179|1642|4364|1411|4155|14300
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3087.png)![](/item/1053.png)![](/item/1038.png)|3.14|4231|1525|4367|1388|4155|14300
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/1053.png)![](/item/1038.png)|3.25|4283|1591|4369|1342|4155|14300
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/1055.png)![](/item/1038.png)|3.43|4515|1488|4871|1419|4289|14050
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/6696.png)![](/item/1053.png)![](/item/1038.png)|3.43|4639|1475|4374|1274|4155|14300
+![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/1053.png)![](/item/1038.png)|3.09|4337|1642|4364|1411|4155|14300
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3087.png)![](/item/1053.png)![](/item/1038.png)|3.14|4389|1525|4367|1388|4155|14300
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/1053.png)![](/item/1038.png)|3.25|4441|1591|4369|1342|4155|14300
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/1055.png)![](/item/1038.png)|3.43|4673|1488|4871|1419|4289|14050
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/6696.png)![](/item/1053.png)![](/item/1038.png)|3.43|4797|1475|4374|1274|4155|14300
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Aatrox
@@ -313,13 +313,15 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3153.png)![](/item/1038.png)|2.37|4534|2176|4652|1962|4412|16700
+![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3153.png)![](/item/1038.png)|2.37|4698|2176|4652|1962|4412|16700
 ![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|2.56|5050|1895|4985|1943|4412|16600
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/3074.png)![](/item/1038.png)|2.7|5101|1774|4733|1755|4412|16800
-![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|2.76|5230|1978|5031|1825|4412|16600
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3087.png)![](/item/3072.png)![](/item/1038.png)|2.76|5283|1798|5037|1826|4412|16600
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/3072.png)![](/item/1038.png)|2.77|5337|1873|5043|1818|4412|16600
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|2.84|5791|1788|5064|1781|4412|16600
+![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3074.png)![](/item/1038.png)|2.56|5162|1880|4727|1843|4412|16800
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/6696.png)![](/item/3153.png)![](/item/1038.png)|2.61|5194|2026|4699|1802|4412|16700
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/3074.png)![](/item/1038.png)|2.7|5265|1774|4733|1755|4412|16800
+![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3072.png)![](/item/1038.png)|2.76|5394|1978|5031|1825|4412|16600
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3087.png)![](/item/3072.png)![](/item/1038.png)|2.76|5447|1798|5037|1826|4412|16600
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/3072.png)![](/item/1038.png)|2.77|5501|1873|5043|1818|4412|16600
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|2.84|5954|1788|5064|1781|4412|16600
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Aatrox
@@ -380,8 +382,73 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3074.png)![](/item/6696.png)|2.05|6075|2198|5004|2445|4676|18500
-![](/item/3036.png)![](/item/6696.png)![](/item/3072.png)![](/item/3095.png)![](/item/6693.png)![](/item/3142.png)|2.23|6186|2057|5277|2369|4676|18300
-![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/6696.png)![](/item/6693.png)|2.27|7039|2087|5354|2362|4676|18300
+![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3074.png)![](/item/6696.png)|2.05|6244|2198|5004|2445|4676|18500
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/6696.png)![](/item/6693.png)|2.27|7209|2087|5354|2362|4676|18300
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Aatrox
+
+**Target Health:3388.0 Armor:234.7 Mr:116.8**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ['Plated Steelcaps', 'Black Cleaver', 'Iceborn Gauntlet', "Serylda's Grudge", "Death's Dance", 'Maw of Malmortius']
+
+
+
+
+
+![](/item/3047.png)
+![](/item/3071.png)
+![](/item/6662.png)
+![](/item/6694.png)
+![](/item/6333.png)
+![](/item/3156.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/3153.png)![](/item/3814.png)![](/item/6696.png)|2.35|4812|2249|5524|2351|5241|18300
+![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3153.png)![](/item/3814.png)|2.35|5159|2326|5509|2344|5241|18300
+![](/item/6672.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3072.png)![](/item/3814.png)|2.54|5931|2143|5861|2307|5241|18200
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3095.png)![](/item/3072.png)![](/item/3814.png)|2.67|6038|2025|5872|2200|5241|18200
+![](/item/3036.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/6696.png)![](/item/3814.png)|2.81|6593|1946|5984|2127|5241|18200
 {{< /tab >}}
 {{< /tabs >}}

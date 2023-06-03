@@ -423,12 +423,86 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6672.png)![](/item/6691.png)![](/item/3153.png)![](/item/3033.png)![](/item/3091.png)![](/item/6676.png)|1.28|5048|2668|5743|4476|5527|18600
-![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/3153.png)![](/item/6676.png)![](/item/6691.png)|1.39|5737|2553|6296|4513|5527|18800
-![](/item/3033.png)![](/item/6673.png)![](/item/3153.png)![](/item/6676.png)![](/item/6695.png)![](/item/6691.png)|1.58|5861|2705|7456|4723|7007|18000
+![](/item/6672.png)![](/item/6691.png)![](/item/3153.png)![](/item/3033.png)![](/item/3091.png)![](/item/6676.png)|1.28|5183|2668|5743|4476|5527|18600
+![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/3153.png)![](/item/6676.png)![](/item/6691.png)|1.39|5872|2553|6296|4513|5527|18800
+![](/item/3033.png)![](/item/6673.png)![](/item/3153.png)![](/item/6676.png)![](/item/6695.png)![](/item/6691.png)|1.58|5996|2705|7456|4723|7007|18000
 ![](/item/6672.png)![](/item/6691.png)![](/item/3153.png)![](/item/3033.png)![](/item/3115.png)![](/item/6673.png)|1.66|4260|2294|8262|4979|7848|18600
 ![](/item/6672.png)![](/item/6691.png)![](/item/3153.png)![](/item/3033.png)![](/item/3026.png)![](/item/3115.png)|1.66|4038|2243|9789|5899|9537|18600
 ![](/item/6672.png)![](/item/6691.png)![](/item/3153.png)![](/item/3033.png)![](/item/3026.png)![](/item/6673.png)|1.89|4465|2293|12842|6783|12310|18400
 ![](/item/6672.png)![](/item/6691.png)![](/item/3026.png)![](/item/6673.png)![](/item/3033.png)![](/item/6333.png)|2.12|4632|1927|14845|7004|14567|18400
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Vayne
+
+**Target Health:2701.0 Armor:167.2 Mr:52.1**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ["Berserker's Greaves", 'Immortal Shieldbow', 'Blade of The Ruined King', 'Phantom Dancer', "Randuin's Omen", 'Bloodthirster']
+
+
+
+
+
+![](/item/3006.png)
+![](/item/6673.png)
+![](/item/3153.png)
+![](/item/3046.png)
+![](/item/3143.png)
+![](/item/3072.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Resolve/BonePlating/BonePlating.png)
+![](/Styles/Sorcery/Unflinching/Unflinching.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/6672.png)![](/item/6691.png)![](/item/3153.png)![](/item/3033.png)![](/item/3115.png)![](/item/3814.png)|1.66|4132|2256|6419|3869|6194|18500
+![](/item/3033.png)![](/item/3074.png)![](/item/3814.png)![](/item/3153.png)![](/item/6696.png)![](/item/6691.png)|1.69|5390|2289|6837|4053|6194|18700
+![](/item/6672.png)![](/item/6691.png)![](/item/3153.png)![](/item/3033.png)![](/item/3814.png)![](/item/6673.png)|1.89|4565|2312|8991|4749|8515|18300
+![](/item/6672.png)![](/item/6691.png)![](/item/3153.png)![](/item/3033.png)![](/item/3026.png)![](/item/3814.png)|1.89|4333|2256|10623|5611|10335|18300
+![](/item/6672.png)![](/item/6691.png)![](/item/3026.png)![](/item/6673.png)![](/item/3033.png)![](/item/3814.png)|2.22|4621|1916|13354|6029|13108|18000
 {{< /tab >}}
 {{< /tabs >}}

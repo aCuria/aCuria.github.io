@@ -68,7 +68,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/3074.png)![](/item/1001.png)![](/item/1055.png)![](/item/1037.png)|3.43|1438|708|2726|794|2616|5025
+![](/item/6676.png)![](/item/1001.png)![](/item/1053.png)![](/item/1055.png)![](/item/1036.png)|4.02|1475|721|2692|669|2616|5000
 {{< /tab >}}
 {{< tab "2 Item" >}}
 ## 2 Item Level 12 MissFortune vs 2 Item Level 12 Jinx
@@ -134,7 +134,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.57|2733|1150|3370|1311|3268|8325
+![](/item/6676.png)![](/item/3142.png)![](/item/1053.png)![](/item/1055.png)![](/item/1037.png)|2.57|2820|1150|3370|1311|3268|8325
 {{< /tab >}}
 {{< tab "3 Item" >}}
 ## 3 Item Level 14 MissFortune vs 3 Item Level 14 Jinx
@@ -201,7 +201,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.23|4134|1743|3899|3179|3789|11750
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/1053.png)![](/item/1055.png)![](/item/1038.png)|1.23|4236|1743|3899|3179|3789|11750
 {{< /tab >}}
 {{< tab "4 Item" >}}
 ## 4 Item Level 16 MissFortune vs 4 Item Level 16 Jinx
@@ -269,7 +269,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/1055.png)![](/item/1038.png)|1.2|6144|2352|4685|3906|4289|14050
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/1055.png)![](/item/1038.png)|1.2|6256|2352|4685|3906|4289|14050
 {{< /tab >}}
 {{< tab "5 Item" >}}
 ## 5 Item Level 17 MissFortune vs 5 Item Level 17 Jinx
@@ -338,7 +338,7 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|0.63|7613|2982|4789|7553|4412|16600
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/1038.png)|0.63|7730|2982|4789|7553|4412|16600
 {{< /tab >}}
 {{< tab "6 Item" >}}
 ## 6 Item Level 18 MissFortune vs 6 Item Level 18 Jinx
@@ -407,6 +407,76 @@ Tabs beyond 6 items force specific utility items.
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
 -|-|-|-|-|-|-|-
-![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/3074.png)|0.63|8791|3370|5356|8540|4676|18700
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/6696.png)![](/item/3074.png)|0.63|8913|3370|5356|8540|4676|18700
+{{< /tab >}}
+{{< tab "7 Item" >}}
+## 7 Item Level 18 MissFortune vs 7 Item Level 18 Jinx
+
+**Target Health:2430.0 Armor:111.9 Mr:52.1**
+
+
+**Forced Items** ['Edge of Night']
+
+
+
+
+
+![](/item/3814.png)
+
+
+
+**Enemy Items** ["Berserker's Greaves", 'Kraken Slayer', "Lord Dominik's Regards", 'Infinity Edge', 'Bloodthirster', 'Phantom Dancer']
+
+
+
+
+
+![](/item/3006.png)
+![](/item/6672.png)
+![](/item/3036.png)
+![](/item/3031.png)
+![](/item/3072.png)
+![](/item/3046.png)
+
+
+
+**Enemy Runes:**
+
+
+
+
+
+![](/Styles/Precision/LethalTempo/LethalTempo.png)
+![](/Styles/Precision/Triumph.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+**Runes:**
+
+
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+![](/StatMods/StatModsArmorIcon.png)
+
+
+
+
+
+ Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|g
+-|-|-|-|-|-|-|-
+![](/item/6676.png)![](/item/3142.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3074.png)|0.63|8683|3140|5869|9357|5241|18600
 {{< /tab >}}
 {{< /tabs >}}
