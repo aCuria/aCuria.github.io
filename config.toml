@@ -4,3 +4,6 @@ title = 'aCurias Guides'
 theme = "hugo-book"
 timeout = "500s"
 summaryLength = '0'
+
+[markup.goldmark.renderer]
+unsafe= true
