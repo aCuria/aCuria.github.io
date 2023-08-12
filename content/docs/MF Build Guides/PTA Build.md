@@ -5,13 +5,60 @@ draft: false
 ---
 
 # PTA Guide (Updated Patch 13.16)
+I am going to keep it simple. For more details consult the Simulation Data directly and create your own build.
 
-## Item Build
-I am going to keep it simple. For more details consult the Simulation Data section
 
-![](/item/7002.png)![](/item/3153.png)![](/item/3036.png)![](/item/3033.png)
+## Duskblade Build
 
-![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)
+
+### Core Items
+
+![](/item/7002.png)![](/item/3153.png)![](/item/3036.png)
+
+This is the core build I try to go for every game. It does well at 1 item (Best for Ult), decently at 2 items but it really spikes hard at 3 items. 
+
+![](/item/3033.png)
+
+You may need mortal reminder instead of LDR. consult the LDR vs MR page to find out when to buy what.
+
+### AD Assasins
+
+![](/item/3026.png)
+
+Unfortunately, our capability to tank through AD assasin damage has been severely gimped because of nerfs to Overheal (less shield), Bloodthirster (No Shield) and Shieldbow (Not Mythic). For this reason, we have to lean into GA which makes us a less tempting target.
+
+I think Shieldbow is not very helpful into the assasins, but this is based on my own playtesting rather than computation so do your own testing. The bloodline, shieldbow and health Stat Mod ideas felt weak when i tried them.
+
+### AP Burst Champions
+![](/item/3156.png)![](/item/3091.png)
+We have always leaned into Maw against AP burst. Since Maw now scales with AD, its not so good when used with low ad builds like Rageblade
+
+Stacking Wits can be helpful because some Champions can reduce our MR to zero even with Maw. Build wits if necesssary
+
+### Ultimate Damage
+![](/item/6676.png)![](/item/6696.png)
+
+Build Collector this to make Ult hit harder, but I do feel that Axiom in addition is usually overkill. 
+
+I think that going all out maximizing ult damage (replace BOTRK with BT, make a 3rd lethality legendary) alone is usually bad, a hybrid build with good ult and Sustained damage is probably better most of the time.
+
+### Sustained Damage / DPS 
+
+![](/item/6672.png)![](/item/3091.png)![](/item/3115.png)![](/item/3087.png)
+
+This type of build is used into dps champions, bruisers and Tanks. 
+
+For dps Champions, maximizing time to kill against effective HP against sustained damage is usually the correct choice. 
+
+For bruisers we need to kill them in the small window where they are CCed by our team. This means maximizing dps in a full glass cannon build.
+
+Into tanks, we just want as much DPS as possible, as well as sufficient defenses to survive their damage. Kraken is particularly good into targets that take > 3 hits to kill, otherwise Kraken passive is wasted.
+
+Wits End is good into thornmail, since thornmail users do not buy enough mpen to counter wits end and base resistances.
+
+Nashors tooth is the oddball item, but the simulation does say its a good 6th item pickup.
+
+
 
 ## Runes: PTA - Cut Down - Gathering Storm
 The main damage runs to consider for ultimate damage are Cut Down, Gathering Storm and First Strike.
@@ -54,5 +101,23 @@ The support makes or breaks botlane. This build **must** be played with a suitab
 	- Yuumi, Senna, Karma
 
 
+## Early Game itemization
+![](/item/1055.png)![](/item/2003.png)
 
+These are the default starting items, the health on Dorans is very valuable for early game all-in situations.
 
+![](/item/1036.png)![](/item/2003.png)![](/item/2003.png)![](/item/2003.png)
+
+The alternate starting items into poke lanes. 3 Pots buys us more time in lane to rush out Vamp Scepter and Refillable on first back
+
+![](/item/1053.png)![](/item/1083.png)![](/item/1001.png)
+
+I aim to build this every game, you have to learn when to pick each one up based on experience.
+
+## Discussion on other Mythics
+
+From the simulation data it is clear that there are only three competive mythics. 
+
+Rageblade has the best dps into tanky champions, primarily because it amplifies BOTRK damage. we are talking killing a late game sion in just 2.5s compared to 3.36s without it. However, it also has many problems...
+- Ultimate damage is poor, because Rageblade prevents Ult from critting. We can improve ult damage but this can be somewhat addressed by shoring up ultimate damage with Collector and Axiom Arc 
+- 
