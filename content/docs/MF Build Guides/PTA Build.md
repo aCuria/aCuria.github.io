@@ -42,11 +42,9 @@ Build Collector this to make Ult hit harder, but I do feel that Axiom in additio
 
 I think that going all out maximizing ult damage (replace BOTRK with BT, make a 3rd lethality legendary) alone is usually bad, a hybrid build with good ult and Sustained damage is probably better most of the time.
 
-### Sustained Damage / DPS 
+### Sustained Damage / DPS (Pick 3 Items)
 
-![](/item/6672.png)![](/item/3091.png)![](/item/3115.png)![](/item/3087.png)
-
-This type of build is used into dps champions, bruisers and Tanks. 
+![](/item/6672.png)![](/item/3091.png)![](/item/6676.png)![](/item/3115.png)![](/item/3087.png)
 
 For dps Champions, maximizing time to kill against effective HP against sustained damage is usually the correct choice. 
 
