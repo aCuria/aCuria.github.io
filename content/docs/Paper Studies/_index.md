@@ -1,7 +1,6 @@
 ---
-weight: 1
+weight: 6
 bookCollapseSection: false
-title: "MF Paper Studies"
 ---
 # Paper Studies
 

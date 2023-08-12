@@ -1,56 +1,58 @@
 ---
-weight: 2
+weight: 3
 bookToc: false
 ---
 
 
-# This entire page is work in progress due to the massive changes in 13.10.
+# Introduction
+This is a guide on how to use the raw data. 
+
 I am going to try to explain "how to fish" aka "how to come up with what build to use yourself"
+
+# What do the numbers on the subfolder mean?
+"13.15.1" Means patch 13.15. If the third number is 0, it represents PBE data. A '1' usually means the release patch, and above 1 usually means there was some kind of hotfix. I use the same numbers from the riot's data dump for this.
 
 # What is the best build?
 There is no true "Best" Build for all games. The "Best" build is a situational one depending on the win condition of that particular game. For example:
 
 ## Win Condition: Not dying to the fed assasin = win game 
 
-Use a Build with high Effective HP against Burst.
-- [PTA Alacrity No Rageblade Rengar TK_ADEHP_BURST]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/Rengar TK_ADEHP_BURST" >}})
-- [PTA Alacrity No Rageblade Vex TK_APEHP_BURST]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/Vex TK_APEHP_BURST" >}})
+Use a Build with high Effective HP against Burst. Look at "TK_ADEHP_BURST" (into AP assasins) and "TK_APEHP_BURST" (into AD assasins). 
+
+This data represents the pareto curve for the time taken to kill (TK) against the effective HP against burst. "Against Burst" means we ignore effects from lifesteal, since we cannot lifesteal against instant damage. This data uses pen and rune information from the enemy champion
+
+Note that we may have to stare at TK_ADEHP_BURST data against the tank to get the TK information from the tank with more anti burst oriented items included in the build... then compare that to the TK_ADEHP_BURST from the assasin. This is for fighting against teams with both tanks and assasins 
 
 ## Win Condition: Taking down the fed Riven / Insert Bruiser Here = win game 
 
-If the bruiser touches us, we are supposed to die. Therefore use a glass cannon build that kills in a minimum amount of time, so that the bruiser has the smallest possible window to kill us.
-Preferably we are able to 100-0 the Bruiser within the CC duration of our support
+If the bruiser touches us, we are "supposed" to die. Therefore we need to be able to kill the bruiser in the small time window that our support buys for us through CC effects. The best way to do this is usually to use a glass cannon build that kills in a minimum amount of time, so that the bruiser has the smallest possible window to kill us. Look at the "TKILL" data for this.
 
-- [PTA Alacrity No Rageblade Riven TKILL]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/Riven TKILL" >}})
+Note that movement speed is also sometimes useful to extend the amount of time the bruiser takes to reach us.
+
 
 ## Win Condition: Successfully Duel dps champions = win game 
 
-In the late game, use builds with a fast kill time to effective HP ratio 
-- [PTA Alacrity No Rageblade Jinx TK_ADEHP_D_TK]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/Jinx TK_ADEHP_D_TK" >}})
-- [PTA Alacrity No Rageblade Draven TK_ADEHP_D_TK]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/Draven TK_ADEHP_D_TK" >}})
-- [PTA Alacrity No Rageblade AurelionSol TK_APEHP_D_TK]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/AurelionSol TK_APEHP_D_TK" >}})
+In the late game, use builds with a fast kill time to effective HP ratio (TK_ADEHP_D_TK)
+
 
 ## Win Condition: Taking down the fed tank = win game 
 
-Use an anti tank build. We dont want to get killed by the tank either, so effective HP against the tank's damage type is important
-- [PTA Alacrity No Rageblade Chogath TK_APEHP]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/Chogath TK_APEHP" >}})
+Use an anti tank build. We dont want to get killed by the tank either, so effective HP against the tank's damage type is important. Wits end type items are very good against thornmail, because tanks dont really build void staff. 
 
 ## Win Condition: Surviving Lane = win game 
 This happens when facing an enemy ADC who has a strong early game and weak late game. One example would be Draven
 
-Usually some variant comet build is best for this, expecially into immobile champions who do not have a dash to avoid E and comet damage.
+Usually some comet build variant is best for this, expecially into immobile champions who do not have a dash to avoid E and comet damage.
 
 That said I really do not like playing comet because it does not scale well. 
 
-I would skew towards builds with more ultimate damage, because ultimate damage is not affected by running comet runes 
-
 
 # What are the best early game items?
-Personally I would determine what my desired endgame build is first (see win conditions), then figure out which items in that build are also strong into the enemy ADC at 1 item.
+There is no fixed way to go about this, if your games usually end early (1/2/3 items) then maybe you want to hit your powerspike at 2/3 items 
 
-- [PTA Alacrity No Rageblade Jinx TK_ULT]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/Jinx TK_ULT" >}})
-- [PTA Alacrity No Rageblade Draven TK_ULT]({{< ref "RawData/13.11.1/PTA Alacrity No Rageblade/Draven TK_ULT" >}})
+If your games go late then determine what the ultimate endgame build is first (see win conditions), then figure out which items in that build are also strongest at 1/2/3 item.
 
+The most successful builds will be strong early game and scale well enough late game.
 
 # Q & A
 
@@ -80,7 +82,7 @@ For example:
 - Guardian Angel is assumed to be off cooldown for the purposes of the 50% base HP restore passive
 - Shieldbow's Shield is assumed to be off cooldown
 - Maw's Shield is assumed to be off cooldown
-- Yoummu's bonus Lethality is assumed to fully charged (this is a more reasonable assumption given how fast it charges)
+- Yoummu's bonus Lethality is assumed to be on cooldown for dps calculations because it only lasts a pitiful 3s. We assume it works for ultimate.
 
 ## What items does the algo underestimate?
 Utility items. It is very difficult to put a gold value to utility items
