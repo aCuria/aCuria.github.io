@@ -113,6 +113,40 @@ The alternate starting items into poke lanes. 3 Pots buys us more time in lane t
 
 I aim to build this every game, you have to learn when to pick each one up based on experience.
 
+## Deeper dive into the build 
+I used data from Simulation Data/All to settle on duskblade as the mythic of choice. This item does well on the TK_ULT pareto curve into non-tanks, yet it is one of the best mythics into tanks (outside of Rageblade, which has poor ult damage and build path)
+
+Playtesting has also supported the idea that duskblade is probably the best mythic for MF the majority of the time 
+
+### 1st item
+At 1 item, we want to be able to duel the enemy ADC in a laning phase situation. Looking at the Duskblade/Jinx data, we can see that the 3 candidate items are 
+
+- Kraken (strongest all-in)
+- Ravenous Hydra (Middle Ground)
+- Duskblade (strongest Ult) 
+
+If we look at the 2 to 6 item data, we can see that Ravenous Hydra falls off the pareto curve later in the game. For this reason we can strike Hydra off.
+
+Kraken unfortunately has an absolutely abysmal build path for MF, because it now builds out of recurve bow instead of Pickaxe.
+
+Therefore, since we are going for a duskblade build anyway, Duskblade seems to be the best choice for our first item.
+
+### 2nd Item 
+The problem with the second item is that we are sitting on a fair number of items:
+1) Duskblade
+2) Boots1
+3) Scepter 
+4) Dorans 
+5) Cull (With Stacks)
+6) Refillable
+
+Of these items, we only want to sell Refillable and cull when completed. This means an item like Collector, which features in the 2 item data can be difficult to build towards since it has 3 components.
+
+If we look at the 3 item ASol / graves / Jax data, we can see that the Duskblade - BOTRK - Last Whisper idea is strong. It is also natural to build BOTRK because we are already sitting on one component (Scepter) so the 2 item powerspike will be hit earlier than with other choices
+
+Duskblade - Collector - Last Whisper
+
+
 ## Discussion on other Mythics
 
 From the simulation data it is clear that there are only three competive mythics. 
