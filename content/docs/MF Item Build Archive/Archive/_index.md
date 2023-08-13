@@ -2,7 +2,7 @@
 weight: 10
 bookCollapseSection: true
 bookToc: false
-title: "Archive"
+title: "Archive (Previous Patches)"
 ---
 
 # Archived Builds
