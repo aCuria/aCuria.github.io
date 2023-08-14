@@ -2,7 +2,7 @@
 weight: 1
 bookToc: false
 draft: false
-title: "PTA Item Build"
+title: "PTA Build"
 ---
 
 # PTA Guide (Updated Patch 13.16)
@@ -143,6 +143,8 @@ The problem with the second item is that we are sitting on a fair number of item
 Of these items, we only want to sell Refillable and cull when completed. This means an item like Collector, which features in the 2 item data can be difficult to build towards since it has 3 components.
 
 If we look at the 3 item ASol / graves / Jax data, we can see that the Duskblade - BOTRK - Last Whisper idea is strong. It is also natural to build BOTRK because we are already sitting on one component (Scepter) so the 2 item powerspike will be hit earlier than with other choices
+
+# 3rd Item 
 
 Duskblade - Collector - Last Whisper
 
