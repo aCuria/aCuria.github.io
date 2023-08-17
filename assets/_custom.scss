@@ -1,1 +1,4 @@
-$container-max-width: 100rem !default;
+.container {
+  max-width: 100rem;
+  margin: 0 auto;
+}
