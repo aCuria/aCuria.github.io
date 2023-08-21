@@ -2,7 +2,7 @@
 weight: 1
 bookToc: false
 draft: false
-title: "PTA Standard Build"
+title: "PTA Build"
 ---
 
 # PTA Guide (Updated Patch 13.16)
