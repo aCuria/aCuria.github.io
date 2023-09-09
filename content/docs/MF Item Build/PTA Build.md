@@ -45,13 +45,15 @@ We have always leaned into Maw against AP burst. Since Maw now scales with AD, i
 Stacking Wits with Maw can be helpful because some Champions can reduce our MR to zero even with Maw. Therefore building even more MR is helpful.
 
 ## Ultimate Damage
+
 ![](/item/7002.png)![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6672.png)![](/item/6696.png) Almost full ult damage
 
 ![](/item/7002.png)![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/6696.png)![](/item/6693.png) Full ult damage
 
-I think that going all out maximizing ult damage alone is usually bad, a hybrid build with good ult and Sustained damage is probably better most of the time.
+I think that going all out maximizing ult damage alone is more viable into squishy enemy compositions. When your team is getting run over by a tank, then sustained damage becomes necessary
 
-This "hybrid build" can be achieved by building Kraken 5th.
+{{< youtube pNWkmCm5STg >}}
+
 
 ## Sustained Damage / DPS
 ![](/item/7002.png)![](/item/3153.png)![](/item/3036.png)![](/item/6676.png)![](/item/6672.png)![](/item/3091.png)
