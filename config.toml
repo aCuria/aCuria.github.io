@@ -2,7 +2,7 @@ baseURL = 'https://acuria.github.io'
 languageCode = 'en-us'
 title = 'aCurias Guides'
 theme = "hugo-book"
-timeout = "5000s"
+timeout = "50000s"
 summaryLength = '0'
 
 [markup.goldmark.renderer]
