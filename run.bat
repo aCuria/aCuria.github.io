@@ -1,1 +1,1 @@
-hugo server
+start hugo server

@@ -70,6 +70,83 @@ The builds below were generated through sorting the data by ultimate damage pote
 {{< /tab >}}
 
 
+{{< tab "Rageblade" >}} 
+
+# This build should only be built in very specific situations.
+
+## When to use this
+- If you need to be the anti tank damage source into very tanky champions (sion, chogath)
+- When you need to out-duel the enemy ADC (samira, vayne)
+
+## What to expect
+- 
+
+
+## Runes
+![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
+![](/Styles/Precision/Overheal.png)
+![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+![](/StatMods/StatModsAttackSpeedIcon.png)
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+
+
+![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)or![](/Styles/Sorcery/ManaflowBand/ManaflowBand.png)
+
+![](/StatMods/StatModsArmorIcon.png)or
+![](/StatMods/StatModsHealthScalingIcon.png)or
+![](/StatMods/StatModsMagicResIcon.MagicResist_Fix.png)
+
+## Core
+![](/item/3153.png)
+![](/item/3006.png)
+![](/item/7030.png)
+![](/item/3036.png) or ![](/item/3033.png)
+
+
+
+## For maximum damage 
+
+![](/item/6676.png)![](/item/3091.png) (tkill = 3.12s)
+
+## To survive burst
+
+![](/item/6673.png) and one of 
+![](/item/6672.png)
+![](/item/6676.png)
+![](/item/3091.png)
+
+## GA Build 
+![](/item/6672.png)
+![](/item/3026.png)
+
+## Tankier Builds
+![](/item/6676.png)![](/item/3072.png) (tkill = 3.28s) 
+![](/item/6673.png)![](/item/3072.png) (tkill = 4.09s) 
+
+
+
+
+## Power Spikes
+![](/item/3153.png)
+
+Into the enemy ADC, Kraken (3.35s kill) is more powerful than BOTRK (3.54s kill) but BOTRK is the most critical item for killing tanks.
+
+![](/item/3153.png)
+![](/item/3006.png)
+![](/item/7030.png)
+
+You should be able to kill the enemy ADC in 1.76s with this, these are the strongest possible dueling runes and items into both the enemy ADC and tanks. Your ult damage will be very poor so dont count on that doing much. 
+
+![](/item/3153.png)
+![](/item/3006.png)
+![](/item/7030.png)
+![](/item/3036.png)
+
+The last whisper 3rd is not so good into squishies because rageblade already packs some pen. (wits and collector are stronger). However it is the best in slot against tanks. You can choose to delay last whisper... or not 
+
+{{< /tab >}}
 
 {{< tab "Support Champions" >}} 
 # Support Champions
