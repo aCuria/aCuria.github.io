@@ -1,8 +1,8 @@
 ---
-weight: 1
+weight: 2
 bookToc: false
 draft: false
-title: "PTA Build (Patch 14.7)"
+title: "PTA Build p14.7 (not meta))"
 ---
 
 # PTA Guide (Updated Patch 13.20)
@@ -29,7 +29,7 @@ I am going to keep it simple. For more details consult the Simulation Data direc
 ![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
 ![](/StatMods/StatModsAttackSpeedIcon.png)
 ![](/StatMods/StatModsAdaptiveForceIcon.png)
-![](/StatMods/StatModsArmorIcon.png)
+![](/StatMods/StatModsHealthScalingIcon.png)
 
 ## Build
 ![](/item/6672.png)

@@ -1,23 +1,31 @@
 ---
-weight: 1
+weight: 2
 bookToc: false
 draft: false
-title: "ULT Build p14.7 (meta)"
+title: "Comet Build p14.7 (not meta)"
 ---
 
-# Ult Build (Patch 14.7)
-The idea behind this build is to use ult to win teamfights.
-Maximize ult damage, and dont die before ult has been cast.
+# Comet Build (Patch 14.7)
+The idea behind this build is to have a stronger laning phase
+Then use ult to win teamfights.
+
+
+## Starting Items
+![](/item/1056.png)
+
+Dorans Ring gives us more mana than starting tear after 192s (3 min), and the other stats are better.
 
 
 
 ## Runes
-![](/Styles/Inspiration/FirstStrike/FirstStrike.png)
-![](/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png)
-![](/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png)
-![](/Styles/Inspiration/CosmicInsight/CosmicInsight.png)
+![ArcaneComet](/Styles/Sorcery/ArcaneComet/ArcaneComet.png "Arcane Comet")
+![ManaflowBand](/Styles/Sorcery/ManaflowBand/ManaflowBand.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
 ![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
+
+![](/Styles/Domination/EyeballCollection/EyeballCollection.png)
+![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+
 ![](/StatMods/StatModsAdaptiveForceIcon.png)
 ![](/StatMods/StatModsAdaptiveForceIcon.png)
 ![](/StatMods/StatModsHealthScalingIcon.png)
