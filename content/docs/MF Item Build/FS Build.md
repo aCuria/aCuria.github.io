@@ -2,7 +2,7 @@
 weight: 1
 bookToc: false
 draft: false
-title: "ULT Build p14.8 (meta)"
+title: "FS Build p14.8 (meta)"
 ---
 
 # Ult Build (Patch 14.8)
@@ -42,7 +42,9 @@ Some combination of Ghost, Flash, Exhaust. If they have skillshot CC (lux, ashe,
 ![](/item/2422.png)
 ![](/item/3142.png)
 ![](/item/6676.png)
-![](/item/3036.png)
+
+![](/item/3036.png) or 
+![](/item/3033.png)
 
 - If there are tanky threats, LDR 2nd item may be better
 
@@ -50,30 +52,40 @@ Some combination of Ghost, Flash, Exhaust. If they have skillshot CC (lux, ashe,
 ![](/item/3142.png)
 ![](/item/6676.png)
 ![](/item/3036.png)
+![](/item/6673.png)
 ![](/item/3814.png)
 ![](/item/6675.png)
-![](/item/6673.png)
+
 
 ## vs AD Burst or hybrid damage.
 ![](/item/3142.png)
 ![](/item/6676.png)
 ![](/item/3036.png)
-![](/item/6675.png)
 ![](/item/6673.png)
-
-![](/item/3161.png) or ![](/item/3026.png) replaces boots
+![](/item/6675.png)
+![](/item/3161.png)
+GA![](/item/3026.png) can be used instead of shojin.
 
 ## vs AP Burst
 ![](/item/3142.png)
 ![](/item/6676.png)
 ![](/item/3036.png)
+![](/item/3156.png)
 ![](/item/6675.png)
-
-![](/item/6673.png) or ![](/item/3156.png)
-
-![](/item/3161.png) replaces boots
+![](/item/3161.png)
 
 The problem with Maw is that it does not have lifesteal, which makes it hard to top off HP after getting poked. We used to solve this buy making BT for lifesteal and shield, but since BT has no shield now it is rather worthless into burst champions.
+
+
+## drain tank
+![](/item/3142.png)
+![](/item/6676.png)
+![](/item/3036.png)
+![](/item/3072.png)
+![](/item/6675.png)
+![](/item/6673.png)
+
+Useful into champs who do not have the burst damage to kill us. 
 
 ## If you just want damage
 ![](/item/3142.png)

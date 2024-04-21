@@ -23,8 +23,8 @@ Dorans Ring gives us more mana than starting tear after 192s (3 min), and the ot
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
 ![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
 
-![](/Styles/Domination/EyeballCollection/EyeballCollection.png)
-![](/Styles/Domination/TreasureHunter/TreasureHunter.png)
+![](/Styles/Precision/CutDown/CutDown.png)
+![](/Styles/Precision/LegendBloodline/LegendBloodline.png)
 
 ![](/StatMods/StatModsAdaptiveForceIcon.png)
 ![](/StatMods/StatModsAdaptiveForceIcon.png)
@@ -33,31 +33,11 @@ Dorans Ring gives us more mana than starting tear after 192s (3 min), and the ot
 ## Summoners
 Ghost, Flash
 
-## Highest Ult Damage
-![](/item/6697.png)
-![](/item/6701.png)
-![](/item/3036.png)
-![](/item/6675.png)
-![](/item/3072.png)
-![](/item/6676.png)
-
-## Slightly different build order into tanks
-![](/item/6697.png)
-![](/item/3036.png)
-![](/item/6675.png)
-![](/item/6676.png)
-![](/item/3072.png)
-![](/item/6701.png)
-
-## More Defensive build 
-![](/item/6701.png)
+## Build
+![](/item/3142.png)
 ![](/item/6676.png)
 ![](/item/3036.png)
-![](/item/3072.png)
 ![](/item/6675.png)
+![](/item/6673.png)
 
-Choose 1:
-![](/item/3814.png)
-![](/item/3026.png)
-![](/item/3156.png)
-![](/item/6696.png) 
+![](/item/3161.png) or ![](/item/3026.png) replaces boots
