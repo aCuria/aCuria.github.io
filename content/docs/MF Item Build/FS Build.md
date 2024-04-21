@@ -28,10 +28,16 @@ As usual if you are high elo go make your own build.
 ![](/StatMods/StatModsAdaptiveForceIcon.png)
 ![](/StatMods/StatModsHealthScalingIcon.png)
 
-
+## Dematerializer 
 ![](/Styles/Inspiration/MinionDematerializer/MinionDematerializer.png)
 
-Dematerializer is an interesting alternative. This rune allows us to more easily kill a full health minion with aa > q, for Q2 crits. It also lets us one shot the ranged minions earlier in the game.
+This is an interesting alternative because farming is more difficult without Kraken (noonquiver) & Alacrity, which we had in previous seasons. We want to be able to:
+- 100-0 a ranged minion with aa > q in lane. This makes landing Q2 easier.
+- One shot ranged minions with aa mid game
+- Kill 2 melee minions with Q > AA > AA (procs love tap 2x on each minion)
+
+I think we need one stack each on ranged and melee minions, but I am not sure what is the best way to use the 3rd stack yet (probably ranged minion)
+
 
 ## Summoners
 Some combination of Ghost, Flash, Exhaust. If they have skillshot CC (lux, ashe, blitz) then flash is necessary.
