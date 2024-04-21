@@ -2,7 +2,7 @@
 weight: 2
 bookToc: false
 draft: false
-title: "PTA Build p14.7 (not meta))"
+title: "PTA Build p14.7 (not meta)"
 ---
 
 # PTA Guide (Updated Patch 13.20)
