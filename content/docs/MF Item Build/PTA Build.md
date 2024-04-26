@@ -2,19 +2,27 @@
 weight: 2
 bookToc: false
 draft: false
-title: "PTA Build p14.7 (not meta)"
+title: "PTA Build 14.8"
 ---
 
-# PTA Guide (Updated Patch 13.20)
+# PTA Guide (Updated Patch 14.8)
 I am going to keep it simple. For more details consult the Simulation Data directly and create your own build.
 
+# Idea
+The idea behind using PTA, is that 
+
+- There are enemy team comps where MF gets jumped every teamfight and FS becomes useless. This means assasin comps
+
+- Sometimes, a successful ult is insufficient to clean up. This is the case against tanks.
+
+The builds here are generated assuming we ult the enemy for its full duration, and then use autos to finish them off. The builds that can do this the fastest are considered the best. This is a departure from the previous idea of just using autos and ignoring ult damage.
 
 
 {{< tabs "PTA" >}}
 
 
 
-{{< tab "Anti DPS Build" >}} 
+{{< tab "Anti AD Assasin" >}} 
 
 # Anti DPS Build
 - When you need to out-duel the enemy ADC or dps champion (samira, vayne)
@@ -28,18 +36,27 @@ I am going to keep it simple. For more details consult the Simulation Data direc
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
 ![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
 ![](/StatMods/StatModsAttackSpeedIcon.png)
-![](/StatMods/StatModsAdaptiveForceIcon.png)
-![](/StatMods/StatModsHealthScalingIcon.png)
+![](/StatMods/StatModsHealthPlusIcon.png)
+![](/StatMods/StatModsHealthPlusIcon.png)
 
-## Build
-![](/item/6672.png)
-![](/item/3124.png)
-![](/item/3153.png)
-![](/item/3033.png)
+## Early Game
+![](/item/1055.png)
+![](/item/1083.png)
+![](/item/1001.png)
 
-![](/item/6673.png) or ![](/item/3072.png), Note: BT is better when the shieldbow is on cd
+## Full Build
+![](/item/3142.png)
+![](/item/6676.png)
+![](/item/3036.png)
+![](/item/6673.png)
+![](/item/6675.png)
+![](/item/1001.png) -> ![](/item/3046.png)
 
-![](/item/3142.png) replaces boots
+## Note:
+![](/item/3036.png) or 
+![](/item/3033.png) are fine
+
+
 
 {{< /tab >}}
 
