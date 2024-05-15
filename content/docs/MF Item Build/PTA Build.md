@@ -72,9 +72,15 @@ The idea is to use R to chunk the enemy team first, then follow up with autos. T
 ## Replace boots with one of the below items.
 
 ![](/item/6698.png)
+![](/item/6699.png)
+![](/item/6696.png)
+![](/item/3032.png)
+![](/item/3508.png)
 ![](/item/3161.png)
-
-![](/item/6695.png) only into shields
+![](/item/6695.png)
+![](/item/3814.png)
+![](/item/6673.png)
+![](/item/3004.png)
 
 {{< /tab >}}
 
@@ -86,8 +92,16 @@ The idea is to use R to chunk the enemy team first, then follow up with autos. T
 # Anti Tank Build (AA's)
 The idea is to use AA > Q > AA > AA... to kill the enemy tank. The build that kills the fastest is considered the best.
 
-## Maximize damage potential (Kills in 2.66s)
+## Assuming BT is in the build (Kills in 2.69s)
+![](/item/3031.png)
+![](/item/1001.png)
+![](/item/3036.png)
+![](/item/3032.png)
+![](/item/6673.png)
+![](/item/3072.png)
+![](/item/3142.png)
 
+## Maximize damage potential (Kills in 2.66s)
 
 ![](/item/3031.png)
 ![](/item/1001.png)
@@ -96,15 +110,6 @@ The idea is to use AA > Q > AA > AA... to kill the enemy tank. The build that ki
 ![](/item/3032.png)
 ![](/item/3073.png)
 ![](/item/3142.png)
-
-## Assuming BT is in the build (Kills in 2.69s)
-![](/item/3031.png)
-![](/item/1001.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3072.png)
-![](/item/3142.png)
-![](/item/3073.png)
 
 
 {{< /tab >}}
