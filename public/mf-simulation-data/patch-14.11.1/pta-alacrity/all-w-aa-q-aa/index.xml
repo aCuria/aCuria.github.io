@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aCurias Guides</title>
+    <link>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/</link>
+    <description>Recent content on aCurias Guides</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/aatrox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/aatrox/</guid>
+      <description>MissFortune vs Aatrox&#xD;#&#xD;1 Item&#xD;TK_ULT&#xD;Sorted by kill time, then by ult damage</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/chogath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/chogath/</guid>
+      <description>MissFortune vs Chogath&#xD;#&#xD;1 Item&#xD;TK_ULT&#xD;Sorted by kill time, then by ult damage</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/draven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/draven/</guid>
+      <description>MissFortune vs Draven&#xD;#&#xD;1 Item&#xD;TK_ULT&#xD;Sorted by kill time, then by ult damage</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/rengar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/rengar/</guid>
+      <description>MissFortune vs Rengar&#xD;#&#xD;1 Item&#xD;TK_ULT&#xD;Sorted by kill time, then by ult damage</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/vex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/vex/</guid>
+      <description>MissFortune vs Vex&#xD;#&#xD;1 Item&#xD;TK_ULT&#xD;Sorted by kill time, then by ult damage</description>
+    </item>
+  </channel>
+</rss>

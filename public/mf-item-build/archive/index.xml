@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive (Previous Patches) on aCurias Guides</title>
+    <link>http://localhost:1313/mf-item-build/archive/</link>
+    <description>Recent content in Archive (Previous Patches) on aCurias Guides</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/mf-item-build/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FS Build p14.8 (meta)</title>
+      <link>http://localhost:1313/mf-item-build/archive/fs-build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-item-build/archive/fs-build/</guid>
+      <description>Ult Build (Patch 14.</description>
+    </item>
+    <item>
+      <title>Comet (13.09)</title>
+      <link>http://localhost:1313/mf-item-build/archive/comet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-item-build/archive/comet/</guid>
+      <description>Comet&#xD;#&#xD;To me the comet playstyle is a saving grace type build when Miss Fortune is Counterpicked.</description>
+    </item>
+    <item>
+      <title>Comet Build p14.7 (not meta)</title>
+      <link>http://localhost:1313/mf-item-build/archive/comet-build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-item-build/archive/comet-build/</guid>
+      <description>Comet Build (Patch 14.</description>
+    </item>
+    <item>
+      <title>PTA &#43; Bloodline (13.09)</title>
+      <link>http://localhost:1313/mf-item-build/archive/pta-bloodline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-item-build/archive/pta-bloodline/</guid>
+      <description>PTA Bloodline&#xD;#&#xD;Main advantage&#xD;#&#xD;Bloodline gives us what I call &amp;ldquo;Build acceleration&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>PTA &#43; Alacrity (13.09)</title>
+      <link>http://localhost:1313/mf-item-build/archive/pta-alacrity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mf-item-build/archive/pta-alacrity/</guid>
+      <description>PTA Alacrity (Work in Progress)&#xD;#&#xD;Alacrity is better into those champions where you have to kill them as fast as possible.</description>
+    </item>
+  </channel>
+</rss>

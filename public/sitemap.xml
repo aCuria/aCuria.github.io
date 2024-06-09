@@ -6,7 +6,7 @@
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/mf-item-build/fs-build/</loc>
+    <loc>http://localhost:1313/docs/mf-item-build/archive/fs-build/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/paper-studies/lord-domniks-regards-vs-mortal-reminder/</loc>
   </url><url>
@@ -16,7 +16,7 @@
   </url><url>
     <loc>http://localhost:1313/docs/mf-item-build/archive/comet/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/mf-item-build/comet-build/</loc>
+    <loc>http://localhost:1313/docs/mf-item-build/archive/comet-build/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/paper-studies/coup-de-grace-vs-cut-down/</loc>
   </url><url>
@@ -26,17 +26,15 @@
   </url><url>
     <loc>http://localhost:1313/docs/mf-item-build/pta-build/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-e-r-w-aa-q-aa/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-w-aa-q-aa/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/yoummus/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/simulation-data/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-e-r-w-aa-q-aa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/mf-beginners-guide/teamfights/</loc>
   </url><url>
@@ -58,35 +56,25 @@
   </url><url>
     <loc>http://localhost:1313/docs/mf-item-build/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-e-r-w-aa-q-aa/aatrox/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-e-r-w-aa-q-aa/aatrox/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-e-r-w-aa-q-aa/chogath/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-e-r-w-aa-q-aa/chogath/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-e-r-w-aa-q-aa/draven/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-e-r-w-aa-q-aa/draven/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-e-r-w-aa-q-aa/rengar/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-e-r-w-aa-q-aa/rengar/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-e-r-w-aa-q-aa/vex/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-e-r-w-aa-q-aa/vex/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-w-aa-q-aa/aatrox/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/aatrox/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-w-aa-q-aa/chogath/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/chogath/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-w-aa-q-aa/draven/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/draven/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-w-aa-q-aa/rengar/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/rengar/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/all-w-aa-q-aa/vex/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/yoummus/aatrox/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/yoummus/chogath/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/yoummus/draven/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/yoummus/rengar/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/14.10.0/pta-alacrity-cutdown/yoummus/vex/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.11.1/pta-alacrity/all-w-aa-q-aa/vex/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/13.18-comet-theorycrafting/</loc>
   </url><url>

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Subsections#Patch 14.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/mf-simulation-data/">
+  <meta property="og:site_name" content="aCurias Guides">
+  <meta property="og:title" content="aCurias Guides">
+  <meta property="og:description" content="Subsections#Patch 14.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="website">
+<title>Mf Simulation Data | aCurias Guides</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" >
+<link rel="stylesheet" href="/book.min.b2d853d55719b549c81d1059cef7b7b3ebc8ea048c657205fe7c4a74f3072519.css" integrity="sha256-sthT1VcZtUnIHRBZzve3s&#43;vI6gSMZXIF/nxKdPMHJRk=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.528bbe9256bd221c0984cb7124b1c6d7bffe5a7e7844ad30addd1c1b9d02f5f6.js" integrity="sha256-Uou&#43;kla9IhwJhMtxJLHG17/&#43;Wn54RK0wrd0cG50C9fY=" crossorigin="anonymous"></script>
+
+  
+
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mf-simulation-data/index.xml" title="aCurias Guides" />
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>aCurias Guides</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Mf Simulation Data</strong>
+
+  <label for="toc-control">
+    
+  </label>
+</div>
+
+
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="subsections">
+  Subsections
+  <a class="anchor" href="#subsections">#</a>
+</h1>
+<dl>
+
+  <dt>
+    <a href="/mf-simulation-data/patch-14.11.1/">Patch 14.11.1</a>
+  </dt>
+  
+</dl>
+
+<h1 id="introduction">
+  Introduction
+  <a class="anchor" href="#introduction">#</a>
+</h1>
+<p>This is a guide on how to use the raw data.</p>
+<p>I am going to try to explain &ldquo;how to fish&rdquo; aka &ldquo;how to come up with what build to use yourself&rdquo;</p>
+<h1 id="what-do-the-numbers-on-the-subfolder-mean">
+  What do the numbers on the subfolder mean?
+  <a class="anchor" href="#what-do-the-numbers-on-the-subfolder-mean">#</a>
+</h1>
+<p>&ldquo;13.15.1&rdquo; Means patch 13.15. If the third number is 0, it represents PBE data. A &lsquo;1&rsquo; usually means the release patch, and above 1 usually means there was some kind of hotfix. I use the same numbers from the riot&rsquo;s data dump for this.</p>
+<h1 id="what-is-the-best-build">
+  What is the best build?
+  <a class="anchor" href="#what-is-the-best-build">#</a>
+</h1>
+<p>There is no true &ldquo;Best&rdquo; Build for all games. The &ldquo;Best&rdquo; build is a situational one depending on the win condition of that particular game. For example:</p>
+<h2 id="win-condition-not-dying-to-the-fed-assasin--win-game">
+  Win Condition: Not dying to the fed assasin = win game
+  <a class="anchor" href="#win-condition-not-dying-to-the-fed-assasin--win-game">#</a>
+</h2>
+<p>Use a Build with high Effective HP against Burst. Look at &ldquo;TK_ADEHP_BURST&rdquo; (into AP assasins) and &ldquo;TK_APEHP_BURST&rdquo; (into AD assasins).</p>
+<p>This data represents the pareto curve for the time taken to kill (TK) against the effective HP against burst. &ldquo;Against Burst&rdquo; means we ignore effects from lifesteal, since we cannot lifesteal against instant damage. This data uses pen and rune information from the enemy champion</p>
+<p>Note that we may have to stare at TK_ADEHP_BURST data against the tank to get the TK information from the tank with more anti burst oriented items included in the build&hellip; then compare that to the TK_ADEHP_BURST from the assasin. This is for fighting against teams with both tanks and assasins</p>
+<h2 id="win-condition-taking-down-the-fed-riven--insert-bruiser-here--win-game">
+  Win Condition: Taking down the fed Riven / Insert Bruiser Here = win game
+  <a class="anchor" href="#win-condition-taking-down-the-fed-riven--insert-bruiser-here--win-game">#</a>
+</h2>
+<p>If the bruiser touches us, we are &ldquo;supposed&rdquo; to die. Therefore we need to be able to kill the bruiser in the small time window that our support buys for us through CC effects. The best way to do this is usually to use a glass cannon build that kills in a minimum amount of time, so that the bruiser has the smallest possible window to kill us. Look at the &ldquo;TKILL&rdquo; data for this.</p>
+<p>Note that movement speed is also sometimes useful to extend the amount of time the bruiser takes to reach us.</p>
+<h2 id="win-condition-successfully-duel-dps-champions--win-game">
+  Win Condition: Successfully Duel dps champions = win game
+  <a class="anchor" href="#win-condition-successfully-duel-dps-champions--win-game">#</a>
+</h2>
+<p>In the late game, use builds with a fast kill time to effective HP ratio (TK_ADEHP_D_TK)</p>
+<h2 id="win-condition-taking-down-the-fed-tank--win-game">
+  Win Condition: Taking down the fed tank = win game
+  <a class="anchor" href="#win-condition-taking-down-the-fed-tank--win-game">#</a>
+</h2>
+<p>Use an anti tank build. We dont want to get killed by the tank either, so effective HP against the tank&rsquo;s damage type is important. Wits end type items are very good against thornmail, because tanks dont really build void staff.</p>
+<h2 id="win-condition-surviving-lane--win-game">
+  Win Condition: Surviving Lane = win game
+  <a class="anchor" href="#win-condition-surviving-lane--win-game">#</a>
+</h2>
+<p>This happens when facing an enemy ADC who has a strong early game and weak late game. One example would be Draven</p>
+<p>Usually some comet build variant is best for this, expecially into immobile champions who do not have a dash to avoid E and comet damage.</p>
+<p>That said I really do not like playing comet because it does not scale well.</p>
+<h1 id="what-are-the-best-early-game-items">
+  What are the best early game items?
+  <a class="anchor" href="#what-are-the-best-early-game-items">#</a>
+</h1>
+<p>There is no fixed way to go about this, if your games usually end early (1/2/3 items) then maybe you want to hit your powerspike at 2/3 items</p>
+<p>If your games go late then determine what the ultimate endgame build is first (see win conditions), then figure out which items in that build are also strongest at 1/2/3 item.</p>
+<p>The most successful builds will be strong early game and scale well enough late game.</p>
+<h1 id="q--a">
+  Q &amp; A
+  <a class="anchor" href="#q--a">#</a>
+</h1>
+<h2 id="why-are-there-extra-item-components-in-the-raw-data">
+  Why are there extra item components in the raw data?
+  <a class="anchor" href="#why-are-there-extra-item-components-in-the-raw-data">#</a>
+</h2>
+<p>I am trying to normalize the gold cost of different builds by &ldquo;buying&rdquo; additional item components with &ldquo;extra gold&rdquo;. This has the side effect of giving a value to free item slots and rune choices</p>
+<p>Every item build is credited with:</p>
+<ul>
+<li>+900g (Vamp Scepter): If a build already has lifesteal, the 900g can be spent on ad components</li>
+<li>+300g (Boots1): If a build already another source of movement speed, the 300g can be spent on ad components</li>
+<li>+180g If Dorans Blade has been &ldquo;sold&rdquo;, 180g is credited</li>
+</ul>
+<h2 id="how-to-read-the-raw-data">
+  How to read the raw data?
+  <a class="anchor" href="#how-to-read-the-raw-data">#</a>
+</h2>
+<ul>
+<li><strong>tk</strong>: Time taken for Miss Fortune to kill this particular from full HP</li>
+<li><strong>ult</strong>: Ultimate Damage done by Miss Fortune into this particular champion, starting from full HP</li>
+<li><strong>aaqaa</strong>: Damage dealt after the second auto (aa + q + aa). If this value is blank, it may mean that the champion was killed with aa + q, in which case I did not record the aa + q + aa damage.</li>
+<li><strong>AdHp</strong>: Miss Fortune&rsquo;s Effective HP against AD damage against the enemy champion. This is affected by how much armor pen the enemy champion is assumed to have bought in his build</li>
+<li><strong>AdHp/Tk</strong>: Effective HP against AD damage divided by Time taken to kill. I am trying to express the idea that the longer we take to kill an enemy champion, the more damage we can expect to take from that enemy champion.</li>
+<li><strong>AdB</strong>: Effective HP against AD <em>burst</em> damage. This does not account for healing, since we cannot heal through damage that kills us instantly</li>
+<li><strong>g</strong>: Cost of the build in Gold</li>
+</ul>
+<h2 id="what-items-does-the-algo-overestimate">
+  What items does the algo overestimate?
+  <a class="anchor" href="#what-items-does-the-algo-overestimate">#</a>
+</h2>
+<p>Items with long cooldown active abilities.</p>
+<p>For example:</p>
+<ul>
+<li>Galeforce active damage is accounted for in the computation, but in a real game Galeforce may be on cooldown. Galeforce&rsquo;s active is assumed to be off cooldown, and used for regular damage</li>
+<li>Guardian Angel is assumed to be off cooldown for the purposes of the 50% base HP restore passive</li>
+<li>Shieldbow&rsquo;s Shield is assumed to be off cooldown</li>
+<li>Maw&rsquo;s Shield is assumed to be off cooldown</li>
+<li>Yoummu&rsquo;s bonus Lethality is assumed to be on cooldown for dps calculations because it only lasts a pitiful 3s. We assume it works for ultimate.</li>
+</ul>
+<h2 id="what-items-does-the-algo-underestimate">
+  What items does the algo underestimate?
+  <a class="anchor" href="#what-items-does-the-algo-underestimate">#</a>
+</h2>
+<p>Utility items. It is very difficult to put a gold value to utility items</p>
+<p>For example:</p>
+<ul>
+<li>QSS&rsquo;s CC removal</li>
+<li>Duskblade&rsquo;s untargetable passive</li>
+<li>Edge of Night&rsquo;s spellshield</li>
+<li>Guardian Angel&rsquo;s revive passive (the 4s revive timer utility)</li>
+<li>Tenacity items</li>
+<li>Mana from Manamune and Essence Reaver</li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

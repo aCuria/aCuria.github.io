@@ -1,6 +1,7 @@
 ---
 weight: 10
 bookCollapseSection: true
+bookHidden: true
 bookToc: false
 title: "Archive (Previous Patches)"
 ---

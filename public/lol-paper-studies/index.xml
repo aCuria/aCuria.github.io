@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aCurias Guides</title>
+    <link>http://localhost:1313/lol-paper-studies/</link>
+    <description>Recent content on aCurias Guides</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/lol-paper-studies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LDR vs MR</title>
+      <link>http://localhost:1313/lol-paper-studies/lord-domniks-regards-vs-mortal-reminder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lol-paper-studies/lord-domniks-regards-vs-mortal-reminder/</guid>
+      <description>&#xD;Lord Domnik&amp;rsquo;s Regards vs Mortal Reminder&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>Coup vs Cut Down</title>
+      <link>http://localhost:1313/lol-paper-studies/coup-de-grace-vs-cut-down/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lol-paper-studies/coup-de-grace-vs-cut-down/</guid>
+      <description>Coup de Grace vs Cut Down&#xD;#&#xD;Coup de Grace = 8% under 40% HP, which is 3.</description>
+    </item>
+  </channel>
+</rss>

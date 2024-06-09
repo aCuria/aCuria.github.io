@@ -2,10 +2,10 @@
 weight: 2
 bookToc: false
 draft: false
-title: "PTA Build 14.10"
+title: "PTA Build"
 ---
 
-# PTA Guide (Updated Patch 14.10)
+# PTA Guide (Updated Patch 14.11)
 I am going to keep it simple. For more details consult the Simulation Data directly and create your own build.
 
 # Idea
@@ -24,153 +24,117 @@ The builds here are generated assuming we ult the enemy for its full duration, a
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
 ![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
-![](/StatMods/StatModsAttackSpeedIcon.png) and some combination of 
-![](/StatMods/StatModsAdaptiveForceIcon.png)![](/StatMods/StatModsHealthPlusIcon.png)![](/StatMods/StatModsHealthScalingIcon.png)
+![](/StatMods/StatModsAttackSpeedIcon.png) 
+![](/StatMods/StatModsAdaptiveForceIcon.png)
+
+
+![](/StatMods/StatModsHealthPlusIcon.png) this is better into late game assasins
+
+![](/StatMods/StatModsHealthScalingIcon.png) this is better in lane
 
 ## Early Game
-![](/item/1055.png) > 
+![](/item/1055.png)
+
+![](/item/1053.png)![](/Styles/Precision/AbsorbLife/AbsorbLife.png) this is extremely important against poke. If there is no poke you can skip scepter and the absorb life rune.
+
+
 ![](/item/1083.png)
 ![](/item/1001.png)
+
+
+{{< tabs "Patches" >}}
+{{< tab "14.11" >}} 
+The main change is that IE got severely nerfed to the point its no longer a good early game rush item... and Shieldbow got an enormous buff.
+- Looking at the AA only dataset, ER / Axiom kills draven the fastest at 1 item, but these items not what we want mid game....  
+- For this reason playing for autos early game seems to be dead because we dont have a strong 1st and 2nd item to support it. We really need to play for ult damage and short trades (aa q aa & q2) instead
+{{< /tab >}}
+{{< /tabs >}}
 
 
 {{< tabs "PTA" >}}
 
 
 
-{{< tab "Anti Tank (E+R into AA's)" >}} 
+{{< tab "Default Build" >}} 
 
-# Anti Tank Build (E+R into AA's)
+# Build Idea 
 The idea is to use R to chunk the enemy team first, then follow up with autos. The build which kills a tank the fastest is considered the best.
 
-## Maximize damage potential
-
-![](/item/3031.png)
-![](/item/1001.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3072.png)
-![](/item/3142.png)
-
-## Force early Yoummus 
+## Core Items
 
 ![](/item/3142.png)
-![](/item/1001.png)
 ![](/item/3036.png)
 ![](/item/6676.png)
 ![](/item/3031.png)
 ![](/item/3072.png)
 
-## Force early BT 
-
-![](/item/3072.png)
-![](/item/1001.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3031.png)
-![](/item/3142.png)
+Note that if scepter is in inventory, we may have to make BT before IE.
 
 ## Replace boots with one of the below items.
 
-![](/item/6698.png)
-![](/item/6699.png)
-![](/item/6696.png)
-![](/item/3032.png)
-![](/item/3508.png)
-![](/item/3161.png)
-![](/item/6695.png)
-![](/item/3814.png)
-![](/item/6673.png)
-![](/item/3004.png)
+![](/item/6673.png) I suspect this may be the best item to make by default. the idea is to live for 2s longer and get an extra couple of autos off.
+
+![](/item/3032.png) This item is damage optimal into bruisers (even assuming no ult) when considering ult it also achieves optimal kill times. For this reason this is probably the best damage item after the core build...
+
+![](/item/3161.png) This is one of the oddball items that the algo likes, the kill time is top tier for both ult damage and autos only datasets. It even gives ability haste and 300 hp. That said it needs to be "charged up", with stacks. The algo assumes an all in scenario, but this will do less damage in situations where you just need to auto a couple of times.
+
+![](/item/6698.png) ![](/item/6699.png) ![](/item/3508.png) ![](/item/6696.png)These all do about the same (top tier) ult damage, but I think we want more tankiness at this stage fo the game.
+
+![](/item/6695.png) This the best damage option into big shields, for example shieldbow users.
+
+![](/item/3814.png) Does less damage, we make this mainly for the spellshield.
 
 {{< /tab >}}
 
+{{< tab "Anti AP Assassins" >}}
+Note that into hybrid threats just make shieldbow because Maw will not help against AD.
 
-
-
-{{< tab "Anti Tank Build (AAs only, no R)" >}} 
-
-# Anti Tank Build (AA's)
-The idea is to use AA > Q > AA > AA... to kill the enemy tank. The build that kills the fastest is considered the best.
-
-## Assuming BT is in the build (Kills in 2.69s)
-![](/item/3031.png)
-![](/item/1001.png)
-![](/item/3036.png)
-![](/item/3032.png)
-![](/item/6673.png)
-![](/item/3072.png)
 ![](/item/3142.png)
-
-## Maximize damage potential (Kills in 2.66s)
-
-![](/item/3031.png)
-![](/item/1001.png)
 ![](/item/3036.png)
 ![](/item/6676.png)
-![](/item/3032.png)
-![](/item/3073.png)
-![](/item/3142.png)
-
-
-{{< /tab >}}
-
-
-{{< tab "Anti AD Assasins and Hybrid Burst damage build" >}} 
-
-# Anti AD Assasins and Hybrid Burst damage build 
-The idea is to be as tanky as possible against burst damage, while still having enough damage to kill the assasin.
-
-If we can survive the assasin's burst damage, then we should win the 1v1 because our sustained damage is better.
-
-The algo assumes assumes ult is NOT used, and generates a pareto curve of "time to kill" against "effective HP against burst damage".
-
-Builds on the resultant pareto curve with good ult ult damage are prioritized.
-
-Use exhaust and scaling health runes ![](/StatMods/StatModsHealthPlusIcon.png)![](/StatMods/StatModsHealthPlusIcon.png) 
-You can consider bloodline for the health, but I feel we lose too much early game power without alacrity, and it takes forever to stack bloodline.
-
-![](/item/6673.png)
-![](/item/1001.png)
-![](/item/3036.png)
+![](/item/3031.png)
 ![](/item/3072.png)
-![](/item/3142.png)
-![](/item/3814.png)
-![](/item/3748.png)
-
-{{< /tab >}}
-
-
-{{< tab "Anti AP Assasin" >}} 
-
-# Anti AP Assasin Build
-The idea is to be as tanky as possible against burst damage, while still having enough damage to kill the assasin.
-
-If we can survive the assasin's burst damage, then we should win the 1v1 because our sustained damage is better.
-
-The algo assumes assumes ult is NOT used, and generates a pareto curve of "time to kill" against "effective HP against burst damage".
-
-Builds on the resultant pareto curve with good ult ult damage are prioritized.
-
-Use exhaust and scaling health runes ![](/StatMods/StatModsHealthPlusIcon.png)![](/StatMods/StatModsHealthPlusIcon.png) 
-You can consider bloodline for the health, but I feel we lose too much early game power without alacrity, and it takes forever to stack bloodline.
-
-![](/item/3072.png)
-![](/item/1001.png)
-![](/item/3036.png)
-![](/item/3814.png)
-![](/item/6676.png)
 ![](/item/3156.png)
+
 ![](/item/3142.png)
+![](/item/3036.png)
+![](/item/6676.png)
+![](/item/3072.png)
+![](/item/3156.png)
+![](/item/3814.png)
 
 {{< /tab >}}
 
-{{< tab "Anti DPS" >}} 
+{{< tab "Anti AD & Hybrid damage Assassins" >}}
 
-# Anti DPS (for example, the enemy ADC)
-WIP - idk what the meta builds for the enemy adcs are yet.
+I would default to this 
+
+![](/item/3142.png)
+![](/item/3036.png)
+![](/item/6676.png)
+![](/item/3031.png)
+![](/item/3072.png)
+![](/item/6673.png)
+
+Note that GA does a lousy job at making us tankier, it just gives us the revive passive.
+
+![](/item/3142.png)
+![](/item/3036.png)
+![](/item/6676.png)
+![](/item/3072.png)
+![](/item/6673.png)
+![](/item/3026.png)
+
+This build actually makes us tankier
+
+![](/item/3142.png)
+![](/item/3036.png)
+![](/item/6676.png)
+![](/item/3072.png)
+![](/item/6673.png)
+![](/item/2501.png)
 
 {{< /tab >}}
-
 
 {{< /tabs >}}
 

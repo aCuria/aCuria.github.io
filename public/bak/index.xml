@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aCurias Guides</title>
+    <link>http://localhost:1313/bak/</link>
+    <description>Recent content on aCurias Guides</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/bak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bak/posts/13_10_pbe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bak/posts/13_10_pbe/</guid>
+      <description>Jinx&#xD;#&#xD;Into Jinx, the fastest killing build is Navori at item 1, but Navori is not good at item 2.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bak/posts/13.18-comet-theorycrafting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bak/posts/13.18-comet-theorycrafting/</guid>
+      <description>So i was looking at how 당신의 아이돌 plays MF</description>
+    </item>
+  </channel>
+</rss>
