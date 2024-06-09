@@ -39,11 +39,12 @@ The builds here are generated assuming we ult the enemy for its full duration, a
 
 
 ![](/item/1083.png)
-![](/item/1001.png)
+![](/item/1001.png) In general I will try to make cull which is just free gold. If rushing Youumu first item, we can choose to skip boots.
 
 
 {{< tabs "Patches" >}}
 {{< tab "14.11" >}} 
+
 The main change is that IE got severely nerfed to the point its no longer a good early game rush item... and Shieldbow got an enormous buff.
 - Looking at the AA only dataset, ER / Axiom kills draven the fastest at 1 item, but these items not what we want mid game....  
 - For this reason playing for autos early game seems to be dead because we dont have a strong 1st and 2nd item to support it. We really need to play for ult damage and short trades (aa q aa & q2) instead
@@ -139,6 +140,8 @@ This build actually makes us tankier
 {{< /tabs >}}
 
 
+# Gameplay
+{{< youtube O9lDW4cvHhU >}}
 
 
 
