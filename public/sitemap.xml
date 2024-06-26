@@ -44,6 +44,24 @@
   </url><url>
     <loc>http://localhost:1313/docs/simulation-data/patch-14.12.1/pta-alacrity/yoummus-w-aa-q-aa/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-er/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-er/bloodthirster-e-w-aa-q-aa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-manaflow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-er/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-er/bloodthirster-e-w-aa-q-aa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-manaflow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/mf-beginners-guide/teamfights/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/mf-beginners-guide/runes/</loc>
@@ -123,6 +141,46 @@
     <loc>http://localhost:1313/docs/simulation-data/patch-14.12.1/pta-alacrity/yoummus-w-aa-q-aa/rengar/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/simulation-data/patch-14.12.1/pta-alacrity/yoummus-w-aa-q-aa/vex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-er/bloodthirster-e-w-aa-q-aa/aatrox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-er/bloodthirster-e-w-aa-q-aa/chogath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-er/bloodthirster-e-w-aa-q-aa/draven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-er/bloodthirster-e-w-aa-q-aa/rengar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-er/bloodthirster-e-w-aa-q-aa/vex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/aatrox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/chogath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/draven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/rengar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/conq-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/vex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-er/bloodthirster-e-w-aa-q-aa/aatrox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-er/bloodthirster-e-w-aa-q-aa/chogath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-er/bloodthirster-e-w-aa-q-aa/draven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-er/bloodthirster-e-w-aa-q-aa/rengar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-er/bloodthirster-e-w-aa-q-aa/vex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/aatrox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/chogath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/draven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/rengar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.13.1/pta-bloodline-manaflow/bloodthirster-e-w-aa-q-aa/vex/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/13.18-comet-theorycrafting/</loc>
   </url><url>
