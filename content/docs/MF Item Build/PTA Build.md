@@ -19,30 +19,55 @@ The builds here are generated assuming we ult the enemy for its full duration, a
 
 ## Runes
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
 ![](/Styles/Sorcery/GatheringStorm/GatheringStorm.png)
-![](/StatMods/StatModsAttackSpeedIcon.png) 
+![](/StatMods/StatModsAdaptiveForceIcon.png)
 ![](/StatMods/StatModsAdaptiveForceIcon.png)
 
+![](/StatMods/StatModsHealthPlusIcon.png) this is better at L6+
 
-![](/StatMods/StatModsHealthPlusIcon.png) this is better into late game assasins
-
-![](/StatMods/StatModsHealthScalingIcon.png) this is better in lane
+![](/StatMods/StatModsHealthScalingIcon.png) this is better early game
 
 ## Early Game
 ![](/item/1055.png)
 
-![](/item/1053.png)![](/Styles/Precision/AbsorbLife/AbsorbLife.png) this is extremely important against poke. If there is no poke you can skip scepter and the absorb life rune.
-
+![](/item/1053.png) this is extremely important against poke. If there is no poke you can skip scepter and the absorb life rune.
 
 ![](/item/1083.png)
-![](/item/1001.png) In general I will try to make cull which is just free gold. If rushing Youumu first item, we can choose to skip boots.
+![](/item/1001.png) In general I will try to make cull over a long sword early game if I have 450g.
 
 
 {{< tabs "Patches" >}}
+
+{{< tab "14.13" >}} 
+
+MF got a buff, 
+- you can absolutely feel its easier to last hit under tower thanks to the +3 base AD. 
+- The "Strut Damage Lock-out" and "initial bonus" move speed buff is nice but its difficult to gauge how much of an impact this has, because we can W active to get the full max move speed immediately.
+- The +5 to max bonus move speed is actually noticable, its possible to chase down champs more easily now.
+
+overall we can last hit slightly easier with the +3 AD, and we can chase better because the initial bonus move speed was substantially increased.
+
+Miss Fortune
+- Base Attack Damage: 52 ⇒ 55
+- Strut Damage Lock-out: 5 seconds ⇒ 4 seconds
+- Strut Upgraded Move speed delay: 5 seconds ⇒ 3 seconds
+- Strut Max bonus move speed: 55/65/75/85/95 ⇒ 60/70/80/90/100
+- Strut Initial Bonus move speed: 25 ⇒ 30/35/40/45/50
+
+Dark Harvest
+- Damage: 20-80 (+5 per Soul) ⇒ 20 (+9 per Soul) (bonus ratios unchanged)
+- Cooldown: 45 ⇒ 40
+
+Electrocute
+- Damage: 30-220 ⇒ 50-190 (bonus ratios unchanged)
+- Cooldown: 25-20 (based on level) ⇒ 20
+
+{{< /tab >}}
+
 {{< tab "14.11" >}} 
 
 The main change is that IE got severely nerfed to the point its no longer a good early game rush item... and Shieldbow got an enormous buff.
@@ -59,81 +84,36 @@ The main change is that IE got severely nerfed to the point its no longer a good
 {{< tab "Default Build" >}} 
 
 # Build Idea 
-The idea is to use R to chunk the enemy team first, then follow up with autos. The build which kills a tank the fastest is considered the best.
+The build idea here is to optimize for 2 parameters:
+- If someone jumps on us, we want to blow them up in the least possible time
+- I also want good ult damage, so even if rageblade/kraken/BOTRK does kill someone faster in an all-in, I avoid them because they greatly impact ult damage.
+
+Early game we want to take trades with aa>q>aa or Q2 and back off to heal back using lifesteal. Late game, we wait for our team to CC and then press R to get a couple of kills.
 
 ## Core Items
-
-![](/item/3142.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3031.png)
 ![](/item/3072.png)
+![](/item/3036.png)
+![](/item/3031.png)
+![](/item/6676.png)
+![](/item/3032.png)
+![](/item/3142.png)
 
-Note that if scepter is in inventory, we may have to make BT before IE.
 
-## Replace boots with one of the below items.
+Note that following the build exactly is difficult because of high item component costs. We may have bought some longswords before getting the BFS needed for BT for instance. Collector can be built before IE to absorb some longswords too.
 
-![](/item/6673.png) I suspect this may be the best item to make by default. the idea is to live for 2s longer and get an extra couple of autos off.
-
-![](/item/3032.png) This item is damage optimal into bruisers (even assuming no ult) when considering ult it also achieves optimal kill times. For this reason this is probably the best damage item after the core build...
-
-![](/item/3161.png) This is one of the oddball items that the algo likes, the kill time is top tier for both ult damage and autos only datasets. It even gives ability haste and 300 hp. That said it needs to be "charged up", with stacks. The algo assumes an all in scenario, but this will do less damage in situations where you just need to auto a couple of times.
-
-![](/item/6698.png) ![](/item/6699.png) ![](/item/3508.png) ![](/item/6696.png)These all do about the same (top tier) ult damage, but I think we want more tankiness at this stage fo the game.
-
-![](/item/6695.png) This the best damage option into big shields, for example shieldbow users.
-
-![](/item/3814.png) Does less damage, we make this mainly for the spellshield.
 
 {{< /tab >}}
 
 {{< tab "Anti AP Assassins" >}}
-Note that into hybrid threats just make shieldbow because Maw will not help against AD.
-
-![](/item/3142.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3031.png)
-![](/item/3072.png)
-![](/item/3156.png)
-
-![](/item/3142.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3072.png)
-![](/item/3156.png)
-![](/item/3814.png)
+- Replace Yun Tal with Maw
+- If this is not enough, replace collector with mercurial
 
 {{< /tab >}}
 
 {{< tab "Anti AD & Hybrid damage Assassins" >}}
 
-I would default to this 
-
-![](/item/3142.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3031.png)
-![](/item/3072.png)
-![](/item/6673.png)
-
-Note that GA does a lousy job at making us tankier, it just gives us the revive passive.
-
-![](/item/3142.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3072.png)
-![](/item/6673.png)
-![](/item/3026.png)
-
-This build actually makes us tankier
-
-![](/item/3142.png)
-![](/item/3036.png)
-![](/item/6676.png)
-![](/item/3072.png)
-![](/item/6673.png)
-![](/item/2501.png)
+- Replace Yun Tals with Shieldbow? (~4000 -> ~6000 ehp)
+- Replace IE with EoN or Bloodmail? (~6000 -> ~7000 ehp) 
 
 {{< /tab >}}
 

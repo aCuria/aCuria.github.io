@@ -55,7 +55,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -122,7 +122,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -188,7 +188,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -283,7 +283,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -378,7 +378,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -473,7 +473,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -547,7 +547,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -620,7 +620,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -694,7 +694,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -763,7 +763,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -833,7 +833,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -906,7 +906,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -979,7 +979,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1053,7 +1053,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1126,7 +1126,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1195,7 +1195,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1268,7 +1268,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1337,7 +1337,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1407,7 +1407,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1476,7 +1476,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1546,7 +1546,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1616,7 +1616,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1693,7 +1693,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1761,7 +1761,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1829,7 +1829,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -1926,7 +1926,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2023,7 +2023,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2120,7 +2120,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2191,7 +2191,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2266,7 +2266,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2341,7 +2341,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2411,7 +2411,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2482,7 +2482,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2556,7 +2556,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2630,7 +2630,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2705,7 +2705,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2779,7 +2779,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2849,7 +2849,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2923,7 +2923,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -2992,7 +2992,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3062,7 +3062,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3138,7 +3138,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3214,7 +3214,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3285,7 +3285,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3362,7 +3362,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3432,7 +3432,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3501,7 +3501,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3599,7 +3599,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3697,7 +3697,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3795,7 +3795,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3876,7 +3876,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -3961,7 +3961,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4043,7 +4043,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4119,7 +4119,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4195,7 +4195,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4276,7 +4276,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4361,7 +4361,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4443,7 +4443,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4524,7 +4524,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4597,7 +4597,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4678,7 +4678,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4749,7 +4749,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4821,7 +4821,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4902,7 +4902,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -4985,7 +4985,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5059,7 +5059,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5141,7 +5141,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5211,7 +5211,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5283,7 +5283,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5382,7 +5382,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5481,7 +5481,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5580,7 +5580,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5664,7 +5664,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5757,7 +5757,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5855,7 +5855,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -5935,7 +5935,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6018,7 +6018,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6110,7 +6110,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6204,7 +6204,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6299,7 +6299,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6390,7 +6390,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6470,7 +6470,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6562,7 +6562,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6634,7 +6634,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6707,7 +6707,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6793,7 +6793,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6882,7 +6882,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -6958,7 +6958,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7045,7 +7045,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7118,7 +7118,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7194,7 +7194,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7294,7 +7294,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7394,7 +7394,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7494,7 +7494,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7591,7 +7591,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7687,7 +7687,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7787,7 +7787,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7872,7 +7872,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -7972,7 +7972,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8067,7 +8067,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8160,7 +8160,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8260,7 +8260,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8352,7 +8352,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8439,7 +8439,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8536,7 +8536,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8610,7 +8610,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8686,7 +8686,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8779,7 +8779,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8879,7 +8879,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -8966,7 +8966,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9014,13 +9014,13 @@ Sorted by kill time, then by ult damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9061,7 +9061,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9085,13 +9085,13 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9132,7 +9132,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9153,18 +9153,10 @@ Sorted by Ult damage then aaqaa damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6699.png)|2.92|4851|0|5694|1952|5694|4343|1489|4343|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3032.png)![](/item/3142.png)|2.92|4833|0|5694|1952|5694|4343|1489|4343|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6695.png)|2.92|4785|0|5694|1952|5694|4343|1489|4343|18200
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6698.png)|2.92|4757|0|4897|1679|4897|3735|1280|3735|18700
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/6698.png)|2.92|4755|0|4897|1679|4897|3735|1280|3735|18600
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6698.png)![](/item/6699.png)|2.92|4755|0|4897|1679|4897|3735|1280|3735|18500
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6673.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3814.png)![](/item/3142.png)|2.92|4744|0|6193|2123|6193|4724|1619|4724|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/6676.png)![](/item/6698.png)|3.08|4713|0|4897|1588|4897|3735|1211|3735|18800
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6696.png)|3.08|4713|0|4897|1588|4897|3735|1211|3735|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6699.png)|2.92|4713|0|4897|1679|4897|3735|1280|3735|18300
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6698.png)|3.33|4713|0|5792|1737|5694|4418|1325|4343|18900
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/6699.png)|2.92|4710|0|4897|1679|4897|3735|1280|3735|18200
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3004.png)![](/item/3142.png)|3.08|4692|0|5694|1846|5694|4343|1408|4343|18600
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6695.png)![](/item/6698.png)|3.08|4684|0|4897|1588|4897|3735|1211|3735|18100
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6696.png)![](/item/6698.png)|3.33|4684|0|5782|1734|5694|4410|1322|4343|18800
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)![](/item/6699.png)|3.08|4684|0|5694|1846|5694|4343|1408|4343|18700
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/3032.png)|3.33|4675|0|5818|1745|5694|4438|1331|4343|18800
@@ -9172,11 +9164,19 @@ Sorted by Ult damage then aaqaa damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6696.png)|3.33|4674|0|5791|1737|5694|4417|1325|4343|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6699.png)|3.33|4674|0|5791|1737|5694|4417|1325|4343|18500
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/2501.png)![](/item/3142.png)|3.08|4674|0|6691|2170|6691|5104|1655|5104|19000
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)|3.08|4670|0|4897|1588|4897|3735|1211|3735|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/6676.png)![](/item/6699.png)|3.08|4670|0|4897|1588|4897|3735|1211|3735|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6695.png)|3.08|4649|0|4897|1588|4897|3735|1211|3735|17900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6696.png)![](/item/6699.png)|3.33|4644|0|5781|1734|5694|4409|1322|4343|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3814.png)![](/item/6676.png)![](/item/6698.png)|3.08|4640|0|5395|1749|5395|4115|1334|4115|18400
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/6696.png)|3.33|4635|0|5805|1741|5694|4428|1328|4343|18700
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/6699.png)|3.33|4635|0|5805|1741|5694|4428|1328|4343|18600
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6695.png)![](/item/6698.png)|3.33|4618|0|5780|1733|5694|4409|1322|4343|18300
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6695.png)|3.33|4614|0|5789|1736|5694|4416|1324|4343|18100
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6673.png)|3.33|4599|0|8489|2546|8386|6475|1942|6397|18600
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6673.png)![](/item/6698.png)|3.33|4596|0|8481|2544|8386|6469|1940|6397|18800
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3074.png)![](/item/3142.png)|3.08|4592|0|5694|1846|5694|4343|1408|4343|19000
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3156.png)|3.08|4592|0|5694|1846|5694|7688|2493|7688|18800
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6692.png)|3.08|4592|0|6042|1959|6042|4609|1494|4609|18500
+![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/6696.png)![](/item/6698.png)|3.08|4590|0|5694|1846|5694|4343|1408|4343|18600
+![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/6698.png)![](/item/6699.png)|3.08|4590|0|5694|1846|5694|4343|1408|4343|18500
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3814.png)![](/item/6698.png)|3.33|4579|0|6278|1883|6193|4789|1436|4724|18600
 {{< /tab >}}
 {{< tab "AAQAA" >}}
 
@@ -9185,13 +9185,13 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9232,7 +9232,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9247,36 +9247,36 @@ Sorted by Ult damage then aaqaa damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/3814.png)![](/item/6672.png)|3.82|4001|5829|5395|1413|5395|4115|1078|4115|18200
 ![](/item/3072.png)![](/item/3033.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/6672.png)|3.82|4003|5798|5949|1558|5694|4538|1189|4343|18800
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6672.png)![](/item/6673.png)![](/item/6698.png)|3.82|4053|5772|7589|1988|7589|5788|1516|5788|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6672.png)![](/item/6673.png)![](/item/6699.png)|3.82|4015|5757|7589|1988|7589|5788|1516|5788|18100
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/3814.png)![](/item/6672.png)|3.82|4039|5750|5395|1413|5395|4115|1078|4115|18100
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3033.png)![](/item/3508.png)![](/item/6672.png)|3.82|3886|5739|4897|1283|4897|3735|978|3735|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/3124.png)![](/item/6672.png)|3.77|3717|5729|4897|1299|4897|3735|991|3735|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6672.png)![](/item/6673.png)![](/item/6696.png)|3.82|4015|5722|7589|1988|7589|5788|1516|5788|18200
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3814.png)![](/item/6672.png)![](/item/6698.png)|3.82|4033|5715|5395|1413|5395|4115|1078|4115|18300
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6672.png)![](/item/6695.png)![](/item/6696.png)|3.82|4033|5715|4897|1283|4897|3735|978|3735|17700
 ![](/item/3072.png)![](/item/3033.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6672.png)|3.82|4037|5714|5923|1552|5694|4518|1184|4343|18700
-![](/item/3142.png)![](/item/3004.png)![](/item/3031.png)![](/item/3036.png)![](/item/6672.png)![](/item/6698.png)|3.82|4012|5711|4897|1283|4897|3735|978|3735|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3814.png)![](/item/6672.png)![](/item/6699.png)|3.82|3994|5702|5395|1413|5395|4115|1078|4115|17900
-![](/item/3142.png)![](/item/3004.png)![](/item/3031.png)![](/item/3036.png)![](/item/6672.png)![](/item/6699.png)|3.82|3975|5699|4897|1283|4897|3735|978|3735|18000
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/3074.png)![](/item/6672.png)|3.82|3902|5694|5063|1326|4897|3862|1011|3735|18700
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/3156.png)![](/item/6672.png)|3.82|3902|5694|5063|1326|4897|6998|1833|6838|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/6672.png)![](/item/6692.png)|3.82|3902|5694|5234|1371|5234|3993|1046|3993|18200
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3161.png)![](/item/6672.png)![](/item/6696.png)|3.82|3769|5690|5495|1439|5495|4191|1098|4191|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/3032.png)![](/item/3508.png)![](/item/3142.png)![](/item/6672.png)|3.82|3933|5686|5932|1554|5694|4525|1185|4343|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/6698.png)![](/item/6672.png)|3.82|3988|5686|5918|1550|5694|4514|1182|4343|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6672.png)![](/item/2501.png)|3.82|4103|5680|6896|1807|6691|5260|1378|5104|18900
-![](/item/3142.png)![](/item/2501.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/6672.png)|3.82|3956|5676|5894|1544|5894|4496|1178|4496|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/6699.png)![](/item/6672.png)|3.82|3953|5676|5916|1550|5694|4512|1182|4343|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6672.png)![](/item/3074.png)|3.82|4034|5670|6053|1586|5694|4617|1209|4343|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6672.png)![](/item/3156.png)|3.82|4034|5670|6053|1586|5694|8000|2096|7655|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6672.png)![](/item/6692.png)|3.82|4034|5670|6253|1638|6038|4770|1249|4606|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3161.png)![](/item/6672.png)![](/item/6673.png)|3.82|3722|5667|8187|2145|8187|6245|1636|6245|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6698.png)![](/item/6696.png)![](/item/6672.png)|3.82|4060|5667|5891|1543|5694|4493|1177|4343|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3814.png)![](/item/6672.png)![](/item/6696.png)|3.82|3994|5665|5395|1413|5395|4115|1078|4115|18000
-![](/item/3142.png)![](/item/3004.png)![](/item/3031.png)![](/item/3036.png)![](/item/6672.png)![](/item/6696.png)|3.82|3975|5664|4897|1283|4897|3735|978|3735|18100
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6699.png)![](/item/6696.png)![](/item/6672.png)|3.82|4024|5659|5889|1543|5694|4492|1177|4343|18100
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/6696.png)![](/item/6672.png)|3.82|3953|5641|5916|1550|5694|4512|1182|4343|18400
+![](/item/3072.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)![](/item/6672.png)|3.82|4002|5637|5909|1548|5694|4507|1181|4343|18900
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6698.png)![](/item/3508.png)![](/item/6672.png)|3.82|4023|5635|5899|1545|5694|4499|1179|4343|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6672.png)![](/item/3181.png)|3.82|4000|5626|6606|1730|6392|5039|1320|4876|18600
+![](/item/3072.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/6699.png)![](/item/6672.png)|3.82|3968|5626|5907|1547|5694|4506|1180|4343|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/6672.png)![](/item/3094.png)|3.76|3788|5626|5953|1583|5694|4541|1208|4343|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6699.png)![](/item/3508.png)![](/item/6672.png)|3.82|3988|5626|5897|1545|5694|4498|1178|4343|18200
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/3074.png)![](/item/3094.png)|3.83|3931|5605|6141|1605|5694|4684|1224|4343|18900
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/3156.png)![](/item/3094.png)|3.83|3931|5605|6141|1605|5694|7940|2075|7509|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/3508.png)![](/item/3094.png)|3.83|3931|5605|5963|1558|5694|4548|1188|4343|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/6692.png)![](/item/3094.png)|3.83|3931|5605|6288|1643|6020|4796|1253|4592|18400
+![](/item/3072.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/6673.png)![](/item/6672.png)|3.82|3934|5599|8610|2256|8386|6567|1720|6397|18600
+![](/item/3072.png)![](/item/3033.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/6631.png)|3.84|4003|5599|6846|1785|6592|5222|1361|5028|19000
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/3091.png)|3.79|3902|5599|5943|1568|5694|6023|1589|5771|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/6672.png)![](/item/3046.png)|3.72|3788|5598|5953|1598|5694|4541|1219|4343|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/6672.png)![](/item/3085.png)|3.75|3788|5598|5953|1587|5694|4541|1210|4343|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/3074.png)![](/item/3046.png)|3.78|3931|5595|6141|1623|5694|4684|1238|4343|18900
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/3156.png)![](/item/3046.png)|3.78|3931|5595|6141|1623|5694|7940|2099|7509|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3032.png)![](/item/3508.png)![](/item/3046.png)|3.78|3931|5595|5963|1576|5694|4548|1202|4343|18700
 {{< /tab >}}
 {{< tab "TKILL" >}}
 Sorted by kill time
@@ -9285,13 +9285,13 @@ Sorted by kill time
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9332,7 +9332,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9353,30 +9353,30 @@ Sorted by kill time
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6696.png)|2.92|4851|0|5694|1952|5694|4343|1489|4343|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|2.92|4833|0|5694|1952|5694|4343|1489|4343|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/3161.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6676.png)![](/item/6698.png)![](/item/6699.png)|2.92|4755|0|4897|1679|4897|3735|1280|3735|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6695.png)|2.92|4785|0|5694|1952|5694|4343|1489|4343|18200
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6676.png)![](/item/6696.png)![](/item/6698.png)|2.92|4755|0|4897|1679|4897|3735|1280|3735|18600
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6676.png)![](/item/6696.png)![](/item/6699.png)|2.92|4710|0|4897|1679|4897|3735|1280|3735|18200
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/3814.png)|2.92|4744|0|6193|2123|6193|4724|1619|4724|18500
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3508.png)![](/item/6676.png)![](/item/6698.png)|2.92|4757|0|4897|1679|4897|3735|1280|3735|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6673.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3508.png)![](/item/6676.png)![](/item/6699.png)|2.92|4713|0|4897|1679|4897|3735|1280|3735|18300
-![](/item/3036.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/6676.png)![](/item/6698.png)|3.08|4713|0|4897|1588|4897|3735|1211|3735|18800
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3508.png)![](/item/6676.png)![](/item/6696.png)|3.08|4713|0|4897|1588|4897|3735|1211|3735|18400
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3161.png)![](/item/6676.png)![](/item/6698.png)|3.08|4360|0|5495|1782|5495|4191|1359|4191|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/6676.png)![](/item/6699.png)|3.08|4670|0|4897|1588|4897|3735|1211|3735|18400
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/3004.png)|3.08|4692|0|5694|1846|5694|4343|1408|4343|18600
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3161.png)![](/item/6676.png)![](/item/6699.png)|3.08|4319|0|5495|1782|5495|4191|1359|4191|18300
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6676.png)![](/item/6695.png)![](/item/6698.png)|3.08|4684|0|4897|1588|4897|3735|1211|3735|18100
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3161.png)![](/item/3508.png)![](/item/6676.png)|3.08|4352|0|5495|1782|5495|4191|1359|4191|18500
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6676.png)![](/item/6695.png)![](/item/6699.png)|3.08|4640|0|4897|1588|4897|3735|1211|3735|17700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/2501.png)|3.08|4674|0|6691|2170|6691|5104|1655|5104|19000
-![](/item/3036.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/6676.png)![](/item/6696.png)|3.08|4670|0|4897|1588|4897|3735|1211|3735|18500
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3161.png)![](/item/6676.png)![](/item/6696.png)|3.08|4319|0|5495|1782|5495|4191|1359|4191|18400
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6698.png)![](/item/6699.png)|3.08|4590|0|5694|1846|5694|4343|1408|4343|18500
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3814.png)![](/item/6676.png)![](/item/6698.png)|3.08|4640|0|5395|1749|5395|4115|1334|4115|18400
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6676.png)![](/item/6695.png)![](/item/6696.png)|3.08|4640|0|4897|1588|4897|3735|1211|3735|17800
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3508.png)![](/item/6676.png)![](/item/6695.png)|3.08|4649|0|4897|1588|4897|3735|1211|3735|17900
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6698.png)![](/item/6696.png)|3.08|4590|0|5694|1846|5694|4343|1408|4343|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6699.png)![](/item/6696.png)|3.08|4550|0|5694|1846|5694|4343|1408|4343|18200
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/3074.png)|3.08|4592|0|5694|1846|5694|4343|1408|4343|19000
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)|3.08|4592|0|5694|1846|5694|7688|2493|7688|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6692.png)|3.08|4592|0|6042|1959|6042|4609|1494|4609|18500
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)|3.08|4562|0|5694|1846|5694|4343|1408|4343|19000
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6699.png)|3.08|4523|0|5694|1846|5694|4343|1408|4343|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6698.png)![](/item/3161.png)|3.08|4209|0|6293|2040|6293|4800|1556|4800|18700
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)|3.08|4566|0|5694|1846|5694|4343|1408|4343|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/3181.png)|3.08|4555|0|6392|2073|6392|4876|1581|4876|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6699.png)![](/item/3161.png)|3.08|4172|0|6293|2040|6293|4800|1556|4800|18300
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6698.png)![](/item/6695.png)|3.08|4522|0|5694|1846|5694|4343|1408|4343|18100
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6699.png)![](/item/6695.png)|3.08|4482|0|5694|1846|5694|4343|1408|4343|17700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6698.png)![](/item/3508.png)|3.08|4515|0|5694|1846|5694|4343|1408|4343|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)![](/item/6699.png)![](/item/3508.png)|3.08|4477|0|5694|1846|5694|4343|1408|4343|18300
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6696.png)|3.08|4523|0|5694|1846|5694|4343|1408|4343|18700
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/3161.png)|3.08|4196|0|6293|2040|6293|4800|1556|4800|18800
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.08|4528|0|5694|1846|5694|4343|1408|4343|18900
 {{< /tab >}}
 {{< tab "ULT" >}}
 Sorted by ult damage
@@ -9385,13 +9385,13 @@ Sorted by ult damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9432,7 +9432,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9453,18 +9453,10 @@ Sorted by ult damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6699.png)|2.92|4851|0|5694|1952|5694|4343|1489|4343|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3032.png)|2.92|4833|0|5694|1952|5694|4343|1489|4343|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6695.png)|2.92|4785|0|5694|1952|5694|4343|1489|4343|18200
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6698.png)|2.92|4757|0|4897|1679|4897|3735|1280|3735|18700
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/6698.png)|2.92|4755|0|4897|1679|4897|3735|1280|3735|18600
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6698.png)![](/item/6699.png)|2.92|4755|0|4897|1679|4897|3735|1280|3735|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6673.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3814.png)![](/item/3142.png)|2.92|4744|0|6193|2123|6193|4724|1619|4724|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/6676.png)![](/item/6698.png)|3.08|4713|0|4897|1588|4897|3735|1211|3735|18800
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6696.png)|3.08|4713|0|4897|1588|4897|3735|1211|3735|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6699.png)|2.92|4713|0|4897|1679|4897|3735|1280|3735|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6698.png)|3.33|4713|0|5792|1737|5694|4418|1325|4343|18900
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/6699.png)|2.92|4710|0|4897|1679|4897|3735|1280|3735|18200
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3004.png)|3.08|4692|0|5694|1846|5694|4343|1408|4343|18600
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6695.png)![](/item/6698.png)|3.08|4684|0|4897|1588|4897|3735|1211|3735|18100
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)![](/item/6696.png)|3.33|4684|0|5782|1734|5694|4410|1322|4343|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)![](/item/6699.png)|3.08|4684|0|5694|1846|5694|4343|1408|4343|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/3032.png)|3.33|4675|0|5818|1745|5694|4438|1331|4343|18800
@@ -9472,11 +9464,19 @@ Sorted by ult damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6696.png)|3.33|4674|0|5791|1737|5694|4417|1325|4343|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6699.png)|3.33|4674|0|5791|1737|5694|4417|1325|4343|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/2501.png)![](/item/3142.png)|3.08|4674|0|6691|2170|6691|5104|1655|5104|19000
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)|3.08|4670|0|4897|1588|4897|3735|1211|3735|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3032.png)![](/item/3036.png)![](/item/6676.png)![](/item/6699.png)|3.08|4670|0|4897|1588|4897|3735|1211|3735|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6695.png)|3.08|4649|0|4897|1588|4897|3735|1211|3735|17900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6696.png)![](/item/6699.png)|3.33|4644|0|5781|1734|5694|4409|1322|4343|18400
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3814.png)![](/item/6676.png)![](/item/6698.png)|3.08|4640|0|5395|1749|5395|4115|1334|4115|18400
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/3032.png)![](/item/6696.png)|3.33|4635|0|5805|1741|5694|4428|1328|4343|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/3032.png)![](/item/6699.png)|3.33|4635|0|5805|1741|5694|4428|1328|4343|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)![](/item/6695.png)|3.33|4618|0|5780|1733|5694|4409|1322|4343|18300
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6695.png)|3.33|4614|0|5789|1736|5694|4416|1324|4343|18100
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6673.png)|3.33|4599|0|8489|2546|8386|6475|1942|6397|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)![](/item/6673.png)|3.33|4596|0|8481|2544|8386|6469|1940|6397|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3074.png)|3.08|4592|0|5694|1846|5694|4343|1408|4343|19000
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3156.png)|3.08|4592|0|5694|1846|5694|7688|2493|7688|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6692.png)|3.08|4592|0|6042|1959|6042|4609|1494|4609|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6676.png)![](/item/6698.png)![](/item/6696.png)|3.08|4590|0|5694|1846|5694|4343|1408|4343|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6676.png)![](/item/6698.png)![](/item/6699.png)|3.08|4590|0|5694|1846|5694|4343|1408|4343|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/3814.png)![](/item/6698.png)|3.33|4579|0|6278|1883|6193|4789|1436|4724|18600
 {{< /tab >}}
 {{< tab "ULT_ULT_CDR" >}}
 Sorted by ult damage, then ultimate CDR + regular CDR
@@ -9485,13 +9485,13 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9532,7 +9532,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9550,33 +9550,33 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6698.png)|2.92|4892|0|5694|1952|5694|4343|1489|4343|19000
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/3508.png)![](/item/3142.png)|2.92|4874|0|5694|1952|5694|4343|1489|4343|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6676.png)![](/item/6696.png)![](/item/3142.png)|2.92|4851|0|5694|1952|5694|4343|1489|4343|18700
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6698.png)|2.92|4757|0|4897|1679|4897|3735|1280|3735|18700
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/6696.png)![](/item/6698.png)|2.92|4755|0|4897|1679|4897|3735|1280|3735|18600
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6696.png)|3.08|4713|0|4897|1588|4897|3735|1211|3735|18400
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/6698.png)![](/item/3142.png)|3.33|4713|0|5792|1737|5694|4418|1325|4343|18900
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6696.png)![](/item/3142.png)![](/item/6698.png)|3.33|4684|0|5782|1734|5694|4410|1322|4343|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/6696.png)![](/item/3142.png)|3.33|4674|0|5791|1737|5694|4417|1325|4343|18600
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)|3.33|4568|0|4897|1468|4897|3735|1120|3735|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/6698.png)![](/item/6696.png)![](/item/6699.png)![](/item/3142.png)|3.33|4479|0|5764|1728|5694|4396|1318|4343|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6698.png)![](/item/6696.png)![](/item/3508.png)![](/item/3142.png)|3.33|4404|0|5769|1730|5694|4401|1320|4343|18500
-![](/item/3142.png)![](/item/3036.png)![](/item/3508.png)![](/item/6676.png)![](/item/6696.png)![](/item/6698.png)|3.33|4380|0|4897|1468|4897|3735|1120|3735|18300
-![](/item/3142.png)![](/item/6676.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)![](/item/6699.png)|3.33|4363|0|4897|1468|4897|3735|1120|3735|18300
-![](/item/3142.png)![](/item/3036.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)![](/item/6699.png)|3.42|4279|0|4897|1432|4897|3735|1092|3735|18000
-![](/item/3142.png)![](/item/3031.png)![](/item/3508.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)|3.42|4183|0|4897|1432|4897|3735|1092|3735|18700
-![](/item/3142.png)![](/item/3508.png)![](/item/6676.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)|3.33|4154|0|4897|1468|4897|3735|1120|3735|18500
-![](/item/3142.png)![](/item/3004.png)![](/item/3036.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)|3.42|4128|0|4897|1432|4897|3735|1092|3735|18000
+![](/item/3072.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)![](/item/3142.png)![](/item/6699.png)|3.42|4268|0|5827|1705|5694|4445|1300|4343|18500
 ![](/item/3072.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)![](/item/3508.png)![](/item/3142.png)|3.42|4100|0|5825|1704|5694|4443|1300|4343|18700
-![](/item/3142.png)![](/item/3508.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)![](/item/6699.png)|3.42|4087|0|4897|1432|4897|3735|1092|3735|18200
-![](/item/3142.png)![](/item/3036.png)![](/item/3073.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)|3.78|3913|5294|5495|1453|5495|4191|1108|4191|18100
-![](/item/3142.png)![](/item/3004.png)![](/item/3508.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)|3.9|3844|5217|4897|1255|4897|3735|957|3735|18200
-![](/item/3142.png)![](/item/3073.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)![](/item/6699.png)|3.78|3780|5093|5495|1453|5495|4191|1108|4191|18100
-![](/item/3142.png)![](/item/3074.png)![](/item/3508.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)|3.9|3748|5050|5019|1286|4897|3828|981|3735|18600
-![](/item/3142.png)![](/item/3073.png)![](/item/3508.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)|3.78|3643|4918|5495|1453|5495|4191|1108|4191|18300
-![](/item/3142.png)![](/item/3073.png)![](/item/3074.png)![](/item/3508.png)![](/item/6694.png)![](/item/6696.png)|4.82|3350|4559|5641|1170|5495|4303|893|4191|18300
-![](/item/3142.png)![](/item/3073.png)![](/item/3161.png)![](/item/3508.png)![](/item/6694.png)![](/item/6696.png)|4.24|3254|4733|6093|1436|6093|4648|1095|4648|18100
-![](/item/3142.png)![](/item/3073.png)![](/item/3078.png)![](/item/3508.png)![](/item/6694.png)![](/item/6696.png)|4.82|3191|4374|6093|1264|6093|4648|964|4648|18333
-![](/item/3142.png)![](/item/3073.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)![](/item/6699.png)|6.19|2652|3739|5495|887|5495|4191|677|4191|18000
-![](/item/3142.png)![](/item/3004.png)![](/item/3073.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)|5.75|2638|3737|5495|955|5495|4191|728|4191|18000
-![](/item/3142.png)![](/item/3073.png)![](/item/3074.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)|5.99|2574|3623|5753|960|5495|4388|732|4191|18400
-![](/item/3142.png)![](/item/3071.png)![](/item/3073.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)|6.43|2503|3532|6293|979|6293|4800|747|4800|18100
-![](/item/3142.png)![](/item/3073.png)![](/item/3161.png)![](/item/3508.png)![](/item/6696.png)![](/item/6698.png)|5.99|2503|3752|6093|1017|6093|4648|776|4648|18200
+![](/item/3072.png)![](/item/6694.png)![](/item/6696.png)![](/item/6698.png)![](/item/3073.png)![](/item/3142.png)|3.78|3805|5076|6466|1709|6293|4932|1304|4800|18600
+![](/item/3072.png)![](/item/6694.png)![](/item/6696.png)![](/item/3508.png)![](/item/3073.png)![](/item/3142.png)|3.78|3667|4941|6470|1710|6293|4935|1305|4800|18400
+![](/item/3072.png)![](/item/6694.png)![](/item/6696.png)![](/item/3508.png)![](/item/3073.png)![](/item/3046.png)|4.91|3136|4332|6626|1349|6293|5054|1029|4800|18300
+![](/item/3072.png)![](/item/6694.png)![](/item/6696.png)![](/item/3508.png)![](/item/3073.png)![](/item/3085.png)|4.94|3136|4332|6626|1342|6293|5054|1024|4800|18300
+![](/item/3072.png)![](/item/6694.png)![](/item/6696.png)![](/item/3508.png)![](/item/3073.png)![](/item/3094.png)|4.95|3136|4359|6626|1339|6293|5054|1021|4800|18300
+![](/item/3072.png)![](/item/6694.png)![](/item/6696.png)![](/item/3508.png)![](/item/3073.png)![](/item/1001.png)|5.2|2993|4133|6641|1276|6293|5065|973|4800|16000
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/6698.png)![](/item/3073.png)![](/item/3142.png)|5.55|2811|3912|6666|1201|6293|5085|916|4800|18500
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3074.png)![](/item/3073.png)![](/item/3142.png)|5.55|2707|3776|6890|1241|6293|5256|947|4800|18500
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3071.png)![](/item/3073.png)![](/item/3142.png)|5.99|2639|3702|7484|1250|7090|5709|953|5408|18200
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3073.png)![](/item/3161.png)![](/item/3142.png)|5.55|2639|3932|7252|1306|6891|5531|996|5256|18300
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3073.png)![](/item/3078.png)![](/item/3142.png)|5.94|2594|3645|7278|1224|6891|5552|933|5256|18533
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/6698.png)![](/item/3073.png)![](/item/3046.png)|5.94|2506|3559|6695|1126|6293|5106|859|4800|18400
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/6698.png)![](/item/3073.png)![](/item/3085.png)|5.94|2506|3559|6695|1126|6293|5106|859|4800|18400
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/6698.png)![](/item/3073.png)![](/item/3094.png)|5.94|2506|3587|6695|1126|6293|5106|859|4800|18400
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3074.png)![](/item/3073.png)![](/item/3046.png)|6.34|2424|3462|7013|1105|6293|5349|843|4800|18400
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3074.png)![](/item/3073.png)![](/item/3085.png)|6.34|2424|3462|7013|1105|6293|5349|843|4800|18400
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3074.png)![](/item/3073.png)![](/item/3094.png)|6.34|2424|3490|7013|1105|6293|5349|843|4800|18400
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/6698.png)![](/item/3073.png)![](/item/1001.png)|6.86|2392|3399|6731|981|6293|5134|748|4800|16100
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3071.png)![](/item/3073.png)![](/item/3046.png)|6.74|2357|3376|7554|1120|7090|5762|854|5408|18100
+![](/item/3072.png)![](/item/6696.png)![](/item/3508.png)![](/item/3073.png)![](/item/3161.png)![](/item/3046.png)|5.94|2357|3582|7278|1224|6891|5551|933|5256|18200
 {{< /tab >}}
 {{< tab "TK_ADEHP" >}}
 Sorted by kill time, then by effective hp against sustained AD damage
@@ -9585,13 +9585,13 @@ Sorted by kill time, then by effective hp against sustained AD damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9632,7 +9632,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9650,33 +9650,33 @@ Sorted by kill time, then by effective hp against sustained AD damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)|2.92|4892|0|5694|1952|5694|4343|1489|4343|19000
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6631.png)![](/item/6673.png)![](/item/6676.png)|3.33|4192|0|8486|2551|8486|6473|1946|6473|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)|3.33|4560|0|8507|2551|8386|6489|1946|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
-![](/item/3036.png)![](/item/3026.png)![](/item/3031.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.33|4232|0|9301|2790|9301|5788|1736|5788|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)|3.33|4409|0|9468|2840|9383|7222|2166|7157|18800
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)![](/item/6676.png)|3.33|4272|0|10170|3050|9699|6461|1938|6162|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.42|4261|0|11368|3326|10657|7222|2113|6770|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)|3.78|3788|5254|11399|3014|10657|7242|1915|6770|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3073.png)![](/item/3142.png)![](/item/6333.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|3.9|3665|4970|13529|3468|12660|7235|1855|6770|18500
 ![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|4.46|3441|4701|13596|3047|12660|7271|1630|6770|18500
-![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.99|3213|4506|13757|2758|13243|7357|1475|7082|18400
-![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/6333.png)![](/item/6610.png)![](/item/6673.png)|4.99|3181|4456|13783|2763|12930|7371|1478|6915|18200
-![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|6.04|2815|3970|13846|2293|12660|7405|1226|6770|18900
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|4.68|3194|4430|13610|2910|12660|7279|1556|6770|18400
+![](/item/3072.png)![](/item/6673.png)![](/item/6694.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|4.99|3282|4483|13645|2736|12660|7297|1463|6770|18700
+![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|5.11|3006|4203|13664|2672|12660|7308|1429|6770|18400
+![](/item/3072.png)![](/item/6673.png)![](/item/6694.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|5.55|2824|3956|13688|2467|12660|7320|1319|6770|18600
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|5.98|2570|3698|13849|2314|12660|7407|1237|6770|18800
+![](/item/3072.png)![](/item/6673.png)![](/item/3032.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|6.05|2346|3471|13868|2293|12660|7416|1226|6770|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/3032.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|6.12|2625|3771|13877|2269|12660|7421|1213|6770|18700
 ![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3748.png)|6.42|2442|3517|13895|2164|12895|8828|1375|8193|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3508.png)![](/item/3026.png)![](/item/3142.png)|6.56|2648|3737|13898|2117|12660|7432|1132|6770|18600
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6610.png)![](/item/3161.png)![](/item/3142.png)|6.66|2421|3727|13910|2088|12632|8837|1326|8025|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3153.png)![](/item/3026.png)![](/item/3046.png)|6.57|2201|3315|14274|2174|12660|7634|1162|6770|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3153.png)![](/item/3026.png)![](/item/3142.png)|6.72|2463|3593|14276|2123|12660|7634|1135|6770|18700
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6631.png)![](/item/3748.png)![](/item/3142.png)|6.72|2421|3493|14280|2124|13290|9072|1349|8443|18900
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6631.png)![](/item/3142.png)![](/item/3748.png)|6.72|2421|3493|14280|2124|13290|9072|1349|8443|18900
 ![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|6.85|2463|3486|14855|2167|13598|7945|1159|7272|18500
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3748.png)![](/item/3142.png)|7.09|2442|3512|15568|2195|14380|8326|1174|7691|18800
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6610.png)![](/item/3026.png)![](/item/3142.png)|7.65|2421|3514|15671|2049|14068|8381|1095|7523|18600
 {{< /tab >}}
 {{< tab "TK_APEHP" >}}
 Sorted by kill time, then by effective hp against sustained AP damage
@@ -9685,13 +9685,13 @@ Sorted by kill time, then by effective hp against sustained AP damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9732,7 +9732,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9752,31 +9752,31 @@ Sorted by kill time, then by effective hp against sustained AP damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.08|4592|0|5694|1846|5694|7688|2493|7688|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6698.png)|3.33|4319|0|5817|1744|5694|7741|2321|7623|18700
-![](/item/3036.png)![](/item/2501.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/6676.png)|3.33|4277|0|5949|1784|5894|7803|2340|7750|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3032.png)![](/item/3142.png)|3.33|4205|0|5848|1754|5694|7787|2335|7639|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3032.png)![](/item/3142.png)|3.33|4405|0|5870|1760|5694|7873|2361|7704|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3161.png)![](/item/3142.png)|3.33|3954|0|6404|1921|6293|8290|2486|8183|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3161.png)![](/item/3142.png)|3.33|4068|0|6418|1925|6293|8369|2510|8248|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3073.png)![](/item/3142.png)|3.39|3954|0|6507|1921|6293|8389|2476|8183|18400
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6631.png)|3.4|3920|0|6804|2000|6592|8659|2546|8455|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3156.png)![](/item/6676.png)|3.42|3988|0|5066|1482|4897|8763|2564|8557|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3748.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|3886|0|7074|2069|6592|8903|2605|8439|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/6610.png)![](/item/3142.png)|3.42|4000|0|7101|2077|6592|8994|2631|8503|18700
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3046.png)|3.78|3536|4902|6141|1623|5694|9904|2618|9362|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/6631.png)![](/item/3139.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/6610.png)![](/item/3139.png)![](/item/3142.png)|4.46|3406|4738|7378|1654|6592|11509|2579|10553|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
 ![](/item/3072.png)![](/item/3033.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|5.14|2934|4171|6334|1232|5694|12110|2356|11172|18300
 ![](/item/3072.png)![](/item/3156.png)![](/item/6694.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|5.69|2796|3978|6461|1135|5694|12320|2164|11197|18500
 ![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|6.09|2306|3412|6463|1061|5694|12396|2035|11271|18500
+![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3031.png)![](/item/3046.png)|6.11|2146|3266|6606|1081|5694|12409|2031|11074|18600
 ![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3031.png)![](/item/3142.png)|6.47|2369|3495|6605|1021|5694|12704|1964|11369|18700
-![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3153.png)![](/item/3142.png)|6.61|2102|3267|6829|1033|5694|12908|1952|11246|18500
 {{< /tab >}}
 {{< tab "TK_ADEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AD burst damage
@@ -9785,13 +9785,13 @@ Sorted by kill time, then by effective hp against AD burst damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9832,7 +9832,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9850,26 +9850,18 @@ Sorted by kill time, then by effective hp against AD burst damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)|2.92|4892|0|5694|1952|5694|4343|1489|4343|19000
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6631.png)![](/item/6673.png)![](/item/6676.png)|3.33|4192|0|8486|2551|8486|6473|1946|6473|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
-![](/item/3036.png)![](/item/3026.png)![](/item/3031.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.33|4232|0|9301|2790|9301|5788|1736|5788|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)![](/item/6676.png)|3.33|4272|0|10170|3050|9699|6461|1938|6162|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3073.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3073.png)![](/item/3142.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|3.9|3665|4970|13529|3468|12660|7235|1855|6770|18500
-![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/6333.png)![](/item/6631.png)![](/item/6673.png)|4.82|3213|4429|13444|2791|12930|7190|1492|6915|18400
-![](/item/3036.png)![](/item/2501.png)![](/item/3026.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)|4.99|3382|4565|13588|2724|13086|7267|1457|6999|18400
-![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.99|3213|4506|13757|2758|13243|7357|1475|7082|18400
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6631.png)![](/item/3748.png)![](/item/3142.png)|6.72|2421|3493|14280|2124|13290|9072|1349|8443|18900
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)![](/item/3073.png)|6.85|2463|3486|14855|2167|13598|7945|1159|7272|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3073.png)![](/item/3142.png)|6.42|2442|3517|13895|2164|12895|8828|1375|8193|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6631.png)![](/item/3142.png)![](/item/3748.png)|6.72|2421|3493|14280|2124|13290|9072|1349|8443|18900
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3073.png)![](/item/3142.png)|6.85|2463|3486|14855|2167|13598|7945|1159|7272|18500
 ![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|7.09|2442|3512|15568|2195|14380|8326|1174|7691|18800
-![](/item/6673.png)![](/item/3026.png)![](/item/3071.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|7.89|2165|3189|15021|1904|14494|8033|1018|7751|18400
-![](/item/6673.png)![](/item/3026.png)![](/item/3748.png)![](/item/3142.png)![](/item/6333.png)![](/item/6610.png)|8.13|2122|3212|15538|1911|14651|8310|1022|7835|18500
-![](/item/6673.png)![](/item/2501.png)![](/item/3026.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|8.76|2306|3303|15315|1748|14807|8190|935|7919|18700
 {{< /tab >}}
 {{< tab "TK_APEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AP burst damage
@@ -9878,13 +9870,13 @@ Sorted by kill time, then by effective hp against AP burst damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -9925,7 +9917,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -9944,28 +9936,28 @@ Sorted by kill time, then by effective hp against AP burst damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.08|4592|0|5694|1846|5694|7688|2493|7688|18800
-![](/item/3036.png)![](/item/2501.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/6676.png)|3.33|4277|0|5949|1784|5894|7803|2340|7750|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.33|4405|0|5870|1760|5694|7873|2361|7704|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)|3.33|4441|0|5847|1753|5694|7867|2359|7720|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3161.png)![](/item/3142.png)|3.33|3954|0|6404|1921|6293|8290|2486|8183|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3161.png)|3.33|4068|0|6418|1925|6293|8369|2510|8248|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6631.png)|3.4|3920|0|6804|2000|6592|8659|2546|8455|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3156.png)![](/item/6676.png)|3.42|3988|0|5066|1482|4897|8763|2564|8557|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/6631.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
-![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/3139.png)![](/item/3156.png)![](/item/3748.png)|5.58|2697|3963|6373|1141|5993|12043|2157|11487|18200
-![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)![](/item/6676.png)|6.91|1997|3104|6443|932|5993|12220|1769|11561|18400
+![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|6.09|2306|3412|6463|1061|5694|12396|2035|11271|18500
+![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3031.png)![](/item/3142.png)|6.47|2369|3495|6605|1021|5694|12704|1964|11369|18700
+![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3748.png)![](/item/3161.png)![](/item/3142.png)|6.91|2143|3436|8003|1158|7389|12165|1761|11420|18400
 ![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3748.png)![](/item/2501.png)![](/item/3142.png)|6.91|2281|3363|8370|1211|7788|12549|1816|11843|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)|6.91|2122|3244|10088|1460|9483|12754|1846|11989|18500
-![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|7.31|2102|3139|7212|986|6293|13470|1842|12122|18300
+![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|7.31|2102|3139|7212|986|6293|13470|1842|12122|18300
 ![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|7.37|2082|3167|7634|1035|6791|14063|1908|12828|18600
-![](/item/3156.png)![](/item/2501.png)![](/item/3091.png)![](/item/3142.png)![](/item/3139.png)![](/item/3748.png)|8.55|1940|2964|7448|871|6990|13593|1590|12923|18500
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AP burst damage
@@ -9974,13 +9966,13 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10021,7 +10013,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10039,27 +10031,30 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)|2.92|4892|0|5694|1952|5694|4343|1489|4343|19000
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6631.png)![](/item/6673.png)![](/item/6676.png)|3.33|4192|0|8486|2551|8486|6473|1946|6473|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)|3.33|4560|0|8507|2551|8386|6489|1946|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)|3.33|4409|0|9468|2840|9383|7222|2166|7157|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.42|4261|0|11368|3326|10657|7222|2113|6770|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)|3.78|3788|5254|11399|3014|10657|7242|1915|6770|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3073.png)![](/item/3142.png)![](/item/6333.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
-![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3748.png)|4.46|3411|4736|12886|2888|12105|8186|1835|7691|18600
-![](/item/3036.png)![](/item/2501.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.46|3423|4686|12881|2887|12464|8183|1834|7919|18500
-![](/item/3036.png)![](/item/3748.png)![](/item/3142.png)![](/item/6333.png)![](/item/6610.png)![](/item/6673.png)|4.99|3148|4503|13069|2620|12332|8303|1665|7835|18300
-![](/item/3036.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.99|3116|4384|11746|2355|11147|9916|1988|9410|18500
-![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|5.51|2921|4144|11766|2134|11147|9932|1801|9410|18500
-![](/item/6694.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)|5.72|2791|3962|11782|2060|11147|9946|1739|9410|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.46|3568|4863|11609|2602|10657|9800|2196|8996|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3094.png)![](/item/3139.png)|4.79|3099|4337|11622|2425|10657|9812|2047|8996|18500
+![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|3349|4586|11690|2344|10657|9869|1979|8996|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)![](/item/3139.png)|5.11|3099|4310|11737|2295|10657|9908|1938|8996|18500
+![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)![](/item/3139.png)|5.55|2917|4088|11802|2127|10657|9963|1795|8996|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/6694.png)![](/item/6333.png)![](/item/3139.png)![](/item/3046.png)|5.69|2740|3849|11809|2075|10657|9969|1751|8996|18700
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3046.png)|5.98|2499|3616|11909|1990|10657|10053|1680|8996|18900
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3085.png)|6.15|2499|3616|11980|1947|10657|10114|1643|8996|18900
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3073.png)![](/item/3142.png)|6.42|2442|3517|13895|2164|12895|8828|1375|8193|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|6.47|2207|3337|13000|2010|12105|10975|1697|10219|18400
-![](/item/6673.png)![](/item/2501.png)![](/item/3091.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|7.37|2059|3120|12832|1740|12464|10833|1469|10522|18300
+![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|6.91|2165|3245|11840|1714|10657|12469|1805|11222|18400
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|7.65|2378|3431|13413|1753|12105|11323|1480|10219|18900
-![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|7.96|1866|2931|11786|1480|11147|12411|1559|11739|18300
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3139.png)![](/item/3046.png)|7.75|2116|3138|13461|1737|12105|11363|1466|10219|18800
 {{< /tab >}}
 {{< tab "TK_ADEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AD burst damage
@@ -10068,13 +10063,13 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10115,7 +10110,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10133,28 +10128,33 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)|2.92|4892|0|5694|1952|5694|4343|1489|4343|19000
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6631.png)![](/item/6673.png)![](/item/6676.png)|3.33|4192|0|8486|2551|8486|6473|1946|6473|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)|3.33|4560|0|8507|2551|8386|6489|1946|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
-![](/item/3036.png)![](/item/3026.png)![](/item/3031.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.33|4232|0|9301|2790|9301|5788|1736|5788|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)|3.33|4409|0|9468|2840|9383|7222|2166|7157|18800
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)![](/item/6676.png)|3.33|4272|0|10170|3050|9699|6461|1938|6162|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.42|4261|0|11368|3326|10657|7222|2113|6770|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)|3.78|3788|5254|11399|3014|10657|7242|1915|6770|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3073.png)![](/item/3142.png)![](/item/6333.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|3.9|3665|4970|13529|3468|12660|7235|1855|6770|18500
 ![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|4.46|3441|4701|13596|3047|12660|7271|1630|6770|18500
-![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/6333.png)![](/item/6631.png)![](/item/6673.png)|4.82|3213|4429|13444|2791|12930|7190|1492|6915|18400
-![](/item/3036.png)![](/item/2501.png)![](/item/3026.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)|4.99|3382|4565|13588|2724|13086|7267|1457|6999|18400
-![](/item/3036.png)![](/item/3026.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.99|3213|4506|13757|2758|13243|7357|1475|7082|18400
-![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|6.56|2488|3613|13802|2102|13243|7381|1124|7082|18800
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6631.png)![](/item/3748.png)![](/item/3142.png)|6.72|2421|3493|14280|2124|13290|9072|1349|8443|18900
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|4.68|3194|4430|13610|2910|12660|7279|1556|6770|18400
+![](/item/3072.png)![](/item/6673.png)![](/item/6694.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|4.99|3282|4483|13645|2736|12660|7297|1463|6770|18700
+![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|5.11|3006|4203|13664|2672|12660|7308|1429|6770|18400
+![](/item/3072.png)![](/item/6673.png)![](/item/6694.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|5.55|2824|3956|13688|2467|12660|7320|1319|6770|18600
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|5.98|2570|3698|13849|2314|12660|7407|1237|6770|18800
+![](/item/3072.png)![](/item/6673.png)![](/item/3032.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|6.05|2346|3471|13868|2293|12660|7416|1226|6770|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/3032.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|6.12|2625|3771|13877|2269|12660|7421|1213|6770|18700
+![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3748.png)|6.42|2442|3517|13895|2164|12895|8828|1375|8193|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3153.png)![](/item/3026.png)![](/item/3046.png)|6.57|2201|3315|14274|2174|12660|7634|1162|6770|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3153.png)![](/item/3026.png)![](/item/3142.png)|6.72|2463|3593|14276|2123|12660|7634|1135|6770|18700
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6631.png)![](/item/3142.png)![](/item/3748.png)|6.72|2421|3493|14280|2124|13290|9072|1349|8443|18900
 ![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|6.85|2463|3486|14855|2167|13598|7945|1159|7272|18500
 ![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|7.09|2442|3512|15568|2195|14380|8326|1174|7691|18800
-![](/item/6673.png)![](/item/3026.png)![](/item/3748.png)![](/item/3142.png)![](/item/6333.png)![](/item/6610.png)|8.13|2122|3212|15538|1911|14651|8310|1022|7835|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|7.29|2180|3220|15582|2137|14380|8333|1143|7691|18700
 {{< /tab >}}
 {{< tab "TK_APEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AP burst damage
@@ -10163,13 +10163,13 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10210,7 +10210,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10229,32 +10229,32 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.08|4592|0|5694|1846|5694|7688|2493|7688|18800
-![](/item/3036.png)![](/item/2501.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/6676.png)|3.33|4277|0|5949|1784|5894|7803|2340|7750|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3032.png)![](/item/3142.png)|3.33|4205|0|5848|1754|5694|7787|2335|7639|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3032.png)![](/item/3142.png)|3.33|4405|0|5870|1760|5694|7873|2361|7704|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)![](/item/3508.png)|3.33|4441|0|5847|1753|5694|7867|2359|7720|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3161.png)![](/item/3142.png)|3.33|3954|0|6404|1921|6293|8290|2486|8183|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3161.png)![](/item/3142.png)|3.33|4068|0|6418|1925|6293|8369|2510|8248|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6631.png)|3.4|3920|0|6804|2000|6592|8659|2546|8455|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3156.png)![](/item/6676.png)|3.42|3988|0|5066|1482|4897|8763|2564|8557|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/6631.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
 ![](/item/3072.png)![](/item/3033.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|5.14|2934|4171|6334|1232|5694|12110|2356|11172|18300
-![](/item/3036.png)![](/item/3091.png)![](/item/3142.png)![](/item/3139.png)![](/item/3156.png)![](/item/3748.png)|5.58|2697|3963|6373|1141|5993|12043|2157|11487|18200
-![](/item/6694.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)![](/item/3156.png)![](/item/3748.png)|6.02|2410|3587|6404|1063|5993|12088|2006|11487|18400
+![](/item/3072.png)![](/item/3156.png)![](/item/6694.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|5.69|2796|3978|6461|1135|5694|12320|2164|11197|18500
 ![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|6.09|2306|3412|6463|1061|5694|12396|2035|11271|18500
 ![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3031.png)![](/item/3142.png)|6.47|2369|3495|6605|1021|5694|12704|1964|11369|18700
 ![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3153.png)![](/item/3142.png)|6.61|2102|3267|6829|1033|5694|12908|1952|11246|18500
 ![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3748.png)![](/item/2501.png)![](/item/3142.png)|6.91|2281|3363|8370|1211|7788|12549|1816|11843|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)|6.91|2122|3244|10088|1460|9483|12754|1846|11989|18500
+![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|7.31|2102|3139|7212|986|6293|13470|1842|12122|18300
+![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|7.37|2082|3167|7634|1035|6791|14063|1908|12828|18600
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AD burst damage
@@ -10263,13 +10263,13 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10310,7 +10310,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10328,24 +10328,27 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)|2.92|4892|0|5694|1952|5694|4343|1489|4343|19000
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6631.png)![](/item/6673.png)![](/item/6676.png)|3.33|4192|0|8486|2551|8486|6473|1946|6473|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)|3.33|4560|0|8507|2551|8386|6489|1946|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)|3.33|4409|0|9468|2840|9383|7222|2166|7157|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.42|4261|0|11368|3326|10657|7222|2113|6770|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)|3.78|3788|5254|11399|3014|10657|7242|1915|6770|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3073.png)![](/item/3142.png)![](/item/6333.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
-![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3748.png)|4.46|3411|4736|12886|2888|12105|8186|1835|7691|18600
-![](/item/3036.png)![](/item/2501.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.46|3423|4686|12881|2887|12464|8183|1834|7919|18500
-![](/item/6694.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)|5.72|2791|3962|11782|2060|11147|9946|1739|9410|18700
+![](/item/3072.png)![](/item/6673.png)![](/item/6694.png)![](/item/6333.png)![](/item/3748.png)![](/item/3142.png)|4.99|3253|4505|12926|2592|12105|8212|1646|7691|18800
+![](/item/3072.png)![](/item/6673.png)![](/item/6694.png)![](/item/6333.png)![](/item/3748.png)![](/item/3094.png)|5.73|2796|4002|12961|2262|12105|8234|1437|7691|18700
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3748.png)![](/item/6676.png)|6.04|2670|3812|13023|2156|12105|8274|1370|7691|18800
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3508.png)![](/item/3142.png)![](/item/3748.png)|6.04|2625|3762|13080|2166|12105|8310|1376|7691|18700
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3094.png)![](/item/3139.png)|6.2|2499|3633|11980|1932|10657|10114|1631|8996|18900
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3073.png)![](/item/3142.png)![](/item/3748.png)|6.42|2442|3517|13895|2164|12895|8828|1375|8193|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|6.47|2207|3337|13000|2010|12105|10975|1697|10219|18400
-![](/item/6673.png)![](/item/2501.png)![](/item/3091.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|7.37|2059|3120|12832|1740|12464|10833|1469|10522|18300
+![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|6.91|2165|3245|11840|1714|10657|12469|1805|11222|18400
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)|7.65|2378|3431|13413|1753|12105|11323|1480|10219|18900
-![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|7.96|1866|2931|11786|1480|11147|12411|1559|11739|18300
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3046.png)|7.75|2116|3138|13461|1737|12105|11363|1466|10219|18800
 {{< /tab >}}
 {{< tab "TK_AD_BURST_AP_BURST" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP burst damage damage
@@ -10354,13 +10357,13 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10401,7 +10404,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10419,22 +10422,18 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)|2.92|4892|0|5694|1952|5694|4343|1489|4343|19000
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6631.png)![](/item/6673.png)![](/item/6676.png)|3.33|4192|0|8486|2551|8486|6473|1946|6473|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/3073.png)|3.78|3830|5096|10161|2686|9981|7751|2049|7614|18400
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/3142.png)![](/item/3073.png)|3.78|3600|4973|10264|2714|10081|7829|2070|7690|18400
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3073.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3073.png)![](/item/3142.png)|3.78|3830|5096|10161|2686|9981|7751|2049|7614|18400
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/3073.png)![](/item/3142.png)|3.78|3600|4973|10264|2714|10081|7829|2070|7690|18400
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3073.png)![](/item/3142.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
-![](/item/3036.png)![](/item/2501.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.46|3423|4686|12881|2887|12464|8183|1834|7919|18500
-![](/item/3036.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.99|3116|4384|11746|2355|11147|9916|1988|9410|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/3142.png)![](/item/3161.png)![](/item/6631.png)|6.2|2186|3450|10255|1653|9882|10394|1675|10016|18300
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3073.png)![](/item/3142.png)|6.42|2442|3517|13895|2164|12895|8828|1375|8193|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|6.47|2207|3337|13000|2010|12105|10975|1697|10219|18400
-![](/item/6673.png)![](/item/2501.png)![](/item/3091.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|7.37|2059|3120|12832|1740|12464|10833|1469|10522|18300
-![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)|7.96|1866|2931|11786|1480|11147|12411|1559|11739|18300
 {{< /tab >}}
 {{< tab "TK_APEHP_ADEHP" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
@@ -10443,13 +10442,13 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10490,7 +10489,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10508,30 +10507,33 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6698.png)|2.92|4892|0|5694|1952|5694|4343|1489|4343|19000
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6631.png)![](/item/6673.png)![](/item/6676.png)|3.33|4192|0|8486|2551|8486|6473|1946|6473|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)|3.33|4560|0|8507|2551|8386|6489|1946|6397|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)|3.33|4409|0|9468|2840|9383|7222|2166|7157|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.42|4261|0|11368|3326|10657|7222|2113|6770|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)|3.78|3788|5254|11399|3014|10657|7242|1915|6770|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3073.png)![](/item/3142.png)![](/item/6333.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6610.png)![](/item/3142.png)|3.9|3600|4966|12869|3299|11842|8176|2096|7523|18400
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3139.png)|4.46|3568|4863|11609|2602|10657|9800|2196|8996|18600
-![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3139.png)|4.99|3349|4586|11690|2344|10657|9869|1979|8996|18600
-![](/item/3036.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.99|3116|4384|11746|2355|11147|9916|1988|9410|18500
-![](/item/3036.png)![](/item/3139.png)![](/item/3142.png)![](/item/6333.png)![](/item/6610.png)![](/item/6673.png)|5.51|3084|4332|11813|2143|10884|9973|1809|9188|18300
-![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6333.png)![](/item/6610.png)|5.72|2891|4094|11828|2068|10884|9985|1745|9188|18300
-![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|6.04|2745|3880|11874|1966|10657|10024|1660|8996|19000
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3153.png)![](/item/3091.png)![](/item/3142.png)|6.2|2229|3429|11897|1917|10657|10043|1618|8996|18300
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.46|3568|4863|11609|2602|10657|9800|2196|8996|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3094.png)![](/item/3139.png)|4.79|3099|4337|11622|2425|10657|9812|2047|8996|18500
+![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|3349|4586|11690|2344|10657|9869|1979|8996|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)![](/item/3139.png)|5.11|3099|4310|11737|2295|10657|9908|1938|8996|18500
+![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3046.png)![](/item/3139.png)|5.55|2917|4088|11802|2127|10657|9963|1795|8996|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/6694.png)![](/item/6333.png)![](/item/3139.png)![](/item/3046.png)|5.69|2740|3849|11809|2075|10657|9969|1751|8996|18700
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3046.png)|5.98|2499|3616|11909|1990|10657|10053|1680|8996|18900
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3085.png)|6.15|2499|3616|11980|1947|10657|10114|1643|8996|18900
+![](/item/3072.png)![](/item/6673.png)![](/item/3032.png)![](/item/6333.png)![](/item/3046.png)![](/item/3139.png)|6.42|2279|3382|12041|1875|10657|10165|1583|8996|18700
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3073.png)![](/item/3142.png)![](/item/3748.png)|6.42|2442|3517|13895|2164|12895|8828|1375|8193|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/3748.png)![](/item/3142.png)![](/item/6333.png)|6.47|2207|3337|13000|2010|12105|10975|1697|10219|18400
 ![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/6333.png)![](/item/6610.png)![](/item/3142.png)|6.91|2186|3352|13081|1893|11842|11042|1598|9997|18200
+![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|6.91|2165|3245|11840|1714|10657|12469|1805|11222|18400
+![](/item/3072.png)![](/item/6673.png)![](/item/3091.png)![](/item/6333.png)![](/item/3139.png)![](/item/3046.png)|7.31|1903|2943|11868|1623|10657|12498|1709|11222|18300
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)|7.65|2378|3431|13413|1753|12105|11323|1480|10219|18900
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6610.png)![](/item/3139.png)![](/item/3142.png)|8.02|2357|3430|13460|1678|11842|11362|1416|9997|18700
 {{< /tab >}}
 {{< tab "TK_ADEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AD damage divided by kill time
@@ -10540,13 +10542,13 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10587,7 +10589,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10609,7 +10611,6 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|2.92|4833|0|5694|1952|5694|4343|1489|4343|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|2.92|4479|0|6293|2157|6293|4800|1645|4800|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6333.png)![](/item/6673.png)![](/item/6676.png)|3.33|4272|0|10170|3050|9699|6461|1938|6162|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.42|4261|0|11368|3326|10657|7222|2113|6770|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|3.9|3665|4970|13529|3468|12660|7235|1855|6770|18500
@@ -10621,13 +10622,13 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10668,7 +10669,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10693,12 +10694,11 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.08|4592|0|5694|1846|5694|7688|2493|7688|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)![](/item/3161.png)|3.33|4068|0|6418|1925|6293|8369|2510|8248|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6631.png)|3.4|3920|0|6804|2000|6592|8659|2546|8455|18700
-![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3156.png)![](/item/6676.png)|3.42|3988|0|5066|1482|4897|8763|2564|8557|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3748.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|3886|0|7074|2069|6592|8903|2605|8439|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|4000|0|7101|2077|6592|8994|2631|8503|18700
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 {{< /tab >}}
 {{< tab "ULT_ADEHP" >}}
 Sorted by ult damage, then effective hp against sustained AD damage
@@ -10707,13 +10707,13 @@ Sorted by ult damage, then effective hp against sustained AD damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10754,7 +10754,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10775,17 +10775,16 @@ Sorted by ult damage, then effective hp against sustained AD damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)![](/item/6673.png)|3.33|4560|0|8507|2551|8386|6489|1946|6397|18700
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6673.png)![](/item/3814.png)![](/item/3142.png)|3.33|4460|0|8977|2692|8885|6847|2053|6777|18300
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)|3.33|4409|0|9468|2840|9383|7222|2166|7157|18800
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6333.png)![](/item/6673.png)![](/item/6676.png)|3.33|4272|0|10170|3050|9699|6461|1938|6162|18500
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.42|4261|0|11368|3326|10657|7222|2113|6770|18700
 ![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)|3.9|4003|5471|11459|2937|10657|7280|1866|6770|18700
-![](/item/3142.png)![](/item/2501.png)![](/item/3031.png)![](/item/3036.png)![](/item/6333.png)![](/item/6673.png)|3.9|3956|5350|11465|2939|11016|7284|1867|6999|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/3814.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.9|3868|5229|12054|3090|11315|7658|1963|7189|18100
 ![](/item/3072.png)![](/item/3036.png)![](/item/6673.png)![](/item/2501.png)![](/item/6333.png)![](/item/3142.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|3.9|3665|4970|13529|3468|12660|7235|1855|6770|18500
 ![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|4.46|3441|4701|13596|3047|12660|7271|1630|6770|18500
 ![](/item/3072.png)![](/item/6694.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|4.99|3282|4483|13645|2736|12660|7297|1463|6770|18700
-![](/item/3142.png)![](/item/3026.png)![](/item/3036.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.99|3213|4506|13757|2758|13243|7357|1475|7082|18400
-![](/item/3142.png)![](/item/3026.png)![](/item/3036.png)![](/item/6333.png)![](/item/6610.png)![](/item/6673.png)|4.99|3181|4456|13783|2763|12930|7371|1478|6915|18200
+![](/item/3072.png)![](/item/3036.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/1001.png)|5.51|3055|4224|13647|2475|12660|7298|1324|6770|16100
+![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3046.png)|5.11|3006|4203|13664|2672|12660|7308|1429|6770|18400
+![](/item/3072.png)![](/item/3033.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/1001.png)|6.04|2876|4009|13689|2267|12660|7321|1212|6770|16100
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|6.04|2815|3970|13846|2293|12660|7405|1226|6770|18900
 ![](/item/3072.png)![](/item/6673.png)![](/item/3508.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|6.56|2648|3737|13898|2117|12660|7432|1132|6770|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)![](/item/6698.png)|7.09|2617|3674|13902|1961|12660|7435|1048|6770|18800
@@ -10794,6 +10793,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 ![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|7.65|2570|3566|15446|2019|14224|8260|1080|7607|18800
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3748.png)![](/item/3142.png)|7.09|2442|3512|15568|2195|14380|8326|1174|7691|18800
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/6610.png)![](/item/3142.png)|7.65|2421|3514|15671|2049|14068|8381|1095|7523|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/6610.png)![](/item/3046.png)|7.75|2159|3192|15672|2023|14068|8382|1082|7523|18500
 {{< /tab >}}
 {{< tab "ULT_APEHP" >}}
 Sorted by ult damage, then effective hp against sustained AP damage
@@ -10802,13 +10802,13 @@ Sorted by ult damage, then effective hp against sustained AP damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10849,7 +10849,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10902,13 +10902,13 @@ Sorted by ult damage, then effective hp against burst AD damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -10949,7 +10949,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -10968,18 +10968,15 @@ Sorted by ult damage, then effective hp against burst AD damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6673.png)|2.92|4753|0|8386|2875|8386|6397|2193|6397|18700
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6673.png)![](/item/3814.png)![](/item/3142.png)|3.33|4460|0|8977|2692|8885|6847|2053|6777|18300
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)|3.33|4409|0|9468|2840|9383|7222|2166|7157|18800
-![](/item/3142.png)![](/item/3031.png)![](/item/3036.png)![](/item/6333.png)![](/item/6673.png)![](/item/6676.png)|3.33|4272|0|10170|3050|9699|6461|1938|6162|18500
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.42|4261|0|11368|3326|10657|7222|2113|6770|18700
-![](/item/3142.png)![](/item/2501.png)![](/item/3031.png)![](/item/3036.png)![](/item/6333.png)![](/item/6673.png)|3.9|3956|5350|11465|2939|11016|7284|1867|6999|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/3814.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)|3.9|3868|5229|12054|3090|11315|7658|1963|7189|18100
 ![](/item/3072.png)![](/item/3036.png)![](/item/6673.png)![](/item/2501.png)![](/item/6333.png)![](/item/3142.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|3.9|3665|4970|13529|3468|12660|7235|1855|6770|18500
-![](/item/3142.png)![](/item/2501.png)![](/item/3026.png)![](/item/3036.png)![](/item/6333.png)![](/item/6673.png)|4.99|3382|4565|13588|2724|13086|7267|1457|6999|18400
-![](/item/3142.png)![](/item/3026.png)![](/item/3036.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|4.99|3213|4506|13757|2758|13243|7357|1475|7082|18400
+![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/6333.png)![](/item/3181.png)![](/item/3142.png)|7.09|2646|3654|13895|1959|12895|8828|1245|8193|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/6333.png)![](/item/3071.png)![](/item/3142.png)|7.09|2606|3602|14007|1975|13027|8899|1255|8276|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/6333.png)![](/item/3748.png)![](/item/3142.png)|7.09|2597|3649|14393|2030|13422|9144|1289|8527|18900
 ![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)|7.65|2570|3566|15446|2019|14224|8260|1080|7607|18800
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3748.png)![](/item/3142.png)|7.09|2442|3512|15568|2195|14380|8326|1174|7691|18800
-![](/item/3142.png)![](/item/2501.png)![](/item/3026.png)![](/item/3748.png)![](/item/6333.png)![](/item/6673.png)|8.76|2306|3303|15315|1748|14807|8190|935|7919|18700
 {{< /tab >}}
 {{< tab "ULT_AP_BURST" >}}
 Sorted by ult damage, then effective hp against burst AP damage
@@ -10988,13 +10985,13 @@ Sorted by ult damage, then effective hp against burst AP damage
 **Enemy Health:4902.0 Armor:373.0 Mr:117.0**
 
 
-**Forced Items** ["Youmuu's Ghostblade"]
+**Forced Items** ['Bloodthirster']
 
 
 
 
 
-![](/item/3142.png)
+![](/item/3072.png)
 
 
 
@@ -11035,7 +11032,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11057,21 +11054,17 @@ Sorted by ult damage, then effective hp against burst AP damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3814.png)![](/item/3142.png)|3.42|4295|0|6432|1882|6193|8366|2447|8135|18400
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
-![](/item/3142.png)![](/item/2501.png)![](/item/3031.png)![](/item/3036.png)![](/item/3139.png)![](/item/3156.png)|3.9|3678|4954|6119|1568|5894|9959|2553|9686|18800
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3814.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3659|4929|6586|1688|6193|10567|2709|10090|18300
 ![](/item/3072.png)![](/item/3036.png)![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
 ![](/item/3072.png)![](/item/3036.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
-![](/item/3142.png)![](/item/2501.png)![](/item/3036.png)![](/item/3139.png)![](/item/3156.png)![](/item/3748.png)|4.99|3235|4436|7284|1460|6990|11252|2256|10895|18700
 ![](/item/3072.png)![](/item/3036.png)![](/item/3156.png)![](/item/3139.png)![](/item/3091.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
-![](/item/3142.png)![](/item/2501.png)![](/item/3036.png)![](/item/3091.png)![](/item/3139.png)![](/item/3156.png)|5.58|2840|4000|6265|1122|5894|11835|2120|11292|18200
-![](/item/3142.png)![](/item/3036.png)![](/item/3091.png)![](/item/3139.png)![](/item/3156.png)![](/item/3748.png)|5.58|2697|3963|6373|1141|5993|12043|2157|11487|18200
+![](/item/3072.png)![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3814.png)![](/item/3142.png)|8.4|2533|3490|8138|969|7190|12431|1480|11280|18600
 ![](/item/3072.png)![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3181.png)![](/item/3142.png)|8.76|2499|3443|8415|960|7389|12828|1464|11583|18800
 ![](/item/3072.png)![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3071.png)![](/item/3142.png)|7.89|2460|3405|8424|1067|7489|12798|1622|11663|18800
 ![](/item/3072.png)![](/item/3156.png)![](/item/2501.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|8.4|2452|3453|8695|1035|7788|13107|1561|12006|19100
 ![](/item/3072.png)![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3091.png)![](/item/3142.png)|7.96|2191|3214|7585|953|6691|13943|1751|12633|18600
 ![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3091.png)![](/item/3142.png)|7.37|2082|3167|7634|1035|6791|14063|1908|12828|18600
-![](/item/3142.png)![](/item/2501.png)![](/item/3091.png)![](/item/3139.png)![](/item/3156.png)![](/item/3748.png)|8.55|1940|2964|7448|871|6990|13593|1590|12923|18500
 {{< /tab >}}
 {{< /tabs >}}
 {{< /tab >}}
@@ -11133,7 +11126,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11206,7 +11199,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11239,18 +11232,18 @@ Sorted by Ult damage then aaqaa damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3814.png)![](/item/6696.png)![](/item/6698.png)|3.42|4371|0|6332|1852|6193|4830|1413|4724|18200
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3814.png)![](/item/6698.png)![](/item/6699.png)|3.33|4371|0|6260|1877|6193|4775|1432|4724|18100
 ![](/item/3072.png)![](/item/3036.png)![](/item/3032.png)![](/item/3142.png)![](/item/3814.png)![](/item/6676.png)|3.33|4340|0|6288|1886|6193|4796|1438|4724|18300
-![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6696.png)![](/item/3814.png)![](/item/6699.png)|3.42|4332|0|6331|1852|6193|4829|1413|4724|17800
+![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3814.png)![](/item/6696.png)![](/item/6699.png)|3.42|4332|0|6331|1852|6193|4829|1413|4724|17800
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3508.png)![](/item/3814.png)![](/item/6698.png)|3.42|4305|0|6333|1853|6193|4831|1413|4724|18300
-![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6695.png)![](/item/3814.png)![](/item/6698.png)|3.42|4305|0|6330|1852|6193|4828|1412|4724|17700
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3074.png)![](/item/3814.png)![](/item/3142.png)|3.42|4295|0|6432|1882|6193|4906|1435|4724|18600
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3814.png)![](/item/3156.png)|3.42|4295|0|6432|1882|6193|8366|2447|8135|18400
+![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3814.png)![](/item/6695.png)![](/item/6698.png)|3.42|4305|0|6330|1852|6193|4828|1412|4724|17700
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3074.png)![](/item/3142.png)![](/item/3814.png)|3.42|4295|0|6432|1882|6193|4906|1435|4724|18600
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3814.png)|3.42|4295|0|6432|1882|6193|8366|2447|8135|18400
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3814.png)![](/item/6692.png)|3.42|4295|0|6680|1954|6537|5095|1490|4986|18100
 ![](/item/3072.png)![](/item/3036.png)![](/item/2501.png)![](/item/3142.png)![](/item/3814.png)![](/item/6676.png)|3.33|4293|0|7257|2176|7190|5536|1660|5484|18400
 ![](/item/3072.png)![](/item/3036.png)![](/item/3004.png)![](/item/3142.png)![](/item/3814.png)![](/item/6676.png)|3.33|4285|0|6265|1879|6193|4779|1433|4724|18000
 ![](/item/3072.png)![](/item/3036.png)![](/item/3032.png)![](/item/3142.png)![](/item/3814.png)![](/item/6698.png)|3.42|4268|0|6343|1855|6193|4838|1415|4724|18400
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3508.png)![](/item/3814.png)![](/item/6696.png)|3.42|4268|0|6332|1852|6193|4830|1413|4724|18000
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3508.png)![](/item/3814.png)![](/item/6699.png)|3.42|4268|0|6332|1852|6193|4830|1413|4724|17900
-![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6695.png)![](/item/3814.png)![](/item/6696.png)|3.42|4267|0|6329|1851|6193|4828|1412|4724|17400
+![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3814.png)![](/item/6695.png)![](/item/6696.png)|3.42|4267|0|6329|1851|6193|4828|1412|4724|17400
 {{< /tab >}}
 {{< tab "AAQAA" >}}
 
@@ -11308,7 +11301,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11335,10 +11328,10 @@ Sorted by Ult damage then aaqaa damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6699.png)![](/item/3814.png)![](/item/3046.png)|3.78|4001|5511|6421|1698|6193|4898|1295|4724|18100
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6699.png)![](/item/3814.png)![](/item/3085.png)|3.82|4001|5511|6421|1682|6193|4898|1283|4724|18100
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6696.png)![](/item/3814.png)![](/item/3094.png)|3.83|4001|5504|6421|1678|6193|4898|1280|4724|18200
-![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6696.png)![](/item/6672.png)![](/item/3814.png)|3.82|3932|5500|6383|1672|6193|4869|1275|4724|18000
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6696.png)![](/item/3814.png)![](/item/6672.png)|3.82|3932|5500|6383|1672|6193|4869|1275|4724|18000
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)![](/item/3814.png)![](/item/6672.png)|3.82|3902|5494|6391|1674|6193|4875|1277|4724|18100
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/3074.png)![](/item/3814.png)|3.9|4005|5480|6566|1683|6193|5008|1284|4724|18400
-![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/3814.png)![](/item/3156.png)|3.9|4005|5480|6566|1683|6193|8446|2165|8087|18200
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/3156.png)![](/item/3814.png)|3.9|4005|5480|6566|1683|6193|8446|2165|8087|18200
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/3814.png)![](/item/6692.png)|3.9|4005|5480|6754|1731|6531|5152|1320|4981|17900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6696.png)![](/item/3814.png)![](/item/3046.png)|3.78|4001|5476|6421|1698|6193|4898|1295|4724|18200
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/6696.png)![](/item/3814.png)![](/item/3085.png)|3.82|4001|5476|6421|1682|6193|4898|1283|4724|18200
@@ -11410,7 +11403,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11512,7 +11505,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11614,7 +11607,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11698,7 +11691,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11785,7 +11778,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11872,7 +11865,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -11951,7 +11944,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12032,7 +12025,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12118,7 +12111,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12204,7 +12197,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12288,7 +12281,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12374,7 +12367,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12453,7 +12446,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12539,7 +12532,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12616,7 +12609,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12693,7 +12686,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12777,7 +12770,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12866,7 +12859,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -12942,7 +12935,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13025,7 +13018,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13098,7 +13091,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13115,10 +13108,10 @@ Sorted by Ult damage then aaqaa damage
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3026.png)![](/item/3142.png)|3.08|4479|0|6980|2263|6980|4343|1408|4343|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/3026.png)|3.33|4333|0|7089|2126|6980|4411|1323|4343|18800
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/6698.png)|3.42|4315|0|7156|2093|6980|4453|1303|4343|19000
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)![](/item/6698.png)|3.42|4315|0|7156|2093|6980|4453|1303|4343|19000
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3032.png)![](/item/3026.png)![](/item/3142.png)|3.33|4297|0|7105|2131|6980|4422|1326|4343|18900
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/6696.png)|3.42|4279|0|7155|2093|6980|4453|1302|4343|18700
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/6699.png)|3.42|4279|0|7155|2093|6980|4453|1302|4343|18600
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)![](/item/6696.png)|3.42|4279|0|7155|2093|6980|4453|1302|4343|18700
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)![](/item/6699.png)|3.42|4279|0|7155|2093|6980|4453|1302|4343|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/6673.png)|3.42|4225|0|10457|3059|10279|6508|1904|6397|18700
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/6695.png)|3.42|4223|0|7153|2092|6980|4451|1302|4343|18200
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3026.png)![](/item/6698.png)|3.33|4209|0|7067|2119|6980|4398|1319|4343|18800
@@ -13195,7 +13188,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13297,7 +13290,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13399,7 +13392,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13501,7 +13494,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13584,7 +13577,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13671,7 +13664,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13762,7 +13755,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13840,7 +13833,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -13921,7 +13914,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14010,7 +14003,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14097,7 +14090,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14183,7 +14176,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14271,7 +14264,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14350,7 +14343,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14437,7 +14430,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14514,7 +14507,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14591,7 +14584,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14675,7 +14668,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14761,7 +14754,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14838,7 +14831,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14921,7 +14914,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -14994,7 +14987,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15016,11 +15009,11 @@ Sorted by Ult damage then aaqaa damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/6696.png)|3.33|4388|0|5830|1748|5694|7802|2340|7671|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/6699.png)|3.33|4388|0|5830|1748|5694|7802|2340|7671|18500
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/6695.png)|3.33|4331|0|5828|1748|5694|7551|2265|7422|18100
-![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3156.png)![](/item/6698.png)|3.33|4319|0|5817|1744|5694|7741|2321|7623|18700
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3814.png)![](/item/3156.png)|3.42|4295|0|6432|1882|6193|8366|2447|8135|18400
-![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3156.png)![](/item/6696.png)|3.33|4282|0|5816|1744|5694|7723|2316|7607|18400
-![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3156.png)![](/item/6699.png)|3.33|4282|0|5816|1744|5694|7723|2316|7607|18300
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3004.png)![](/item/3156.png)![](/item/3142.png)|3.42|4260|0|5929|1734|5694|7982|2335|7756|18500
+![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3156.png)![](/item/6676.png)![](/item/6698.png)|3.33|4319|0|5817|1744|5694|7741|2321|7623|18700
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3814.png)|3.42|4295|0|6432|1882|6193|8366|2447|8135|18400
+![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3156.png)![](/item/6676.png)![](/item/6696.png)|3.33|4282|0|5816|1744|5694|7723|2316|7607|18400
+![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3156.png)![](/item/6676.png)![](/item/6699.png)|3.33|4282|0|5816|1744|5694|7723|2316|7607|18300
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3004.png)![](/item/3142.png)![](/item/3156.png)|3.42|4260|0|5929|1734|5694|7982|2335|7756|18500
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/2501.png)![](/item/3156.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/3508.png)![](/item/3156.png)![](/item/6676.png)|3.33|4240|0|5824|1747|5694|7781|2333|7655|18500
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/3156.png)![](/item/6695.png)|3.33|4224|0|5814|1744|5694|7472|2241|7357|17900
@@ -15096,7 +15089,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15123,7 +15116,7 @@ Sorted by Ult damage then aaqaa damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/3156.png)![](/item/3046.png)|3.78|3966|5484|6088|1610|5694|7905|2090|7526|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3508.png)![](/item/3156.png)![](/item/3085.png)|3.82|3966|5484|6088|1595|5694|7905|2071|7526|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/3004.png)![](/item/3156.png)|3.9|3978|5482|6062|1554|5694|8061|2066|7707|18300
-![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/3814.png)![](/item/3156.png)|3.9|4005|5480|6566|1683|6193|8446|2165|8087|18200
+![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3032.png)![](/item/3156.png)![](/item/3814.png)|3.9|4005|5480|6566|1683|6193|8446|2165|8087|18200
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)![](/item/3156.png)![](/item/6695.png)|3.9|4074|5471|6039|1548|5694|7721|1979|7389|17800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/6631.png)|3.84|4034|5460|6950|1812|6592|8865|2311|8520|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3142.png)![](/item/6696.png)![](/item/3156.png)![](/item/3814.png)|3.9|4074|5435|6521|1672|6193|8371|2146|8054|18000
@@ -15198,7 +15191,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15300,7 +15293,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15402,7 +15395,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15485,7 +15478,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15578,7 +15571,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15605,14 +15598,14 @@ Sorted by kill time, then by effective hp against sustained AP damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3748.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|3886|0|7074|2069|6592|8903|2605|8439|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/6610.png)![](/item/3142.png)|3.42|4000|0|7101|2077|6592|8994|2631|8503|18700
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3046.png)|3.78|3536|4902|6141|1623|5694|9904|2618|9362|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/6631.png)![](/item/3139.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/6610.png)![](/item/3139.png)![](/item/3142.png)|4.46|3406|4738|7378|1654|6592|11509|2579|10553|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
 {{< /tab >}}
@@ -15672,7 +15665,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15753,7 +15746,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15777,12 +15770,12 @@ Sorted by kill time, then by effective hp against AP burst damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/6631.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
@@ -15841,7 +15834,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -15928,7 +15921,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16019,7 +16012,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16044,13 +16037,13 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/6631.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
@@ -16109,7 +16102,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16197,7 +16190,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16283,7 +16276,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16374,7 +16367,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16454,7 +16447,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16476,7 +16469,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3748.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|3886|0|7074|2069|6592|8903|2605|8439|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|4000|0|7101|2077|6592|8994|2631|8503|18700
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 {{< /tab >}}
 {{< tab "ULT_ADEHP" >}}
 Sorted by ult damage, then effective hp against sustained AD damage
@@ -16534,7 +16527,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16620,7 +16613,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16707,7 +16700,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16787,7 +16780,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16807,7 +16800,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3814.png)![](/item/3142.png)|3.42|4295|0|6432|1882|6193|8366|2447|8135|18400
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3814.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3659|4929|6586|1688|6193|10567|2709|10090|18300
 ![](/item/3072.png)![](/item/3036.png)![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
 ![](/item/3072.png)![](/item/3036.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
@@ -16873,7 +16866,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16946,7 +16939,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -16985,7 +16978,7 @@ Sorted by Ult damage then aaqaa damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6695.png)|3.33|4614|0|5789|1736|5694|4416|1324|4343|18100
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/6673.png)|3.33|4599|0|8489|2546|8386|6475|1942|6397|18600
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3142.png)![](/item/6673.png)![](/item/6698.png)|3.33|4596|0|8481|2544|8386|6469|1940|6397|18800
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3074.png)|3.08|4592|0|5694|1846|5694|4343|1408|4343|19000
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3074.png)![](/item/3142.png)|3.08|4592|0|5694|1846|5694|4343|1408|4343|19000
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3156.png)|3.08|4592|0|5694|1846|5694|7688|2493|7688|18800
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/6692.png)|3.08|4592|0|6042|1959|6042|4609|1494|4609|18500
 ![](/item/3072.png)![](/item/3036.png)![](/item/3142.png)![](/item/6676.png)![](/item/6696.png)![](/item/6698.png)|3.08|4590|0|5694|1846|5694|4343|1408|4343|18600
@@ -17048,7 +17041,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17150,7 +17143,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17252,7 +17245,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17354,7 +17347,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17437,7 +17430,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17523,7 +17516,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17553,13 +17546,13 @@ Sorted by kill time, then by effective hp against sustained AP damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3748.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|3886|0|7074|2069|6592|8903|2605|8439|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/6610.png)![](/item/3142.png)|3.42|4000|0|7101|2077|6592|8994|2631|8503|18700
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/6631.png)![](/item/3139.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/6610.png)![](/item/3139.png)![](/item/3142.png)|4.46|3406|4738|7378|1654|6592|11509|2579|10553|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
 {{< /tab >}}
@@ -17619,7 +17612,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17640,7 +17633,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3073.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3073.png)![](/item/3142.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
@@ -17702,7 +17695,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17729,12 +17722,12 @@ Sorted by kill time, then by effective hp against AP burst damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/6631.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
@@ -17793,7 +17786,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17880,7 +17873,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17966,7 +17959,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -17994,13 +17987,13 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|3.9|3468|4994|6679|1712|6293|10700|2743|10231|18600
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.24|3468|4701|6791|1601|6293|10836|2555|10231|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/6631.png)![](/item/3142.png)|4.34|3437|4662|7086|1632|6592|11174|2574|10574|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
-![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
+![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
 ![](/item/3036.png)![](/item/3072.png)![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|4.7|3129|4404|6261|1332|5694|12027|2560|11197|18300
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
@@ -18059,7 +18052,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18146,7 +18139,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18167,9 +18160,9 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3161.png)![](/item/3142.png)|3.33|4225|0|9071|2721|8984|6919|2075|6853|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6676.png)|3.33|4201|0|9455|2836|9383|7212|2163|7157|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6676.png)|3.42|4063|0|11333|3316|10657|7200|2106|6770|18500
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/3073.png)|3.78|3830|5096|10161|2686|9981|7751|2049|7614|18400
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/3142.png)![](/item/3073.png)|3.78|3600|4973|10264|2714|10081|7829|2070|7690|18400
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3073.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3073.png)![](/item/3142.png)|3.78|3830|5096|10161|2686|9981|7751|2049|7614|18400
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/3073.png)![](/item/3142.png)|3.78|3600|4973|10264|2714|10081|7829|2070|7690|18400
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3073.png)![](/item/3142.png)|3.78|3665|4970|12178|3220|11447|7737|2045|7272|18300
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/6631.png)|3.84|3633|4929|12566|3276|11842|7983|2081|7523|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/6333.png)|3.9|3823|5099|12683|3251|11973|8058|2065|7607|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
@@ -18231,7 +18224,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18261,7 +18254,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/6333.png)![](/item/3142.png)|3.9|3633|5006|12829|3289|12105|8151|2089|7691|18600
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/6610.png)![](/item/3142.png)|3.9|3600|4966|12869|3299|11842|8176|2096|7523|18400
 ![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3091.png)![](/item/3142.png)|4.26|3310|4651|11381|2673|10657|9608|2257|8996|18100
-![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3139.png)|4.46|3568|4863|11609|2602|10657|9800|2196|8996|18600
+![](/item/3036.png)![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.46|3568|4863|11609|2602|10657|9800|2196|8996|18600
 {{< /tab >}}
 {{< tab "TK_ADEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AD damage divided by kill time
@@ -18319,7 +18312,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18401,7 +18394,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18430,7 +18423,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3748.png)|3.42|3920|0|7003|2049|6791|8851|2590|8647|18700
 ![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|3886|0|7074|2069|6592|8903|2605|8439|18500
 ![](/item/3036.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)![](/item/6610.png)|3.42|4000|0|7101|2077|6592|8994|2631|8503|18700
-![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
+![](/item/3036.png)![](/item/3072.png)![](/item/6676.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.42|3852|0|5973|1747|5694|9864|2886|9525|18700
 {{< /tab >}}
 {{< tab "ULT_ADEHP" >}}
 Sorted by ult damage, then effective hp against sustained AD damage
@@ -18488,7 +18481,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18573,7 +18566,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18663,7 +18656,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18743,7 +18736,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18765,7 +18758,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3814.png)![](/item/3142.png)|3.42|4295|0|6432|1882|6193|8366|2447|8135|18400
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/2501.png)![](/item/3142.png)|3.42|4245|0|6912|2022|6691|8796|2573|8583|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)|3.42|4034|0|7015|2052|6791|8927|2612|8712|18900
-![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)![](/item/3139.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
+![](/item/3072.png)![](/item/3036.png)![](/item/3031.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3967|5375|6165|1580|5694|10178|2609|9607|18900
 ![](/item/3072.png)![](/item/3036.png)![](/item/3814.png)![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)|3.9|3659|4929|6586|1688|6193|10567|2709|10090|18300
 ![](/item/3072.png)![](/item/3036.png)![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.46|3617|4808|7177|1608|6691|11244|2520|10654|18800
 ![](/item/3072.png)![](/item/3036.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|4.46|3437|4739|7285|1633|6791|11416|2559|10816|18800
@@ -18832,7 +18825,7 @@ Sorted by kill time, then by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18901,7 +18894,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -18970,7 +18963,7 @@ Sorted by Ult damage then aaqaa damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19039,7 +19032,7 @@ Sorted by kill time
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19108,7 +19101,7 @@ Sorted by ult damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19177,7 +19170,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19246,7 +19239,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19315,7 +19308,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19384,7 +19377,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19453,7 +19446,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19522,7 +19515,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19591,7 +19584,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19660,7 +19653,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19729,7 +19722,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19798,7 +19791,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19867,7 +19860,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -19936,7 +19929,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -20005,7 +19998,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -20074,7 +20067,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -20143,7 +20136,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -20212,7 +20205,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
@@ -20281,7 +20274,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 
 ![](/Styles/Precision/PressTheAttack/PressTheAttack.png)
-![](/Styles/Precision/AbsorbLife/AbsorbLife.png)
+![](/Styles/Precision/PresenceOfMind/PresenceOfMind.png)
 ![](/Styles/Precision/LegendAlacrity/LegendAlacrity.png)
 ![](/Styles/Precision/CutDown/CutDown.png)
 ![](/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png)
