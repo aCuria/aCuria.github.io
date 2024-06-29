@@ -5,7 +5,7 @@ draft: false
 title: "PTA Build"
 ---
 
-# PTA Guide (Updated Patch 14.11)
+# PTA Guide (Updated Patch 14.13)
 I am going to keep it simple. For more details consult the Simulation Data directly and create your own build.
 
 # Idea
