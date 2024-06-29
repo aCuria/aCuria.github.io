@@ -121,7 +121,7 @@ Note that following the build exactly is difficult because of high item componen
 
 
 # Gameplay
-{{< youtube O9lDW4cvHhU >}}
+{{< youtube 8lLjWkrSz0E >}}
 
 
 
