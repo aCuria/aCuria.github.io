@@ -5,8 +5,10 @@ draft: false
 title: "PTA Build"
 ---
 
-# PTA Guide (Updated Patch 14.13)
+# PTA Guide (Updated Patch 14.16)
 I am going to keep it simple. For more details consult the Simulation Data directly and create your own build.
+
+Note: nothing really changed between 14.13-14.16
 
 # Idea
 The idea behind using PTA, is that 
@@ -41,6 +43,57 @@ The builds here are generated assuming we ult the enemy for its full duration, a
 
 
 {{< tabs "Patches" >}}
+{{< tab "14.16" >}} 
+Blade of the Ruined King
+- Attack Damage: 55 ⇒ 50
+- Attack Speed: 30% ⇒ 25%
+- On-Hit Damage: 9% (melee) / 6% (ranged) ⇒ 10% (melee) / 6% (ranged)
+- I cant believe they made it even worse. Its tremendously weaker than previous seasons.
+{{< /tab >}}
+
+{{< tab "14.15" >}} 
+Kraken Slayer
+- Move Speed: 7% ⇒ 5%
+- Bring it Down: 140-310 ⇒ 80% effectiveness for ranged champions (112-248)
+- Wasnt good enough to build previously, and its even worse now.
+
+Lord Domniks Regards
+- Armor Penetration: 40% ⇒ 35%
+- This is pretty painful, but LDR/MR is still the most powerful item in the game for MF.
+
+Mortal Reminder
+- Attack Damage: 40 ⇒ 35
+- Grevious wounds is much more powerful than LDR's +10ad against almost any kind of healing.
+
+Berserker’s Greaves
+- Attack Speed: 35% ⇒ 30%
+- Even less reason to build it now.
+
+Wit’s End
+- Fray: 15-80 ⇒ 40-80
+- We dont really build this now, but it was situationally good in previous seasons. 
+
+Dark Harvest
+- Cooldown: 40 ⇒ 35
+- On-takedown reset timer: 1.5s ⇒ 1s
+- Probably doesnt matter. DH cant proc multiple times per ult, and without the stealth passive on Duskblade Mythic the DH playstyle is dead
+
+Fleet Footwork
+- Heal: 8-110 (linear) (+10% Bonus AD) (+5% AP) ⇒ 5-120 (following stat progression multiplier) (+10% Bonus AD) (+5% AP)
+- Not relevant for MF.
+
+Death’s Dance
+- Armor: 40 ⇒ 50
+- I dont think this makes it good enough to buy. Stacking HP/Shields (Shieldbow) is more effective because with only 1 armor item, lethality stacking assasins still reduce our armor value to 0
+
+{{< /tab >}}
+
+{{< tab "14.14" >}} 
+Absorb Life 
+- Healing: 2-20 (linear scaling) ⇒ 1-23 (following base stat progression) ( Note: This is a nerf levels 1-12 and a buff levels 13-18.)
+- This is a nerf. Late game we can heal fine with BT, we only benefit from this rune before making the scepter component.
+{{< /tab >}}
+
 
 {{< tab "14.13" >}} 
 
