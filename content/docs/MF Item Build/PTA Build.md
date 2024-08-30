@@ -43,6 +43,15 @@ The builds here are generated assuming we ult the enemy for its full duration, a
 
 
 {{< tabs "Patches" >}}
+
+{{< tab "14.17" >}} 
+Cut Down nerf: 
+- Damage Threshold: Above 50% Maximum Health ⇒ Above 60% Maximum Health
+
+Absorb Life nerf: 
+- Level 1-5: 1-5 (based on level) ⇒ 1-2 (based on level)
+{{< /tab >}}
+
 {{< tab "14.16" >}} 
 Blade of the Ruined King
 - Attack Damage: 55 ⇒ 50
@@ -134,7 +143,7 @@ The main change is that IE got severely nerfed to the point its no longer a good
 
 
 
-{{< tab "Default Build" >}} 
+{{< tab "PTA Default Build" >}} 
 
 # Build Idea 
 The build idea here is to optimize for 2 parameters:
@@ -143,30 +152,64 @@ The build idea here is to optimize for 2 parameters:
 
 Early game we want to take trades with aa>q>aa or Q2 and back off to heal back using lifesteal. Late game, we wait for our team to CC and then press R to get a couple of kills.
 
-## Core Items
-![](/item/3072.png)
-![](/item/3036.png)
+14.17: Note that compared to just making BT first, I am trying to squeeze out as much damage as possible here. The nerfs to LDR and Cut Down means that damage is a bit lacking these days.
+
+## Step 1: Make Core Items
 ![](/item/3031.png)
 ![](/item/6676.png)
-![](/item/3032.png)
+![](/item/1001.png)
+![](/item/1053.png)
+
+- Boots: make it when you have an extra 300g
+- Scepter: rush it if you need sustain against a poke lane, otherwise it can be delayed indefinitely because it weakens your all-in if you are not in a poke lane
+- Bloodthirster: If you have scepter and need even more sustain, you can rush this. The build then becomes BT > IE > LW item > Collector.
+
+## Step 2: Complete LW item
+![](/item/3033.png)
+![](/item/3036.png)
+- Note that after the LDR nerf, seryldas is "viable" but it seems to be bad early, then suddenly becomes decent in 2 situations:
+    - at 6 items with zeal item replacing boots. 
+	- at 6 items vs squishies with this build: IE, Collector, Seryldas, BT, Cyclosword, Yoummus
+	- I dont like this because its not optimal before 6 items.
+
+## Step 3: Lifesteal Item
+![](/item/3072.png)
+![](/item/3139.png)
+![](/item/3153.png)
+- At this point your inventory is full, so scepter has to be made into a full item. If you did not build scepter yet, you can continue to delay the lifesteal item.
+- Most of the time BT is a good Idea
+- Mercurial Scimitar may be needed if mordekaiser keeps ulting you
+- BOTRK is a desperation item for when HP stacking tanks are your responsibility to take down.
+
+
+## Step : choose 1
+![](/item/3508.png)
+![](/item/6673.png)
+![](/item/3156.png)
+- ER is for the CDR, so ult can be up more reliably in teamfights. I think this is more important than the small damage increase from YunTals.
+- Shieldbow is important if surviving burst damage is the win condition
+- Maw is better than shieldbow specifically into to full AP enemy compositions
+
+
+## Boots Replacement Item
 ![](/item/3142.png)
+![](/item/3046.png)
+- Besides shieldbow, other Zeal items can be used. Note that making a zeal item shifts us from more ult centric to more reliant on autos. Personally I would stick to yoummus, unless ult can not be used well.
 
-
+## Notes
 Note that following the build exactly is difficult because of high item component costs. We may have bought some longswords before getting the BFS needed for BT for instance. Collector can be built before IE to absorb some longswords too.
 
 
 {{< /tab >}}
 
 {{< tab "Anti AP Assassins" >}}
-- Replace Yun Tal with Maw
-- If this is not enough, replace collector with mercurial
+- Make Maw or Shieldbow.
 
 {{< /tab >}}
 
 {{< tab "Anti AD & Hybrid damage Assassins" >}}
 
-- Replace Yun Tals with Shieldbow? (~4000 -> ~6000 ehp)
-- Replace IE with EoN or Bloodmail? (~6000 -> ~7000 ehp) 
+- Make Shieldbow
 
 {{< /tab >}}
 
@@ -174,6 +217,7 @@ Note that following the build exactly is difficult because of high item componen
 
 
 # Gameplay
+{{< youtube FPMdMDvjbe4 >}}
 {{< youtube 8lLjWkrSz0E >}}
 
 
