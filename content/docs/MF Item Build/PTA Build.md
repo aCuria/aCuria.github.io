@@ -147,7 +147,7 @@ The main change is that IE got severely nerfed to the point its no longer a good
 
 
 
-{{< tab "PTA Default Build" >}} 
+{{< tab "Default (3-6 item spike into squishies)" >}} 
 
 # Build Idea 
 The build idea here is to optimize for 2 parameters:
@@ -161,27 +161,28 @@ Early game we want to take trades with aa>q>aa or Q2 and back off to heal back u
 
 ![](/item/1001.png)
 ![](/item/1053.png)
-![](/item/3032.png)
 ![](/item/3031.png)
 ![](/item/6676.png)
 
 - Boots: make it when you have an extra 300g
 - Scepter: rush it if you need sustain against a poke lane, otherwise it can be delayed indefinitely because it weakens your all-in if you are not in a poke lane
 
-## 2: Choose 1
+## 2: Choose 1 (Prefer LDR)
 ![](/item/3036.png)![](/item/3033.png)
 
-## 3: Choose 1
+## 3: Choose 1 (Prefer BT)
 ![](/item/3072.png)![](/item/3153.png)![](/item/3139.png)
 
-## 4: sell boots for this
-![](/item/3142.png)
-
-## 5: optionally sell Yun Tals for:
+## 4: Choose 1
+![](/item/3032.png)
 ![](/item/3156.png)
 ![](/item/3026.png)
 ![](/item/3814.png)
 ![](/item/6673.png)
+
+## 4: sell boots for this
+![](/item/3142.png)
+
 
 ## Notes
 Note that following the build exactly is difficult because of high item component costs. We may have bought some longswords before getting BFS for instance. Collector can be built before IE to absorb some longswords.
@@ -189,16 +190,51 @@ Note that following the build exactly is difficult because of high item componen
 
 {{< /tab >}}
 
-{{< tab "Anti AP Assassins" >}}
-- Make Maw or Shieldbow.
+{{< tab "1 Item spike" >}}
+![](/item/3508.png) ER is the strongest into the enemy adc (3.81s). Collector is (4.23s)
+
+![](/item/6672.png) Kraken is the strongest into a tank, but it will still take 7s to kill them (ER = 7.8s)
 
 {{< /tab >}}
 
-{{< tab "Anti AD & Hybrid damage Assassins" >}}
+{{< tab "2 Item spike" >}}
+![](/item/6676.png)![](/item/6672.png) ADC kill time = 2.46s. Next best build is 2.82s
 
-- Make Shieldbow
+![](/item/3124.png)![](/item/3153.png) Tank kill time = 6.16s, Next best build is 6.49s (Kraken + Rageblade)
 
 {{< /tab >}}
+
+
+{{< tab "Anti Tank" >}}
+
+### 3 Items:
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png) 4.62s
+
+![](/item/3031.png)![](/item/3036.png)![](/item/6676.png) 5.64s (better ult damage)
+
+### 4 Items:
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6672.png) 4.35s
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png) 4.55s
+
+![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/3032.png) 4.74s (better ult damage)
+
+### 5 items:
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png) 4.09s
+
+![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/3032.png)![](/item/3153.png) 4.3s (better ult damage)
+
+### 6 Items:
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png) 3.38s
+
+![](/item/3032.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png) 3.4s (better ult damage)
+
+{{< /tab >}}
+
 
 {{< /tabs >}}
 
