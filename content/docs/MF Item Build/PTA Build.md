@@ -158,14 +158,15 @@ Early game we want to take trades with aa>q>aa or Q2 and back off to heal back u
 
 
 ## 1: Make Core Items
-
-![](/item/1001.png)
-![](/item/1053.png)
 ![](/item/3031.png)
 ![](/item/6676.png)
+![](/item/1001.png)
+![](/item/1053.png)
 
 - Boots: make it when you have an extra 300g
-- Scepter: rush it if you need sustain against a poke lane, otherwise it can be delayed indefinitely because it weakens your all-in if you are not in a poke lane
+- Scepter: rush it if you need sustain against a poke lane, otherwise it can be delayed because it weakens your all-in if you are not in a poke lane
+
+![](/item/3072.png) Rush this item if more sustain is needed. (lane dependent)
 
 ## 2: Choose 1 (Prefer LDR)
 ![](/item/3036.png)![](/item/3033.png)
