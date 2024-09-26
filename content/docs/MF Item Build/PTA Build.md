@@ -190,22 +190,34 @@ Note that following the build exactly is difficult because of high item componen
 
 {{< /tab >}}
 
-{{< tab "1 Item spike" >}}
-![](/item/3508.png) ER is the strongest into the enemy adc (3.81s). Collector is (4.23s)
+{{< tab "1/2 Item spikes vs ADC" >}}
 
-![](/item/6672.png) Kraken is the strongest into a tank, but it will still take 7s to kill them (ER = 7.8s)
+## 1 Item 
 
-{{< /tab >}}
+![](/item/3508.png) 3.81s (100-0 kill time)
 
-{{< tab "2 Item spike" >}}
-![](/item/6676.png)![](/item/6672.png) ADC kill time = 2.46s. Next best build is 2.82s
+![](/item/6672.png) 4.18s
 
-![](/item/3124.png)![](/item/3153.png) Tank kill time = 6.16s, Next best build is 6.49s (Kraken + Rageblade)
+![](/item/6676.png) 4.23s
+
+![](/item/3031.png) 4.23s (Q2 is stronger with this though)
+
+## 2 Items
+
+![](/item/6676.png)![](/item/6672.png) 2.46s squishy kill time
+
+![](/item/3031.png)![](/item/3036.png) 2.82s (Scales better)
 
 {{< /tab >}}
 
 
 {{< tab "Anti Tank" >}}
+
+### 2 Items:
+
+![](/item/3124.png)![](/item/3153.png) 6.16s  (100-0 kill time)
+
+![](/item/3031.png)![](/item/3036.png) 7.09s (better ult damage)
 
 ### 3 Items:
 
@@ -231,7 +243,7 @@ Note that following the build exactly is difficult because of high item componen
 
 ![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png) 3.38s
 
-![](/item/3032.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png) 3.4s (better ult damage)
+![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/3032.png)![](/item/3153.png)![](/item/3142.png) 3.4s (better ult damage)
 
 {{< /tab >}}
 
