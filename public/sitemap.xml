@@ -28,13 +28,27 @@
   </url><url>
     <loc>http://localhost:1313/docs/simulation-data/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-r-w-aa-q-aa/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-w-aa-q-aa/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/mf-beginners-guide/teamfights/</loc>
   </url><url>
@@ -56,25 +70,65 @@
   </url><url>
     <loc>http://localhost:1313/docs/mf-item-build/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-r-w-aa-q-aa/aatrox/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/aatrox/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-r-w-aa-q-aa/chogath/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/chogath/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-r-w-aa-q-aa/draven/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/draven/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-r-w-aa-q-aa/rengar/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/rengar/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-r-w-aa-q-aa/vex/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/vex/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-w-aa-q-aa/aatrox/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/aatrox/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-w-aa-q-aa/chogath/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/chogath/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-w-aa-q-aa/draven/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/draven/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-w-aa-q-aa/rengar/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/rengar/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/simulation-data/patch-14.20.1/pta-alacrity/all-e-w-aa-q-aa/vex/</loc>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/vex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/aatrox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/chogath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/draven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/rengar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/vex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/aatrox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/chogath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/draven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/rengar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/vex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/aatrox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/chogath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/draven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/rengar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/vex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/aatrox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/chogath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/draven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/rengar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/vex/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/13.18-comet-theorycrafting/</loc>
   </url><url>
