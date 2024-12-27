@@ -9066,13 +9066,14 @@ Sorted by kill time, then by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9140,13 +9141,14 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9215,13 +9217,14 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9315,13 +9318,14 @@ Sorted by kill time
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9379,18 +9383,9 @@ Sorted by kill time
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/6697.png)![](/item/3142.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/6698.png)![](/item/3142.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19200
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3072.png)![](/item/3046.png)|3.71|2950|4500|5692|1534|5525|4342|1170|4214|18750
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3153.png)![](/item/3142.png)|3.75|3075|4699|5015|1336|4897|3825|1019|3735|18700
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/6672.png)![](/item/3087.png)|3.77|2859|4477|5672|1506|5525|4326|1148|4214|19000
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3153.png)![](/item/6672.png)|3.77|2867|4482|5004|1326|4897|3817|1011|3735|18900
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/6697.png)![](/item/3046.png)|3.78|3042|4600|5690|1504|5525|4340|1147|4214|18850
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/6698.png)![](/item/3046.png)|3.78|3042|4600|5690|1504|5525|4340|1147|4214|19050
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/6699.png)![](/item/3046.png)|3.78|3010|4584|5689|1504|5525|4339|1147|4214|18850
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3004.png)![](/item/3046.png)|3.78|2993|4561|5686|1503|5525|4337|1146|4214|18750
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/3046.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18650
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/6696.png)![](/item/3046.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18850
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6695.png)![](/item/3072.png)![](/item/3046.png)|3.78|2976|4507|5687|1503|5525|4338|1147|4214|18350
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6701.png)![](/item/3072.png)![](/item/3046.png)|3.78|3044|4507|5687|1503|5525|4338|1147|4214|18550
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3337|4994|5706|1505|5525|4352|1148|4214|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3279|4911|5702|1504|5525|4349|1147|4214|18800
 ![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3305|4910|5695|1502|5525|4344|1146|4214|18900
@@ -9407,6 +9402,15 @@ Sorted by kill time
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3072.png)![](/item/6695.png)|3.79|3235|4814|5692|1501|5525|4341|1145|4214|18400
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3072.png)![](/item/6701.png)|3.79|3311|4814|5692|1501|5525|4341|1145|4214|18600
 ![](/item/6676.png)![](/item/3033.png)![](/item/6699.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3072|4576|5674|1497|5525|4328|1141|4214|18300
+![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3032.png)![](/item/3074.png)![](/item/3142.png)|3.79|3185|4780|5035|1328|4897|3840|1013|3735|18700
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3032.png)![](/item/3142.png)![](/item/6696.png)|3.79|3072|4544|5674|1497|5525|4328|1141|4214|18300
+![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3032.png)![](/item/3074.png)![](/item/3142.png)|3.79|3210|4779|5029|1327|4897|3836|1012|3735|18800
+![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3032.png)![](/item/3074.png)![](/item/3142.png)|3.79|3210|4779|5029|1327|4897|3836|1012|3735|19000
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3072.png)![](/item/3814.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3072.png)![](/item/3161.png)|3.79|3241|4770|6581|1736|6422|5020|1324|4899|19000
+![](/item/6676.png)![](/item/3033.png)![](/item/3004.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3030|4533|5670|1496|5525|4325|1141|4214|18200
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/6699.png)![](/item/3074.png)![](/item/3142.png)|3.79|3178|4766|5028|1326|4897|3835|1012|3735|18800
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3032.png)![](/item/3508.png)![](/item/3142.png)|3.79|3020|4510|5677|1497|5525|4330|1142|4214|18200
 {{< /tab >}}
 {{< tab "ULT" >}}
 Sorted by ult damage
@@ -9415,13 +9419,14 @@ Sorted by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9515,13 +9520,14 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9578,7 +9584,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3142.png)|3.9|3512|4760|6777|1737|6622|5170|1325|5051|19300
-![](/item/6701.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3473|4571|6816|1528|6622|5199|1165|5051|19000
+![](/item/6701.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3473|4571|6816|1528|6622|5199|1165|5051|19000
 ![](/item/6697.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3466|4663|6821|1528|6622|5203|1166|5051|19300
 ![](/item/6698.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3466|4663|6821|1528|6622|5203|1166|5051|19500
 ![](/item/3508.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3452|4684|6834|1532|6622|5213|1168|5051|19200
@@ -9597,7 +9603,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3073.png)![](/item/3142.png)|4.26|3254|4480|6623|1556|6422|5052|1187|4899|19000
 ![](/item/3508.png)![](/item/3031.png)![](/item/3074.png)![](/item/3033.png)![](/item/6696.png)![](/item/3142.png)|3.9|3241|4823|5030|1289|4897|3837|983|3735|18800
 ![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3074.png)![](/item/6696.png)![](/item/3142.png)|3.9|3183|4736|5020|1287|4897|3829|981|3735|18800
-![](/item/3142.png)![](/item/3074.png)![](/item/3033.png)![](/item/6696.png)![](/item/6697.png)![](/item/6698.png)|4.46|3164|4610|5047|1131|4897|3849|862|3735|18500
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/3033.png)![](/item/6697.png)![](/item/6698.png)|4.46|3164|4610|5047|1131|4897|3849|862|3735|18500
 ![](/item/6696.png)![](/item/3073.png)![](/item/3031.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)|4.7|3157|4358|5993|1275|5794|4571|973|4420|18900
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3508.png)![](/item/3142.png)|4.7|3051|4190|6646|1414|6422|5069|1079|4899|18300
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3073.png)![](/item/3142.png)|5.14|3051|4198|6671|1297|6422|5089|990|4899|18300
@@ -9615,13 +9621,14 @@ Sorted by kill time, then by effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9678,24 +9685,21 @@ Sorted by kill time, then by effective hp against sustained AD damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
-![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3046.png)|3.71|2950|4500|5692|1534|5525|4342|1170|4214|18750
+![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3142.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18650
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.79|3337|4994|5706|1505|5525|4352|1148|4214|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6697.png)|4.99|2939|4344|11255|2257|10491|6864|1376|6398|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)|4.99|2873|4279|11266|2259|10491|6870|1377|6398|18600
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3142.png)|4.99|2873|4279|11266|2259|10491|6870|1377|6398|18600
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3072.png)![](/item/3142.png)|4.99|2874|4288|11270|2259|10491|6873|1378|6398|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3046.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3172.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "TK_APEHP" >}}
 Sorted by kill time, then by effective hp against sustained AP damage
@@ -9704,13 +9708,14 @@ Sorted by kill time, then by effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9767,11 +9772,11 @@ Sorted by kill time, then by effective hp against sustained AP damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3046.png)|3.71|2950|4500|5692|1534|5525|4342|1170|4214|18750
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3142.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18650
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.79|3337|4994|5706|1505|5525|4352|1148|4214|18900
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
@@ -9794,7 +9799,6 @@ Sorted by kill time, then by effective hp against sustained AP damage
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/6610.png)![](/item/3142.png)|6.04|2640|3755|7299|1208|6322|10824|1792|9687|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.07|2421|3502|7267|1198|6721|10859|1790|10210|18600
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
-![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.66|2175|3164|7784|1169|7186|11398|1712|10686|18833
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3091.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
 {{< /tab >}}
 {{< tab "TK_ADEHP_BURST" >}}
@@ -9804,13 +9808,14 @@ Sorted by kill time, then by effective hp against AD burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9870,12 +9875,11 @@ Sorted by kill time, then by effective hp against AD burst damage
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3032.png)![](/item/3033.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "TK_APEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AP burst damage
@@ -9884,13 +9888,14 @@ Sorted by kill time, then by effective hp against AP burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -9947,13 +9952,13 @@ Sorted by kill time, then by effective hp against AP burst damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3142.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
-![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
+![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
 ![](/item/3156.png)![](/item/3072.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|4.99|3241|4393|7046|1413|6622|8779|1760|8370|19400
@@ -9964,18 +9969,15 @@ Sorted by kill time, then by effective hp against AP burst damage
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3033.png)![](/item/3748.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.69|2343|3594|8568|1504|7523|10443|1833|9449|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3078.png)![](/item/3033.png)![](/item/3142.png)|5.83|2221|3439|6730|1153|6189|10204|1749|9560|18633
-![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|5.84|2552|3605|7028|1203|6558|10395|1780|9847|19433
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3073.png)![](/item/3033.png)![](/item/3142.png)|5.98|2421|3467|6968|1165|6422|10503|1756|9854|18300
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|6.0|2448|3712|6929|1155|6422|10477|1747|9874|18400
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.07|2555|3575|7156|1179|6622|10686|1761|10051|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.07|2421|3502|7267|1198|6721|10859|1790|10210|18600
-![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)|6.12|2448|3687|7403|1210|6990|10808|1767|10327|18700
+![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.12|2448|3687|7403|1210|6990|10808|1767|10327|18700
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|6.51|2228|3429|6262|961|5794|11131|1708|10480|18200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.66|2175|3164|7784|1169|7186|11398|1712|10686|18833
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
-![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AP burst damage
@@ -9984,13 +9986,14 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10047,25 +10050,23 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3046.png)|3.71|2950|4500|5692|1534|5525|4342|1170|4214|18750
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3142.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18650
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.79|3337|4994|5706|1505|5525|4352|1148|4214|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3072.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3046.png)|5.98|2489|3556|12923|2159|12137|7881|1317|7402|18850
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_ADEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AD burst damage
@@ -10074,13 +10075,14 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10137,24 +10139,21 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
-![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3046.png)|3.71|2950|4500|5692|1534|5525|4342|1170|4214|18750
+![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3142.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18650
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.79|3337|4994|5706|1505|5525|4352|1148|4214|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6697.png)|4.99|2939|4344|11255|2257|10491|6864|1376|6398|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)|4.99|2873|4279|11266|2259|10491|6870|1377|6398|18600
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3142.png)|4.99|2873|4279|11266|2259|10491|6870|1377|6398|18600
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3072.png)![](/item/3142.png)|4.99|2874|4288|11270|2259|10491|6873|1378|6398|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3046.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3172.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "TK_APEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AP burst damage
@@ -10163,13 +10162,14 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10226,11 +10226,11 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3046.png)|3.71|2950|4500|5692|1534|5525|4342|1170|4214|18750
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3142.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18650
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.79|3337|4994|5706|1505|5525|4352|1148|4214|18900
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
@@ -10248,13 +10248,13 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3031.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|5.62|2399|3725|5323|947|4897|9942|1770|9350|18700
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.69|2343|3594|8568|1504|7523|10443|1833|9449|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3078.png)![](/item/3181.png)|5.84|2552|3605|7028|1203|6558|10395|1780|9847|19433
 ![](/item/3156.png)![](/item/3072.png)![](/item/3033.png)![](/item/3073.png)![](/item/3091.png)![](/item/3142.png)|5.98|2421|3467|6968|1165|6422|10503|1756|9854|18300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3161.png)|6.04|2668|3928|7064|1169|6422|10569|1750|9822|18800
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6610.png)|6.04|2640|3755|7299|1208|6322|10824|1792|9687|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.07|2555|3575|7156|1179|6622|10686|1761|10051|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.07|2421|3502|7267|1198|6721|10859|1790|10210|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
+![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|6.51|2228|3429|6262|961|5794|11131|1708|10480|18200
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AD burst damage
@@ -10263,13 +10263,14 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10326,26 +10327,24 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3046.png)|3.71|2950|4500|5692|1534|5525|4342|1170|4214|18750
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3142.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18650
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.79|3337|4994|5706|1505|5525|4352|1148|4214|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3072.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3046.png)|5.98|2489|3556|12923|2159|12137|7881|1317|7402|18850
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_AD_BURST_AP_BURST" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP burst damage damage
@@ -10354,13 +10353,14 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10427,10 +10427,9 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
+![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_APEHP_ADEHP" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
@@ -10439,13 +10438,14 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10502,27 +10502,26 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3142.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3046.png)|3.71|2950|4500|5692|1534|5525|4342|1170|4214|18750
+![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3142.png)|3.78|3010|4555|5689|1504|5525|4339|1147|4214|18650
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3032.png)![](/item/3142.png)|3.79|3337|4994|5706|1505|5525|4352|1148|4214|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3072.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3046.png)|5.98|2489|3556|12923|2159|12137|7881|1317|7402|18850
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
 ![](/item/6673.png)![](/item/6610.png)![](/item/3139.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)|6.04|2622|3727|11745|1945|10803|9046|1498|8321|18600
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_ADEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AD damage divided by kill time
@@ -10531,13 +10530,14 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10595,10 +10595,10 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)![](/item/6698.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19200
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)![](/item/6673.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)![](/item/6673.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 {{< /tab >}}
 {{< tab "TK_APEHP_D_TK" >}}
@@ -10608,13 +10608,14 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10672,9 +10673,9 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)![](/item/6697.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19000
 ![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)![](/item/6698.png)|3.42|3438|0|5633|1648|5525|4297|1257|4214|19200
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 {{< /tab >}}
@@ -10685,13 +10686,14 @@ Sorted by ult damage, then effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10758,7 +10760,6 @@ Sorted by ult damage, then effective hp against sustained AD damage
 ![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3748.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "ULT_APEHP" >}}
 Sorted by ult damage, then effective hp against sustained AP damage
@@ -10767,13 +10768,14 @@ Sorted by ult damage, then effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10847,10 +10849,8 @@ Sorted by ult damage, then effective hp against sustained AP damage
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|6.12|2640|3701|7444|1217|6721|10992|1797|10151|19000
 ![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|6.56|2421|3523|7593|1156|6891|11009|1677|10192|18700
-![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3078.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/3181.png)![](/item/3078.png)![](/item/3033.png)|7.2|2381|3348|8080|1122|7186|11658|1619|10617|19233
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3078.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3091.png)![](/item/3033.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
+![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3091.png)![](/item/3142.png)|6.96|2324|3299|6477|930|5993|11359|1631|10687|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3091.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
 {{< /tab >}}
 {{< tab "ULT_AD_BURST" >}}
 Sorted by ult damage, then effective hp against burst AD damage
@@ -10859,13 +10859,14 @@ Sorted by ult damage, then effective hp against burst AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -10929,7 +10930,6 @@ Sorted by ult damage, then effective hp against burst AD damage
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "ULT_AP_BURST" >}}
 Sorted by ult damage, then effective hp against burst AP damage
@@ -10938,13 +10938,14 @@ Sorted by ult damage, then effective hp against burst AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mortal Reminder']
+**Forced Items** ['Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
 
 
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11013,9 +11014,8 @@ Sorted by ult damage, then effective hp against burst AP damage
 ![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2640|3701|7444|1217|6721|10992|1797|10151|19000
 ![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|6.12|2636|3820|7295|1192|6891|10642|1740|10172|18700
 ![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
-![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3091.png)![](/item/3033.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
+![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.96|2324|3299|6477|930|5993|11359|1631|10687|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
 {{< /tab >}}
 {{< /tabs >}}
 {{< /tab >}}
@@ -11028,7 +11028,7 @@ Sorted by kill time, then by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11036,6 +11036,7 @@ Sorted by kill time, then by ult damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11091,9 +11092,9 @@ Sorted by kill time, then by ult damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3031.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
-![](/item/2501.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3393|4562|7313|1639|7120|5578|1250|5431|19300
+![](/item/2501.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3393|4562|7313|1639|7120|5578|1250|5431|19300
 {{< /tab >}}
 {{< tab "ULT_AAQAA" >}}
 Sorted by Ult damage then aaqaa damage
@@ -11102,7 +11103,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11110,6 +11111,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11165,7 +11167,7 @@ Sorted by Ult damage then aaqaa damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/2501.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3393|4562|7313|1639|7120|5578|1250|5431|19300
+![](/item/2501.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3393|4562|7313|1639|7120|5578|1250|5431|19300
 ![](/item/3031.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
 {{< /tab >}}
 {{< tab "AAQAA" >}}
@@ -11175,7 +11177,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11183,6 +11185,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11276,7 +11279,7 @@ Sorted by kill time
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11284,6 +11287,7 @@ Sorted by kill time
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11342,31 +11346,31 @@ Sorted by kill time
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3072.png)![](/item/3814.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3153.png)![](/item/3814.png)|3.85|3070|4661|5508|1432|5395|4201|1092|4115|18800
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/3814.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6697.png)|3.9|3159|4635|6170|1581|6023|4706|1206|4594|18400
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6698.png)|3.9|3159|4635|6170|1581|6023|4706|1206|4594|18600
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6699.png)|3.9|3127|4625|6169|1581|6023|4705|1206|4594|18400
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)![](/item/6697.png)|3.9|3159|4635|6170|1581|6023|4706|1206|4594|18400
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)![](/item/6698.png)|3.9|3159|4635|6170|1581|6023|4706|1206|4594|18600
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)![](/item/6699.png)|3.9|3127|4625|6169|1581|6023|4705|1206|4594|18400
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)![](/item/3814.png)|3.9|3267|4857|6192|1587|6023|4723|1210|4594|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6697.png)![](/item/3814.png)|3.9|3293|4852|6184|1585|6023|4717|1209|4594|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6698.png)![](/item/3814.png)|3.9|3293|4852|6184|1585|6023|4717|1209|4594|19200
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6699.png)![](/item/3814.png)|3.9|3262|4841|6182|1585|6023|4715|1209|4594|19000
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3814.png)![](/item/3139.png)![](/item/3142.png)|3.9|3070|4605|5501|1410|5395|5300|1358|5198|18800
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6696.png)|3.9|3127|4592|6169|1581|6023|4705|1206|4594|18400
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)![](/item/6696.png)|3.9|3127|4592|6169|1581|6023|4705|1206|4594|18400
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3074.png)![](/item/3814.png)|3.9|3234|4815|5529|1417|5395|4217|1081|4115|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/3814.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6696.png)|3.9|3262|4809|6182|1585|6023|4715|1209|4594|19000
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3142.png)![](/item/3814.png)|3.9|3071|4551|6164|1580|6023|4702|1205|4594|18300
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)![](/item/3814.png)|3.9|3066|4550|6172|1582|6023|4708|1207|4594|18300
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6695.png)|3.9|3088|4537|6167|1581|6023|4704|1206|4594|17900
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6701.png)|3.9|3168|4537|6167|1581|6023|4704|1206|4594|18100
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3142.png)![](/item/3814.png)|3.9|3066|4550|6172|1582|6023|4708|1207|4594|18300
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)![](/item/6695.png)|3.9|3088|4537|6167|1581|6023|4704|1206|4594|17900
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)![](/item/6701.png)|3.9|3168|4537|6167|1581|6023|4704|1206|4594|18100
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3142.png)![](/item/3814.png)|3.9|3206|4765|6178|1583|6023|4712|1208|4594|18900
-![](/item/6676.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)![](/item/3814.png)![](/item/6697.png)|3.9|3064|4521|5509|1412|5395|4202|1077|4115|18300
-![](/item/6676.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)![](/item/3814.png)![](/item/6698.png)|3.9|3064|4521|5509|1412|5395|4202|1077|4115|18500
+![](/item/6676.png)![](/item/3033.png)![](/item/3074.png)![](/item/3814.png)![](/item/3142.png)![](/item/6697.png)|3.9|3064|4521|5509|1412|5395|4202|1077|4115|18300
+![](/item/6676.png)![](/item/3033.png)![](/item/3074.png)![](/item/3814.png)![](/item/3142.png)![](/item/6698.png)|3.9|3064|4521|5509|1412|5395|4202|1077|4115|18500
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6695.png)|3.9|3222|4754|6180|1584|6023|4714|1208|4594|18500
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6701.png)|3.9|3302|4754|6180|1584|6023|4714|1208|4594|18700
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/6673.png)|3.9|3036|4508|8543|2190|8396|6517|1670|6404|18400
-![](/item/6676.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)![](/item/3814.png)![](/item/6699.png)|3.9|3033|4497|5508|1412|5395|4201|1077|4115|18300
-![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3074.png)![](/item/3814.png)![](/item/3142.png)|3.9|3173|4728|5526|1416|5395|4215|1080|4115|18800
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3161.png)|3.9|3073|4492|7057|1809|6921|5383|1380|5279|18500
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)![](/item/6673.png)|3.9|3036|4508|8543|2190|8396|6517|1670|6404|18400
+![](/item/6676.png)![](/item/3033.png)![](/item/3074.png)![](/item/3814.png)![](/item/3142.png)![](/item/6699.png)|3.9|3033|4497|5508|1412|5395|4201|1077|4115|18300
+![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3074.png)![](/item/3142.png)![](/item/3814.png)|3.9|3173|4728|5526|1416|5395|4215|1080|4115|18800
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3814.png)![](/item/3142.png)|3.9|3073|4492|7057|1809|6921|5383|1380|5279|18500
 ![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3074.png)![](/item/3814.png)![](/item/3142.png)|3.9|3198|4723|5520|1415|5395|4210|1079|4115|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3074.png)![](/item/3814.png)![](/item/3142.png)|3.9|3198|4723|5520|1415|5395|4210|1079|4115|19100
 {{< /tab >}}
@@ -11377,7 +11381,7 @@ Sorted by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11385,6 +11389,7 @@ Sorted by ult damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11478,7 +11483,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11486,6 +11491,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11552,17 +11558,13 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/2501.png)![](/item/3814.png)![](/item/3142.png)|4.99|3228|4314|7324|1468|7120|5586|1120|5431|18700
 ![](/item/3142.png)![](/item/3031.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/6696.png)|4.46|3167|4680|5565|1247|5395|4245|951|4115|18900
 ![](/item/3142.png)![](/item/2501.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/6696.png)|5.51|3130|4193|6682|1212|6492|5097|924|4952|18600
-![](/item/6701.png)![](/item/3074.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/6696.png)|4.99|3070|4387|5573|1117|5395|4251|852|4115|18000
-![](/item/3142.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/6696.png)![](/item/6697.png)|4.46|3060|4469|5540|1241|5395|4226|947|4115|18300
-![](/item/3142.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/6696.png)![](/item/6698.png)|4.46|3060|4469|5540|1241|5395|4226|947|4115|18500
+![](/item/6701.png)![](/item/3074.png)![](/item/6696.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|3070|4387|5573|1117|5395|4251|852|4115|18000
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/3814.png)![](/item/3033.png)![](/item/6697.png)|4.46|3060|4469|5540|1241|5395|4226|947|4115|18300
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/3814.png)![](/item/3033.png)![](/item/6698.png)|4.46|3060|4469|5540|1241|5395|4226|947|4115|18500
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3814.png)![](/item/3142.png)|5.14|3029|4135|7170|1395|6921|5469|1064|5279|18400
 ![](/item/3142.png)![](/item/3004.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/6696.png)|4.99|2971|4399|5570|1117|5395|4248|852|4115|18200
-![](/item/3142.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/3508.png)![](/item/6696.png)|4.99|2969|4388|5584|1119|5395|4259|854|4115|18200
+![](/item/3142.png)![](/item/3074.png)![](/item/3508.png)![](/item/3814.png)![](/item/3033.png)![](/item/6696.png)|4.99|2969|4388|5584|1119|5395|4259|854|4115|18200
 ![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|5.14|2936|4031|6486|1261|6293|4948|962|4800|18300
-![](/item/6696.png)![](/item/3073.png)![](/item/3046.png)![](/item/3814.png)![](/item/3033.png)![](/item/3074.png)|5.71|2529|3557|6565|1149|6293|5008|877|4800|18150
-![](/item/6696.png)![](/item/3073.png)![](/item/3006.png)![](/item/3814.png)![](/item/3033.png)![](/item/3074.png)|6.24|2414|3397|6563|1051|6293|5006|801|4800|16600
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/3172.png)|6.12|2414|3397|6563|1071|6293|5006|817|4800|18600
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3814.png)![](/item/3033.png)![](/item/1001.png)|6.47|2414|3397|6563|1015|6293|5006|774|4800|15800
 {{< /tab >}}
 {{< tab "TK_ADEHP" >}}
 Sorted by kill time, then by effective hp against sustained AD damage
@@ -11571,7 +11573,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11579,6 +11581,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11634,16 +11637,13 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3046.png)|4.24|2870|4356|8615|2031|8396|6571|1549|6404|18850
 ![](/item/3072.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.46|3067|4538|8943|2004|8209|5454|1222|5006|19300
 ![](/item/3032.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.7|2821|4183|8945|1903|8209|5455|1161|5006|18600
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3161.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3046.png)|5.55|2484|3771|11950|2154|11177|7288|1313|6816|18550
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3172.png)|6.1|2376|3598|12007|1967|11177|7322|1199|6816|19000
 {{< /tab >}}
 {{< tab "TK_APEHP" >}}
 Sorted by kill time, then by effective hp against sustained AP damage
@@ -11652,7 +11652,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11660,6 +11660,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11715,25 +11716,22 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
 ![](/item/3031.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3070|4605|5501|1410|5395|5300|1358|5198|18800
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3046.png)![](/item/3814.png)![](/item/3072.png)|4.24|2870|4356|8615|2031|8396|6571|1549|6404|18850
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|4.99|2831|4230|5748|1152|5395|9018|1808|8607|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|5.51|2879|4200|7355|1334|6921|9060|1643|8642|18600
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|5.51|2879|4200|7355|1334|6921|9060|1643|8642|18600
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/2501.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|5.51|3037|4075|7533|1366|7120|9183|1666|8786|18800
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/6610.png)|5.81|2850|4016|7575|1303|6821|9256|1592|8530|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3814.png)![](/item/6672.png)|5.91|2373|3425|6495|1099|6059|9716|1645|9208|18933
+![](/item/3156.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|5.81|2850|4016|7575|1303|6821|9256|1592|8530|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|6.0|2424|3706|6549|1092|6023|10045|1675|9420|18300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|6.04|2639|3919|6698|1109|6023|10163|1683|9378|18700
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)![](/item/6610.png)|6.04|2617|3729|6868|1137|6193|10205|1690|9418|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/6610.png)|6.04|2617|3729|6868|1137|6193|10205|1690|9418|18400
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/2501.png)![](/item/3814.png)![](/item/3142.png)|6.12|2793|3787|6911|1130|6492|10216|1670|9727|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3142.png)![](/item/3814.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
+![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3814.png)![](/item/3142.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3091.png)![](/item/3814.png)![](/item/3142.png)|6.51|2208|3426|5885|903|5395|10629|1631|9949|18100
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3814.png)![](/item/3181.png)|7.2|2346|3307|7583|1053|7056|10962|1522|10349|18833
 {{< /tab >}}
 {{< tab "TK_ADEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AD burst damage
@@ -11742,7 +11740,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11750,6 +11748,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11805,9 +11804,9 @@ Sorted by kill time, then by effective hp against AD burst damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3161.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 {{< /tab >}}
 {{< tab "TK_APEHP_BURST" >}}
@@ -11817,7 +11816,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11825,6 +11824,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11880,20 +11880,18 @@ Sorted by kill time, then by effective hp against AP burst damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3031.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3070|4605|5501|1410|5395|5300|1358|5198|18800
 ![](/item/3031.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2831|4230|5748|1152|5395|9018|1808|8607|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|5.51|2879|4200|7355|1334|6921|9060|1643|8642|18600
+![](/item/3156.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|5.51|2879|4200|7355|1334|6921|9060|1643|8642|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/2501.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|5.51|3037|4075|7533|1366|7120|9183|1666|8786|18800
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3814.png)![](/item/3033.png)![](/item/6672.png)|5.91|2373|3425|6495|1099|6059|9716|1645|9208|18933
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|6.0|2424|3706|6549|1092|6023|10045|1675|9420|18300
-![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|6.04|2646|3904|6672|1105|6293|9996|1655|9554|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.04|2646|3904|6672|1105|6293|9996|1655|9554|18400
 ![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|6.12|2793|3787|6911|1130|6492|10216|1670|9727|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|6.51|2208|3426|5885|903|5395|10629|1631|9949|18100
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3814.png)![](/item/3033.png)![](/item/3181.png)|7.2|2346|3307|7583|1053|7056|10962|1522|10349|18833
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AP burst damage
@@ -11902,7 +11900,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11910,6 +11908,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -11965,16 +11964,13 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
-![](/item/3031.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3070|4605|5501|1410|5395|5300|1358|5198|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3046.png)|4.24|2870|4356|8615|2031|8396|6571|1549|6404|18850
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3814.png)![](/item/3142.png)|4.46|2984|4483|7911|1773|7768|7621|1708|7484|18800
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
+![](/item/6673.png)![](/item/3072.png)![](/item/3161.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3046.png)|5.55|2484|3771|11950|2154|11177|7288|1313|6816|18550
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3814.png)|6.04|2623|3928|11054|1830|10391|8514|1410|8004|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3814.png)![](/item/3142.png)|6.04|2623|3928|11054|1830|10391|8514|1410|8004|18500
 {{< /tab >}}
 {{< tab "TK_ADEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AD burst damage
@@ -11983,7 +11979,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -11991,6 +11987,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12046,16 +12043,13 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3046.png)|4.24|2870|4356|8615|2031|8396|6571|1549|6404|18850
 ![](/item/3072.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.46|3067|4538|8943|2004|8209|5454|1222|5006|19300
 ![](/item/3032.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.7|2821|4183|8945|1903|8209|5455|1161|5006|18600
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3161.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3046.png)|5.55|2484|3771|11950|2154|11177|7288|1313|6816|18550
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3172.png)|6.1|2376|3598|12007|1967|11177|7322|1199|6816|19000
 {{< /tab >}}
 {{< tab "TK_APEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AP burst damage
@@ -12064,7 +12058,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12072,6 +12066,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12127,25 +12122,22 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
 ![](/item/3031.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3070|4605|5501|1410|5395|5300|1358|5198|18800
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3046.png)![](/item/3814.png)![](/item/3072.png)|4.24|2870|4356|8615|2031|8396|6571|1549|6404|18850
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|4.99|2831|4230|5748|1152|5395|9018|1808|8607|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|5.51|2879|4200|7355|1334|6921|9060|1643|8642|18600
+![](/item/3156.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|5.51|2879|4200|7355|1334|6921|9060|1643|8642|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/2501.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|5.51|3037|4075|7533|1366|7120|9183|1666|8786|18800
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3814.png)![](/item/6672.png)|5.91|2373|3425|6495|1099|6059|9716|1645|9208|18933
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|6.0|2424|3706|6549|1092|6023|10045|1675|9420|18300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|6.04|2639|3919|6698|1109|6023|10163|1683|9378|18700
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)![](/item/3161.png)|6.04|2646|3904|6672|1105|6293|9996|1655|9554|18400
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)![](/item/6610.png)|6.04|2617|3729|6868|1137|6193|10205|1690|9418|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/3161.png)|6.04|2646|3904|6672|1105|6293|9996|1655|9554|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/6610.png)|6.04|2617|3729|6868|1137|6193|10205|1690|9418|18400
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3073.png)![](/item/3814.png)![](/item/3142.png)|6.09|2617|3641|6774|1112|6293|10095|1657|9534|18300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/2501.png)![](/item/3814.png)![](/item/3142.png)|6.12|2793|3787|6911|1130|6492|10216|1670|9727|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3142.png)![](/item/3814.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
+![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3814.png)![](/item/3142.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3091.png)![](/item/3814.png)![](/item/3142.png)|6.51|2208|3426|5885|903|5395|10629|1631|9949|18100
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3814.png)![](/item/3181.png)|7.2|2346|3307|7583|1053|7056|10962|1522|10349|18833
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AD burst damage
@@ -12154,7 +12146,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12162,6 +12154,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12217,15 +12210,13 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3046.png)|4.24|2870|4356|8615|2031|8396|6571|1549|6404|18850
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3814.png)![](/item/3142.png)|4.46|2984|4483|7911|1773|7768|7621|1708|7484|18800
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
+![](/item/6673.png)![](/item/3072.png)![](/item/3161.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3046.png)|5.55|2484|3771|11950|2154|11177|7288|1313|6816|18550
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3814.png)|6.04|2623|3928|11054|1830|10391|8514|1410|8004|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3814.png)![](/item/3142.png)|6.04|2623|3928|11054|1830|10391|8514|1410|8004|18500
 {{< /tab >}}
 {{< tab "TK_AD_BURST_AP_BURST" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP burst damage damage
@@ -12234,7 +12225,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12242,6 +12233,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12297,14 +12289,12 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
-![](/item/3031.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3070|4605|5501|1410|5395|5300|1358|5198|18800
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/6673.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3814.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.46|2984|4483|7911|1773|7768|7621|1708|7484|18800
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
+![](/item/6673.png)![](/item/3072.png)![](/item/3161.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
-![](/item/6673.png)![](/item/3814.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)|6.04|2623|3928|11054|1830|10391|8514|1410|8004|18500
-![](/item/6673.png)![](/item/3814.png)![](/item/3078.png)![](/item/3139.png)![](/item/3033.png)![](/item/3181.png)|6.72|2429|3437|9671|1438|9429|9317|1386|9084|18733
+![](/item/6673.png)![](/item/3814.png)![](/item/6333.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.04|2623|3928|11054|1830|10391|8514|1410|8004|18500
 {{< /tab >}}
 {{< tab "TK_APEHP_ADEHP" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
@@ -12313,7 +12303,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12321,6 +12311,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12376,15 +12367,13 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3814.png)![](/item/3142.png)|3.9|3331|4949|6195|1588|6023|4726|1211|4594|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3046.png)|4.24|2870|4356|8615|2031|8396|6571|1549|6404|18850
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3814.png)![](/item/3142.png)|4.46|2984|4483|7911|1773|7768|7621|1708|7484|18800
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3161.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
+![](/item/6673.png)![](/item/3072.png)![](/item/3161.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2986|4372|9517|1908|9294|7260|1455|7089|18500
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3046.png)|5.55|2484|3771|11950|2154|11177|7288|1313|6816|18550
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3814.png)|6.04|2623|3928|11054|1830|10391|8514|1410|8004|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3814.png)![](/item/3142.png)|6.04|2623|3928|11054|1830|10391|8514|1410|8004|18500
 {{< /tab >}}
 {{< tab "TK_ADEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AD damage divided by kill time
@@ -12393,7 +12382,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12401,6 +12390,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12456,9 +12446,9 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)![](/item/6673.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
-![](/item/6673.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
+![](/item/6673.png)![](/item/6333.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 {{< /tab >}}
 {{< tab "TK_APEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AP damage divided by kill time
@@ -12467,7 +12457,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12475,6 +12465,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12530,7 +12521,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3204|4771|6189|1632|6023|4720|1245|4594|18900
 ![](/item/3031.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3070|4605|5501|1410|5395|5300|1358|5198|18800
 ![](/item/3031.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
@@ -12542,7 +12533,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12550,6 +12541,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12611,10 +12603,8 @@ Sorted by ult damage, then effective hp against sustained AD damage
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/6673.png)|4.99|3150|4242|9706|1946|9493|7403|1484|7241|18700
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/6333.png)|5.51|3037|4075|10439|1893|9718|6366|1154|5926|19000
-![](/item/3814.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)|6.04|2850|3959|10642|1762|9855|6490|1074|6010|19000
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3142.png)![](/item/3033.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3046.png)![](/item/3033.png)|5.55|2484|3771|11950|2154|11177|7288|1313|6816|18550
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3006.png)![](/item/3033.png)|6.29|2376|3598|12007|1907|11177|7322|1163|6816|17000
+![](/item/3814.png)![](/item/6333.png)![](/item/3072.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.04|2850|3959|10642|1762|9855|6490|1074|6010|19000
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 {{< /tab >}}
 {{< tab "ULT_APEHP" >}}
 Sorted by ult damage, then effective hp against sustained AP damage
@@ -12623,7 +12613,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12631,6 +12621,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12693,11 +12684,11 @@ Sorted by ult damage, then effective hp against sustained AP damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/6673.png)|4.99|3150|4242|9706|1946|9493|7403|1484|7241|18700
 ![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3156.png)![](/item/3814.png)![](/item/3142.png)|5.51|3037|4075|7533|1366|7120|9183|1666|8786|18800
-![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3181.png)|6.04|2850|3919|7513|1244|7020|9196|1523|8722|18500
-![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)|6.04|2850|3959|7712|1277|7220|9388|1554|8914|18800
+![](/item/3072.png)![](/item/3156.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3181.png)|6.04|2850|3919|7513|1244|7020|9196|1523|8722|18500
+![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|6.04|2850|3959|7712|1277|7220|9388|1554|8914|18800
 ![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3814.png)|6.12|2793|3787|6911|1130|6492|10216|1670|9727|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.2|2346|3307|7583|1053|7056|10962|1522|10349|18833
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
+![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.51|2208|3426|5885|903|5395|10629|1631|9949|18100
 {{< /tab >}}
 {{< tab "ULT_AD_BURST" >}}
 Sorted by ult damage, then effective hp against burst AD damage
@@ -12706,7 +12697,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12714,6 +12705,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12773,8 +12765,8 @@ Sorted by ult damage, then effective hp against burst AD damage
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.99|3150|4242|9706|1946|9493|7403|1484|7241|18700
 ![](/item/3072.png)![](/item/2501.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|3037|4075|10439|1893|9718|6366|1154|5926|19000
-![](/item/3072.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|6.04|2850|3959|10642|1762|9855|6490|1074|6010|19000
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
+![](/item/3072.png)![](/item/3748.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.04|2850|3959|10642|1762|9855|6490|1074|6010|19000
+![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 {{< /tab >}}
 {{< tab "ULT_AP_BURST" >}}
 Sorted by ult damage, then effective hp against burst AP damage
@@ -12783,7 +12775,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Edge of Night', 'Mortal Reminder']
+**Forced Items** ['Edge of Night', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12791,6 +12783,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 ![](/item/3814.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12851,10 +12844,10 @@ Sorted by ult damage, then effective hp against burst AP damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|4.99|3150|4242|9706|1946|9493|7403|1484|7241|18700
 ![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3072.png)![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)|5.51|3037|4075|7533|1366|7120|9183|1666|8786|18800
-![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3814.png)![](/item/3033.png)|6.04|2850|3959|7712|1277|7220|9388|1554|8914|18800
+![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|6.04|2850|3959|7712|1277|7220|9388|1554|8914|18800
 ![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.12|2793|3787|6911|1130|6492|10216|1670|9727|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.2|2346|3307|7583|1053|7056|10962|1522|10349|18833
+![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.12|2617|3681|7020|1147|6592|10381|1697|9883|18600
+![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.51|2208|3426|5885|903|5395|10629|1631|9949|18100
 {{< /tab >}}
 {{< /tabs >}}
 {{< /tab >}}
@@ -12867,7 +12860,7 @@ Sorted by kill time, then by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12875,6 +12868,7 @@ Sorted by kill time, then by ult damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -12930,10 +12924,10 @@ Sorted by kill time, then by ult damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3031.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/2501.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.99|3209|4353|8402|1685|8116|5229|1048|5051|19500
+![](/item/2501.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.99|3209|4353|8402|1685|8116|5229|1048|5051|19500
 {{< /tab >}}
 {{< tab "ULT_AAQAA" >}}
 Sorted by Ult damage then aaqaa damage
@@ -12942,7 +12936,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -12950,6 +12944,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13005,7 +13000,7 @@ Sorted by Ult damage then aaqaa damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/2501.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.99|3209|4353|8402|1685|8116|5229|1048|5051|19500
+![](/item/2501.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.99|3209|4353|8402|1685|8116|5229|1048|5051|19500
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
 {{< /tab >}}
 {{< tab "AAQAA" >}}
@@ -13015,7 +13010,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13023,6 +13018,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13116,7 +13112,7 @@ Sorted by kill time
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13124,6 +13120,7 @@ Sorted by kill time
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13182,8 +13179,6 @@ Sorted by kill time
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3153.png)![](/item/3026.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3074.png)![](/item/3026.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3046.png)|4.24|2820|4285|7035|1658|6772|4378|1032|4214|19050
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3074.png)![](/item/3046.png)![](/item/3026.png)|4.24|2728|4170|6206|1463|6002|3862|910|3735|18950
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3072.png)![](/item/3026.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3032.png)![](/item/3142.png)![](/item/3026.png)|4.26|2865|4271|7004|1645|6772|4359|1024|4214|18500
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3074.png)![](/item/3026.png)|4.26|2971|4460|6210|1459|6002|3865|908|3735|19000
@@ -13193,22 +13188,24 @@ Sorted by kill time
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6697.png)![](/item/3026.png)|4.46|3132|4628|7027|1575|6772|4373|980|4214|19200
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6698.png)![](/item/3026.png)|4.46|3132|4628|7027|1575|6772|4373|980|4214|19400
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6699.png)![](/item/3026.png)|4.46|3102|4618|7025|1574|6772|4372|980|4214|19200
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/6699.png)|4.46|2968|4418|7000|1569|6772|4356|976|4214|18600
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)![](/item/6699.png)|4.46|2968|4418|7000|1569|6772|4356|976|4214|18600
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)![](/item/6696.png)|4.46|3102|4587|7025|1574|6772|4372|980|4214|19200
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/6696.png)|4.46|2968|4386|7000|1569|6772|4356|976|4214|18600
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)![](/item/6696.png)|4.46|2968|4386|7000|1569|6772|4356|976|4214|18600
 ![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3074.png)![](/item/3026.png)![](/item/3142.png)|4.46|3030|4542|6214|1393|6002|3867|866|3735|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3026.png)![](/item/3142.png)|4.46|3060|4560|7019|1573|6772|4368|979|4214|19100
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3026.png)![](/item/3142.png)|4.46|2926|4362|6995|1568|6772|4353|975|4214|18500
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3508.png)|4.46|2923|4349|7009|1571|6772|4362|977|4214|18500
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3026.png)![](/item/3142.png)|4.46|2923|4349|7009|1571|6772|4362|977|4214|18500
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)![](/item/6695.png)|4.46|3067|4538|7022|1574|6772|4370|979|4214|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)![](/item/6701.png)|4.46|3139|4538|7022|1574|6772|4370|979|4214|18900
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/6695.png)|4.46|2933|4337|6997|1568|6772|4355|976|4214|18100
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/6701.png)|4.46|3004|4337|6997|1568|6772|4355|976|4214|18300
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)![](/item/6695.png)|4.46|2933|4337|6997|1568|6772|4355|976|4214|18100
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)![](/item/6701.png)|4.46|3004|4337|6997|1568|6772|4355|976|4214|18300
 ![](/item/3031.png)![](/item/3033.png)![](/item/3074.png)![](/item/3026.png)![](/item/3142.png)![](/item/6673.png)|4.46|3001|4501|9121|2044|8910|5676|1272|5545|19100
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/6673.png)|4.46|2894|4310|9915|2222|9680|6170|1383|6024|18600
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6673.png)![](/item/3026.png)![](/item/3142.png)|4.46|2894|4310|9915|2222|9680|6170|1383|6024|18600
 ![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3074.png)![](/item/3026.png)![](/item/3142.png)|4.46|3043|4520|6201|1390|6002|3859|865|3735|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3074.png)![](/item/3026.png)![](/item/3142.png)|4.46|3043|4520|6201|1390|6002|3859|865|3735|19300
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3814.png)![](/item/3142.png)|4.46|3037|4512|7631|1710|7383|4749|1064|4594|19200
+![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3074.png)![](/item/3026.png)![](/item/3142.png)|4.46|3013|4510|6199|1389|6002|3858|864|3735|19100
+![](/item/6676.png)![](/item/3033.png)![](/item/3074.png)![](/item/3026.png)![](/item/3142.png)![](/item/6697.png)|4.46|2909|4306|6181|1385|6002|3847|862|3735|18500
 {{< /tab >}}
 {{< tab "ULT" >}}
 Sorted by ult damage
@@ -13217,7 +13214,7 @@ Sorted by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13225,6 +13222,7 @@ Sorted by ult damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13318,7 +13316,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13326,6 +13324,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13392,19 +13391,15 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/2501.png)![](/item/3026.png)![](/item/3142.png)|5.51|3041|4089|8401|1524|8116|5228|948|5051|18900
 ![](/item/3142.png)![](/item/3031.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/6696.png)|4.46|3013|4480|6199|1389|6002|3858|864|3735|19100
 ![](/item/3142.png)![](/item/2501.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/6696.png)|5.63|2949|3987|7608|1350|7346|4735|840|4572|18800
-![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3508.png)|4.99|2910|4305|7054|1414|6772|4390|880|4214|18500
+![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3026.png)![](/item/3142.png)|4.99|2910|4305|7054|1414|6772|4390|880|4214|18500
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3026.png)![](/item/3142.png)|4.99|2908|4308|7033|1410|6772|4376|877|4214|18500
-![](/item/6701.png)![](/item/3074.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/6696.png)|5.51|2905|4174|6249|1133|6002|3889|705|3735|18200
-![](/item/3142.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/6696.png)![](/item/6697.png)|4.99|2898|4261|6212|1245|6002|3866|775|3735|18500
-![](/item/3142.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/6696.png)![](/item/6698.png)|4.99|2898|4261|6212|1245|6002|3866|775|3735|18700
+![](/item/6701.png)![](/item/3074.png)![](/item/6696.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2905|4174|6249|1133|6002|3889|705|3735|18200
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/3026.png)![](/item/3033.png)![](/item/6697.png)|4.99|2898|4261|6212|1245|6002|3866|775|3735|18500
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/3026.png)![](/item/3033.png)![](/item/6698.png)|4.99|2898|4261|6212|1245|6002|3866|775|3735|18700
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3026.png)![](/item/3142.png)|5.58|2883|3961|8211|1471|7872|5110|915|4899|18600
 ![](/item/3142.png)![](/item/3004.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/6696.png)|5.41|2826|4198|6250|1154|6002|3889|718|3735|18400
-![](/item/3142.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/3508.png)![](/item/6696.png)|4.99|2825|4190|6221|1247|6002|3872|776|3735|18400
+![](/item/3142.png)![](/item/3074.png)![](/item/3508.png)![](/item/3026.png)![](/item/3033.png)![](/item/6696.png)|4.99|2825|4190|6221|1247|6002|3872|776|3735|18400
 ![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.58|2795|3851|7365|1319|7102|4583|821|4420|18500
-![](/item/6696.png)![](/item/3073.png)![](/item/3046.png)![](/item/3026.png)![](/item/3033.png)![](/item/3074.png)|6.11|2421|3427|7457|1220|7102|4640|759|4420|18350
-![](/item/6696.png)![](/item/3073.png)![](/item/3006.png)![](/item/3026.png)![](/item/3033.png)![](/item/3074.png)|6.66|2311|3264|7449|1119|7102|4636|696|4420|16800
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/3172.png)|6.52|2311|3264|7449|1142|7102|4636|710|4420|18800
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3026.png)![](/item/3033.png)![](/item/1001.png)|6.91|2311|3264|7449|1078|7102|4636|671|4420|16000
 {{< /tab >}}
 {{< tab "TK_ADEHP" >}}
 Sorted by kill time, then by effective hp against sustained AD damage
@@ -13413,7 +13408,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13421,6 +13416,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13476,19 +13472,17 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3074.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3026.png)|4.24|2820|4285|7035|1658|6772|4378|1032|4214|19050
-![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
+![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
 ![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3120|4650|7045|1579|6772|4384|982|4214|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3046.png)![](/item/3026.png)![](/item/3072.png)|4.68|2754|4203|10010|2140|9680|6229|1332|6024|19050
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
+![](/item/3072.png)![](/item/6673.png)![](/item/3032.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.7|2789|4165|9967|2121|9680|6203|1320|6024|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3508.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2845|4241|9973|1999|9680|6206|1244|6024|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3814.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/3161.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3046.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3172.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
 {{< /tab >}}
 {{< tab "TK_APEHP" >}}
 Sorted by kill time, then by effective hp against sustained AP damage
@@ -13497,7 +13491,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13505,6 +13499,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13560,24 +13555,22 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3074.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3026.png)|4.24|2820|4285|7035|1658|6772|4378|1032|4214|19050
-![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
+![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3120|4650|7045|1579|6772|4384|982|4214|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3046.png)![](/item/3026.png)![](/item/3072.png)|4.68|2754|4203|10010|2140|9680|6229|1332|6024|19050
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)|4.84|2706|4144|6444|1330|6002|7007|1447|6660|19100
+![](/item/3032.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|4.7|2789|4165|9967|2121|9680|6203|1320|6024|18500
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.84|2706|4144|6444|1330|6002|7007|1447|6660|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)|4.99|2929|4359|7317|1467|6772|7824|1568|7395|19300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|5.51|2706|4068|6502|1179|6002|8521|1545|8047|19100
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)|5.72|2623|3894|10168|1777|8880|8674|1516|7834|19000
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/6610.png)|5.81|2723|3849|8632|1485|7749|8759|1507|8066|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.72|2623|3894|10168|1777|8880|8674|1516|7834|19000
+![](/item/3156.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|5.81|2723|3849|8632|1485|7749|8759|1507|8066|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/2501.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.04|2872|3890|8680|1437|8116|8765|1451|8322|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.07|2318|3560|7463|1230|6772|9517|1569|8847|18500
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|6.12|2521|3757|7684|1256|6772|9683|1583|8817|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3091.png)![](/item/3026.png)![](/item/3142.png)|6.51|2114|3304|6575|1009|6002|9929|1524|9280|18300
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3026.png)![](/item/3181.png)|7.7|2252|3196|8711|1131|8038|10428|1354|9788|19033
 {{< /tab >}}
 {{< tab "TK_ADEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AD burst damage
@@ -13586,7 +13579,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13594,6 +13587,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13649,10 +13643,10 @@ Sorted by kill time, then by effective hp against AD burst damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/3814.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
 {{< /tab >}}
@@ -13663,7 +13657,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13671,6 +13665,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13726,21 +13721,20 @@ Sorted by kill time, then by effective hp against AP burst damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)|4.84|2706|4144|6444|1330|6002|7007|1447|6660|19100
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.84|2706|4144|6444|1330|6002|7007|1447|6660|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2929|4359|7317|1467|6772|7824|1568|7395|19300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2706|4068|6502|1179|6002|8521|1545|8047|19100
 ![](/item/3156.png)![](/item/3004.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.72|2541|3820|6478|1132|6002|8542|1493|8090|18400
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/6631.png)|6.01|2723|3757|8537|1421|7872|8685|1445|8162|19000
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)|6.04|2750|4038|8462|1401|7872|8642|1431|8178|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6631.png)|6.01|2723|3757|8537|1421|7872|8685|1445|8162|19000
+![](/item/3156.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.04|2750|4038|8462|1401|7872|8642|1431|8178|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/2501.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.04|2872|3890|8680|1437|8116|8765|1451|8322|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.07|2318|3560|7463|1230|6772|9517|1569|8847|18500
-![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)|6.12|2531|3757|7624|1246|7102|9489|1551|8993|18600
+![](/item/3156.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.12|2531|3757|7624|1246|7102|9489|1551|8993|18600
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.51|2114|3304|6575|1009|6002|9929|1524|9280|18300
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)|6.56|2503|3529|8031|1223|7468|9856|1501|9322|18800
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|7.7|2252|3196|8711|1131|8038|10428|1354|9788|19033
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.56|2503|3529|8031|1223|7468|9856|1501|9322|18800
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AP burst damage
@@ -13749,7 +13743,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13757,6 +13751,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13812,22 +13807,17 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3074.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3026.png)|4.24|2820|4285|7035|1658|6772|4378|1032|4214|19050
-![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
+![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3120|4650|7045|1579|6772|4384|982|4214|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3046.png)![](/item/3026.png)![](/item/3072.png)|4.68|2754|4203|10010|2140|9680|6229|1332|6024|19050
+![](/item/3032.png)![](/item/6673.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.7|2789|4165|9967|2121|9680|6203|1320|6024|18500
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3026.png)![](/item/3142.png)|4.99|2852|4297|9124|1829|8910|7171|1438|7003|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3046.png)![](/item/3072.png)![](/item/3026.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3172.png)![](/item/3026.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3026.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/3078.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|7.2|2333|3311|11259|1564|10946|8850|1229|8604|18933
+![](/item/6673.png)![](/item/3072.png)![](/item/3161.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3026.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
 {{< /tab >}}
 {{< tab "TK_ADEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AD burst damage
@@ -13836,7 +13826,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13844,6 +13834,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13899,19 +13890,17 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3074.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3026.png)|4.24|2820|4285|7035|1658|6772|4378|1032|4214|19050
-![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
+![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
 ![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3120|4650|7045|1579|6772|4384|982|4214|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3046.png)![](/item/3026.png)![](/item/3072.png)|4.68|2754|4203|10010|2140|9680|6229|1332|6024|19050
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
+![](/item/3032.png)![](/item/6673.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.7|2789|4165|9967|2121|9680|6203|1320|6024|18500
+![](/item/6673.png)![](/item/3508.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2845|4241|9973|1999|9680|6206|1244|6024|18500
+![](/item/3072.png)![](/item/6673.png)![](/item/3814.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
+![](/item/3072.png)![](/item/6673.png)![](/item/3161.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3046.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3172.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
 {{< /tab >}}
 {{< tab "TK_APEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AP burst damage
@@ -13920,7 +13909,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -13928,6 +13917,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -13983,26 +13973,24 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3074.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3026.png)|4.24|2820|4285|7035|1658|6772|4378|1032|4214|19050
-![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
+![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3120|4650|7045|1579|6772|4384|982|4214|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3046.png)![](/item/3026.png)![](/item/3072.png)|4.68|2754|4203|10010|2140|9680|6229|1332|6024|19050
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)|4.84|2706|4144|6444|1330|6002|7007|1447|6660|19100
+![](/item/3032.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|4.7|2789|4165|9967|2121|9680|6203|1320|6024|18500
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.84|2706|4144|6444|1330|6002|7007|1447|6660|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)|4.99|2929|4359|7317|1467|6772|7824|1568|7395|19300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|5.51|2706|4068|6502|1179|6002|8521|1545|8047|19100
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3004.png)![](/item/3026.png)![](/item/3142.png)|5.72|2541|3820|6478|1132|6002|8542|1493|8090|18400
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/6610.png)|5.81|2723|3849|8632|1485|7749|8759|1507|8066|18800
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/6631.png)|6.01|2723|3757|8537|1421|7872|8685|1445|8162|19000
+![](/item/3156.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|5.81|2723|3849|8632|1485|7749|8759|1507|8066|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6631.png)|6.01|2723|3757|8537|1421|7872|8685|1445|8162|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/2501.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.04|2872|3890|8680|1437|8116|8765|1451|8322|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.07|2318|3560|7463|1230|6772|9517|1569|8847|18500
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|6.12|2521|3757|7684|1256|6772|9683|1583|8817|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3073.png)![](/item/3026.png)![](/item/3142.png)|6.47|2503|3494|7727|1195|7102|9567|1479|8974|18500
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3091.png)![](/item/3026.png)![](/item/3142.png)|6.51|2114|3304|6575|1009|6002|9929|1524|9280|18300
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3026.png)![](/item/3181.png)|7.7|2252|3196|8711|1131|8038|10428|1354|9788|19033
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AD burst damage
@@ -14011,7 +13999,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14019,6 +14007,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14074,22 +14063,18 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3074.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3026.png)|4.24|2820|4285|7035|1658|6772|4378|1032|4214|19050
-![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
+![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3120|4650|7045|1579|6772|4384|982|4214|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3046.png)![](/item/3026.png)![](/item/3072.png)|4.68|2754|4203|10010|2140|9680|6229|1332|6024|19050
+![](/item/6673.png)![](/item/3072.png)![](/item/3032.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.7|2789|4165|9967|2121|9680|6203|1320|6024|18500
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3026.png)![](/item/3142.png)|4.99|2852|4297|9124|1829|8910|7171|1438|7003|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3046.png)![](/item/3072.png)![](/item/3026.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3172.png)![](/item/3026.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3026.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/3078.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|7.2|2333|3311|11259|1564|10946|8850|1229|8604|18933
+![](/item/6673.png)![](/item/3072.png)![](/item/3814.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
+![](/item/6673.png)![](/item/3072.png)![](/item/3161.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3026.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
 {{< /tab >}}
 {{< tab "TK_AD_BURST_AP_BURST" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP burst damage damage
@@ -14098,7 +14083,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14106,6 +14091,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14161,16 +14147,15 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
 ![](/item/6673.png)![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
 ![](/item/6673.png)![](/item/3031.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2852|4297|9124|1829|8910|7171|1438|7003|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
+![](/item/6673.png)![](/item/3072.png)![](/item/3814.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
 ![](/item/6673.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/3072.png)![](/item/3078.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|6.25|2549|3574|12133|1942|11716|7550|1208|7291|19133
-![](/item/6673.png)![](/item/3078.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|7.2|2333|3311|11259|1564|10946|8850|1229|8604|18933
+![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
+![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
+![](/item/6673.png)![](/item/3748.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.41|2594|3669|10628|1657|10377|8354|1302|8156|18700
 {{< /tab >}}
 {{< tab "TK_APEHP_ADEHP" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
@@ -14179,7 +14164,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14187,6 +14172,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14242,22 +14228,18 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3074.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3082|4602|6158|1578|6002|3832|982|3735|19100
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3026.png)![](/item/3142.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
-![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3026.png)|4.24|2820|4285|7035|1658|6772|4378|1032|4214|19050
-![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
+![](/item/3032.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3060|4583|7040|1654|6772|4381|1029|4214|19100
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3120|4650|7045|1579|6772|4384|982|4214|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3026.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3046.png)![](/item/3026.png)![](/item/3072.png)|4.68|2754|4203|10010|2140|9680|6229|1332|6024|19050
+![](/item/6673.png)![](/item/3072.png)![](/item/3032.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.7|2789|4165|9967|2121|9680|6203|1320|6024|18500
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3026.png)![](/item/3142.png)|4.99|2852|4297|9124|1829|8910|7171|1438|7003|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3814.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3161.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3046.png)![](/item/3072.png)![](/item/3026.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3172.png)![](/item/3026.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3026.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/3078.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|7.2|2333|3311|11259|1564|10946|8850|1229|8604|18933
+![](/item/6673.png)![](/item/3072.png)![](/item/3814.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2821|4183|10565|2118|10291|6575|1318|6404|18600
+![](/item/6673.png)![](/item/3072.png)![](/item/3161.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|4190|11095|2012|10780|6905|1252|6709|18700
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3026.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
 {{< /tab >}}
 {{< tab "TK_ADEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AD damage divided by kill time
@@ -14266,7 +14248,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14274,6 +14256,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14329,10 +14312,10 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
 ![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/6673.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
+![](/item/6673.png)![](/item/6333.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
 {{< /tab >}}
 {{< tab "TK_APEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AP damage divided by kill time
@@ -14341,7 +14324,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14349,6 +14332,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14404,10 +14388,10 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
+![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2929|4468|6135|1595|6002|3818|993|3735|19000
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3175|4729|6972|1787|6772|4339|1112|4214|19200
 ![](/item/3031.png)![](/item/3072.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3153.png)|4.84|2706|4144|6444|1330|6002|7007|1447|6660|19100
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.84|2706|4144|6444|1330|6002|7007|1447|6660|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2929|4359|7317|1467|6772|7824|1568|7395|19300
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.07|2318|3560|7463|1230|6772|9517|1569|8847|18500
 ![](/item/3156.png)![](/item/3072.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.12|2521|3757|7684|1256|6772|9683|1583|8817|18900
@@ -14419,7 +14403,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14427,6 +14411,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14486,10 +14471,8 @@ Sorted by ult damage, then effective hp against sustained AD damage
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)![](/item/6673.png)|5.51|2979|4049|11325|2054|11024|7048|1278|6861|18900
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)![](/item/6333.png)|6.04|2872|3890|11558|1914|10661|5971|988|5508|19200
-![](/item/3072.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|6.12|2723|3793|11801|1929|10823|6097|996|5592|19200
+![](/item/3072.png)![](/item/3748.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.12|2723|3793|11801|1929|10823|6097|996|5592|19200
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3046.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3006.png)|6.29|2280|3475|13348|2120|12384|6896|1095|6398|17200
 {{< /tab >}}
 {{< tab "ULT_APEHP" >}}
 Sorted by ult damage, then effective hp against sustained AP damage
@@ -14498,7 +14481,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14506,6 +14489,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14566,11 +14550,11 @@ Sorted by ult damage, then effective hp against sustained AP damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)![](/item/6673.png)|5.51|2979|4049|11325|2054|11024|7048|1278|6861|18900
 ![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2929|4359|7317|1467|6772|7824|1568|7395|19300
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3156.png)![](/item/3026.png)![](/item/3142.png)|6.04|2872|3890|8680|1437|8116|8765|1451|8322|19000
-![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|6.12|2723|3757|8659|1415|7994|8781|1435|8258|18700
-![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)|6.12|2723|3793|8904|1455|8238|8973|1467|8450|19000
+![](/item/3072.png)![](/item/3156.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/3181.png)|6.12|2723|3757|8659|1415|7994|8781|1435|8258|18700
+![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.12|2723|3793|8904|1455|8238|8973|1467|8450|19000
 ![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3026.png)![](/item/3142.png)|6.56|2642|3617|7897|1203|7346|9690|1476|9167|18800
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/3026.png)|6.56|2503|3529|8031|1223|7468|9856|1501|9322|18800
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|7.7|2252|3196|8711|1131|8038|10428|1354|9788|19033
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)|6.56|2503|3529|8031|1223|7468|9856|1501|9322|18800
+![](/item/3156.png)![](/item/3139.png)![](/item/3091.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.51|2114|3304|6575|1009|6002|9929|1524|9280|18300
 {{< /tab >}}
 {{< tab "ULT_AD_BURST" >}}
 Sorted by ult damage, then effective hp against burst AD damage
@@ -14579,7 +14563,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14587,6 +14571,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14645,7 +14630,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|3209|4353|8402|1685|8116|5229|1048|5051|19500
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.46|3090|4610|9951|2230|9680|6192|1388|6024|19200
 ![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2979|4049|11325|2054|11024|7048|1278|6861|18900
-![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)![](/item/3748.png)|6.04|2824|3948|11506|1905|11147|7160|1185|6937|18900
+![](/item/3072.png)![](/item/6673.png)![](/item/3748.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.04|2824|3948|11506|1905|11147|7160|1185|6937|18900
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
 {{< /tab >}}
 {{< tab "ULT_AP_BURST" >}}
@@ -14655,7 +14640,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Guardian Angel', 'Mortal Reminder']
+**Forced Items** ['Guardian Angel', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14663,6 +14648,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 ![](/item/3026.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14723,10 +14709,9 @@ Sorted by ult damage, then effective hp against burst AP damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|5.51|2979|4049|11325|2054|11024|7048|1278|6861|18900
 ![](/item/3072.png)![](/item/3156.png)![](/item/3031.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|4.99|2929|4359|7317|1467|6772|7824|1568|7395|19300
 ![](/item/3072.png)![](/item/3156.png)![](/item/2501.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.04|2872|3890|8680|1437|8116|8765|1451|8322|19000
-![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)|6.12|2723|3793|8904|1455|8238|8973|1467|8450|19000
+![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.12|2723|3793|8904|1455|8238|8973|1467|8450|19000
 ![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.56|2642|3617|7897|1203|7346|9690|1476|9167|18800
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)![](/item/3026.png)![](/item/3033.png)|6.56|2503|3529|8031|1223|7468|9856|1501|9322|18800
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3026.png)![](/item/3033.png)![](/item/3181.png)|7.7|2252|3196|8711|1131|8038|10428|1354|9788|19033
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|6.56|2503|3529|8031|1223|7468|9856|1501|9322|18800
 {{< /tab >}}
 {{< /tabs >}}
 {{< /tab >}}
@@ -14739,7 +14724,7 @@ Sorted by kill time, then by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14747,6 +14732,7 @@ Sorted by kill time, then by ult damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14802,10 +14788,10 @@ Sorted by kill time, then by ult damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3031.png)![](/item/3153.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3031.png)![](/item/3074.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3031.png)![](/item/3072.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
-![](/item/2501.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.99|3241|4393|7046|1413|6622|8779|1760|8370|19400
+![](/item/2501.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.99|3241|4393|7046|1413|6622|8779|1760|8370|19400
 {{< /tab >}}
 {{< tab "ULT_AAQAA" >}}
 Sorted by Ult damage then aaqaa damage
@@ -14814,7 +14800,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14822,6 +14808,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14877,7 +14864,7 @@ Sorted by Ult damage then aaqaa damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/2501.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.99|3241|4393|7046|1413|6622|8779|1760|8370|19400
+![](/item/2501.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.99|3241|4393|7046|1413|6622|8779|1760|8370|19400
 ![](/item/3031.png)![](/item/3072.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 {{< /tab >}}
 {{< tab "AAQAA" >}}
@@ -14887,7 +14874,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14895,6 +14882,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -14988,7 +14976,7 @@ Sorted by kill time
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -14996,6 +14984,7 @@ Sorted by kill time
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15054,33 +15043,33 @@ Sorted by kill time
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3153.png)![](/item/3156.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3074.png)![](/item/3156.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/6697.png)|3.9|3027|4467|5777|1481|5525|7589|1945|7346|18500
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/6698.png)|3.9|3027|4467|5777|1481|5525|7589|1945|7346|18700
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3046.png)|4.24|2850|4328|5915|1394|5525|7576|1786|7200|18950
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3074.png)![](/item/3046.png)![](/item/3156.png)|4.24|2758|4213|5233|1233|4897|6870|1619|6546|18850
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/6697.png)|3.9|3027|4467|5777|1481|5525|7589|1945|7346|18500
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/6698.png)|3.9|3027|4467|5777|1481|5525|7589|1945|7346|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3072.png)![](/item/3156.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3074.png)![](/item/3156.png)|4.26|3001|4501|5240|1231|4897|7055|1657|6725|18900
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3032.png)![](/item/3142.png)![](/item/3156.png)|4.26|2894|4310|5870|1379|5525|7646|1796|7314|18400
 ![](/item/6676.png)![](/item/3033.png)![](/item/3074.png)![](/item/3032.png)![](/item/3156.png)![](/item/3142.png)|4.26|2807|4192|5194|1220|4897|6947|1632|6660|18300
 ![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3142.png)![](/item/3153.png)![](/item/3156.png)|4.36|2912|4441|5220|1197|4897|6988|1603|6676|18800
-![](/item/6676.png)![](/item/3033.png)![](/item/3153.png)![](/item/3142.png)![](/item/3156.png)![](/item/6697.png)|4.36|2790|4225|5178|1188|4897|6882|1579|6611|18300
-![](/item/6676.png)![](/item/3033.png)![](/item/3153.png)![](/item/3142.png)![](/item/3156.png)![](/item/6698.png)|4.36|2790|4225|5178|1188|4897|6882|1579|6611|18500
+![](/item/6676.png)![](/item/3033.png)![](/item/3153.png)![](/item/3156.png)![](/item/3142.png)![](/item/6697.png)|4.36|2790|4225|5178|1188|4897|6882|1579|6611|18300
+![](/item/6676.png)![](/item/3033.png)![](/item/3153.png)![](/item/3156.png)![](/item/3142.png)![](/item/6698.png)|4.36|2790|4225|5178|1188|4897|6882|1579|6611|18500
 ![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3142.png)![](/item/3153.png)![](/item/3156.png)|4.36|2924|4424|5202|1193|4897|6970|1599|6676|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3142.png)![](/item/3153.png)![](/item/3156.png)|4.36|2924|4424|5202|1193|4897|6970|1599|6676|19100
-![](/item/6676.png)![](/item/3033.png)![](/item/3153.png)![](/item/3142.png)![](/item/3156.png)![](/item/6699.png)|4.36|2761|4216|5176|1187|4897|6864|1574|6595|18300
-![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3142.png)![](/item/3156.png)![](/item/3153.png)|4.36|2894|4414|5199|1193|4897|6951|1594|6660|18900
+![](/item/6676.png)![](/item/3033.png)![](/item/3153.png)![](/item/3156.png)![](/item/3142.png)![](/item/6699.png)|4.36|2761|4216|5176|1187|4897|6864|1574|6595|18300
+![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3153.png)![](/item/3156.png)![](/item/3142.png)|4.36|2894|4414|5199|1193|4897|6951|1594|6660|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)![](/item/3156.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6697.png)![](/item/3156.png)|4.46|3162|4668|5904|1323|5525|7776|1743|7411|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6698.png)![](/item/3156.png)|4.46|3162|4668|5904|1323|5525|7776|1743|7411|19300
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6699.png)![](/item/3156.png)|4.46|3132|4658|5900|1322|5525|7756|1738|7395|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/6696.png)|4.46|3132|4628|5900|1322|5525|7756|1738|7395|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3074.png)![](/item/3156.png)![](/item/3142.png)|4.46|3060|4583|5247|1176|4897|7094|1590|6757|18900
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3508.png)|4.46|2952|4389|5876|1317|5525|7685|1722|7346|18400
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3156.png)![](/item/3142.png)|4.46|2952|4389|5876|1317|5525|7685|1722|7346|18400
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3156.png)![](/item/3142.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3156.png)![](/item/3142.png)|4.46|2954|4400|5855|1312|5525|7733|1733|7414|18400
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/6695.png)|4.46|3096|4578|5896|1321|5525|7502|1681|7145|18600
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/6701.png)|4.46|3169|4578|5896|1321|5525|7752|1737|7395|18800
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/6695.png)|4.46|2962|4377|5859|1313|5525|7402|1659|7080|18000
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/6695.png)|4.46|2962|4377|5859|1313|5525|7402|1659|7080|18000
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3156.png)![](/item/3142.png)![](/item/6701.png)|4.46|3034|4377|5859|1313|5525|7652|1715|7330|18200
+![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3074.png)![](/item/3156.png)![](/item/3142.png)|4.46|3073|4547|5224|1171|4897|7073|1585|6757|19000
 {{< /tab >}}
 {{< tab "ULT" >}}
 Sorted by ult damage
@@ -15089,7 +15078,7 @@ Sorted by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15097,6 +15086,7 @@ Sorted by ult damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15190,7 +15180,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15198,6 +15188,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15264,19 +15255,15 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/2501.png)![](/item/3156.png)![](/item/3142.png)|5.51|3072|4127|7044|1277|6622|8728|1583|8322|18800
 ![](/item/3142.png)![](/item/3031.png)![](/item/3074.png)![](/item/3156.png)![](/item/3033.png)![](/item/6696.png)|4.46|3043|4520|5221|1170|4897|7054|1581|6741|19000
 ![](/item/3142.png)![](/item/2501.png)![](/item/3074.png)![](/item/3156.png)![](/item/3033.png)![](/item/6696.png)|5.51|2980|4025|6425|1165|5993|8084|1466|7668|18700
-![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3508.png)|4.99|2939|4344|5944|1191|5525|7766|1557|7362|18400
-![](/item/6701.png)![](/item/3074.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/6696.png)|5.41|2935|4212|5310|981|4897|7091|1310|6692|18100
+![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3156.png)![](/item/3142.png)|4.99|2939|4344|5944|1191|5525|7766|1557|7362|18400
+![](/item/6701.png)![](/item/3074.png)![](/item/6696.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)|5.41|2935|4212|5310|981|4897|7091|1310|6692|18100
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3156.png)![](/item/3142.png)|4.99|2935|4344|5911|1185|5525|7803|1564|7430|18400
-![](/item/3142.png)![](/item/3074.png)![](/item/3156.png)![](/item/3033.png)![](/item/6696.png)![](/item/6697.png)|4.99|2927|4301|5243|1051|4897|7042|1412|6709|18400
-![](/item/3142.png)![](/item/3074.png)![](/item/3156.png)![](/item/3033.png)![](/item/6696.png)![](/item/6698.png)|4.99|2927|4301|5243|1051|4897|7042|1412|6709|18600
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/3156.png)![](/item/3033.png)![](/item/6697.png)|4.99|2927|4301|5243|1051|4897|7042|1412|6709|18400
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/3156.png)![](/item/3033.png)![](/item/6698.png)|4.99|2927|4301|5243|1051|4897|7042|1412|6709|18600
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3156.png)![](/item/3142.png)|5.58|2912|3998|6925|1240|6422|8647|1549|8162|18500
-![](/item/3142.png)![](/item/3074.png)![](/item/3156.png)![](/item/3033.png)![](/item/3508.png)![](/item/6696.png)|4.99|2853|4228|5258|1054|4897|7057|1415|6709|18300
+![](/item/3142.png)![](/item/3074.png)![](/item/3508.png)![](/item/3156.png)![](/item/3033.png)![](/item/6696.png)|4.99|2853|4228|5258|1054|4897|7057|1415|6709|18300
 ![](/item/3142.png)![](/item/3004.png)![](/item/3074.png)![](/item/3156.png)![](/item/3033.png)![](/item/6696.png)|4.99|2853|4235|5231|1049|4897|7099|1423|6777|18300
 ![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3033.png)![](/item/3156.png)![](/item/3142.png)|5.39|2824|3888|6234|1157|5794|7932|1473|7508|18400
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3033.png)![](/item/3156.png)![](/item/3046.png)|5.71|2450|3463|6320|1107|5794|7837|1372|7330|18250
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3033.png)![](/item/3156.png)![](/item/3006.png)|6.66|2338|3298|6367|956|5794|7882|1184|7330|16700
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3033.png)![](/item/3156.png)![](/item/3172.png)|6.64|2338|3298|6367|958|5794|7882|1186|7330|18700
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3033.png)![](/item/3156.png)![](/item/1001.png)|7.09|2338|3298|6367|898|5794|7882|1111|7330|15900
 {{< /tab >}}
 {{< tab "TK_ADEHP" >}}
 Sorted by kill time, then by effective hp against sustained AD damage
@@ -15285,7 +15272,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15293,6 +15280,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15348,27 +15336,23 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3074.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
-![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3156.png)|4.24|2850|4328|5915|1394|5525|7576|1786|7200|18950
-![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
+![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
-![](/item/3156.png)![](/item/3031.png)![](/item/3046.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)|4.68|2772|4155|6852|1465|6422|8463|1809|8048|19050
-![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6333.png)|4.84|2733|4180|7636|1577|6737|7841|1619|7148|19200
+![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3073.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.84|2733|4180|7636|1577|6737|7841|1619|7148|19200
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
-![](/item/3156.png)![](/item/3031.png)![](/item/3046.png)![](/item/3033.png)![](/item/3072.png)![](/item/6333.png)|5.11|2651|4026|8616|1685|7523|8547|1671|7704|19250
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3814.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/6333.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
+![](/item/3032.png)![](/item/3072.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.14|2721|4057|8575|1668|7523|8629|1678|7818|18700
+![](/item/3156.png)![](/item/3072.png)![](/item/3508.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2775|4117|8598|1559|7523|8678|1574|7850|18700
+![](/item/3156.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
 ![](/item/3156.png)![](/item/3026.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2623|3894|10168|1777|8880|8674|1516|7834|19000
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3156.png)![](/item/3026.png)![](/item/3046.png)![](/item/3033.png)![](/item/3072.png)![](/item/6333.png)|5.98|2305|3499|10249|1713|8880|8549|1428|7656|18850
-![](/item/3156.png)![](/item/3046.png)![](/item/3072.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|6.42|2408|3440|10371|1615|9169|9801|1526|8875|18950
-![](/item/3156.png)![](/item/3072.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
+![](/item/3156.png)![](/item/3072.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
 {{< /tab >}}
 {{< tab "TK_APEHP" >}}
 Sorted by kill time, then by effective hp against sustained AP damage
@@ -15377,7 +15361,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15385,6 +15369,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15440,7 +15425,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3074.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
@@ -15463,11 +15448,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/6610.png)![](/item/3142.png)|6.04|2640|3755|7299|1208|6322|10824|1792|9687|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.07|2421|3502|7267|1198|6721|10859|1790|10210|18600
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
-![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.66|2175|3164|7784|1169|7186|11398|1712|10686|18833
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3091.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|7.2|2381|3348|8080|1122|7186|11658|1619|10617|19233
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3078.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3091.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
 {{< /tab >}}
 {{< tab "TK_ADEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AD burst damage
@@ -15476,7 +15457,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15484,6 +15465,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15539,18 +15521,17 @@ Sorted by kill time, then by effective hp against AD burst damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3031.png)![](/item/3153.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
-![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/6333.png)|4.84|2733|4180|7636|1577|6737|7841|1619|7148|19200
+![](/item/3031.png)![](/item/3153.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.84|2733|4180|7636|1577|6737|7841|1619|7148|19200
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3814.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3161.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
+![](/item/3072.png)![](/item/3814.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
+![](/item/3072.png)![](/item/3161.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
 ![](/item/3072.png)![](/item/3026.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2623|3894|10168|1777|8880|8674|1516|7834|19000
 ![](/item/3072.png)![](/item/2501.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2901|3926|10066|1760|9032|9712|1698|8915|19100
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3072.png)![](/item/3078.png)![](/item/3156.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
+![](/item/3072.png)![](/item/3748.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
 {{< /tab >}}
 {{< tab "TK_APEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AP burst damage
@@ -15559,7 +15540,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15567,6 +15548,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15622,11 +15604,11 @@ Sorted by kill time, then by effective hp against AP burst damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3156.png)![](/item/3031.png)![](/item/3074.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3142.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
-![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
+![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
 ![](/item/3156.png)![](/item/3072.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|4.99|3241|4393|7046|1413|6622|8779|1760|8370|19400
@@ -15637,20 +15619,15 @@ Sorted by kill time, then by effective hp against AP burst damage
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3033.png)![](/item/3748.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.69|2343|3594|8568|1504|7523|10443|1833|9449|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3078.png)![](/item/3033.png)![](/item/3142.png)|5.83|2221|3439|6730|1153|6189|10204|1749|9560|18633
-![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|5.84|2552|3605|7028|1203|6558|10395|1780|9847|19433
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3073.png)![](/item/3033.png)![](/item/3142.png)|5.98|2421|3467|6968|1165|6422|10503|1756|9854|18300
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|6.0|2448|3712|6929|1155|6422|10477|1747|9874|18400
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.07|2555|3575|7156|1179|6622|10686|1761|10051|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.07|2421|3502|7267|1198|6721|10859|1790|10210|18600
-![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)|6.12|2448|3687|7403|1210|6990|10808|1767|10327|18700
+![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.12|2448|3687|7403|1210|6990|10808|1767|10327|18700
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|6.51|2228|3429|6262|961|5794|11131|1708|10480|18200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.66|2175|3164|7784|1169|7186|11398|1712|10686|18833
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
-![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AP burst damage
@@ -15659,7 +15636,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15667,6 +15644,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15722,26 +15700,24 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3074.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
-![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
+![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
-![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
+![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
-![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
+![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3073.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
 ![](/item/3156.png)![](/item/3004.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2770|4115|8573|1555|7523|8727|1583|7918|18700
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3814.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/6333.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
+![](/item/3156.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
 ![](/item/3156.png)![](/item/3072.png)![](/item/3073.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.69|2750|3792|9900|1739|8757|9616|1689|8736|18800
 ![](/item/3156.png)![](/item/2501.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2901|3926|10066|1760|9032|9712|1698|8915|19100
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|6.56|2531|3564|9375|1428|8383|10974|1671|10051|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
-![](/item/3156.png)![](/item/3078.png)![](/item/3139.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|7.2|2278|3229|10050|1396|9023|11528|1601|10571|19133
+![](/item/3156.png)![](/item/3072.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.56|2531|3564|9375|1428|8383|10974|1671|10051|18900
 {{< /tab >}}
 {{< tab "TK_ADEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AD burst damage
@@ -15750,7 +15726,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15758,6 +15734,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15813,28 +15790,25 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3031.png)![](/item/3153.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3074.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
-![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/3046.png)![](/item/3156.png)|4.24|2850|4328|5915|1394|5525|7576|1786|7200|18950
-![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
+![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
-![](/item/3072.png)![](/item/3031.png)![](/item/3046.png)![](/item/3156.png)![](/item/3033.png)![](/item/3161.png)|4.68|2772|4155|6852|1465|6422|8463|1809|8048|19050
-![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
-![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)|4.84|2733|4180|7636|1577|6737|7841|1619|7148|19200
+![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3073.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
+![](/item/6333.png)![](/item/3031.png)![](/item/3153.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)|4.84|2733|4180|7636|1577|6737|7841|1619|7148|19200
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
-![](/item/3072.png)![](/item/3031.png)![](/item/3046.png)![](/item/3156.png)![](/item/3033.png)![](/item/6333.png)|5.11|2651|4026|8616|1685|7523|8547|1671|7704|19250
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3814.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3161.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/6333.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
+![](/item/3032.png)![](/item/3072.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.14|2721|4057|8575|1668|7523|8629|1678|7818|18700
+![](/item/3072.png)![](/item/3508.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2775|4117|8598|1559|7523|8678|1574|7850|18700
+![](/item/3072.png)![](/item/3814.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
+![](/item/3072.png)![](/item/3161.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
+![](/item/3072.png)![](/item/6333.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
 ![](/item/3072.png)![](/item/3073.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.69|2750|3792|9900|1739|8757|9616|1689|8736|18800
 ![](/item/3072.png)![](/item/3026.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2623|3894|10168|1777|8880|8674|1516|7834|19000
 ![](/item/3072.png)![](/item/2501.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2901|3926|10066|1760|9032|9712|1698|8915|19100
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3072.png)![](/item/3046.png)![](/item/3156.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|6.42|2408|3440|10371|1615|9169|9801|1526|8875|18950
-![](/item/3072.png)![](/item/3078.png)![](/item/3156.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
+![](/item/3072.png)![](/item/3748.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
 {{< /tab >}}
 {{< tab "TK_APEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AP burst damage
@@ -15843,7 +15817,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15851,6 +15825,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -15906,7 +15881,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3074.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
@@ -15924,7 +15899,6 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3031.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|5.62|2399|3725|5323|947|4897|9942|1770|9350|18700
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.69|2343|3594|8568|1504|7523|10443|1833|9449|18600
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3078.png)![](/item/3181.png)|5.84|2552|3605|7028|1203|6558|10395|1780|9847|19433
 ![](/item/3156.png)![](/item/3072.png)![](/item/3033.png)![](/item/3073.png)![](/item/3091.png)![](/item/3142.png)|5.98|2421|3467|6968|1165|6422|10503|1756|9854|18300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3161.png)|6.04|2668|3928|7064|1169|6422|10569|1750|9822|18800
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6610.png)|6.04|2640|3755|7299|1208|6322|10824|1792|9687|18800
@@ -15932,10 +15906,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.07|2421|3502|7267|1198|6721|10859|1790|10210|18600
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|6.51|2228|3429|6262|961|5794|11131|1708|10480|18200
-![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.66|2175|3164|7784|1169|7186|11398|1712|10686|18833
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3091.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/2501.png)![](/item/3078.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3078.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AD burst damage
@@ -15944,7 +15915,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -15952,6 +15923,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16007,25 +15979,23 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3074.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
-![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
+![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
-![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
+![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
-![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
+![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3073.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
 ![](/item/3156.png)![](/item/3004.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2770|4115|8573|1555|7523|8727|1583|7918|18700
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3814.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
+![](/item/3156.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
 ![](/item/3156.png)![](/item/3072.png)![](/item/3073.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.69|2750|3792|9900|1739|8757|9616|1689|8736|18800
 ![](/item/3156.png)![](/item/2501.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2901|3926|10066|1760|9032|9712|1698|8915|19100
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|6.56|2531|3564|9375|1428|8383|10974|1671|10051|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
-![](/item/3156.png)![](/item/3078.png)![](/item/3139.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|7.2|2278|3229|10050|1396|9023|11528|1601|10571|19133
+![](/item/3156.png)![](/item/3072.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.56|2531|3564|9375|1428|8383|10974|1671|10051|18900
 {{< /tab >}}
 {{< tab "TK_AD_BURST_AP_BURST" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP burst damage damage
@@ -16034,7 +16004,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16042,6 +16012,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16097,22 +16068,20 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3156.png)![](/item/3031.png)![](/item/3074.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
-![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
+![](/item/3156.png)![](/item/3004.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3088|4598|5892|1320|5525|7832|1755|7479|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)![](/item/3814.png)|5.51|2879|4200|7355|1334|6921|9060|1643|8642|18600
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3814.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
+![](/item/3156.png)![](/item/3072.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|5.51|2879|4200|7355|1334|6921|9060|1643|8642|18600
+![](/item/3156.png)![](/item/3072.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
 ![](/item/3156.png)![](/item/2501.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2901|3926|10066|1760|9032|9712|1698|8915|19100
-![](/item/3156.png)![](/item/3072.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|6.56|2531|3564|9375|1428|8383|10974|1671|10051|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
-![](/item/3156.png)![](/item/3078.png)![](/item/3139.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|7.2|2278|3229|10050|1396|9023|11528|1601|10571|19133
+![](/item/3156.png)![](/item/3072.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.56|2531|3564|9375|1428|8383|10974|1671|10051|18900
 {{< /tab >}}
 {{< tab "TK_APEHP_ADEHP" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
@@ -16121,7 +16090,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16129,6 +16098,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16184,26 +16154,23 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3074.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3113|4645|5153|1321|4897|6972|1787|6725|19000
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/3156.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
-![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
+![](/item/3032.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.26|3090|4610|5922|1391|5525|7761|1823|7378|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|3149|4691|5929|1329|5525|7801|1748|7411|19000
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|4.46|3067|4538|6391|1432|6023|8213|1841|7859|19100
 ![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
-![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
+![](/item/3156.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)![](/item/3073.png)|4.7|3073|4245|6855|1459|6422|8628|1836|8211|19100
 ![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)![](/item/3033.png)![](/item/3508.png)|5.51|2775|4117|8598|1559|7523|8678|1574|7850|18700
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3508.png)![](/item/3033.png)![](/item/3142.png)|5.51|2775|4117|8598|1559|7523|8678|1574|7850|18700
 ![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3004.png)![](/item/3033.png)![](/item/3142.png)|5.51|2770|4115|8573|1555|7523|8727|1583|7918|18700
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)![](/item/3033.png)![](/item/3814.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)![](/item/3033.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|5.51|2746|4051|9224|1673|8209|9128|1656|8346|18800
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
 ![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|5.72|2901|3926|10066|1760|9032|9712|1698|8915|19100
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)![](/item/3033.png)![](/item/3748.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3046.png)![](/item/3033.png)![](/item/3748.png)|6.42|2408|3440|10371|1615|9169|9801|1526|8875|18950
-![](/item/3156.png)![](/item/3748.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)|6.56|2531|3564|9375|1428|8383|10974|1671|10051|18900
-![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
-![](/item/3156.png)![](/item/3078.png)![](/item/3139.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|7.2|2278|3229|10050|1396|9023|11528|1601|10571|19133
+![](/item/3156.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
+![](/item/3156.png)![](/item/3748.png)![](/item/6333.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.56|2531|3564|9375|1428|8383|10974|1671|10051|18900
 {{< /tab >}}
 {{< tab "TK_ADEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AD damage divided by kill time
@@ -16212,7 +16179,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16220,6 +16187,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16275,14 +16243,14 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3031.png)![](/item/3153.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3103|4557|6774|1518|6422|8566|1920|8227|19200
-![](/item/3031.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3153.png)![](/item/6333.png)|4.84|2733|4180|7636|1577|6737|7841|1619|7148|19200
+![](/item/3031.png)![](/item/3153.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.84|2733|4180|7636|1577|6737|7841|1619|7148|19200
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3161.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/6333.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
+![](/item/3072.png)![](/item/3161.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.51|2778|4075|9742|1767|8757|9511|1725|8753|18900
+![](/item/3072.png)![](/item/6333.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|5.59|2750|3884|9983|1785|8620|9680|1731|8631|18900
+![](/item/3072.png)![](/item/3748.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
 {{< /tab >}}
 {{< tab "TK_APEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AP damage divided by kill time
@@ -16291,7 +16259,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16299,6 +16267,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16354,7 +16323,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.85|2959|4508|5137|1336|4897|6875|1788|6644|18900
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3206|4772|5822|1492|5525|7665|1965|7378|19100
 {{< /tab >}}
 {{< tab "ULT_ADEHP" >}}
@@ -16364,7 +16333,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16372,6 +16341,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16433,8 +16403,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3156.png)![](/item/3142.png)![](/item/3814.png)|5.51|3037|4075|7533|1366|7120|9183|1666|8786|18800
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3156.png)![](/item/3142.png)![](/item/6333.png)|5.72|2901|3926|10066|1760|9032|9712|1698|8915|19100
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3072.png)![](/item/3078.png)![](/item/3156.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
+![](/item/3072.png)![](/item/3748.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
 {{< /tab >}}
 {{< tab "ULT_APEHP" >}}
 Sorted by ult damage, then effective hp against sustained AP damage
@@ -16443,7 +16412,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16451,6 +16420,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16518,10 +16488,8 @@ Sorted by ult damage, then effective hp against sustained AP damage
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|6.12|2640|3701|7444|1217|6721|10992|1797|10151|19000
 ![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|6.56|2421|3523|7593|1156|6891|11009|1677|10192|18700
-![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3078.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/3181.png)![](/item/3078.png)![](/item/3033.png)|7.2|2381|3348|8080|1122|7186|11658|1619|10617|19233
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3078.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3091.png)![](/item/3033.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
+![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3091.png)![](/item/3142.png)|6.96|2324|3299|6477|930|5993|11359|1631|10687|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3091.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
 {{< /tab >}}
 {{< tab "ULT_AD_BURST" >}}
 Sorted by ult damage, then effective hp against burst AD damage
@@ -16530,7 +16498,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16538,6 +16506,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16598,8 +16567,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)|5.51|3037|4075|7533|1366|7120|9183|1666|8786|18800
 ![](/item/3072.png)![](/item/3031.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|4.99|2956|4397|8575|1719|7523|8693|1743|7883|19400
 ![](/item/3072.png)![](/item/2501.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2901|3926|10066|1760|9032|9712|1698|8915|19100
-![](/item/3072.png)![](/item/3142.png)![](/item/3156.png)![](/item/3033.png)![](/item/3748.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
-![](/item/3072.png)![](/item/3078.png)![](/item/3156.png)![](/item/3033.png)![](/item/3181.png)![](/item/6333.png)|6.72|2485|3467|11017|1638|9808|10415|1549|9484|19333
+![](/item/3072.png)![](/item/3748.png)![](/item/3156.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|5.72|2750|3827|10226|1788|9169|9867|1725|9053|19100
 {{< /tab >}}
 {{< tab "ULT_AP_BURST" >}}
 Sorted by ult damage, then effective hp against burst AP damage
@@ -16608,7 +16576,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Maw of Malmortius', 'Mortal Reminder']
+**Forced Items** ['Maw of Malmortius', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16616,6 +16584,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 ![](/item/3156.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16681,9 +16650,8 @@ Sorted by ult damage, then effective hp against burst AP damage
 ![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2640|3701|7444|1217|6721|10992|1797|10151|19000
 ![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|6.12|2636|3820|7295|1192|6891|10642|1740|10172|18700
 ![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
-![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3091.png)![](/item/3033.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
+![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.96|2324|3299|6477|930|5993|11359|1631|10687|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
 {{< /tab >}}
 {{< /tabs >}}
 {{< /tab >}}
@@ -16696,7 +16664,7 @@ Sorted by kill time, then by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16704,6 +16672,7 @@ Sorted by kill time, then by ult damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16759,9 +16728,9 @@ Sorted by kill time, then by ult damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/6673.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
-![](/item/2501.png)![](/item/3031.png)![](/item/6673.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3418|4641|9205|2063|8994|7021|1573|6861|19300
+![](/item/2501.png)![](/item/3031.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3418|4641|9205|2063|8994|7021|1573|6861|19300
 {{< /tab >}}
 {{< tab "ULT_AAQAA" >}}
 Sorted by Ult damage then aaqaa damage
@@ -16770,7 +16739,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16778,6 +16747,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16833,7 +16803,7 @@ Sorted by Ult damage then aaqaa damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/2501.png)![](/item/3031.png)![](/item/6673.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|4.46|3418|4641|9205|2063|8994|7021|1573|6861|19300
+![](/item/2501.png)![](/item/3031.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)|4.46|3418|4641|9205|2063|8994|7021|1573|6861|19300
 ![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 {{< /tab >}}
 {{< tab "AAQAA" >}}
@@ -16843,7 +16813,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16851,6 +16821,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -16944,7 +16915,7 @@ Sorted by kill time
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -16952,6 +16923,7 @@ Sorted by kill time
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17020,22 +16992,22 @@ Sorted by kill time
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6696.png)|3.9|3305|4910|8068|2068|7898|6154|1577|6024|19000
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3074.png)![](/item/6673.png)|3.9|3271|4903|7411|1900|7270|5653|1449|5545|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/6673.png)![](/item/3142.png)|3.9|3259|4877|8064|2067|7898|6151|1577|6024|18900
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6697.png)|3.9|3134|4629|8049|2063|7898|6140|1574|6024|18400
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6698.png)|3.9|3134|4629|8049|2063|7898|6140|1574|6024|18600
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/6697.png)|3.9|3134|4629|8049|2063|7898|6140|1574|6024|18400
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/6698.png)|3.9|3134|4629|8049|2063|7898|6140|1574|6024|18600
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6695.png)|3.9|3267|4857|7249|1858|7081|5530|1417|5401|18500
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6701.png)|3.9|3344|4857|8066|2068|7898|6152|1577|6024|18700
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6699.png)|3.9|3103|4618|8048|2063|7898|6139|1573|6024|18400
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/6699.png)|3.9|3103|4618|8048|2063|7898|6139|1573|6024|18400
 ![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3074.png)![](/item/6673.png)![](/item/3142.png)|3.9|3216|4824|7409|1899|7270|5651|1448|5545|18800
 ![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3074.png)![](/item/3142.png)![](/item/6673.png)|3.9|3241|4823|7403|1898|7270|5647|1447|5545|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3074.png)![](/item/3142.png)![](/item/6673.png)|3.9|3241|4823|7403|1898|7270|5647|1447|5545|19100
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6696.png)|3.9|3103|4586|8048|2063|7898|6139|1573|6024|18400
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/6696.png)|3.9|3103|4586|8048|2063|7898|6139|1573|6024|18400
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/3814.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/3161.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3074.png)![](/item/3142.png)![](/item/6673.png)|3.9|3210|4810|7402|1897|7270|5646|1447|5545|18900
 ![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/3142.png)![](/item/6673.png)|3.9|3059|4558|8044|2062|7898|6136|1573|6024|18300
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)![](/item/6673.png)|3.9|3050|4551|8051|2064|7898|6141|1574|6024|18300
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6695.png)|3.9|3066|4550|7230|1853|7081|5515|1413|5401|17900
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/6701.png)|3.9|3141|4550|8046|2062|7898|6137|1573|6024|18100
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3142.png)![](/item/6673.png)|3.9|3050|4551|8051|2064|7898|6141|1574|6024|18300
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/6695.png)|3.9|3066|4550|7230|1853|7081|5515|1413|5401|17900
+![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/6673.png)![](/item/3142.png)![](/item/6701.png)|3.9|3141|4550|8046|2062|7898|6137|1573|6024|18100
 ![](/item/3031.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)![](/item/6673.png)![](/item/6696.png)|3.9|3210|4779|7402|1897|7270|5646|1447|5545|18900
 {{< /tab >}}
 {{< tab "ULT" >}}
@@ -17045,7 +17017,7 @@ Sorted by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17053,6 +17025,7 @@ Sorted by ult damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17146,7 +17119,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17154,6 +17127,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17220,18 +17194,14 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 ![](/item/3142.png)![](/item/3031.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/6696.png)|3.9|3210|4779|7402|1897|7270|5646|1447|5545|18900
 ![](/item/3142.png)![](/item/2501.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/6696.png)|5.51|3089|4176|8570|1554|8366|6537|1185|6382|18600
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3004.png)![](/item/6673.png)![](/item/3142.png)|4.46|3045|4512|8087|1812|7898|6169|1382|6024|18300
-![](/item/6701.png)![](/item/3074.png)![](/item/3142.png)![](/item/6673.png)![](/item/3033.png)![](/item/6696.png)|4.99|3044|4388|7458|1495|7270|5689|1140|5545|18000
-![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)![](/item/3508.png)|4.46|3043|4516|8099|1815|7898|6178|1384|6024|18300
-![](/item/3142.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/6696.png)![](/item/6697.png)|4.46|3036|4481|7422|1663|7270|5662|1269|5545|18300
-![](/item/3142.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/6696.png)![](/item/6698.png)|4.46|3036|4481|7422|1663|7270|5662|1269|5545|18500
+![](/item/6701.png)![](/item/3074.png)![](/item/6696.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)|4.99|3044|4388|7458|1495|7270|5689|1140|5545|18000
+![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/6673.png)![](/item/3142.png)|4.46|3043|4516|8099|1815|7898|6178|1384|6024|18300
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/6673.png)![](/item/3033.png)![](/item/6697.png)|4.46|3036|4481|7422|1663|7270|5662|1269|5545|18300
+![](/item/3142.png)![](/item/3074.png)![](/item/6696.png)![](/item/6673.png)![](/item/3033.png)![](/item/6698.png)|4.46|3036|4481|7422|1663|7270|5662|1269|5545|18500
 ![](/item/6696.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/3142.png)|5.14|3020|4151|9063|1763|8795|6913|1345|6709|18400
 ![](/item/3142.png)![](/item/3004.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/6696.png)|4.99|2960|4411|7456|1495|7270|5687|1140|5545|18200
-![](/item/3142.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/3508.png)![](/item/6696.png)|4.99|2953|4394|7469|1497|7270|5697|1142|5545|18200
+![](/item/3142.png)![](/item/3074.png)![](/item/3508.png)![](/item/6673.png)![](/item/3033.png)![](/item/6696.png)|4.99|2953|4394|7469|1497|7270|5697|1142|5545|18200
 ![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)|5.14|2928|4048|8375|1629|8167|6388|1242|6230|18300
-![](/item/6696.png)![](/item/3073.png)![](/item/3046.png)![](/item/6673.png)![](/item/3033.png)![](/item/3074.png)|5.59|2531|3579|8421|1506|8167|6424|1149|6230|18150
-![](/item/6696.png)![](/item/3073.png)![](/item/3006.png)![](/item/6673.png)![](/item/3033.png)![](/item/3074.png)|6.24|2421|3427|8457|1354|8167|6450|1033|6230|16600
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/3172.png)|6.12|2421|3427|8457|1381|8167|6450|1053|6230|18600
-![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/6673.png)![](/item/3033.png)![](/item/1001.png)|6.47|2421|3427|8457|1307|8167|6450|997|6230|15800
 {{< /tab >}}
 {{< tab "TK_ADEHP" >}}
 Sorted by kill time, then by effective hp against sustained AD damage
@@ -17240,7 +17210,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17248,6 +17218,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17307,18 +17278,15 @@ Sorted by kill time, then by effective hp against sustained AD damage
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6697.png)|4.99|2939|4344|11255|2257|10491|6864|1376|6398|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)|4.99|2873|4279|11266|2259|10491|6870|1377|6398|18600
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3142.png)|4.99|2873|4279|11266|2259|10491|6870|1377|6398|18600
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3072.png)![](/item/3142.png)|4.99|2874|4288|11270|2259|10491|6873|1378|6398|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3046.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3172.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "TK_APEHP" >}}
 Sorted by kill time, then by effective hp against sustained AP damage
@@ -17327,7 +17295,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17335,6 +17303,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17393,32 +17362,25 @@ Sorted by kill time, then by effective hp against sustained AP damage
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3139.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3046.png)![](/item/3072.png)![](/item/3139.png)|4.68|2665|4080|8332|1781|7898|8027|1716|7609|19050
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3091.png)![](/item/3142.png)|4.72|2763|4252|8151|1726|7898|8057|1706|7807|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3046.png)![](/item/3072.png)![](/item/3091.png)|4.91|2428|3826|8188|1666|7898|8094|1647|7807|18650
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3091.png)|4.72|2763|4252|8151|1726|7898|8057|1706|7807|18800
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)|4.99|2984|4209|8635|1731|8466|8319|1668|8156|19100
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|5.17|2526|3935|7458|1443|7270|8868|1715|8644|18600
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3091.png)![](/item/3142.png)![](/item/3139.png)|5.17|2526|3935|7458|1443|7270|8868|1715|8644|18600
 ![](/item/3072.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|5.51|2766|4087|9211|1670|8795|8873|1609|8473|18700
-![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|5.58|2737|3804|9269|1660|8795|8929|1599|8473|18600
+![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|5.58|2737|3804|9269|1660|8795|8929|1599|8473|18600
 ![](/item/3072.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|5.62|2536|3855|9063|1613|8795|8958|1594|8694|18300
-![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3091.png)![](/item/3142.png)|5.72|2507|3591|9094|1588|8795|8989|1570|8694|18200
-![](/item/3078.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3748.png)![](/item/6672.png)|5.99|2279|3369|9334|1558|9130|8992|1501|8796|19133
-![](/item/2501.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.02|2701|3701|9459|1570|9264|9112|1512|8924|18500
+![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3091.png)|5.72|2507|3591|9094|1588|8795|8989|1570|8694|18200
+![](/item/2501.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.02|2701|3701|9459|1570|9264|9112|1512|8924|18500
 ![](/item/3072.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.04|2737|3839|9568|1584|9094|9217|1526|8761|18900
 ![](/item/3072.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.07|2507|3626|9393|1548|9094|9285|1530|8989|18500
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.07|2215|3456|10334|1703|9705|9825|1619|9226|18300
 ![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/6673.png)![](/item/3142.png)|6.07|2321|3591|8396|1384|7898|9984|1646|9391|18400
-![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3181.png)![](/item/6672.png)|6.37|2084|3158|8475|1330|8267|10077|1581|9830|18300
-![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/6673.png)![](/item/3046.png)|6.51|1991|3176|8527|1309|7898|10140|1556|9391|18250
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.51|2277|3355|8694|1334|8466|10337|1587|10067|18300
-![](/item/3046.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3748.png)|6.91|1924|2936|8714|1260|8466|10361|1498|10067|18150
-![](/item/3078.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3181.png)|7.07|2035|3018|9175|1298|8931|10910|1543|10619|18533
 {{< /tab >}}
 {{< tab "TK_ADEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AD burst damage
@@ -17427,7 +17389,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17435,6 +17397,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17493,12 +17456,11 @@ Sorted by kill time, then by effective hp against AD burst damage
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3032.png)![](/item/3033.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "TK_APEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AP burst damage
@@ -17507,7 +17469,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17515,6 +17477,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17570,26 +17533,22 @@ Sorted by kill time, then by effective hp against AP burst damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
-![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
 ![](/item/3031.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
-![](/item/2501.png)![](/item/3031.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
+![](/item/2501.png)![](/item/3031.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
 ![](/item/3031.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|4.99|2984|4209|8635|1731|8466|8319|1668|8156|19100
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|5.17|2526|3935|7458|1443|7270|8868|1715|8644|18600
 ![](/item/3072.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|5.62|2536|3855|9063|1613|8795|8958|1594|8694|18300
-![](/item/2501.png)![](/item/3078.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/6672.png)|5.99|2443|3471|9229|1541|9030|8891|1484|8700|19133
-![](/item/3078.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3748.png)![](/item/6672.png)|5.99|2279|3369|9334|1558|9130|8992|1501|8796|19133
-![](/item/2501.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.02|2701|3701|9459|1570|9264|9112|1512|8924|18500
-![](/item/3139.png)![](/item/3142.png)![](/item/6673.png)![](/item/3033.png)![](/item/3161.png)![](/item/3748.png)|6.04|2536|3818|9542|1580|9363|9193|1522|9021|18600
+![](/item/3073.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.02|2536|3789|9269|1538|9064|8929|1482|8732|18300
+![](/item/2501.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.02|2701|3701|9459|1570|9264|9112|1512|8924|18500
+![](/item/3139.png)![](/item/3161.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.04|2536|3818|9542|1580|9363|9193|1522|9021|18600
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.07|2215|3456|10334|1703|9705|9825|1619|9226|18300
 ![](/item/3072.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.07|2321|3591|8396|1384|7898|9984|1646|9391|18400
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3078.png)![](/item/3033.png)![](/item/3142.png)|6.24|2087|3291|8159|1306|7934|9702|1553|9434|18333
-![](/item/3072.png)![](/item/3091.png)![](/item/6673.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.24|2251|3284|9895|1584|9559|9781|1566|9448|18733
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3073.png)![](/item/3033.png)![](/item/3142.png)|6.37|2277|3320|8395|1318|8167|9982|1567|9711|18000
-![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3181.png)![](/item/6672.png)|6.37|2084|3158|8475|1330|8267|10077|1581|9830|18300
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.51|2277|3355|8694|1334|8466|10337|1587|10067|18300
-![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.07|2035|3018|9175|1298|8931|10910|1543|10619|18533
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AP burst damage
@@ -17598,7 +17557,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17606,6 +17565,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17665,21 +17625,17 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3072.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3046.png)|5.98|2489|3556|12923|2159|12137|7881|1317|7402|18850
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|6.07|2215|3456|10334|1703|9705|9825|1619|9226|18300
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_ADEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AD burst damage
@@ -17688,7 +17644,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17696,6 +17652,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17755,18 +17712,15 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 ![](/item/3072.png)![](/item/3033.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6697.png)|4.99|2939|4344|11255|2257|10491|6864|1376|6398|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3508.png)|4.99|2873|4279|11266|2259|10491|6870|1377|6398|18600
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3508.png)![](/item/3142.png)|4.99|2873|4279|11266|2259|10491|6870|1377|6398|18600
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3072.png)![](/item/3142.png)|4.99|2874|4288|11270|2259|10491|6873|1378|6398|18600
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3046.png)|5.98|2384|3630|13348|2230|12384|6896|1152|6398|18750
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3172.png)|6.1|2280|3475|13348|2186|12384|6896|1129|6398|19200
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "TK_APEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AP burst damage
@@ -17775,7 +17729,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17783,6 +17737,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17841,28 +17796,23 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3072.png)![](/item/3142.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3033.png)![](/item/3072.png)![](/item/6676.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|3.9|3369|5039|8080|2071|7898|6163|1580|6024|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3139.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3046.png)![](/item/3072.png)![](/item/3091.png)|4.91|2428|3826|8188|1666|7898|8094|1647|7807|18650
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)|4.99|2984|4209|8635|1731|8466|8319|1668|8156|19100
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|5.17|2526|3935|7458|1443|7270|8868|1715|8644|18600
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3091.png)![](/item/3142.png)![](/item/3139.png)|5.17|2526|3935|7458|1443|7270|8868|1715|8644|18600
 ![](/item/3072.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|5.62|2536|3855|9063|1613|8795|8958|1594|8694|18300
-![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3091.png)![](/item/3142.png)|5.72|2507|3591|9094|1588|8795|8989|1570|8694|18200
-![](/item/3078.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3748.png)![](/item/6672.png)|5.99|2279|3369|9334|1558|9130|8992|1501|8796|19133
-![](/item/2501.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.02|2701|3701|9459|1570|9264|9112|1512|8924|18500
-![](/item/3139.png)![](/item/3142.png)![](/item/6673.png)![](/item/3033.png)![](/item/3161.png)![](/item/3748.png)|6.04|2536|3818|9542|1580|9363|9193|1522|9021|18600
+![](/item/3072.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3091.png)|5.72|2507|3591|9094|1588|8795|8989|1570|8694|18200
+![](/item/2501.png)![](/item/3073.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.02|2701|3701|9459|1570|9264|9112|1512|8924|18500
+![](/item/3139.png)![](/item/3161.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.04|2536|3818|9542|1580|9363|9193|1522|9021|18600
 ![](/item/3072.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.07|2507|3626|9393|1548|9094|9285|1530|8989|18500
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.07|2215|3456|10334|1703|9705|9825|1619|9226|18300
 ![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/6673.png)![](/item/3142.png)|6.07|2321|3591|8396|1384|7898|9984|1646|9391|18400
-![](/item/3073.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.37|2277|3320|8395|1318|8167|9982|1567|9711|18000
-![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3181.png)![](/item/6672.png)|6.37|2084|3158|8475|1330|8267|10077|1581|9830|18300
+![](/item/3073.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.37|2277|3320|8395|1318|8167|9982|1567|9711|18000
 ![](/item/3091.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.51|2277|3355|8694|1334|8466|10337|1587|10067|18300
-![](/item/3046.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3748.png)|6.91|1924|2936|8714|1260|8466|10361|1498|10067|18150
-![](/item/3078.png)![](/item/3091.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3181.png)|7.07|2035|3018|9175|1298|8931|10910|1543|10619|18533
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AD burst damage
@@ -17871,7 +17821,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17879,6 +17829,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -17939,21 +17890,17 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3072.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3046.png)|5.98|2489|3556|12923|2159|12137|7881|1317|7402|18850
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3091.png)![](/item/3139.png)![](/item/3142.png)|6.07|2215|3456|10334|1703|9705|9825|1619|9226|18300
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_AD_BURST_AP_BURST" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP burst damage damage
@@ -17962,7 +17909,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -17970,6 +17917,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18035,12 +17983,9 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.07|2215|3456|10334|1703|9705|9825|1619|9226|18300
+![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_APEHP_ADEHP" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
@@ -18049,7 +17994,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18057,6 +18002,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18117,21 +18063,20 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3073.png)![](/item/3142.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3073.png)|4.26|3241|4501|9010|2116|8795|6872|1614|6709|19000
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3153.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3072.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3814.png)![](/item/3142.png)|4.99|2849|4221|11921|2390|11177|7270|1457|6816|18700
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3161.png)![](/item/3142.png)|4.99|2881|4228|12451|2496|11725|7593|1522|7151|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3072.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
-![](/item/6673.png)![](/item/3072.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3046.png)|5.98|2489|3556|12923|2159|12137|7881|1317|7402|18850
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
 ![](/item/6673.png)![](/item/6610.png)![](/item/3139.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)|6.04|2622|3727|11745|1945|10803|9046|1498|8321|18600
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_ADEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AD damage divided by kill time
@@ -18140,7 +18085,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18148,6 +18093,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18203,10 +18149,10 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3814.png)![](/item/6673.png)|3.9|3235|4814|8563|2195|8396|6532|1674|6404|19000
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)![](/item/6673.png)|3.9|3273|4814|8956|2296|8795|6831|1751|6709|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3153.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
+![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3153.png)![](/item/3033.png)![](/item/3142.png)|4.36|2882|4402|10327|2369|9705|6298|1445|5919|19100
 ![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)|4.46|3120|4650|11254|2522|10491|6863|1538|6398|19300
 {{< /tab >}}
 {{< tab "TK_APEHP_D_TK" >}}
@@ -18216,7 +18162,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18224,6 +18170,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18279,7 +18226,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3072.png)![](/item/6673.png)|3.79|3248|4868|8073|2130|7898|6158|1624|6024|18900
 ![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 {{< /tab >}}
 {{< tab "ULT_ADEHP" >}}
@@ -18289,7 +18236,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18297,6 +18244,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18359,7 +18307,6 @@ Sorted by ult damage, then effective hp against sustained AD damage
 ![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3748.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3072.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "ULT_APEHP" >}}
 Sorted by ult damage, then effective hp against sustained AP damage
@@ -18368,7 +18315,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18376,6 +18323,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18434,17 +18382,15 @@ Sorted by ult damage, then effective hp against sustained AP damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3031.png)![](/item/6673.png)![](/item/3142.png)|4.46|3418|4641|9205|2063|8994|7021|1573|6861|19300
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)![](/item/6673.png)|4.46|3241|4536|9309|2086|9094|7100|1591|6937|19300
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/6673.png)|4.99|3150|4242|9706|1946|9493|7403|1484|7241|18700
-![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
+![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|4.99|2984|4209|8635|1731|8466|8319|1668|8156|19100
 ![](/item/3814.png)![](/item/2501.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)|6.04|2894|3938|9049|1498|8865|8718|1443|8540|18500
-![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)|6.04|2888|3936|9458|1566|8994|9112|1509|8665|18900
+![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/6673.png)![](/item/3142.png)![](/item/3139.png)|6.04|2888|3936|9458|1566|8994|9112|1509|8665|18900
 ![](/item/6673.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/3072.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.04|2737|3839|9568|1584|9094|9217|1526|8761|18900
 ![](/item/6673.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.41|2719|3749|9757|1521|9563|9400|1466|9213|18800
-![](/item/6673.png)![](/item/2501.png)![](/item/3078.png)![](/item/3033.png)![](/item/3139.png)![](/item/3181.png)|6.72|2472|3412|10246|1524|10027|9871|1468|9660|19033
-![](/item/6673.png)![](/item/2501.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.51|2405|3421|8588|1318|8366|10212|1567|9948|18300
+![](/item/6673.png)![](/item/2501.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.51|2405|3421|8588|1318|8366|10212|1567|9948|18300
 ![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.51|2277|3355|8694|1334|8466|10337|1587|10067|18300
-![](/item/6673.png)![](/item/3078.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/3181.png)|7.07|2035|3018|9175|1298|8931|10910|1543|10619|18533
 {{< /tab >}}
 {{< tab "ULT_AD_BURST" >}}
 Sorted by ult damage, then effective hp against burst AD damage
@@ -18453,7 +18399,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18461,6 +18407,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18523,7 +18470,6 @@ Sorted by ult damage, then effective hp against burst AD damage
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|5.51|3009|4074|12749|2312|12000|7775|1410|7318|19000
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|5.51|2853|3984|12903|2340|12137|7869|1427|7402|19000
 ![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3033.png)![](/item/3142.png)|5.51|2721|4057|13319|2416|12384|6881|1248|6398|18900
-![](/item/3072.png)![](/item/6673.png)![](/item/6333.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.25|2576|3608|13635|2183|12776|8315|1331|7791|19233
 {{< /tab >}}
 {{< tab "ULT_AP_BURST" >}}
 Sorted by ult damage, then effective hp against burst AP damage
@@ -18532,7 +18478,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder']
+**Forced Items** ['Immortal Shieldbow', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18540,6 +18486,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 ![](/item/6673.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18598,17 +18545,15 @@ Sorted by ult damage, then effective hp against burst AP damage
 ![](/item/3072.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3142.png)|4.46|3418|4641|9205|2063|8994|7021|1573|6861|19300
 ![](/item/3072.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)![](/item/6673.png)|4.46|3241|4536|9309|2086|9094|7100|1591|6937|19300
 ![](/item/3072.png)![](/item/2501.png)![](/item/3814.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|4.99|3150|4242|9706|1946|9493|7403|1484|7241|18700
-![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
+![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
 ![](/item/6673.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|4.99|2984|4209|8635|1731|8466|8319|1668|8156|19100
 ![](/item/3814.png)![](/item/2501.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)|6.04|2894|3938|9049|1498|8865|8718|1443|8540|18500
-![](/item/3072.png)![](/item/2501.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.04|2888|3936|9458|1566|8994|9112|1509|8665|18900
+![](/item/3072.png)![](/item/2501.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.04|2888|3936|9458|1566|8994|9112|1509|8665|18900
 ![](/item/3072.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.04|2737|3839|9568|1584|9094|9217|1526|8761|18900
 ![](/item/6673.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.04|2731|3969|9438|1563|9264|9093|1505|8924|18600
 ![](/item/6673.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.41|2719|3749|9757|1521|9563|9400|1466|9213|18800
-![](/item/6673.png)![](/item/2501.png)![](/item/3078.png)![](/item/3033.png)![](/item/3139.png)![](/item/3181.png)|6.72|2472|3412|10246|1524|10027|9871|1468|9660|19033
-![](/item/6673.png)![](/item/2501.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.51|2405|3421|8588|1318|8366|10212|1567|9948|18300
+![](/item/6673.png)![](/item/2501.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.51|2405|3421|8588|1318|8366|10212|1567|9948|18300
 ![](/item/6673.png)![](/item/3091.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|6.51|2277|3355|8694|1334|8466|10337|1587|10067|18300
-![](/item/6673.png)![](/item/3078.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/3181.png)|7.07|2035|3018|9175|1298|8931|10910|1543|10619|18533
 {{< /tab >}}
 {{< /tabs >}}
 {{< /tab >}}
@@ -18621,7 +18566,7 @@ Sorted by kill time, then by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18629,6 +18574,7 @@ Sorted by kill time, then by ult damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18685,8 +18631,8 @@ Sorted by kill time, then by ult damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
-![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)![](/item/6696.png)|3.9|3140|4688|5005|1283|4897|4822|1236|4717|18800
-![](/item/6701.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)|3.9|3179|4635|5004|1282|4897|4821|1236|4717|18500
+![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6696.png)|3.9|3140|4688|5005|1283|4897|4822|1236|4717|18800
+![](/item/6701.png)![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|3.9|3179|4635|5004|1282|4897|4821|1236|4717|18500
 ![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|4.46|3232|4423|6126|1373|5993|5902|1323|5774|19100
 {{< /tab >}}
 {{< tab "ULT_AAQAA" >}}
@@ -18696,7 +18642,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18704,6 +18650,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18760,9 +18707,9 @@ Sorted by Ult damage then aaqaa damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|4.46|3232|4423|6126|1373|5993|5902|1323|5774|19100
-![](/item/6701.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)|3.9|3179|4635|5004|1282|4897|4821|1236|4717|18500
-![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)![](/item/6697.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|18800
-![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)![](/item/6698.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|19000
+![](/item/6701.png)![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|3.9|3179|4635|5004|1282|4897|4821|1236|4717|18500
+![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6697.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|18800
+![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6698.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|19000
 {{< /tab >}}
 {{< tab "AAQAA" >}}
 
@@ -18771,7 +18718,7 @@ Sorted by Ult damage then aaqaa damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18779,6 +18726,7 @@ Sorted by Ult damage then aaqaa damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18856,12 +18804,12 @@ Sorted by Ult damage then aaqaa damage
 ![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3142.png)![](/item/3139.png)![](/item/6673.png)|4.46|3083|4605|7417|1662|7270|7146|1601|7003|18800
 ![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3142.png)![](/item/3139.png)![](/item/6673.png)|4.46|3083|4605|7417|1662|7270|7146|1601|7003|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3139.png)![](/item/3814.png)|3.9|3070|4605|5501|1410|5395|5300|1358|5198|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|19000
+![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3142.png)![](/item/6696.png)![](/item/3139.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|18800
+![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3142.png)![](/item/6696.png)![](/item/3139.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3072.png)![](/item/3139.png)|3.9|3082|4602|5790|1484|5525|5578|1430|5323|19200
-![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|4.46|3078|4592|5034|1128|4897|4850|1087|4717|18800
+![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3142.png)![](/item/6696.png)![](/item/3139.png)|4.46|3078|4592|5034|1128|4897|4850|1087|4717|18800
 ![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3142.png)![](/item/3139.png)![](/item/6673.png)|4.46|3051|4592|7416|1662|7270|7144|1601|7003|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3139.png)![](/item/3161.png)|3.9|3096|4591|5896|1511|5794|5680|1456|5582|18900
+![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3161.png)![](/item/3139.png)|3.9|3096|4591|5896|1511|5794|5680|1456|5582|18900
 ![](/item/3508.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3032.png)![](/item/3139.png)|4.26|3027|4576|5050|1186|4897|4865|1143|4717|18600
 ![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3142.png)![](/item/3032.png)![](/item/3139.png)|4.26|3051|4575|5043|1184|4897|4858|1141|4717|18700
 {{< /tab >}}
@@ -18872,7 +18820,7 @@ Sorted by kill time
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18880,6 +18828,7 @@ Sorted by kill time
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -18948,23 +18897,23 @@ Sorted by kill time
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3139.png)![](/item/3142.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|19000
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3074.png)![](/item/3139.png)|3.9|2990|4489|5123|1313|4897|4936|1265|4717|19100
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|3.9|3141|4722|5010|1284|4897|4827|1237|4717|18700
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3142.png)![](/item/3139.png)|3.9|3140|4719|5005|1283|4897|4822|1236|4717|18800
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3046.png)|4.11|2691|4149|5041|1226|4897|4856|1181|4717|18550
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3139.png)![](/item/3046.png)|4.24|2781|4249|5038|1188|4897|4854|1144|4717|18650
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3139.png)![](/item/3046.png)|4.24|2781|4249|5038|1188|4897|4854|1144|4717|18850
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3004.png)![](/item/3139.png)![](/item/3046.png)|4.24|2748|4232|5035|1187|4897|4851|1143|4717|18550
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3046.png)![](/item/3139.png)|4.24|2748|4221|5037|1187|4897|4852|1144|4717|18650
+![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6699.png)![](/item/3139.png)![](/item/3142.png)|3.9|3140|4719|5005|1283|4897|4822|1236|4717|18800
 ![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3046.png)![](/item/3139.png)|4.24|2748|4204|5037|1187|4897|4852|1144|4717|18450
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6696.png)![](/item/3046.png)![](/item/3139.png)|4.24|2748|4204|5037|1187|4897|4852|1144|4717|18650
-![](/item/6676.png)![](/item/3033.png)![](/item/3072.png)![](/item/3031.png)![](/item/3046.png)![](/item/3139.png)|4.24|2728|4170|5871|1384|5525|5656|1333|5323|19050
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6695.png)![](/item/3046.png)![](/item/3139.png)|4.24|2718|4160|5035|1187|4897|4851|1143|4717|18150
-![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/6701.png)![](/item/3046.png)![](/item/3139.png)|4.24|2780|4160|5035|1187|4897|4851|1143|4717|18350
 ![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|3027|4576|5050|1186|4897|4865|1143|4717|18600
 ![](/item/3031.png)![](/item/3033.png)![](/item/6697.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|3051|4575|5043|1184|4897|4858|1141|4717|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6698.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|3051|4575|5043|1184|4897|4858|1141|4717|18900
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/6699.png)![](/item/3139.png)![](/item/3142.png)|4.26|3019|4562|5041|1184|4897|4857|1141|4717|18700
-![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/6673.png)![](/item/3142.png)![](/item/3139.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|4.26|3019|4531|5041|1184|4897|4857|1141|4717|18700
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3004.png)![](/item/3139.png)![](/item/3142.png)|4.26|2991|4524|5039|1183|4897|4854|1140|4717|18600
+![](/item/6676.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3073.png)![](/item/3139.png)|4.26|3063|4277|5930|1393|5794|5713|1342|5582|18800
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)![](/item/6695.png)|4.26|2984|4483|5040|1184|4897|4855|1140|4717|18200
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)![](/item/6701.png)|4.26|3054|4483|5040|1184|4897|4855|1140|4717|18400
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3072.png)![](/item/3139.png)|4.26|2971|4460|5879|1381|5525|5664|1330|5323|19100
+![](/item/6676.png)![](/item/3033.png)![](/item/6697.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2855|4263|5024|1180|4897|4840|1137|4717|18100
+![](/item/6676.png)![](/item/3033.png)![](/item/6698.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2855|4263|5024|1180|4897|4840|1137|4717|18300
+![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3814.png)![](/item/3139.png)|4.26|2953|4440|5537|1300|5395|5334|1253|5198|18700
+![](/item/6676.png)![](/item/3033.png)![](/item/6699.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2824|4252|5022|1180|4897|4838|1136|4717|18100
 {{< /tab >}}
 {{< tab "ULT" >}}
 Sorted by ult damage
@@ -18973,7 +18922,7 @@ Sorted by ult damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -18981,6 +18930,7 @@ Sorted by ult damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19036,36 +18986,36 @@ Sorted by ult damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.46|3232|4423|6126|1373|5993|5902|1323|5774|19100
+![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)|4.46|3232|4423|6126|1373|5993|5902|1323|5774|19100
 ![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.99|3199|4252|6146|1232|5993|5921|1187|5774|18800
 ![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.99|3196|4340|6149|1233|5993|5924|1188|5774|19100
 ![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|4.99|3196|4340|6149|1233|5993|5924|1188|5774|19300
 ![](/item/3031.png)![](/item/3033.png)![](/item/2501.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.99|3183|4358|6161|1235|5993|5935|1190|5774|19000
-![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3139.png)|3.9|3179|4635|5004|1282|4897|4821|1236|4717|18500
-![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3139.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|18800
-![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)![](/item/3139.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|19000
+![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3142.png)|3.9|3179|4635|5004|1282|4897|4821|1236|4717|18500
+![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3142.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|18800
+![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3142.png)|3.9|3173|4733|5006|1283|4897|4823|1236|4717|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|4.99|3162|4298|6147|1232|5993|5922|1187|5774|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)![](/item/6699.png)|4.99|3162|4328|6147|1232|5993|5922|1187|5774|19100
-![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/6701.png)![](/item/3142.png)![](/item/3139.png)|4.46|3150|4565|5034|1128|4897|4850|1087|4717|18500
-![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/6701.png)![](/item/3142.png)![](/item/3139.png)|4.46|3150|4565|5034|1128|4897|4850|1087|4717|18700
+![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/6701.png)![](/item/3139.png)![](/item/3142.png)|4.46|3150|4565|5034|1128|4897|4850|1087|4717|18500
+![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/6701.png)![](/item/3139.png)![](/item/3142.png)|4.46|3150|4565|5034|1128|4897|4850|1087|4717|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/2501.png)![](/item/3142.png)![](/item/6673.png)![](/item/3139.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
-![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/6698.png)![](/item/3142.png)![](/item/3139.png)|4.46|3142|4647|5037|1129|4897|4853|1087|4717|19000
-![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3508.png)![](/item/3142.png)![](/item/3139.png)|3.9|3141|4722|5010|1284|4897|4827|1237|4717|18700
+![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/6698.png)![](/item/3139.png)![](/item/3142.png)|4.46|3142|4647|5037|1129|4897|4853|1087|4717|19000
+![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|3.9|3141|4722|5010|1284|4897|4827|1237|4717|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|3.9|3140|4688|5005|1283|4897|4822|1236|4717|18800
 ![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)![](/item/3139.png)![](/item/6699.png)|3.9|3140|4719|5005|1283|4897|4822|1236|4717|18800
 ![](/item/3031.png)![](/item/3033.png)![](/item/2501.png)![](/item/3004.png)![](/item/3139.png)![](/item/3142.png)|4.99|3135|4298|6145|1232|5993|5920|1187|5774|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/3814.png)![](/item/3142.png)![](/item/2501.png)![](/item/3139.png)|4.99|3126|4243|6642|1332|6492|6399|1283|6254|19100
 ![](/item/3031.png)![](/item/3033.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)![](/item/6695.png)|4.99|3126|4252|6146|1232|5993|5921|1187|5774|18600
-![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3508.png)|4.46|3119|4569|5042|1130|4897|4858|1089|4717|18400
-![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|4.46|3117|4522|5033|1128|4897|4848|1086|4717|18500
-![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/6699.png)|4.46|3117|4539|5033|1128|4897|4848|1086|4717|18500
+![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.46|3119|4569|5042|1130|4897|4858|1089|4717|18400
+![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/6696.png)![](/item/3139.png)![](/item/3142.png)|4.46|3117|4522|5033|1128|4897|4848|1086|4717|18500
+![](/item/6701.png)![](/item/3033.png)![](/item/3031.png)![](/item/6699.png)![](/item/3139.png)![](/item/3142.png)|4.46|3117|4539|5033|1128|4897|4848|1086|4717|18500
 ![](/item/3031.png)![](/item/3033.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)![](/item/3032.png)|4.7|3116|4273|6157|1310|5993|5932|1262|5774|19000
 ![](/item/3031.png)![](/item/3033.png)![](/item/2501.png)![](/item/3142.png)![](/item/3072.png)![](/item/3139.png)|4.99|3114|4235|7000|1403|6622|6743|1352|6379|19500
-![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/3139.png)|4.46|3114|4648|5046|1131|4897|4861|1089|4717|18700
-![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/3508.png)![](/item/3142.png)![](/item/3139.png)|4.46|3114|4648|5046|1131|4897|4861|1089|4717|18900
-![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|18800
-![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/6696.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|19000
-![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/6699.png)|4.46|3110|4636|5036|1128|4897|4851|1087|4717|18800
+![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.46|3114|4648|5046|1131|4897|4861|1089|4717|18700
+![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.46|3114|4648|5046|1131|4897|4861|1089|4717|18900
+![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/6696.png)![](/item/3139.png)![](/item/3142.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|18800
+![](/item/6698.png)![](/item/3033.png)![](/item/3031.png)![](/item/6696.png)![](/item/3139.png)![](/item/3142.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|19000
+![](/item/6697.png)![](/item/3033.png)![](/item/3031.png)![](/item/3139.png)![](/item/3142.png)![](/item/6699.png)|4.46|3110|4636|5036|1128|4897|4851|1087|4717|18800
 {{< /tab >}}
 {{< tab "ULT_ULT_CDR" >}}
 Sorted by ult damage, then ultimate CDR + regular CDR
@@ -19074,7 +19024,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19082,6 +19032,7 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19143,30 +19094,26 @@ Sorted by ult damage, then ultimate CDR + regular CDR
 ![](/item/3142.png)![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/6698.png)|4.99|3196|4340|6149|1233|5993|5924|1188|5774|19300
 ![](/item/3142.png)![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3508.png)|4.99|3183|4358|6161|1235|5993|5935|1190|5774|19000
 ![](/item/3142.png)![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/6696.png)|4.99|3162|4298|6147|1232|5993|5922|1187|5774|19100
-![](/item/3142.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)![](/item/6696.png)|3.9|3140|4688|5005|1283|4897|4822|1236|4717|18800
-![](/item/6701.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6696.png)|4.46|3117|4522|5033|1128|4897|4848|1086|4717|18500
-![](/item/3142.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/6696.png)![](/item/6697.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|18800
-![](/item/3142.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/6696.png)![](/item/6698.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|19000
-![](/item/3142.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3508.png)![](/item/6696.png)|4.46|3083|4605|5044|1130|4897|4860|1089|4717|18700
+![](/item/3142.png)![](/item/3031.png)![](/item/6676.png)![](/item/3139.png)![](/item/3033.png)![](/item/6696.png)|3.9|3140|4688|5005|1283|4897|4822|1236|4717|18800
+![](/item/6701.png)![](/item/3031.png)![](/item/6696.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.46|3117|4522|5033|1128|4897|4848|1086|4717|18500
+![](/item/3142.png)![](/item/3031.png)![](/item/6696.png)![](/item/3139.png)![](/item/3033.png)![](/item/6697.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|18800
+![](/item/3142.png)![](/item/3031.png)![](/item/6696.png)![](/item/3139.png)![](/item/3033.png)![](/item/6698.png)|4.46|3110|4604|5036|1128|4897|4851|1087|4717|19000
+![](/item/3142.png)![](/item/3031.png)![](/item/3508.png)![](/item/3139.png)![](/item/3033.png)![](/item/6696.png)|4.46|3083|4605|5044|1130|4897|4860|1089|4717|18700
 ![](/item/3142.png)![](/item/3004.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/6696.png)|4.46|3034|4547|5031|1127|4897|4847|1086|4717|18700
-![](/item/3142.png)![](/item/6696.png)![](/item/3139.png)![](/item/3033.png)![](/item/6697.png)![](/item/6698.png)|4.99|3006|4412|5046|1011|4897|4861|974|4717|18400
+![](/item/3142.png)![](/item/6696.png)![](/item/6697.png)![](/item/3139.png)![](/item/3033.png)![](/item/6698.png)|4.99|3006|4412|5046|1011|4897|4861|974|4717|18400
 ![](/item/6696.png)![](/item/3073.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.7|2997|4154|5951|1266|5794|5733|1220|5582|18800
-![](/item/6696.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6701.png)|5.58|2882|3876|5975|1070|5794|5756|1031|5582|17900
-![](/item/6696.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6697.png)|5.58|2877|3960|5979|1071|5794|5760|1032|5582|18200
-![](/item/6696.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6698.png)|5.58|2877|3960|5979|1071|5794|5760|1032|5582|18400
-![](/item/6696.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6699.png)|5.58|2846|3952|5977|1070|5794|5758|1031|5582|18200
+![](/item/6696.png)![](/item/3073.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6701.png)|5.58|2882|3876|5975|1070|5794|5756|1031|5582|17900
+![](/item/6696.png)![](/item/3073.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6697.png)|5.58|2877|3960|5979|1071|5794|5760|1032|5582|18200
+![](/item/6696.png)![](/item/3073.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6698.png)|5.58|2877|3960|5979|1071|5794|5760|1032|5582|18400
+![](/item/6696.png)![](/item/3073.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6699.png)|5.58|2846|3952|5977|1070|5794|5758|1031|5582|18200
 ![](/item/6696.png)![](/item/3073.png)![](/item/3004.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.58|2816|3918|5973|1070|5794|5755|1031|5582|18100
-![](/item/6696.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/3508.png)|5.58|2805|3893|5989|1072|5794|5770|1033|5582|18100
+![](/item/6696.png)![](/item/3073.png)![](/item/3508.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.58|2805|3893|5989|1072|5794|5770|1033|5582|18100
 ![](/item/6696.png)![](/item/3073.png)![](/item/3074.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.65|2707|3741|6237|1104|5794|6008|1064|5582|18500
-![](/item/6696.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/3156.png)|5.65|2677|3716|6232|1103|5794|9484|1679|8974|18300
-![](/item/6696.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6333.png)|5.65|2677|3716|8627|1527|7972|6645|1176|6140|18500
-![](/item/6696.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6692.png)|5.65|2677|3716|6297|1115|6098|6066|1074|5875|18100
+![](/item/6696.png)![](/item/3073.png)![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.65|2677|3716|6232|1103|5794|9484|1679|8974|18300
+![](/item/6696.png)![](/item/3073.png)![](/item/6333.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.65|2677|3716|8627|1527|7972|6645|1176|6140|18500
+![](/item/6696.png)![](/item/3073.png)![](/item/6692.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.65|2677|3716|6297|1115|6098|6066|1074|5875|18100
 ![](/item/6696.png)![](/item/3073.png)![](/item/3078.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.8|2536|3540|6671|1150|6458|6426|1108|6222|18533
 ![](/item/6696.png)![](/item/3073.png)![](/item/3115.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.72|2450|3503|5992|1046|5794|5773|1008|5582|18200
-![](/item/6696.png)![](/item/3073.png)![](/item/3004.png)![](/item/3046.png)![](/item/3139.png)![](/item/3033.png)|5.71|2441|3490|6011|1053|5794|5791|1014|5582|17950
-![](/item/6696.png)![](/item/3073.png)![](/item/3046.png)![](/item/3139.png)![](/item/3033.png)![](/item/3508.png)|5.71|2411|3437|6023|1055|5794|5803|1016|5582|17950
-![](/item/6696.png)![](/item/3073.png)![](/item/3046.png)![](/item/3139.png)![](/item/3033.png)![](/item/3074.png)|6.11|2334|3318|6307|1032|5794|6076|994|5582|18350
-![](/item/6696.png)![](/item/3073.png)![](/item/3004.png)![](/item/3006.png)![](/item/3139.png)![](/item/3033.png)|6.66|2331|3326|6031|906|5794|5810|872|5582|16400
 {{< /tab >}}
 {{< tab "TK_ADEHP" >}}
 Sorted by kill time, then by effective hp against sustained AD damage
@@ -19175,7 +19122,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19183,6 +19130,7 @@ Sorted by kill time, then by effective hp against sustained AD damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19239,24 +19187,22 @@ Sorted by kill time, then by effective hp against sustained AD damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3046.png)![](/item/3139.png)![](/item/3072.png)|4.68|2665|4080|8332|1781|7898|8027|1716|7609|19050
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3139.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3142.png)![](/item/3139.png)|5.51|2661|4011|10368|1880|9705|7986|1448|7475|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)|5.58|2594|3911|10382|1860|9705|7997|1432|7475|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)![](/item/3139.png)|5.72|2561|3840|10662|1864|9705|8212|1435|7475|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3142.png)![](/item/3139.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6610.png)|6.04|2622|3727|11745|1945|10803|9046|1498|8321|18600
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)![](/item/3139.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3181.png)![](/item/3139.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3139.png)![](/item/3142.png)|5.51|2661|4011|10368|1880|9705|7986|1448|7475|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|5.58|2594|3911|10382|1860|9705|7997|1432|7475|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3074.png)![](/item/3139.png)![](/item/3142.png)|5.72|2561|3840|10662|1864|9705|8212|1435|7475|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3142.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/6631.png)![](/item/3139.png)![](/item/3142.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/6610.png)![](/item/3139.png)![](/item/3142.png)|6.04|2622|3727|11745|1945|10803|9046|1498|8321|18600
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3139.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
 {{< /tab >}}
 {{< tab "TK_APEHP" >}}
 Sorted by kill time, then by effective hp against sustained AP damage
@@ -19265,7 +19211,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19273,6 +19219,7 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19328,11 +19275,11 @@ Sorted by kill time, then by effective hp against sustained AP damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3139.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)|4.46|2959|4447|5208|1167|4897|8389|1880|8027|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3508.png)|4.46|2912|4378|5202|1166|4897|8422|1887|8066|18800
@@ -19343,15 +19290,11 @@ Sorted by kill time, then by effective hp against sustained AP damage
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/2501.png)![](/item/3031.png)![](/item/3142.png)|5.51|2988|4090|6381|1157|5993|9676|1755|9225|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3031.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|5.62|2399|3725|5323|947|4897|9942|1770|9350|18700
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3078.png)![](/item/3181.png)|5.84|2552|3605|7028|1203|6558|10395|1780|9847|19433
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)![](/item/6333.png)|6.02|2531|3529|8964|1488|7972|10591|1758|9668|18600
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/6333.png)![](/item/3142.png)|6.04|2547|3792|8919|1477|7523|10706|1773|9407|19000
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/6610.png)![](/item/3142.png)|6.04|2640|3755|7299|1208|6322|10824|1792|9687|18800
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3091.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3091.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3078.png)![](/item/3181.png)|7.2|2381|3348|8080|1122|7186|11658|1619|10617|19233
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3078.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3091.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
 {{< /tab >}}
 {{< tab "TK_ADEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AD burst damage
@@ -19360,7 +19303,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19368,6 +19311,7 @@ Sorted by kill time, then by effective hp against AD burst damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19424,15 +19368,14 @@ Sorted by kill time, then by effective hp against AD burst damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
+![](/item/6673.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/3072.png)![](/item/6673.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3078.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
-![](/item/6673.png)![](/item/6333.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3078.png)![](/item/3181.png)![](/item/3139.png)![](/item/3033.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
+![](/item/6673.png)![](/item/3031.png)![](/item/3161.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
+![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
+![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3078.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
+![](/item/6673.png)![](/item/6333.png)![](/item/6631.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
 {{< /tab >}}
 {{< tab "TK_APEHP_BURST" >}}
 Sorted by kill time, then by effective hp against AP burst damage
@@ -19441,7 +19384,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19449,6 +19392,7 @@ Sorted by kill time, then by effective hp against AP burst damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19504,28 +19448,26 @@ Sorted by kill time, then by effective hp against AP burst damage
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
-![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
+![](/item/3031.png)![](/item/3072.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
 ![](/item/3031.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|4.46|2959|4447|5208|1167|4897|8389|1880|8027|18900
-![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)![](/item/3508.png)|4.46|2912|4378|5202|1166|4897|8422|1887|8066|18800
+![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|2912|4378|5202|1166|4897|8422|1887|8066|18800
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3004.png)![](/item/3033.png)![](/item/3142.png)|4.99|2865|4308|5250|1052|4897|8560|1716|8149|18800
 ![](/item/3031.png)![](/item/3139.png)![](/item/6673.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)|4.99|2984|4209|8635|1731|8466|8319|1668|8156|19100
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3072.png)![](/item/3033.png)![](/item/3142.png)|4.99|2845|4245|6118|1226|5525|9566|1918|8876|19300
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|4.99|2862|4232|6130|1229|5794|9443|1893|9052|19000
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|5.51|2988|4090|6381|1157|5993|9676|1755|9225|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3033.png)![](/item/3748.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
-![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|5.84|2552|3605|7028|1203|6558|10395|1780|9847|19433
-![](/item/3156.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)![](/item/6610.png)|6.04|2448|3729|7257|1201|6592|10638|1761|9863|18500
-![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3142.png)![](/item/3033.png)![](/item/3161.png)|6.12|2448|3687|7403|1210|6990|10808|1767|10327|18700
+![](/item/3156.png)![](/item/3073.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6333.png)|6.02|2531|3529|8964|1488|7972|10591|1758|9668|18600
+![](/item/3156.png)![](/item/3072.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.04|2668|3928|7064|1169|6422|10569|1750|9822|18800
+![](/item/3156.png)![](/item/3139.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|6.04|2448|3729|7257|1201|6592|10638|1761|9863|18500
+![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/3161.png)|6.12|2448|3687|7403|1210|6990|10808|1767|10327|18700
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3033.png)![](/item/3161.png)![](/item/3142.png)|6.51|2228|3429|6262|961|5794|11131|1708|10480|18200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
-![](/item/3156.png)![](/item/3139.png)![](/item/2501.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
 {{< /tab >}}
 {{< tab "TK_ADEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AP burst damage
@@ -19534,7 +19476,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19542,6 +19484,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19600,19 +19543,17 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)![](/item/3139.png)|5.72|2561|3840|10662|1864|9705|8212|1435|7475|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3142.png)![](/item/3139.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3142.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_ADEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AD damage and effective hp against AD burst damage
@@ -19621,7 +19562,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19629,6 +19570,7 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19685,22 +19627,21 @@ Sorted by kill time, then by effective hp against sustained AD damage and effect
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3142.png)![](/item/3139.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3142.png)![](/item/3139.png)|5.51|2661|4011|10368|1880|9705|7986|1448|7475|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)|5.58|2594|3911|10382|1860|9705|7997|1432|7475|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)![](/item/3139.png)|5.72|2561|3840|10662|1864|9705|8212|1435|7475|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3142.png)![](/item/3139.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)![](/item/3139.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3181.png)![](/item/3139.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3139.png)![](/item/3142.png)|5.51|2661|4011|10368|1880|9705|7986|1448|7475|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|5.58|2594|3911|10382|1860|9705|7997|1432|7475|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3074.png)![](/item/3139.png)![](/item/3142.png)|5.72|2561|3840|10662|1864|9705|8212|1435|7475|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3142.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/6631.png)![](/item/3139.png)![](/item/3142.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3139.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
 {{< /tab >}}
 {{< tab "TK_APEHP_AP_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AP burst damage
@@ -19709,7 +19650,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19717,6 +19658,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19772,11 +19714,11 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3032.png)![](/item/3142.png)![](/item/3139.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
-![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
+![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3139.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
 ![](/item/3031.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png)|4.46|2959|4447|5208|1167|4897|8389|1880|8027|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3508.png)|4.46|2912|4378|5202|1166|4897|8422|1887|8066|18800
@@ -19789,16 +19731,12 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/2501.png)![](/item/3031.png)![](/item/3142.png)|5.51|2988|4090|6381|1157|5993|9676|1755|9225|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3031.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3031.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|5.62|2399|3725|5323|947|4897|9942|1770|9350|18700
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3031.png)![](/item/3078.png)![](/item/3181.png)|5.84|2552|3605|7028|1203|6558|10395|1780|9847|19433
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)![](/item/6333.png)|6.02|2531|3529|8964|1488|7972|10591|1758|9668|18600
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/3161.png)|6.04|2668|3928|7064|1169|6422|10569|1750|9822|18800
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)![](/item/6610.png)|6.04|2640|3755|7299|1208|6322|10824|1792|9687|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3091.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.07|2241|3467|6273|1034|5525|11309|1864|10269|18500
 ![](/item/3156.png)![](/item/3091.png)![](/item/3139.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|6.51|2228|3429|6262|961|5794|11131|1708|10480|18200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3091.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/2501.png)![](/item/3078.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)![](/item/3078.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3033.png)![](/item/3078.png)![](/item/3091.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
 {{< /tab >}}
 {{< tab "TK_APEHP_AD_BURST" >}}
 Sorted by kill time, then by effective hp against sustained AP damage and effective hp against AD burst damage
@@ -19807,7 +19745,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19815,6 +19753,7 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19873,18 +19812,17 @@ Sorted by kill time, then by effective hp against sustained AP damage and effect
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3142.png)![](/item/3139.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3142.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_AD_BURST_AP_BURST" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP burst damage damage
@@ -19893,7 +19831,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19901,6 +19839,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -19959,15 +19898,14 @@ Sorted by kill time, then by effective hp against hybrid AD/AP burst damage dama
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3072.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
+![](/item/6673.png)![](/item/3031.png)![](/item/3161.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6673.png)![](/item/3072.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/3161.png)|5.51|2766|4087|9211|1670|8795|8873|1609|8473|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3078.png)![](/item/3142.png)![](/item/3033.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)![](/item/3033.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
+![](/item/6673.png)![](/item/3072.png)![](/item/3161.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|5.51|2766|4087|9211|1670|8795|8873|1609|8473|18700
+![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3142.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
+![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_APEHP_ADEHP" >}}
 Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
@@ -19976,7 +19914,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -19984,6 +19922,7 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -20042,21 +19981,21 @@ Sorted by kill time, then by effective hp against hybrid AD/AP Sustained damage
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/6676.png)![](/item/3142.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|4.26|2996|4532|7421|1743|7270|7150|1679|7003|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3508.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3508.png)![](/item/3139.png)![](/item/3142.png)|4.46|3059|4620|7425|1664|7270|7153|1603|7003|18700
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3072.png)![](/item/3139.png)![](/item/3142.png)|4.46|3001|4501|8255|1850|7898|7953|1782|7609|19200
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/3161.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
-![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3046.png)![](/item/3139.png)![](/item/3072.png)|4.68|2665|4080|8332|1781|7898|8027|1716|7609|19050
+![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3161.png)![](/item/3139.png)![](/item/3142.png)|4.46|3017|4480|8303|1861|8167|7999|1793|7868|18900
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|4.7|2984|4187|8336|1774|8167|8031|1709|7868|18800
 ![](/item/6673.png)![](/item/3031.png)![](/item/3033.png)![](/item/6333.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3074.png)![](/item/3142.png)![](/item/3139.png)|5.72|2561|3840|10662|1864|9705|8212|1435|7475|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3142.png)![](/item/3139.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3004.png)![](/item/3139.png)![](/item/3142.png)|5.51|2661|4011|10368|1880|9705|7986|1448|7475|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3032.png)![](/item/3139.png)![](/item/3142.png)|5.58|2594|3911|10382|1860|9705|7997|1432|7475|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3074.png)![](/item/3139.png)![](/item/3142.png)|5.72|2561|3840|10662|1864|9705|8212|1435|7475|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6692.png)|5.72|2535|3804|10759|1881|10095|8287|1449|7776|18400
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3142.png)|5.84|2407|3641|11277|1931|10619|8686|1487|8179|18833
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6631.png)|6.01|2622|3670|11605|1931|10940|8939|1488|8426|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3142.png)![](/item/3139.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3073.png)![](/item/3139.png)![](/item/3142.png)|6.02|2622|3670|11606|1926|10940|8940|1484|8426|18500
 ![](/item/6673.png)![](/item/6610.png)![](/item/3139.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)|6.04|2622|3727|11745|1945|10803|9046|1498|8321|18600
 ![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/2501.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
 ![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3139.png)![](/item/3181.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
 {{< /tab >}}
 {{< tab "TK_ADEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AD damage divided by kill time
@@ -20065,7 +20004,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -20073,6 +20012,7 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -20129,8 +20069,8 @@ Sorted by kill time, then by effective hp against sustained AD damage divided by
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/3032.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
-![](/item/6673.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
+![](/item/6673.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
 {{< /tab >}}
 {{< tab "TK_APEHP_D_TK" >}}
 Sorted by kill time, then by effective hp against sustained AP damage divided by kill time
@@ -20139,7 +20079,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -20147,6 +20087,7 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -20202,10 +20143,10 @@ Sorted by kill time, then by effective hp against sustained AP damage divided by
 
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
-![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
+![](/item/3032.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)![](/item/6676.png)|3.79|3075|4646|5008|1321|4897|4825|1273|4717|18700
 ![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)![](/item/6676.png)|3.9|3108|4677|7382|1892|7270|7112|1823|7003|18800
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6676.png)|4.46|2959|4447|5208|1167|4897|8389|1880|8027|18900
-![](/item/3156.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/3508.png)|4.46|2912|4378|5202|1166|4897|8422|1887|8066|18800
+![](/item/3156.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|4.46|2959|4447|5208|1167|4897|8389|1880|8027|18900
+![](/item/3156.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.46|2912|4378|5202|1166|4897|8422|1887|8066|18800
 ![](/item/3156.png)![](/item/3072.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.99|2845|4245|6118|1226|5525|9566|1918|8876|19300
 {{< /tab >}}
 {{< tab "ULT_ADEHP" >}}
@@ -20215,7 +20156,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -20223,6 +20164,7 @@ Sorted by ult damage, then effective hp against sustained AD damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -20284,13 +20226,12 @@ Sorted by ult damage, then effective hp against sustained AD damage
 ![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.99|3183|4358|6161|1235|5993|5935|1190|5774|19000
 ![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
 ![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/3031.png)![](/item/3139.png)![](/item/3142.png)|5.51|2988|4090|8878|1610|8246|6838|1240|6351|19400
-![](/item/3814.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/6673.png)|6.04|2894|3938|9049|1498|8865|8718|1443|8540|18500
+![](/item/3814.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6673.png)|6.04|2894|3938|9049|1498|8865|8718|1443|8540|18500
 ![](/item/3072.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/6673.png)|6.04|2888|3936|9458|1566|8994|9112|1509|8665|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/6673.png)![](/item/3142.png)![](/item/3139.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3142.png)![](/item/3748.png)![](/item/3139.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3142.png)![](/item/3139.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3078.png)![](/item/3181.png)![](/item/3139.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3031.png)![](/item/3139.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
+![](/item/6333.png)![](/item/2501.png)![](/item/3033.png)![](/item/6673.png)![](/item/3139.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3748.png)![](/item/3139.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3033.png)![](/item/3026.png)![](/item/3139.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
 {{< /tab >}}
 {{< tab "ULT_APEHP" >}}
 Sorted by ult damage, then effective hp against sustained AP damage
@@ -20299,7 +20240,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -20307,6 +20248,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -20366,7 +20308,7 @@ Sorted by ult damage, then effective hp against sustained AP damage
 ![](/item/6701.png)![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.99|3199|4252|6146|1232|5993|5921|1187|5774|18800
 ![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6697.png)|4.99|3196|4340|6149|1233|5993|5924|1188|5774|19100
 ![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/3508.png)|4.99|3183|4358|6161|1235|5993|5935|1190|5774|19000
-![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
+![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
 ![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3031.png)![](/item/3142.png)|5.51|2988|4090|6381|1157|5993|9676|1755|9225|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3031.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
 ![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3814.png)|6.12|2793|3787|6911|1130|6492|10216|1670|9727|18600
@@ -20375,10 +20317,8 @@ Sorted by ult damage, then effective hp against sustained AP damage
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3072.png)![](/item/3142.png)|6.12|2640|3701|7444|1217|6721|10992|1797|10151|19000
 ![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)![](/item/3748.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
 ![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)![](/item/6610.png)|6.56|2421|3523|7593|1156|6891|11009|1677|10192|18700
-![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3078.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3072.png)![](/item/3156.png)![](/item/3139.png)![](/item/3181.png)![](/item/3078.png)![](/item/3033.png)|7.2|2381|3348|8080|1122|7186|11658|1619|10617|19233
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3078.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3091.png)![](/item/3033.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
+![](/item/3156.png)![](/item/2501.png)![](/item/3033.png)![](/item/3139.png)![](/item/3091.png)![](/item/3142.png)|6.96|2324|3299|6477|930|5993|11359|1631|10687|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3091.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
 {{< /tab >}}
 {{< tab "ULT_AD_BURST" >}}
 Sorted by ult damage, then effective hp against burst AD damage
@@ -20387,7 +20327,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -20395,6 +20335,7 @@ Sorted by ult damage, then effective hp against burst AD damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -20452,14 +20393,13 @@ Sorted by ult damage, then effective hp against burst AD damage
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|4.46|3232|4423|6126|1373|5993|5902|1323|5774|19100
 ![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
-![](/item/6673.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)![](/item/3748.png)|4.99|2984|4209|8635|1731|8466|8319|1668|8156|19100
-![](/item/3814.png)![](/item/6673.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|6.04|2894|3938|9049|1498|8865|8718|1443|8540|18500
+![](/item/6673.png)![](/item/3031.png)![](/item/3748.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.99|2984|4209|8635|1731|8466|8319|1668|8156|19100
+![](/item/3814.png)![](/item/6673.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.04|2894|3938|9049|1498|8865|8718|1443|8540|18500
 ![](/item/3072.png)![](/item/6673.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.04|2888|3936|9458|1566|8994|9112|1509|8665|18900
-![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
-![](/item/6673.png)![](/item/6333.png)![](/item/2501.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
-![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3142.png)![](/item/3139.png)![](/item/3033.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
-![](/item/6673.png)![](/item/6333.png)![](/item/3078.png)![](/item/3181.png)![](/item/3139.png)![](/item/3033.png)|6.72|2360|3346|12668|1884|11990|9758|1451|9235|19033
+![](/item/6673.png)![](/item/6333.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|4.99|2882|4337|10365|2078|9705|7984|1601|7475|19100
+![](/item/6673.png)![](/item/6333.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2767|3786|11863|1939|11214|9137|1494|8637|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3748.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2622|3706|12016|1964|11351|9256|1513|8743|18800
+![](/item/6673.png)![](/item/6333.png)![](/item/3026.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2508|3779|12271|2006|11456|8007|1309|7475|18700
 {{< /tab >}}
 {{< tab "ULT_AP_BURST" >}}
 Sorted by ult damage, then effective hp against burst AP damage
@@ -20468,7 +20408,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 **Enemy Health:4702.0 Armor:378.0 Mr:112.0**
 
 
-**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder']
+**Forced Items** ['Mercurial Scimitar', 'Mortal Reminder', "Youmuu's Ghostblade"]
 
 
 
@@ -20476,6 +20416,7 @@ Sorted by ult damage, then effective hp against burst AP damage
 
 ![](/item/3139.png)
 ![](/item/3033.png)
+![](/item/3142.png)
 
 
 
@@ -20532,17 +20473,16 @@ Sorted by ult damage, then effective hp against burst AP damage
  Build |tk|ult|aaqaa|AdHp|AdHp/Tk|AdB|ApHp|ApHp/Tk|ApB|g
 -|-|-|-|-|-|-|-|-|-|-
 ![](/item/2501.png)![](/item/3031.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)![](/item/6676.png)|4.46|3232|4423|6126|1373|5993|5902|1323|5774|19100
-![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3139.png)![](/item/3142.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
+![](/item/6673.png)![](/item/2501.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)![](/item/3139.png)|4.99|3149|4316|8532|1710|8366|8219|1648|8060|19100
 ![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|5.51|2988|4090|6381|1157|5993|9676|1755|9225|19200
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3031.png)![](/item/3142.png)![](/item/3033.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3031.png)![](/item/3033.png)![](/item/3142.png)|5.51|2832|3989|6488|1177|6093|9841|1785|9381|19200
 ![](/item/3156.png)![](/item/3139.png)![](/item/3814.png)![](/item/2501.png)![](/item/3033.png)![](/item/3142.png)|6.12|2793|3787|6911|1130|6492|10216|1670|9727|18600
 ![](/item/3072.png)![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2786|3783|7330|1198|6622|10821|1769|9996|19000
 ![](/item/3072.png)![](/item/3156.png)![](/item/3748.png)![](/item/3139.png)![](/item/3033.png)![](/item/3142.png)|6.12|2640|3701|7444|1217|6721|10992|1797|10151|19000
 ![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3161.png)![](/item/3033.png)![](/item/3142.png)|6.12|2636|3820|7295|1192|6891|10642|1740|10172|18700
 ![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3748.png)![](/item/3033.png)![](/item/3142.png)|6.56|2624|3619|7625|1161|7190|11007|1677|10501|18900
-![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2386|3286|8174|1061|7654|11571|1502|10967|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3078.png)![](/item/3033.png)![](/item/3181.png)|7.7|2175|3141|8286|1076|7754|11741|1524|11122|19133
-![](/item/3156.png)![](/item/3139.png)![](/item/3078.png)![](/item/3091.png)![](/item/3033.png)![](/item/3181.png)|8.02|1969|2921|7081|883|6558|12155|1515|11429|18633
+![](/item/3156.png)![](/item/2501.png)![](/item/3139.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.96|2324|3299|6477|930|5993|11359|1631|10687|18400
+![](/item/3156.png)![](/item/3139.png)![](/item/3748.png)![](/item/3091.png)![](/item/3033.png)![](/item/3142.png)|6.96|2201|3236|6589|946|6093|11561|1660|10872|18400
 {{< /tab >}}
 {{< /tabs >}}
 {{< /tab >}}
