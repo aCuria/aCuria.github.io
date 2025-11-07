@@ -13,11 +13,12 @@
   <meta property="og:type" content="article">
     <meta property="article:section" content="docs">
 <title>Multipliers | aCurias Guides</title>
-<link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" >
-<link rel="stylesheet" href="/book.min.b2d853d55719b549c81d1059cef7b7b3ebc8ea048c657205fe7c4a74f3072519.css" integrity="sha256-sthT1VcZtUnIHRBZzve3s&#43;vI6gSMZXIF/nxKdPMHJRk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.8a45002e5f1bced8cbd59cd40b9b69c6fefe5ca8bffceed9a8a4ba90d1db0f9d.js" integrity="sha256-ikUALl8bztjL1ZzUC5tpxv7&#43;XKi//O7ZqKS6kNHbD50=" crossorigin="anonymous"></script>
+<link rel="manifest" href="/manifest.json">
+<link rel="canonical" href="http://localhost:1313/docs/mf-beginners-guide/multipliers/">
+<link rel="stylesheet" href="/book.min.a5fbd98b91e04aa6767e929832936c24662420c3e407b551ca69234365afc80c.css" integrity="sha256-pfvZi5HgSqZ2fpKYMpNsJGYkIMPkB7VRymkjQ2WvyAw=" crossorigin="anonymous">
+  <script defer src="/fuse.min.js"></script>
+  <script defer src="/en.search.min.11c8820bc912f4456ed7aa114e90ad33d75480be532a7b6172d824c9a46f357f.js" integrity="sha256-EciCC8kS9EVu16oRTpCtM9dUgL5TKnthctgkyaRvNX8=" crossorigin="anonymous"></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -38,11 +39,12 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
+<div class="book-search hidden">
   <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
   <div class="book-search-spinner hidden"></div>
   <ul id="book-search-results"></ul>
 </div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
 
 
 
@@ -55,7 +57,6 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  
 
 
 
@@ -69,8 +70,8 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-0fe5cc0ab54e011b00afb7007b6b79e4" class="toggle" checked />
-    <label for="section-0fe5cc0ab54e011b00afb7007b6b79e4" class="flex justify-between">
+    <input type="checkbox" id="section-6495d8f2f13f30abffaa667e00f36396" class="toggle" checked />
+    <label for="section-6495d8f2f13f30abffaa667e00f36396" class="flex justify-between">
       <a href="/docs/mf-beginners-guide/" class="">MF Beginner&#39;s Guide</a>
     </label>
   
@@ -212,8 +213,8 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-f14d4fe54c3523cdceee6a2027dc3e5b" class="toggle"  />
-    <label for="section-f14d4fe54c3523cdceee6a2027dc3e5b" class="flex justify-between">
+    <input type="checkbox" id="section-799f58ff4482b35314eabd960db22b6b" class="toggle"  />
+    <label for="section-799f58ff4482b35314eabd960db22b6b" class="flex justify-between">
       <a href="/docs/simulation-data/" class="">Simulation Data</a>
     </label>
   
@@ -228,9 +229,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-35a3612f4387a661c746815295aa217d" class="toggle"  />
-    <label for="section-35a3612f4387a661c746815295aa217d" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/" class="">Patch 14.22.1</a>
+    <input type="checkbox" id="section-727ff1119d646bb6c01c0719a4fae0ae" class="toggle"  />
+    <label for="section-727ff1119d646bb6c01c0719a4fae0ae" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/" class="">Patch 15.23</a>
     </label>
   
 
@@ -244,9 +245,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-62701659340e1ea3f9cec9141cc70509" class="toggle"  />
-    <label for="section-62701659340e1ea3f9cec9141cc70509" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/" class="">Pta Mana F</a>
+    <input type="checkbox" id="section-fc8c2538d52c5008cdd6235c3788665b" class="toggle"  />
+    <label for="section-fc8c2538d52c5008cdd6235c3788665b" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/pta-bloodline/" class="">Pta Bloodline</a>
     </label>
   
 
@@ -260,9 +261,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-2390212169396ea0d914eac96c26d588" class="toggle"  />
-    <label for="section-2390212169396ea0d914eac96c26d588" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
+    <input type="checkbox" id="section-d11e148e369d3706b158775077908e29" class="toggle"  />
+    <label for="section-d11e148e369d3706b158775077908e29" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
     </label>
   
 
@@ -276,7 +277,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
   
 
         </li>
@@ -289,7 +290,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
   
 
         </li>
@@ -302,7 +303,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
   
 
         </li>
@@ -315,513 +316,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-d06e4987129e2e1770d25e7e8bbe06c7" class="toggle"  />
-    <label for="section-d06e4987129e2e1770d25e7e8bbe06c7" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-456b65980d6c16b9f1e78fd30c4519d6" class="toggle"  />
-    <label for="section-456b65980d6c16b9f1e78fd30c4519d6" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/" class="">Patch 14.23.0</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-f5a1a9f8167d10fdea2c0cb0ed9239a0" class="toggle"  />
-    <label for="section-f5a1a9f8167d10fdea2c0cb0ed9239a0" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/" class="">Pta Mana F 23ms</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-c444477c040e19871e1a210ae7eba3ad" class="toggle"  />
-    <label for="section-c444477c040e19871e1a210ae7eba3ad" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-636c10c8915447af99cda13aff35b105" class="toggle"  />
-    <label for="section-636c10c8915447af99cda13aff35b105" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-66cab0fda459a2ac5c33ddf526cc7c5c" class="toggle"  />
-    <label for="section-66cab0fda459a2ac5c33ddf526cc7c5c" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/" class="">Pta Mana F 25ms</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-9adcbefedab38342ac6e6d08aa59f877" class="toggle"  />
-    <label for="section-9adcbefedab38342ac6e6d08aa59f877" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-e2af8e2b51812e25f1f5064079579efc" class="toggle"  />
-    <label for="section-e2af8e2b51812e25f1f5064079579efc" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/vex/" class="">Vex</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
   
 
         </li>
@@ -906,7 +401,6 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
 </nav>
 
 
@@ -927,7 +421,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Multipliers</strong>
+  <h3>Multipliers</h3>
 
   <label for="toc-control">
     
@@ -941,7 +435,7 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"><h1 id="multipliers">
+  <article class="markdown book-article"><h1 id="multipliers">
   Multipliers
   <a class="anchor" href="#multipliers">#</a>
 </h1>
@@ -953,46 +447,46 @@ https://github.com/alex-shpak/hugo-book
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Enemy Armor</th>
-          <th style="text-align: left">LDR</th>
-          <th style="text-align: left">(LDR + BC)</th>
+          <th>Enemy Armor</th>
+          <th>LDR</th>
+          <th>(LDR + BC)</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">100</td>
-          <td style="text-align: left">1.18</td>
-          <td style="text-align: left">1.34</td>
+          <td>100</td>
+          <td>1.18</td>
+          <td>1.34</td>
       </tr>
       <tr>
-          <td style="text-align: left">150</td>
-          <td style="text-align: left">1.22</td>
-          <td style="text-align: left">1.44</td>
+          <td>150</td>
+          <td>1.22</td>
+          <td>1.44</td>
       </tr>
       <tr>
-          <td style="text-align: left">200</td>
-          <td style="text-align: left">1.25</td>
-          <td style="text-align: left">1.52</td>
+          <td>200</td>
+          <td>1.25</td>
+          <td>1.52</td>
       </tr>
       <tr>
-          <td style="text-align: left">250</td>
-          <td style="text-align: left">1.27</td>
-          <td style="text-align: left">1.57</td>
+          <td>250</td>
+          <td>1.27</td>
+          <td>1.57</td>
       </tr>
       <tr>
-          <td style="text-align: left">300</td>
-          <td style="text-align: left">1.29</td>
-          <td style="text-align: left">1.62</td>
+          <td>300</td>
+          <td>1.29</td>
+          <td>1.62</td>
       </tr>
       <tr>
-          <td style="text-align: left">350</td>
-          <td style="text-align: left">1.3</td>
-          <td style="text-align: left">1.66</td>
+          <td>350</td>
+          <td>1.3</td>
+          <td>1.66</td>
       </tr>
       <tr>
-          <td style="text-align: left">400</td>
-          <td style="text-align: left">1.32</td>
-          <td style="text-align: left">1.69</td>
+          <td>400</td>
+          <td>1.32</td>
+          <td>1.69</td>
       </tr>
   </tbody>
 </table>
@@ -1004,87 +498,87 @@ https://github.com/alex-shpak/hugo-book
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Armor</th>
-          <th style="text-align: left">18</th>
-          <th style="text-align: left">30</th>
-          <th style="text-align: left">36</th>
-          <th style="text-align: left">40</th>
-          <th style="text-align: left">54</th>
-          <th style="text-align: left">79</th>
+          <th>Armor</th>
+          <th>18</th>
+          <th>30</th>
+          <th>36</th>
+          <th>40</th>
+          <th>54</th>
+          <th>79</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">74</td>
-          <td style="text-align: left">1.12</td>
-          <td style="text-align: left">1.21</td>
-          <td style="text-align: left">1.26</td>
-          <td style="text-align: left">1.3</td>
-          <td style="text-align: left">1.45</td>
-          <td style="text-align: left">1.74</td>
+          <td>74</td>
+          <td>1.12</td>
+          <td>1.21</td>
+          <td>1.26</td>
+          <td>1.3</td>
+          <td>1.45</td>
+          <td>1.74</td>
       </tr>
       <tr>
-          <td style="text-align: left">125</td>
-          <td style="text-align: left">1.09</td>
-          <td style="text-align: left">1.15</td>
-          <td style="text-align: left">1.19</td>
-          <td style="text-align: left">1.22</td>
-          <td style="text-align: left">1.32</td>
-          <td style="text-align: left">1.54</td>
+          <td>125</td>
+          <td>1.09</td>
+          <td>1.15</td>
+          <td>1.19</td>
+          <td>1.22</td>
+          <td>1.32</td>
+          <td>1.54</td>
       </tr>
       <tr>
-          <td style="text-align: left">150</td>
-          <td style="text-align: left">1.08</td>
-          <td style="text-align: left">1.14</td>
-          <td style="text-align: left">1.17</td>
-          <td style="text-align: left">1.19</td>
-          <td style="text-align: left">1.28</td>
-          <td style="text-align: left">1.46</td>
+          <td>150</td>
+          <td>1.08</td>
+          <td>1.14</td>
+          <td>1.17</td>
+          <td>1.19</td>
+          <td>1.28</td>
+          <td>1.46</td>
       </tr>
       <tr>
-          <td style="text-align: left">200</td>
-          <td style="text-align: left">1.06</td>
-          <td style="text-align: left">1.11</td>
-          <td style="text-align: left">1.14</td>
-          <td style="text-align: left">1.15</td>
-          <td style="text-align: left">1.22</td>
-          <td style="text-align: left">1.36</td>
+          <td>200</td>
+          <td>1.06</td>
+          <td>1.11</td>
+          <td>1.14</td>
+          <td>1.15</td>
+          <td>1.22</td>
+          <td>1.36</td>
       </tr>
       <tr>
-          <td style="text-align: left">250</td>
-          <td style="text-align: left">1.05</td>
-          <td style="text-align: left">1.09</td>
-          <td style="text-align: left">1.11</td>
-          <td style="text-align: left">1.13</td>
-          <td style="text-align: left">1.18</td>
-          <td style="text-align: left">1.29</td>
+          <td>250</td>
+          <td>1.05</td>
+          <td>1.09</td>
+          <td>1.11</td>
+          <td>1.13</td>
+          <td>1.18</td>
+          <td>1.29</td>
       </tr>
       <tr>
-          <td style="text-align: left">300</td>
-          <td style="text-align: left">1.05</td>
-          <td style="text-align: left">1.08</td>
-          <td style="text-align: left">1.1</td>
-          <td style="text-align: left">1.11</td>
-          <td style="text-align: left">1.16</td>
-          <td style="text-align: left">1.25</td>
+          <td>300</td>
+          <td>1.05</td>
+          <td>1.08</td>
+          <td>1.1</td>
+          <td>1.11</td>
+          <td>1.16</td>
+          <td>1.25</td>
       </tr>
       <tr>
-          <td style="text-align: left">350</td>
-          <td style="text-align: left">1.04</td>
-          <td style="text-align: left">1.07</td>
-          <td style="text-align: left">1.09</td>
-          <td style="text-align: left">1.1</td>
-          <td style="text-align: left">1.14</td>
-          <td style="text-align: left">1.21</td>
+          <td>350</td>
+          <td>1.04</td>
+          <td>1.07</td>
+          <td>1.09</td>
+          <td>1.1</td>
+          <td>1.14</td>
+          <td>1.21</td>
       </tr>
       <tr>
-          <td style="text-align: left">400</td>
-          <td style="text-align: left">1.04</td>
-          <td style="text-align: left">1.06</td>
-          <td style="text-align: left">1.08</td>
-          <td style="text-align: left">1.09</td>
-          <td style="text-align: left">1.12</td>
-          <td style="text-align: left">1.19</td>
+          <td>400</td>
+          <td>1.04</td>
+          <td>1.06</td>
+          <td>1.08</td>
+          <td>1.09</td>
+          <td>1.12</td>
+          <td>1.19</td>
       </tr>
   </tbody>
 </table>
@@ -1095,55 +589,55 @@ https://github.com/alex-shpak/hugo-book
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Crit Chance</th>
-          <th style="text-align: left">AD Ratio</th>
-          <th style="text-align: left">Navori Multiplier</th>
-          <th style="text-align: left">Total Ad Ratio</th>
-          <th style="text-align: left">Damage Multiplier (x)</th>
+          <th>Crit Chance</th>
+          <th>AD Ratio</th>
+          <th>Navori Multiplier</th>
+          <th>Total Ad Ratio</th>
+          <th>Damage Multiplier (x)</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">0</td>
-          <td style="text-align: left">0.75</td>
-          <td style="text-align: left">1</td>
-          <td style="text-align: left">0.75</td>
-          <td style="text-align: left">1</td>
+          <td>0</td>
+          <td>0.75</td>
+          <td>1</td>
+          <td>0.75</td>
+          <td>1</td>
       </tr>
       <tr>
-          <td style="text-align: left">20</td>
-          <td style="text-align: left">0.79</td>
-          <td style="text-align: left">1</td>
-          <td style="text-align: left">0.79</td>
-          <td style="text-align: left">1.05</td>
+          <td>20</td>
+          <td>0.79</td>
+          <td>1</td>
+          <td>0.79</td>
+          <td>1.05</td>
       </tr>
       <tr>
-          <td style="text-align: left">40</td>
-          <td style="text-align: left">0.83</td>
-          <td style="text-align: left">1.08</td>
-          <td style="text-align: left">0.8964</td>
-          <td style="text-align: left">1.2</td>
+          <td>40</td>
+          <td>0.83</td>
+          <td>1.08</td>
+          <td>0.8964</td>
+          <td>1.2</td>
       </tr>
       <tr>
-          <td style="text-align: left">60</td>
-          <td style="text-align: left">0.87</td>
-          <td style="text-align: left">1.12</td>
-          <td style="text-align: left">0.9744</td>
-          <td style="text-align: left">1.3</td>
+          <td>60</td>
+          <td>0.87</td>
+          <td>1.12</td>
+          <td>0.9744</td>
+          <td>1.3</td>
       </tr>
       <tr>
-          <td style="text-align: left">80</td>
-          <td style="text-align: left">0.91</td>
-          <td style="text-align: left">1.16</td>
-          <td style="text-align: left">1.0556</td>
-          <td style="text-align: left">1.41</td>
+          <td>80</td>
+          <td>0.91</td>
+          <td>1.16</td>
+          <td>1.0556</td>
+          <td>1.41</td>
       </tr>
       <tr>
-          <td style="text-align: left">100</td>
-          <td style="text-align: left">0.95</td>
-          <td style="text-align: left">1.2</td>
-          <td style="text-align: left">1.14</td>
-          <td style="text-align: left">1.52</td>
+          <td>100</td>
+          <td>0.95</td>
+          <td>1.2</td>
+          <td>1.14</td>
+          <td>1.52</td>
       </tr>
   </tbody>
 </table>
@@ -1155,41 +649,41 @@ https://github.com/alex-shpak/hugo-book
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Crit Chance</th>
-          <th style="text-align: left">AD Ratio with IE</th>
-          <th style="text-align: left">Damage Multiplier</th>
+          <th>Crit Chance</th>
+          <th>AD Ratio with IE</th>
+          <th>Damage Multiplier</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">0</td>
-          <td style="text-align: left">0.75</td>
-          <td style="text-align: left">1</td>
+          <td>0</td>
+          <td>0.75</td>
+          <td>1</td>
       </tr>
       <tr>
-          <td style="text-align: left">20</td>
-          <td style="text-align: left">0.79</td>
-          <td style="text-align: left">1.05</td>
+          <td>20</td>
+          <td>0.79</td>
+          <td>1.05</td>
       </tr>
       <tr>
-          <td style="text-align: left">40</td>
-          <td style="text-align: left">0.858</td>
-          <td style="text-align: left">1.14</td>
+          <td>40</td>
+          <td>0.858</td>
+          <td>1.14</td>
       </tr>
       <tr>
-          <td style="text-align: left">60</td>
-          <td style="text-align: left">0.912</td>
-          <td style="text-align: left">1.22</td>
+          <td>60</td>
+          <td>0.912</td>
+          <td>1.22</td>
       </tr>
       <tr>
-          <td style="text-align: left">80</td>
-          <td style="text-align: left">0.966</td>
-          <td style="text-align: left">1.29</td>
+          <td>80</td>
+          <td>0.966</td>
+          <td>1.29</td>
       </tr>
       <tr>
-          <td style="text-align: left">100</td>
-          <td style="text-align: left">1.02</td>
-          <td style="text-align: left">1.36</td>
+          <td>100</td>
+          <td>1.02</td>
+          <td>1.36</td>
       </tr>
   </tbody>
 </table>
@@ -1201,41 +695,41 @@ https://github.com/alex-shpak/hugo-book
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Crit Chance</th>
-          <th style="text-align: left">Multiplier</th>
-          <th style="text-align: left">Multiplier (With IE)</th>
+          <th>Crit Chance</th>
+          <th>Multiplier</th>
+          <th>Multiplier (With IE)</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">0</td>
-          <td style="text-align: left">1</td>
-          <td style="text-align: left">1</td>
+          <td>0</td>
+          <td>1</td>
+          <td>1</td>
       </tr>
       <tr>
-          <td style="text-align: left">20</td>
-          <td style="text-align: left">1.15</td>
-          <td style="text-align: left">1.15</td>
+          <td>20</td>
+          <td>1.15</td>
+          <td>1.15</td>
       </tr>
       <tr>
-          <td style="text-align: left">40</td>
-          <td style="text-align: left">1.3</td>
-          <td style="text-align: left">1.44</td>
+          <td>40</td>
+          <td>1.3</td>
+          <td>1.44</td>
       </tr>
       <tr>
-          <td style="text-align: left">60</td>
-          <td style="text-align: left">1.45</td>
-          <td style="text-align: left">1.66</td>
+          <td>60</td>
+          <td>1.45</td>
+          <td>1.66</td>
       </tr>
       <tr>
-          <td style="text-align: left">80</td>
-          <td style="text-align: left">1.6</td>
-          <td style="text-align: left">1.88</td>
+          <td>80</td>
+          <td>1.6</td>
+          <td>1.88</td>
       </tr>
       <tr>
-          <td style="text-align: left">100</td>
-          <td style="text-align: left">1.75</td>
-          <td style="text-align: left">2.1</td>
+          <td>100</td>
+          <td>1.75</td>
+          <td>2.1</td>
       </tr>
   </tbody>
 </table>
@@ -1247,66 +741,66 @@ https://github.com/alex-shpak/hugo-book
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Bonus AS (Runes, Items)</th>
-          <th style="text-align: left">Total Bonus As (Items, Runes, L18, Strut)</th>
-          <th style="text-align: left">Attacks per second</th>
-          <th style="text-align: left">Multipier</th>
+          <th>Bonus AS (Runes, Items)</th>
+          <th>Total Bonus As (Items, Runes, L18, Strut)</th>
+          <th>Attacks per second</th>
+          <th>Multipier</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">0%</td>
-          <td style="text-align: left">151%</td>
-          <td style="text-align: left">1.64656</td>
-          <td style="text-align: left">1</td>
+          <td>0%</td>
+          <td>151%</td>
+          <td>1.64656</td>
+          <td>1</td>
       </tr>
       <tr>
-          <td style="text-align: left">25%</td>
-          <td style="text-align: left">176%</td>
-          <td style="text-align: left">1.81056</td>
-          <td style="text-align: left">1.1</td>
+          <td>25%</td>
+          <td>176%</td>
+          <td>1.81056</td>
+          <td>1.1</td>
       </tr>
       <tr>
-          <td style="text-align: left">40%</td>
-          <td style="text-align: left">191%</td>
-          <td style="text-align: left">1.90896</td>
-          <td style="text-align: left">1.16</td>
+          <td>40%</td>
+          <td>191%</td>
+          <td>1.90896</td>
+          <td>1.16</td>
       </tr>
       <tr>
-          <td style="text-align: left">50%</td>
-          <td style="text-align: left">201%</td>
-          <td style="text-align: left">1.97456</td>
-          <td style="text-align: left">1.2</td>
+          <td>50%</td>
+          <td>201%</td>
+          <td>1.97456</td>
+          <td>1.2</td>
       </tr>
       <tr>
-          <td style="text-align: left">75%</td>
-          <td style="text-align: left">226%</td>
-          <td style="text-align: left">2.13856</td>
-          <td style="text-align: left">1.3</td>
+          <td>75%</td>
+          <td>226%</td>
+          <td>2.13856</td>
+          <td>1.3</td>
       </tr>
       <tr>
-          <td style="text-align: left">100%</td>
-          <td style="text-align: left">251%</td>
-          <td style="text-align: left">2.30256</td>
-          <td style="text-align: left">1.4</td>
+          <td>100%</td>
+          <td>251%</td>
+          <td>2.30256</td>
+          <td>1.4</td>
       </tr>
       <tr>
-          <td style="text-align: left">115%</td>
-          <td style="text-align: left">266%</td>
-          <td style="text-align: left">2.40096</td>
-          <td style="text-align: left">1.46</td>
+          <td>115%</td>
+          <td>266%</td>
+          <td>2.40096</td>
+          <td>1.46</td>
       </tr>
       <tr>
-          <td style="text-align: left">130%</td>
-          <td style="text-align: left">281%</td>
-          <td style="text-align: left">2.49936</td>
-          <td style="text-align: left">1.52</td>
+          <td>130%</td>
+          <td>281%</td>
+          <td>2.49936</td>
+          <td>1.52</td>
       </tr>
       <tr>
-          <td style="text-align: left">184%</td>
-          <td style="text-align: left">335%</td>
-          <td style="text-align: left">2.8536</td>
-          <td style="text-align: left">1.73</td>
+          <td>184%</td>
+          <td>335%</td>
+          <td>2.8536</td>
+          <td>1.73</td>
       </tr>
   </tbody>
 </table>
@@ -1319,24 +813,24 @@ https://github.com/alex-shpak/hugo-book
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Enemy HP - MF HP</th>
-          <th style="text-align: left">250</th>
-          <th style="text-align: left">500</th>
-          <th style="text-align: left">1000</th>
-          <th style="text-align: left">1500</th>
-          <th style="text-align: left">2000</th>
-          <th style="text-align: left">2500</th>
+          <th>Enemy HP - MF HP</th>
+          <th>250</th>
+          <th>500</th>
+          <th>1000</th>
+          <th>1500</th>
+          <th>2000</th>
+          <th>2500</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">Multiplier</td>
-          <td style="text-align: left">1.025</td>
-          <td style="text-align: left">1.05</td>
-          <td style="text-align: left">1.1</td>
-          <td style="text-align: left">1.15</td>
-          <td style="text-align: left">1.2</td>
-          <td style="text-align: left">1.25</td>
+          <td>Multiplier</td>
+          <td>1.025</td>
+          <td>1.05</td>
+          <td>1.1</td>
+          <td>1.15</td>
+          <td>1.2</td>
+          <td>1.25</td>
       </tr>
   </tbody>
 </table>
@@ -1347,20 +841,20 @@ https://github.com/alex-shpak/hugo-book
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">% more HP than MF</th>
-          <th style="text-align: left">10%</th>
-          <th style="text-align: left">25%</th>
-          <th style="text-align: left">75%</th>
-          <th style="text-align: left">100%</th>
+          <th>% more HP than MF</th>
+          <th>10%</th>
+          <th>25%</th>
+          <th>75%</th>
+          <th>100%</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">Damage Multiplier</td>
-          <td style="text-align: left">1.05</td>
-          <td style="text-align: left">1.07</td>
-          <td style="text-align: left">1.12</td>
-          <td style="text-align: left">1.15</td>
+          <td>Damage Multiplier</td>
+          <td>1.05</td>
+          <td>1.07</td>
+          <td>1.12</td>
+          <td>1.15</td>
       </tr>
   </tbody>
 </table>

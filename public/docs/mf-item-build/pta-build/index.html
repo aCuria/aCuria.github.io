@@ -13,11 +13,12 @@
   <meta property="og:type" content="article">
     <meta property="article:section" content="docs">
 <title>PTA Build | aCurias Guides</title>
-<link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" >
-<link rel="stylesheet" href="/book.min.b2d853d55719b549c81d1059cef7b7b3ebc8ea048c657205fe7c4a74f3072519.css" integrity="sha256-sthT1VcZtUnIHRBZzve3s&#43;vI6gSMZXIF/nxKdPMHJRk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.8a45002e5f1bced8cbd59cd40b9b69c6fefe5ca8bffceed9a8a4ba90d1db0f9d.js" integrity="sha256-ikUALl8bztjL1ZzUC5tpxv7&#43;XKi//O7ZqKS6kNHbD50=" crossorigin="anonymous"></script>
+<link rel="manifest" href="/manifest.json">
+<link rel="canonical" href="http://localhost:1313/docs/mf-item-build/pta-build/">
+<link rel="stylesheet" href="/book.min.a5fbd98b91e04aa6767e929832936c24662420c3e407b551ca69234365afc80c.css" integrity="sha256-pfvZi5HgSqZ2fpKYMpNsJGYkIMPkB7VRymkjQ2WvyAw=" crossorigin="anonymous">
+  <script defer src="/fuse.min.js"></script>
+  <script defer src="/en.search.min.11c8820bc912f4456ed7aa114e90ad33d75480be532a7b6172d824c9a46f357f.js" integrity="sha256-EciCC8kS9EVu16oRTpCtM9dUgL5TKnthctgkyaRvNX8=" crossorigin="anonymous"></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -38,11 +39,12 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
+<div class="book-search hidden">
   <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
   <div class="book-search-spinner hidden"></div>
   <ul id="book-search-results"></ul>
 </div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
 
 
 
@@ -55,7 +57,6 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  
 
 
 
@@ -69,8 +70,8 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-0fe5cc0ab54e011b00afb7007b6b79e4" class="toggle"  />
-    <label for="section-0fe5cc0ab54e011b00afb7007b6b79e4" class="flex justify-between">
+    <input type="checkbox" id="section-6495d8f2f13f30abffaa667e00f36396" class="toggle"  />
+    <label for="section-6495d8f2f13f30abffaa667e00f36396" class="flex justify-between">
       <a href="/docs/mf-beginners-guide/" class="">MF Beginner&#39;s Guide</a>
     </label>
   
@@ -212,8 +213,8 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-f14d4fe54c3523cdceee6a2027dc3e5b" class="toggle"  />
-    <label for="section-f14d4fe54c3523cdceee6a2027dc3e5b" class="flex justify-between">
+    <input type="checkbox" id="section-799f58ff4482b35314eabd960db22b6b" class="toggle"  />
+    <label for="section-799f58ff4482b35314eabd960db22b6b" class="flex justify-between">
       <a href="/docs/simulation-data/" class="">Simulation Data</a>
     </label>
   
@@ -228,9 +229,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-35a3612f4387a661c746815295aa217d" class="toggle"  />
-    <label for="section-35a3612f4387a661c746815295aa217d" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/" class="">Patch 14.22.1</a>
+    <input type="checkbox" id="section-727ff1119d646bb6c01c0719a4fae0ae" class="toggle"  />
+    <label for="section-727ff1119d646bb6c01c0719a4fae0ae" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/" class="">Patch 15.23</a>
     </label>
   
 
@@ -244,9 +245,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-62701659340e1ea3f9cec9141cc70509" class="toggle"  />
-    <label for="section-62701659340e1ea3f9cec9141cc70509" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/" class="">Pta Mana F</a>
+    <input type="checkbox" id="section-fc8c2538d52c5008cdd6235c3788665b" class="toggle"  />
+    <label for="section-fc8c2538d52c5008cdd6235c3788665b" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/pta-bloodline/" class="">Pta Bloodline</a>
     </label>
   
 
@@ -260,9 +261,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-2390212169396ea0d914eac96c26d588" class="toggle"  />
-    <label for="section-2390212169396ea0d914eac96c26d588" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
+    <input type="checkbox" id="section-d11e148e369d3706b158775077908e29" class="toggle"  />
+    <label for="section-d11e148e369d3706b158775077908e29" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
     </label>
   
 
@@ -276,7 +277,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
   
 
         </li>
@@ -289,7 +290,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
   
 
         </li>
@@ -302,7 +303,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
   
 
         </li>
@@ -315,513 +316,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-d06e4987129e2e1770d25e7e8bbe06c7" class="toggle"  />
-    <label for="section-d06e4987129e2e1770d25e7e8bbe06c7" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-456b65980d6c16b9f1e78fd30c4519d6" class="toggle"  />
-    <label for="section-456b65980d6c16b9f1e78fd30c4519d6" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/" class="">Patch 14.23.0</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-f5a1a9f8167d10fdea2c0cb0ed9239a0" class="toggle"  />
-    <label for="section-f5a1a9f8167d10fdea2c0cb0ed9239a0" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/" class="">Pta Mana F 23ms</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-c444477c040e19871e1a210ae7eba3ad" class="toggle"  />
-    <label for="section-c444477c040e19871e1a210ae7eba3ad" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-636c10c8915447af99cda13aff35b105" class="toggle"  />
-    <label for="section-636c10c8915447af99cda13aff35b105" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-66cab0fda459a2ac5c33ddf526cc7c5c" class="toggle"  />
-    <label for="section-66cab0fda459a2ac5c33ddf526cc7c5c" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/" class="">Pta Mana F 25ms</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-9adcbefedab38342ac6e6d08aa59f877" class="toggle"  />
-    <label for="section-9adcbefedab38342ac6e6d08aa59f877" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-e2af8e2b51812e25f1f5064079579efc" class="toggle"  />
-    <label for="section-e2af8e2b51812e25f1f5064079579efc" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/vex/" class="">Vex</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
   
 
         </li>
@@ -906,7 +401,6 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
 </nav>
 
 
@@ -927,7 +421,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>PTA Build</strong>
+  <h3>PTA Build</h3>
 
   <label for="toc-control">
     
@@ -941,7 +435,7 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"><h1 id="pta-guide-updated-patch-1419">
+  <article class="markdown book-article"><h1 id="pta-guide-updated-patch-1419">
   PTA Guide (Updated Patch 14.19)
   <a class="anchor" href="#pta-guide-updated-patch-1419">#</a>
 </h1>
@@ -983,242 +477,268 @@ https://github.com/alex-shpak/hugo-book
 <p><img src="/item/1053.png" alt="" /> this is extremely important against poke. If there is no poke you can skip scepter and the absorb life rune.</p>
 <p><img src="/item/1083.png" alt="" />
 <img src="/item/1001.png" alt="" /> In general I will try to make cull over a long sword early game if I have 450g.</p>
+<div class="book-tabs">
+
+
+
+<input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-0" checked="checked" />
+<label for="tabs-Patches-0">14.19</label>
+<div class="book-tabs-content markdown-inner"> 
+Massive changes to almost all items 
+</div>
+
+
+
+<input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-1"  />
+<label for="tabs-Patches-1">14.17</label>
+<div class="book-tabs-content markdown-inner"> 
+Cut Down nerf: 
+- Damage Threshold: Above 50% Maximum Health ⇒ Above 60% Maximum Health
+
+Absorb Life nerf: 
+- Level 1-5: 1-5 (based on level) ⇒ 1-2 (based on level)
+</div>
+
+
+
+<input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-2"  />
+<label for="tabs-Patches-2">14.16</label>
+<div class="book-tabs-content markdown-inner"> 
+Blade of the Ruined King
+- Attack Damage: 55 ⇒ 50
+- Attack Speed: 30% ⇒ 25%
+- On-Hit Damage: 9% (melee) / 6% (ranged) ⇒ 10% (melee) / 6% (ranged)
+- I cant believe they made it even worse. Its tremendously weaker than previous seasons.
+</div>
+
+
+
+<input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-3"  />
+<label for="tabs-Patches-3">14.15</label>
+<div class="book-tabs-content markdown-inner"> 
+Kraken Slayer
+- Move Speed: 7% ⇒ 5%
+- Bring it Down: 140-310 ⇒ 80% effectiveness for ranged champions (112-248)
+- Wasnt good enough to build previously, and its even worse now.
+
+Lord Domniks Regards
+- Armor Penetration: 40% ⇒ 35%
+- This is pretty painful, but LDR/MR is still the most powerful item in the game for MF.
+
+Mortal Reminder
+- Attack Damage: 40 ⇒ 35
+- Grevious wounds is much more powerful than LDR's +10ad against almost any kind of healing.
+
+Berserker’s Greaves
+- Attack Speed: 35% ⇒ 30%
+- Even less reason to build it now.
+
+Wit’s End
+- Fray: 15-80 ⇒ 40-80
+- We dont really build this now, but it was situationally good in previous seasons. 
+
+Dark Harvest
+- Cooldown: 40 ⇒ 35
+- On-takedown reset timer: 1.5s ⇒ 1s
+- Probably doesnt matter. DH cant proc multiple times per ult, and without the stealth passive on Duskblade Mythic the DH playstyle is dead
+
+Fleet Footwork
+- Heal: 8-110 (linear) (+10% Bonus AD) (+5% AP) ⇒ 5-120 (following stat progression multiplier) (+10% Bonus AD) (+5% AP)
+- Not relevant for MF.
+
+Death’s Dance
+- Armor: 40 ⇒ 50
+- I dont think this makes it good enough to buy. Stacking HP/Shields (Shieldbow) is more effective because with only 1 armor item, lethality stacking assasins still reduce our armor value to 0
+
+</div>
+
+
+
+<input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-4"  />
+<label for="tabs-Patches-4">14.14</label>
+<div class="book-tabs-content markdown-inner"> 
+Absorb Life 
+- Healing: 2-20 (linear scaling) ⇒ 1-23 (following base stat progression) ( Note: This is a nerf levels 1-12 and a buff levels 13-18.)
+- This is a nerf. Late game we can heal fine with BT, we only benefit from this rune before making the scepter component.
+</div>
 
 
 
 
-<div class="book-tabs"><input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-0" checked="checked" />
-  <label for="tabs-Patches-0">14.19</label>
-  <div class="book-tabs-content markdown-inner">Massive changes to almost all items</div><input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-1"  />
-  <label for="tabs-Patches-1">14.17</label>
-  <div class="book-tabs-content markdown-inner"><p>Cut Down nerf:</p>
-<ul>
-<li>Damage Threshold: Above 50% Maximum Health ⇒ Above 60% Maximum Health</li>
-</ul>
-<p>Absorb Life nerf:</p>
-<ul>
-<li>Level 1-5: 1-5 (based on level) ⇒ 1-2 (based on level)</li>
-</ul>
-</div><input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-2"  />
-  <label for="tabs-Patches-2">14.16</label>
-  <div class="book-tabs-content markdown-inner"><p>Blade of the Ruined King</p>
-<ul>
-<li>Attack Damage: 55 ⇒ 50</li>
-<li>Attack Speed: 30% ⇒ 25%</li>
-<li>On-Hit Damage: 9% (melee) / 6% (ranged) ⇒ 10% (melee) / 6% (ranged)</li>
-<li>I cant believe they made it even worse. Its tremendously weaker than previous seasons.</li>
-</ul></div><input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-3"  />
-  <label for="tabs-Patches-3">14.15</label>
-  <div class="book-tabs-content markdown-inner"><p>Kraken Slayer</p>
-<ul>
-<li>Move Speed: 7% ⇒ 5%</li>
-<li>Bring it Down: 140-310 ⇒ 80% effectiveness for ranged champions (112-248)</li>
-<li>Wasnt good enough to build previously, and its even worse now.</li>
-</ul>
-<p>Lord Domniks Regards</p>
-<ul>
-<li>Armor Penetration: 40% ⇒ 35%</li>
-<li>This is pretty painful, but LDR/MR is still the most powerful item in the game for MF.</li>
-</ul>
-<p>Mortal Reminder</p>
-<ul>
-<li>Attack Damage: 40 ⇒ 35</li>
-<li>Grevious wounds is much more powerful than LDR&rsquo;s +10ad against almost any kind of healing.</li>
-</ul>
-<p>Berserker’s Greaves</p>
-<ul>
-<li>Attack Speed: 35% ⇒ 30%</li>
-<li>Even less reason to build it now.</li>
-</ul>
-<p>Wit’s End</p>
-<ul>
-<li>Fray: 15-80 ⇒ 40-80</li>
-<li>We dont really build this now, but it was situationally good in previous seasons.</li>
-</ul>
-<p>Dark Harvest</p>
-<ul>
-<li>Cooldown: 40 ⇒ 35</li>
-<li>On-takedown reset timer: 1.5s ⇒ 1s</li>
-<li>Probably doesnt matter. DH cant proc multiple times per ult, and without the stealth passive on Duskblade Mythic the DH playstyle is dead</li>
-</ul>
-<p>Fleet Footwork</p>
-<ul>
-<li>Heal: 8-110 (linear) (+10% Bonus AD) (+5% AP) ⇒ 5-120 (following stat progression multiplier) (+10% Bonus AD) (+5% AP)</li>
-<li>Not relevant for MF.</li>
-</ul>
-<p>Death’s Dance</p>
-<ul>
-<li>Armor: 40 ⇒ 50</li>
-<li>I dont think this makes it good enough to buy. Stacking HP/Shields (Shieldbow) is more effective because with only 1 armor item, lethality stacking assasins still reduce our armor value to 0</li>
-</ul>
-</div><input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-4"  />
-  <label for="tabs-Patches-4">14.14</label>
-  <div class="book-tabs-content markdown-inner"><p>Absorb Life</p>
-<ul>
-<li>Healing: 2-20 (linear scaling) ⇒ 1-23 (following base stat progression) ( Note: This is a nerf levels 1-12 and a buff levels 13-18.)</li>
-<li>This is a nerf. Late game we can heal fine with BT, we only benefit from this rune before making the scepter component.</li>
-</ul></div><input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-5"  />
-  <label for="tabs-Patches-5">14.13</label>
-  <div class="book-tabs-content markdown-inner"><p>MF got a buff,</p>
-<ul>
-<li>you can absolutely feel its easier to last hit under tower thanks to the +3 base AD.</li>
-<li>The &ldquo;Strut Damage Lock-out&rdquo; and &ldquo;initial bonus&rdquo; move speed buff is nice but its difficult to gauge how much of an impact this has, because we can W active to get the full max move speed immediately.</li>
-<li>The +5 to max bonus move speed is actually noticable, its possible to chase down champs more easily now.</li>
-</ul>
-<p>overall we can last hit slightly easier with the +3 AD, and we can chase better because the initial bonus move speed was substantially increased.</p>
-<p>Miss Fortune</p>
-<ul>
-<li>Base Attack Damage: 52 ⇒ 55</li>
-<li>Strut Damage Lock-out: 5 seconds ⇒ 4 seconds</li>
-<li>Strut Upgraded Move speed delay: 5 seconds ⇒ 3 seconds</li>
-<li>Strut Max bonus move speed: 55/65/75/85/95 ⇒ 60/70/80/90/100</li>
-<li>Strut Initial Bonus move speed: 25 ⇒ 30/35/40/45/50</li>
-</ul>
-<p>Dark Harvest</p>
-<ul>
-<li>Damage: 20-80 (+5 per Soul) ⇒ 20 (+9 per Soul) (bonus ratios unchanged)</li>
-<li>Cooldown: 45 ⇒ 40</li>
-</ul>
-<p>Electrocute</p>
-<ul>
-<li>Damage: 30-220 ⇒ 50-190 (bonus ratios unchanged)</li>
-<li>Cooldown: 25-20 (based on level) ⇒ 20</li>
-</ul>
-</div><input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-6"  />
-  <label for="tabs-Patches-6">14.11</label>
-  <div class="book-tabs-content markdown-inner"><p>The main change is that IE got severely nerfed to the point its no longer a good early game rush item&hellip; and Shieldbow got an enormous buff.</p>
-<ul>
-<li>Looking at the AA only dataset, ER / Axiom kills draven the fastest at 1 item, but these items not what we want mid game&hellip;.</li>
-<li>For this reason playing for autos early game seems to be dead because we dont have a strong 1st and 2nd item to support it. We really need to play for ult damage and short trades (aa q aa &amp; q2) instead</li>
-</ul></div></div>
+<input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-5"  />
+<label for="tabs-Patches-5">14.13</label>
+<div class="book-tabs-content markdown-inner"> 
+
+MF got a buff, 
+- you can absolutely feel its easier to last hit under tower thanks to the +3 base AD. 
+- The "Strut Damage Lock-out" and "initial bonus" move speed buff is nice but its difficult to gauge how much of an impact this has, because we can W active to get the full max move speed immediately.
+- The +5 to max bonus move speed is actually noticable, its possible to chase down champs more easily now.
+
+overall we can last hit slightly easier with the +3 AD, and we can chase better because the initial bonus move speed was substantially increased.
+
+Miss Fortune
+- Base Attack Damage: 52 ⇒ 55
+- Strut Damage Lock-out: 5 seconds ⇒ 4 seconds
+- Strut Upgraded Move speed delay: 5 seconds ⇒ 3 seconds
+- Strut Max bonus move speed: 55/65/75/85/95 ⇒ 60/70/80/90/100
+- Strut Initial Bonus move speed: 25 ⇒ 30/35/40/45/50
+
+Dark Harvest
+- Damage: 20-80 (+5 per Soul) ⇒ 20 (+9 per Soul) (bonus ratios unchanged)
+- Cooldown: 45 ⇒ 40
+
+Electrocute
+- Damage: 30-220 ⇒ 50-190 (bonus ratios unchanged)
+- Cooldown: 25-20 (based on level) ⇒ 20
+
+</div>
+
+
+
+<input type="radio" class="toggle" name="tabs-Patches" id="tabs-Patches-6"  />
+<label for="tabs-Patches-6">14.11</label>
+<div class="book-tabs-content markdown-inner"> 
+
+The main change is that IE got severely nerfed to the point its no longer a good early game rush item... and Shieldbow got an enormous buff.
+- Looking at the AA only dataset, ER / Axiom kills draven the fastest at 1 item, but these items not what we want mid game....  
+- For this reason playing for autos early game seems to be dead because we dont have a strong 1st and 2nd item to support it. We really need to play for ult damage and short trades (aa q aa & q2) instead
+</div>
+
+
+</div>
+
+<div class="book-tabs">
 
 
 
 
 
-<div class="book-tabs"><input type="radio" class="toggle" name="tabs-PTA" id="tabs-PTA-0" checked="checked" />
-  <label for="tabs-PTA-0">Default (3-6 item spike into squishies)</label>
-  <div class="book-tabs-content markdown-inner"><h1 id="build-idea">
-  Build Idea
-  <a class="anchor" href="#build-idea">#</a>
-</h1>
-<p>The build idea here is to optimize for 2 parameters:</p>
-<ul>
-<li>If someone jumps on us, we want to blow them up in the least possible time</li>
-<li>I also want good ult damage, so even if rageblade/kraken/BOTRK does kill someone faster in an all-in, I avoid them because they greatly impact ult damage.</li>
-</ul>
-<p>Early game we want to take trades with aa&gt;q&gt;aa or Q2 and back off to heal back using lifesteal. Late game, we wait for our team to CC and then press R to get a couple of kills.</p>
-<h2 id="1-make-core-items">
-  1: Make Core Items
-  <a class="anchor" href="#1-make-core-items">#</a>
-</h2>
-<p><img src="/item/3031.png" alt="" />
-<img src="/item/6676.png" alt="" />
-<img src="/item/1001.png" alt="" />
-<img src="/item/1053.png" alt="" /></p>
-<ul>
-<li>Boots: make it when you have an extra 300g</li>
-<li>Scepter: rush it if you need sustain against a poke lane, otherwise it can be delayed because it weakens your all-in if you are not in a poke lane</li>
-</ul>
-<p><img src="/item/3072.png" alt="" /> Rush this item if more sustain is needed. (lane dependent)</p>
-<h2 id="2-choose-1-prefer-ldr">
-  2: Choose 1 (Prefer LDR)
-  <a class="anchor" href="#2-choose-1-prefer-ldr">#</a>
-</h2>
-<p><img src="/item/3036.png" alt="" /><img src="/item/3033.png" alt="" /></p>
-<h2 id="3-choose-1-prefer-bt">
-  3: Choose 1 (Prefer BT)
-  <a class="anchor" href="#3-choose-1-prefer-bt">#</a>
-</h2>
-<p><img src="/item/3072.png" alt="" /><img src="/item/3153.png" alt="" /><img src="/item/3139.png" alt="" /></p>
-<h2 id="4-choose-1">
-  4: Choose 1
-  <a class="anchor" href="#4-choose-1">#</a>
-</h2>
-<p><img src="/item/3032.png" alt="" />
-<img src="/item/3156.png" alt="" />
-<img src="/item/3026.png" alt="" />
-<img src="/item/3814.png" alt="" />
-<img src="/item/6673.png" alt="" /></p>
-<h2 id="4-sell-boots-for-this">
-  4: sell boots for this
-  <a class="anchor" href="#4-sell-boots-for-this">#</a>
-</h2>
-<p><img src="/item/3142.png" alt="" /></p>
-<h2 id="notes">
-  Notes
-  <a class="anchor" href="#notes">#</a>
-</h2>
-<p>Note that following the build exactly is difficult because of high item component costs. We may have bought some longswords before getting BFS for instance. Collector can be built before IE to absorb some longswords.</p>
-</div><input type="radio" class="toggle" name="tabs-PTA" id="tabs-PTA-1"  />
-  <label for="tabs-PTA-1">1/2 Item spikes vs ADC</label>
-  <div class="book-tabs-content markdown-inner"><h2 id="1-item">
-  1 Item
-  <a class="anchor" href="#1-item">#</a>
-</h2>
-<p><img src="/item/3508.png" alt="" /> 3.81s (100-0 kill time)</p>
-<p><img src="/item/6672.png" alt="" /> 4.18s</p>
-<p><img src="/item/6676.png" alt="" /> 4.23s</p>
-<p><img src="/item/3031.png" alt="" /> 4.23s (Q2 is stronger with this though)</p>
-<h2 id="2-items">
-  2 Items
-  <a class="anchor" href="#2-items">#</a>
-</h2>
-<p><img src="/item/6676.png" alt="" /><img src="/item/6672.png" alt="" /> 2.46s squishy kill time</p>
-<p><img src="/item/3031.png" alt="" /><img src="/item/3036.png" alt="" /> 2.82s (Scales better)</p>
-</div><input type="radio" class="toggle" name="tabs-PTA" id="tabs-PTA-2"  />
-  <label for="tabs-PTA-2">Anti Tank</label>
-  <div class="book-tabs-content markdown-inner"><h3 id="2-items">
-  2 Items:
-  <a class="anchor" href="#2-items">#</a>
-</h3>
-<p><img src="/item/3124.png" alt="" /><img src="/item/3153.png" alt="" /> 6.16s  (100-0 kill time)</p>
-<p><img src="/item/3031.png" alt="" /><img src="/item/3036.png" alt="" /> 7.09s (better ult damage)</p>
-<h3 id="3-items">
-  3 Items:
-  <a class="anchor" href="#3-items">#</a>
-</h3>
-<p><img src="/item/3124.png" alt="" /><img src="/item/3153.png" alt="" /><img src="/item/3036.png" alt="" /> 4.62s</p>
-<p><img src="/item/3031.png" alt="" /><img src="/item/3036.png" alt="" /><img src="/item/6676.png" alt="" /> 5.64s (better ult damage)</p>
-<h3 id="4-items">
-  4 Items:
-  <a class="anchor" href="#4-items">#</a>
-</h3>
-<p><img src="/item/3124.png" alt="" /><img src="/item/3153.png" alt="" /><img src="/item/3036.png" alt="" /><img src="/item/6672.png" alt="" /> 4.35s</p>
-<p><img src="/item/3124.png" alt="" /><img src="/item/3153.png" alt="" /><img src="/item/3036.png" alt="" /><img src="/item/3031.png" alt="" /> 4.55s</p>
-<p><img src="/item/3031.png" alt="" /><img src="/item/3036.png" alt="" /><img src="/item/6676.png" alt="" /><img src="/item/3032.png" alt="" /> 4.74s (better ult damage)</p>
-<h3 id="5-items">
-  5 items:
-  <a class="anchor" href="#5-items">#</a>
-</h3>
-<p><img src="/item/3124.png" alt="" /><img src="/item/3153.png" alt="" /><img src="/item/3036.png" alt="" /><img src="/item/3031.png" alt="" /><img src="/item/6676.png" alt="" /> 4.09s</p>
-<p><img src="/item/3031.png" alt="" /><img src="/item/3036.png" alt="" /><img src="/item/6676.png" alt="" /><img src="/item/3032.png" alt="" /><img src="/item/3153.png" alt="" /> 4.3s (better ult damage)</p>
-<h3 id="6-items">
-  6 Items:
-  <a class="anchor" href="#6-items">#</a>
-</h3>
-<p><img src="/item/3124.png" alt="" /><img src="/item/3153.png" alt="" /><img src="/item/3036.png" alt="" /><img src="/item/3031.png" alt="" /><img src="/item/6676.png" alt="" /><img src="/item/3142.png" alt="" /> 3.38s</p>
-<p><img src="/item/3031.png" alt="" /><img src="/item/3036.png" alt="" /><img src="/item/6676.png" alt="" /><img src="/item/3032.png" alt="" /><img src="/item/3153.png" alt="" /><img src="/item/3142.png" alt="" /> 3.4s (better ult damage)</p>
-</div></div>
+<input type="radio" class="toggle" name="tabs-PTA" id="tabs-PTA-0" checked="checked" />
+<label for="tabs-PTA-0">Default (3-6 item spike into squishies)</label>
+<div class="book-tabs-content markdown-inner"> 
+
+# Build Idea 
+The build idea here is to optimize for 2 parameters:
+- If someone jumps on us, we want to blow them up in the least possible time
+- I also want good ult damage, so even if rageblade/kraken/BOTRK does kill someone faster in an all-in, I avoid them because they greatly impact ult damage.
+
+Early game we want to take trades with aa>q>aa or Q2 and back off to heal back using lifesteal. Late game, we wait for our team to CC and then press R to get a couple of kills.
+
+
+## 1: Make Core Items
+![](/item/3031.png)
+![](/item/6676.png)
+![](/item/1001.png)
+![](/item/1053.png)
+
+- Boots: make it when you have an extra 300g
+- Scepter: rush it if you need sustain against a poke lane, otherwise it can be delayed because it weakens your all-in if you are not in a poke lane
+
+![](/item/3072.png) Rush this item if more sustain is needed. (lane dependent)
+
+## 2: Choose 1 (Prefer LDR)
+![](/item/3036.png)![](/item/3033.png)
+
+## 3: Choose 1 (Prefer BT)
+![](/item/3072.png)![](/item/3153.png)![](/item/3139.png)
+
+## 4: Choose 1
+![](/item/3032.png)
+![](/item/3156.png)
+![](/item/3026.png)
+![](/item/3814.png)
+![](/item/6673.png)
+
+## 4: sell boots for this
+![](/item/3142.png)
+
+
+## Notes
+Note that following the build exactly is difficult because of high item component costs. We may have bought some longswords before getting BFS for instance. Collector can be built before IE to absorb some longswords.
+
+
+</div>
+
+
+
+<input type="radio" class="toggle" name="tabs-PTA" id="tabs-PTA-1"  />
+<label for="tabs-PTA-1">1/2 Item spikes vs ADC</label>
+<div class="book-tabs-content markdown-inner">
+
+## 1 Item 
+
+![](/item/3508.png) 3.81s (100-0 kill time)
+
+![](/item/6672.png) 4.18s
+
+![](/item/6676.png) 4.23s
+
+![](/item/3031.png) 4.23s (Q2 is stronger with this though)
+
+## 2 Items
+
+![](/item/6676.png)![](/item/6672.png) 2.46s squishy kill time
+
+![](/item/3031.png)![](/item/3036.png) 2.82s (Scales better)
+
+</div>
+
+
+
+
+<input type="radio" class="toggle" name="tabs-PTA" id="tabs-PTA-2"  />
+<label for="tabs-PTA-2">Anti Tank</label>
+<div class="book-tabs-content markdown-inner">
+
+### 2 Items:
+
+![](/item/3124.png)![](/item/3153.png) 6.16s  (100-0 kill time)
+
+![](/item/3031.png)![](/item/3036.png) 7.09s (better ult damage)
+
+### 3 Items:
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png) 4.62s
+
+![](/item/3031.png)![](/item/3036.png)![](/item/6676.png) 5.64s (better ult damage)
+
+### 4 Items:
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/6672.png) 4.35s
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png) 4.55s
+
+![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/3032.png) 4.74s (better ult damage)
+
+### 5 items:
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png) 4.09s
+
+![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/3032.png)![](/item/3153.png) 4.3s (better ult damage)
+
+### 6 Items:
+
+![](/item/3124.png)![](/item/3153.png)![](/item/3036.png)![](/item/3031.png)![](/item/6676.png)![](/item/3142.png) 3.38s
+
+![](/item/3031.png)![](/item/3036.png)![](/item/6676.png)![](/item/3032.png)![](/item/3153.png)![](/item/3142.png) 3.4s (better ult damage)
+
+</div>
+
+
+
+
+</div>
 
 <h1 id="gameplay">
   Gameplay
   <a class="anchor" href="#gameplay">#</a>
 </h1>
-<p>
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/FPMdMDvjbe4?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
+<p><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/FPMdMDvjbe4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
     </div>
 
-
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/8lLjWkrSz0E?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/8lLjWkrSz0E?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
     </div>
 </p>
 <h1 id="support-champions">

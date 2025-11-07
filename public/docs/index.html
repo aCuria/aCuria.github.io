@@ -12,11 +12,12 @@
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 <title>Content | aCurias Guides</title>
-<link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" >
-<link rel="stylesheet" href="/book.min.b2d853d55719b549c81d1059cef7b7b3ebc8ea048c657205fe7c4a74f3072519.css" integrity="sha256-sthT1VcZtUnIHRBZzve3s&#43;vI6gSMZXIF/nxKdPMHJRk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.8a45002e5f1bced8cbd59cd40b9b69c6fefe5ca8bffceed9a8a4ba90d1db0f9d.js" integrity="sha256-ikUALl8bztjL1ZzUC5tpxv7&#43;XKi//O7ZqKS6kNHbD50=" crossorigin="anonymous"></script>
+<link rel="manifest" href="/manifest.json">
+<link rel="canonical" href="http://localhost:1313/docs/">
+<link rel="stylesheet" href="/book.min.a5fbd98b91e04aa6767e929832936c24662420c3e407b551ca69234365afc80c.css" integrity="sha256-pfvZi5HgSqZ2fpKYMpNsJGYkIMPkB7VRymkjQ2WvyAw=" crossorigin="anonymous">
+  <script defer src="/fuse.min.js"></script>
+  <script defer src="/en.search.min.11c8820bc912f4456ed7aa114e90ad33d75480be532a7b6172d824c9a46f357f.js" integrity="sha256-EciCC8kS9EVu16oRTpCtM9dUgL5TKnthctgkyaRvNX8=" crossorigin="anonymous"></script>
 <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/docs/index.xml" title="aCurias Guides" />
 <!--
 Made with Book Theme
@@ -38,11 +39,12 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
+<div class="book-search hidden">
   <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
   <div class="book-search-spinner hidden"></div>
   <ul id="book-search-results"></ul>
 </div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
 
 
 
@@ -55,7 +57,6 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  
 
 
 
@@ -69,8 +70,8 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-0fe5cc0ab54e011b00afb7007b6b79e4" class="toggle"  />
-    <label for="section-0fe5cc0ab54e011b00afb7007b6b79e4" class="flex justify-between">
+    <input type="checkbox" id="section-6495d8f2f13f30abffaa667e00f36396" class="toggle"  />
+    <label for="section-6495d8f2f13f30abffaa667e00f36396" class="flex justify-between">
       <a href="/docs/mf-beginners-guide/" class="">MF Beginner&#39;s Guide</a>
     </label>
   
@@ -212,8 +213,8 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-f14d4fe54c3523cdceee6a2027dc3e5b" class="toggle"  />
-    <label for="section-f14d4fe54c3523cdceee6a2027dc3e5b" class="flex justify-between">
+    <input type="checkbox" id="section-799f58ff4482b35314eabd960db22b6b" class="toggle"  />
+    <label for="section-799f58ff4482b35314eabd960db22b6b" class="flex justify-between">
       <a href="/docs/simulation-data/" class="">Simulation Data</a>
     </label>
   
@@ -228,9 +229,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-35a3612f4387a661c746815295aa217d" class="toggle"  />
-    <label for="section-35a3612f4387a661c746815295aa217d" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/" class="">Patch 14.22.1</a>
+    <input type="checkbox" id="section-727ff1119d646bb6c01c0719a4fae0ae" class="toggle"  />
+    <label for="section-727ff1119d646bb6c01c0719a4fae0ae" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/" class="">Patch 15.23</a>
     </label>
   
 
@@ -244,9 +245,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-62701659340e1ea3f9cec9141cc70509" class="toggle"  />
-    <label for="section-62701659340e1ea3f9cec9141cc70509" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/" class="">Pta Mana F</a>
+    <input type="checkbox" id="section-fc8c2538d52c5008cdd6235c3788665b" class="toggle"  />
+    <label for="section-fc8c2538d52c5008cdd6235c3788665b" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/pta-bloodline/" class="">Pta Bloodline</a>
     </label>
   
 
@@ -260,9 +261,9 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-2390212169396ea0d914eac96c26d588" class="toggle"  />
-    <label for="section-2390212169396ea0d914eac96c26d588" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
+    <input type="checkbox" id="section-d11e148e369d3706b158775077908e29" class="toggle"  />
+    <label for="section-d11e148e369d3706b158775077908e29" class="flex justify-between">
+      <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
     </label>
   
 
@@ -276,7 +277,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
   
 
         </li>
@@ -289,7 +290,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
   
 
         </li>
@@ -302,7 +303,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
   
 
         </li>
@@ -315,513 +316,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-d06e4987129e2e1770d25e7e8bbe06c7" class="toggle"  />
-    <label for="section-d06e4987129e2e1770d25e7e8bbe06c7" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.22.1/pta-manaf/all-e-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-456b65980d6c16b9f1e78fd30c4519d6" class="toggle"  />
-    <label for="section-456b65980d6c16b9f1e78fd30c4519d6" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/" class="">Patch 14.23.0</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-f5a1a9f8167d10fdea2c0cb0ed9239a0" class="toggle"  />
-    <label for="section-f5a1a9f8167d10fdea2c0cb0ed9239a0" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/" class="">Pta Mana F 23ms</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-c444477c040e19871e1a210ae7eba3ad" class="toggle"  />
-    <label for="section-c444477c040e19871e1a210ae7eba3ad" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-636c10c8915447af99cda13aff35b105" class="toggle"  />
-    <label for="section-636c10c8915447af99cda13aff35b105" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-23ms/all-e-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-66cab0fda459a2ac5c33ddf526cc7c5c" class="toggle"  />
-    <label for="section-66cab0fda459a2ac5c33ddf526cc7c5c" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/" class="">Pta Mana F 25ms</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-9adcbefedab38342ac6e6d08aa59f877" class="toggle"  />
-    <label for="section-9adcbefedab38342ac6e6d08aa59f877" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/" class="">All ( E R W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-e2af8e2b51812e25f1f5064079579efc" class="toggle"  />
-    <label for="section-e2af8e2b51812e25f1f5064079579efc" class="flex justify-between">
-      <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/" class="">All ( E W Aa Q Aa)</a>
-    </label>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/aatrox/" class="">Aatrox</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/chogath/" class="">Chogath</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/draven/" class="">Draven</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/rengar/" class="">Rengar</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/simulation-data/patch-14.23.0/pta-manaf-25ms/all-e-w-aa-q-aa/vex/" class="">Vex</a>
+    <a href="/docs/simulation-data/patch-15.23/pta-bloodline/all-e-r-w-aa-q-aa/vex/" class="">Vex</a>
   
 
         </li>
@@ -906,7 +401,6 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
 </nav>
 
 
@@ -927,7 +421,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Content</strong>
+  <h3>Content</h3>
 
   <label for="toc-control">
     
@@ -952,7 +446,7 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"><dl>
+  <article class="markdown book-article"><dl>
 
   <dt>
     <a href="/docs/mf-beginners-guide/">MF Beginner&#39;s Guide</a>
