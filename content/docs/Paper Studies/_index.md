@@ -6,4 +6,3 @@ bookCollapseSection: false
 
 Analysis done on by hand (paper, calculator) as opposed to algorithmically
 
-{{< section >}}

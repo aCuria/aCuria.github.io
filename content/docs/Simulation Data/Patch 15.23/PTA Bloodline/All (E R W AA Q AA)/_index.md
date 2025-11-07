@@ -3,9 +3,6 @@ weight: 3
 bookToc: false
 bookCollapseSection: true
 ---
-# Subsections
-
-{{< section >}}
 
 # Introduction
 This is a guide on how to use the raw data. 

@@ -4,6 +4,4 @@ bookCollapseSection: false
 title: "Content"
 ---
 
-{{< section >}}
-
 
