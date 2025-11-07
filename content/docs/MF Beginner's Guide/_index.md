@@ -32,5 +32,3 @@ I first played Miss Fortune in Season 2, and mained her more seriously after her
 - A large part of her power buidget (Bullet Time) can be circumvented by basic abilities (wind wall)
 - Weak early game dueling power because if she does not have the items to kill in under 4s, her W times out.
 {{< /columns >}}
-
-{{< section >}}

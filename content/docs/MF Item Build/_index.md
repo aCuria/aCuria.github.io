@@ -10,7 +10,7 @@ This section contains the builds I currently think are the best.
 
 Unlike most other guides, I attempt to derive the "best" build entirely algorithmically using event based simulation. 
 
-{{< section >}}
+
 
 
 ## How it works
